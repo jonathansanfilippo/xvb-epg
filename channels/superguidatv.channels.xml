@@ -204,4 +204,5 @@
   <channel site="superguidatv.it" site_id="vh1/317" lang="it" xmltv_id="VH1.it">VH1</channel>
   <channel site="superguidatv.it" site_id="virgin-radio/461" lang="it" xmltv_id="VirginRadioTV.it">Virgin Radio</channel>
   <channel site="superguidatv.it" site_id="warner-tv/1344181813" lang="it" xmltv_id="WarnerTV.it">Warner TV</channel>
+  <channel site="superguidatv.it" site_id="il61/1284191387" lang="it" xmltv_id="IL61.it">IL61</channel>
 </channels>
