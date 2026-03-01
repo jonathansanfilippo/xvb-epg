@@ -3,7 +3,7 @@ name: Generate EPG (daily)
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 6 * * *"  # 03:10 UTC
+    - cron: "0 5 * * *" 
 
 permissions:
   contents: write
@@ -25,7 +25,7 @@ jobs:
           node-version: "20"
 
       - name: Install dependencies
-        run: npm install --no-audit --no-fund
+        run: npm install
 
       - name: Generate docs/epg.xml
         run: |
