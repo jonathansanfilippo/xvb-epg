@@ -34,14 +34,17 @@ jobs:
 
       - name: Commit & push if changed
         run: |
-          if git diff --quiet; then
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # aggiungi SEMPRE il file generato
+          git add docs/epg.xml
+
+          # se non c'è nulla in staging, esci
+          if git diff --cached --quiet; then
             echo "No changes to commit."
             exit 0
           fi
 
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-
-          git add docs/epg.xml
           git commit -m "chore(epg): daily update"
           git push
