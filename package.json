@@ -3,14 +3,13 @@
   "version": "1.0.0",
   "private": true,
   "type": "commonjs",
-  "description": "Automatic daily XMLTV EPG generator",
+  "description": "Daily EPG generator (XMLTV)",
   "scripts": {
-    "build:epg": "node scripts/build-epg.js"
+    "build": "node ./scripts/build-epg.js > docs/epg.xml"
   },
   "dependencies": {
-    "@iptv/xmltv": "^1.2.0",
-    "axios": "^1.7.0",
-    "cheerio": "^1.0.0-rc.12",
+    "axios": "^1.7.9",
+    "cheerio": "^1.0.0",
     "luxon": "^3.5.0"
   }
 }
