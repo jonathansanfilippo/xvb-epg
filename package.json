@@ -3,13 +3,13 @@
   "version": "1.0.0",
   "private": true,
   "type": "commonjs",
-  "description": "Daily EPG generator (XMLTV)",
   "scripts": {
     "build": "node ./scripts/build-epg.js > docs/epg.xml"
   },
   "dependencies": {
-    "axios": "^1.7.9",
+    "axios": "^1.7.7",
     "cheerio": "^1.0.0",
+    "fast-xml-parser": "^4.5.3",
     "luxon": "^3.5.0"
   }
 }
