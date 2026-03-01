@@ -1,0 +1,16 @@
+{
+  "name": "xvb-epg",
+  "version": "1.0.0",
+  "private": true,
+  "type": "commonjs",
+  "description": "Automatic daily XMLTV EPG generator",
+  "scripts": {
+    "build:epg": "node scripts/build-epg.js"
+  },
+  "dependencies": {
+    "@iptv/xmltv": "^1.2.0",
+    "axios": "^1.7.0",
+    "cheerio": "^1.0.0-rc.12",
+    "luxon": "^3.5.0"
+  }
+}
