@@ -205,7 +205,7 @@
     <display-name lang="it">La7</display-name>
   </channel>
   <channel id="LA7d.it">
-    <display-name lang="it">La7d</display-name>
+    <display-name lang="it">La7 Cinema</display-name>
   </channel>
   <channel id="RSILa1.ch">
     <display-name lang="it">La 1</display-name>
@@ -14716,11 +14716,11 @@
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260301070000  +0000" stop="20260301070000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Buongiorno Serie A</title>
+    <title lang="it">Guam - New Zealand</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260301070000  +0000" stop="20260301080000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Guam - New Zealand</title>
+    <title lang="it">Buongiorno Serie A</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260301080000  +0000" stop="20260301090000  +0000" channel="superguidatv:dazn/dazn/459">
@@ -14740,11 +14740,11 @@
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260301113000  +0000" stop="20260301113000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Philippines - Australia</title>
+    <title lang="it">Cremonese - Milan</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260301113000  +0000" stop="20260301130000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Cremonese - Milan</title>
+    <title lang="it">Philippines - Australia</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260301130000  +0000" stop="20260301133000  +0000" channel="superguidatv:dazn/dazn/459">
@@ -14764,23 +14764,23 @@
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260301140000  +0000" stop="20260301140000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Pescara - Palermo</title>
-    <category lang="it">Sport</category>
-  </programme>
-  <programme start="20260301140000  +0000" stop="20260301140000  +0000" channel="superguidatv:dazn/dazn/459">
     <title lang="it">Catanzaro - Frosinone</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260301140000  +0000" stop="20260301150000  +0000" channel="superguidatv:dazn/dazn/459">
+  <programme start="20260301140000  +0000" stop="20260301140000  +0000" channel="superguidatv:dazn/dazn/459">
     <title lang="it">Sassuolo - Atalanta</title>
     <category lang="it">Sport</category>
   </programme>
+  <programme start="20260301140000  +0000" stop="20260301150000  +0000" channel="superguidatv:dazn/dazn/459">
+    <title lang="it">Pescara - Palermo</title>
+    <category lang="it">Sport</category>
+  </programme>
   <programme start="20260301150000  +0000" stop="20260301150000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Consar Ravenna - Romeo Sorrento</title>
+    <title lang="it">Essence Hotels Fano - Campi Reali Cantù</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260301150000  +0000" stop="20260301151500  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Essence Hotels Fano - Campi Reali Cantù</title>
+    <title lang="it">Consar Ravenna - Romeo Sorrento</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260301151500  +0000" stop="20260301160000  +0000" channel="superguidatv:dazn/dazn/459">
@@ -14804,15 +14804,39 @@
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260301163000  +0000" stop="20260301163000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Finlandia - Belgio</title>
+    <title lang="it">Finland - Belgium</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260301163000  +0000" stop="20260301163000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">EC iDM Wärmepumpen VSV - HC Falkensteiner Pustertal</title>
+    <title lang="it">Finlandia - Belgio</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260301163000  +0000" stop="20260301170000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Finland - Belgium</title>
+    <title lang="it">EC iDM Wärmepumpen VSV - HC Falkensteiner Pustertal</title>
+    <category lang="it">Sport</category>
+  </programme>
+  <programme start="20260301170000  +0000" stop="20260301170000  +0000" channel="superguidatv:dazn/dazn/459">
+    <title lang="it">Rutgers @ Maryland</title>
+    <category lang="it">Sport</category>
+  </programme>
+  <programme start="20260301170000  +0000" stop="20260301170000  +0000" channel="superguidatv:dazn/dazn/459">
+    <title lang="it">Estonia - Sweden</title>
+    <category lang="it">Sport</category>
+  </programme>
+  <programme start="20260301170000  +0000" stop="20260301170000  +0000" channel="superguidatv:dazn/dazn/459">
+    <title lang="it">Francia - Ungheria</title>
+    <category lang="it">Sport</category>
+  </programme>
+  <programme start="20260301170000  +0000" stop="20260301170000  +0000" channel="superguidatv:dazn/dazn/459">
+    <title lang="it">Germania - Croazia</title>
+    <category lang="it">Sport</category>
+  </programme>
+  <programme start="20260301170000  +0000" stop="20260301170000  +0000" channel="superguidatv:dazn/dazn/459">
+    <title lang="it">Cipro - Israele</title>
+    <category lang="it">Sport</category>
+  </programme>
+  <programme start="20260301170000  +0000" stop="20260301170000  +0000" channel="superguidatv:dazn/dazn/459">
+    <title lang="it">Cechia - Slovenia</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260301170000  +0000" stop="20260301170000  +0000" channel="superguidatv:dazn/dazn/459">
@@ -14843,32 +14867,8 @@
     <title lang="it">Virtus Aversa - Alva Inox 2 Emme Service Porto Viro</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260301170000  +0000" stop="20260301170000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Cyprus - Israel</title>
-    <category lang="it">Sport</category>
-  </programme>
-  <programme start="20260301170000  +0000" stop="20260301170000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Rutgers @ Maryland</title>
-    <category lang="it">Sport</category>
-  </programme>
-  <programme start="20260301170000  +0000" stop="20260301170000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Estonia - Sweden</title>
-    <category lang="it">Sport</category>
-  </programme>
-  <programme start="20260301170000  +0000" stop="20260301170000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Francia - Ungheria</title>
-    <category lang="it">Sport</category>
-  </programme>
-  <programme start="20260301170000  +0000" stop="20260301170000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Germania - Croazia</title>
-    <category lang="it">Sport</category>
-  </programme>
-  <programme start="20260301170000  +0000" stop="20260301170000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Cipro - Israele</title>
-    <category lang="it">Sport</category>
-  </programme>
   <programme start="20260301170000  +0000" stop="20260301173000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Cechia - Slovenia</title>
+    <title lang="it">Cyprus - Israel</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260301173000  +0000" stop="20260301173000  +0000" channel="superguidatv:dazn/dazn/459">
@@ -14880,6 +14880,14 @@
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260301180000  +0000" stop="20260301180000  +0000" channel="superguidatv:dazn/dazn/459">
+    <title lang="it">2026 NFL Scouting Combine - Offensive Linemen</title>
+    <category lang="it">Sport</category>
+  </programme>
+  <programme start="20260301180000  +0000" stop="20260301180000  +0000" channel="superguidatv:dazn/dazn/459">
+    <title lang="it">Mali - Angola</title>
+    <category lang="it">Sport</category>
+  </programme>
+  <programme start="20260301180000  +0000" stop="20260301180000  +0000" channel="superguidatv:dazn/dazn/459">
     <title lang="it">Cognizant Classic in The Palm Beaches | Giorno 4</title>
     <category lang="it">Sport</category>
   </programme>
@@ -14887,16 +14895,8 @@
     <title lang="it">Golden Knights vs. Penguins</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260301180000  +0000" stop="20260301180000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Madagascar - Côte d&apos;Ivoire</title>
-    <category lang="it">Sport</category>
-  </programme>
-  <programme start="20260301180000  +0000" stop="20260301180000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">2026 NFL Scouting Combine - Offensive Linemen</title>
-    <category lang="it">Sport</category>
-  </programme>
   <programme start="20260301180000  +0000" stop="20260301182600  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Mali - Angola</title>
+    <title lang="it">Madagascar - Côte d&apos;Ivoire</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260301182600  +0000" stop="20260301183000  +0000" channel="superguidatv:dazn/dazn/459">
@@ -14928,6 +14928,10 @@
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260301210000  +0000" stop="20260301210000  +0000" channel="superguidatv:dazn/dazn/459">
+    <title lang="it">Uganda - Egypt</title>
+    <category lang="it">Sport</category>
+  </programme>
+  <programme start="20260301210000  +0000" stop="20260301210000  +0000" channel="superguidatv:dazn/dazn/459">
     <title lang="it">Jets vs. Sharks</title>
     <category lang="it">Sport</category>
   </programme>
@@ -14935,12 +14939,8 @@
     <title lang="it">Blackhawks vs. Mammoth</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260301210000  +0000" stop="20260301210000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Senegal - Congo DR</title>
-    <category lang="it">Sport</category>
-  </programme>
   <programme start="20260301210000  +0000" stop="20260301214800  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Uganda - Egypt</title>
+    <title lang="it">Senegal - Congo DR</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260301214800  +0000" stop="20260301220000  +0000" channel="superguidatv:dazn/dazn/459">
