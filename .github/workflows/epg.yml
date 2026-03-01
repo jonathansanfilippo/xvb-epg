@@ -32,19 +32,27 @@ jobs:
           mkdir -p docs
           node ./scripts/build-epg.js > docs/epg.xml
 
+      # --- NUOVO STEP AGGIUNTO ---
+      - name: Create log file
+        run: |
+          # Ottiene l'ora di Londra in formato HH:mm
+          LONDRA_TIME=$(TZ="Europe/London" date +"%H:%M")
+          # Crea il file log con il formato richiesto
+          echo "$LONDRA_TIME docs/epg.xml" > log
+
       - name: Commit & push if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          # aggiungi SEMPRE il file generato
-          git add docs/epg.xml
+          # Aggiunge sia l'xml che il nuovo file log
+          git add docs/epg.xml log
 
-          # se non c'è nulla in staging, esci
+          # Se non ci sono modifiche (nemmeno nel log), esce
           if git diff --cached --quiet; then
             echo "No changes to commit."
             exit 0
           fi
 
-          git commit -m "chore(epg): daily update"
+          git commit -m "chore(epg): daily update and log"
           git push
