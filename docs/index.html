@@ -1,121 +1,497 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="it">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>XVB-EPG Monitor</title>
-    <style>
-        :root {
-            --bg: #0d1117;
-            --card: #161b22;
-            --text: #c9d1d9;
-            --accent: #58a6ff;
-            --success: #238636;
-        }
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>XVB-EPG Monitor</title>
 
-        body {
-            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
-            background-color: var(--bg);
-            color: var(--text);
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            margin: 0;
-        }
-
-        .container {
-            background-color: var(--card);
-            padding: 2rem;
-            border-radius: 12px;
-            border: 1px solid #30363d;
-            box-shadow: 0 8px 24px rgba(0,0,0,0.5);
-            text-align: center;
-            max-width: 400px;
-            width: 90%;
-        }
-
-        h1 { font-size: 1.5rem; margin-bottom: 1.5rem; color: var(--accent); }
-
-        .status-box {
-            margin: 20px 0;
-            padding: 15px;
-            background: rgba(88, 166, 255, 0.1);
-            border-radius: 8px;
-        }
-
-        .time { font-weight: bold; color: white; display: block; margin-top: 5px; }
-
-        .btn {
-            display: inline-block;
-            background-color: var(--success);
-            color: white;
-            text-decoration: none;
-            padding: 10px 20px;
-            border-radius: 6px;
-            font-weight: 600;
-            transition: opacity 0.2s;
-            margin-top: 10px;
-        }
-
-        .btn:hover { opacity: 0.8; }
-
-        .loader { font-size: 0.9rem; color: #8b949e; }
-    </style>
-</head>
-<body>
-
-<div class="container">
-    <h1>XVB-EPG Status</h1>
-    
-    <div class="status-box">
-        <span>Ultimo Aggiornamento Log:</span>
-        <span id="log-time" class="time">Caricamento...</span>
-    </div>
-
-    <div class="status-box">
-        <span>File XML Generato:</span>
-        <br>
-        <a id="xml-link" href="#" class="btn" target="_blank">Scarica EPG.xml</a>
-    </div>
-
-    <p class="loader" id="repo-info">Repo: jonathansanfilippo/xvb-epg</p>
-</div>
-
-<script>
-    const USER = 'jonathansanfilippo';
-    const REPO = 'xvb-epg';
-    // Se il log ha un nome diverso (es. update.log), cambialo qui:
-    const LOG_FILE = 'https://raw.githubusercontent.com/jonathansanfilippo/xvb-epg/refs/heads/main/log'; 
-    const XML_FILE = 'https://raw.githubusercontent.com/jonathansanfilippo/xvb-epg/refs/heads/main/docs/epg.xml';
-
-    async function fetchStatus() {
-        try {
-            // 1. Recupera info sull'ultimo commit per il log (più preciso del contenuto se il log è semplice)
-            const logResponse = await fetch(`https://api.github.com/repos/${USER}/${REPO}/commits?path=${LOG_FILE}&per_page=1`);
-            const logData = await logResponse.json();
-            
-            if (logData.length > 0) {
-                const lastUpdate = new Date(logData[0].commit.committer.date);
-                document.getElementById('log-time').innerText = lastUpdate.toLocaleString('it-IT');
-            } else {
-                document.getElementById('log-time').innerText = "File log non trovato";
-            }
-
-            // 2. Costruisce il link diretto al file XML (Raw)
-            const xmlUrl = `https://raw.githubusercontent.com/${USER}/${REPO}/main/${XML_FILE}`;
-            const linkElem = document.getElementById('xml-link');
-            linkElem.href = xmlUrl;
-            linkElem.innerText = `Apri ${XML_FILE}`;
-
-        } catch (error) {
-            console.error("Errore nel recupero dati:", error);
-            document.getElementById('log-time').innerText = "Errore API";
-        }
+  <style>
+    :root{
+      --bg:#0d1117;
+      --card:#161b22;
+      --card2:#0f1520;
+      --border:#30363d;
+      --text:#c9d1d9;
+      --muted:#8b949e;
+      --accent:#58a6ff;
+      --success:#2ea043;
+      --danger:#f85149;
+      --warn:#d29922;
+      --shadow: 0 12px 30px rgba(0,0,0,.45);
+      --radius: 14px;
     }
 
-    fetchStatus();
-</script>
+    *{ box-sizing:border-box; }
+    body{
+      margin:0;
+      min-height:100vh;
+      display:flex;
+      align-items:center;
+      justify-content:center;
+      background: radial-gradient(1200px 600px at 20% 10%, rgba(88,166,255,.12), transparent 55%),
+                  radial-gradient(900px 500px at 90% 80%, rgba(46,160,67,.10), transparent 60%),
+                  var(--bg);
+      color:var(--text);
+      font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji","Segoe UI Emoji";
+      padding: 24px;
+    }
 
+    .wrap{
+      width:min(980px, 100%);
+      display:flex;
+      flex-direction:column;
+      gap:16px;
+    }
+
+    .topbar{
+      display:flex;
+      gap:12px;
+      align-items:center;
+      justify-content:space-between;
+      padding: 16px 18px;
+      background: linear-gradient(180deg, rgba(255,255,255,.02), rgba(255,255,255,.01));
+      border:1px solid var(--border);
+      border-radius: var(--radius);
+      box-shadow: var(--shadow);
+    }
+
+    .title{
+      display:flex;
+      flex-direction:column;
+      gap:4px;
+    }
+    .title h1{
+      margin:0;
+      font-size: 18px;
+      letter-spacing: .2px;
+      color: var(--accent);
+      display:flex;
+      align-items:center;
+      gap:10px;
+    }
+    .subtitle{
+      margin:0;
+      font-size: 13px;
+      color: var(--muted);
+    }
+
+    .pill{
+      display:inline-flex;
+      align-items:center;
+      gap:8px;
+      padding: 8px 12px;
+      border-radius: 999px;
+      border:1px solid var(--border);
+      background: rgba(255,255,255,.02);
+      font-size: 13px;
+      color: var(--muted);
+      white-space:nowrap;
+    }
+    .dot{
+      width:10px; height:10px; border-radius:50%;
+      background: var(--muted);
+      box-shadow: 0 0 0 4px rgba(139,148,158,.12);
+    }
+    .dot.ok{ background: var(--success); box-shadow: 0 0 0 4px rgba(46,160,67,.14); }
+    .dot.bad{ background: var(--danger); box-shadow: 0 0 0 4px rgba(248,81,73,.14); }
+    .dot.warn{ background: var(--warn); box-shadow: 0 0 0 4px rgba(210,153,34,.16); }
+
+    .actions{
+      display:flex;
+      gap:10px;
+      align-items:center;
+    }
+
+    .btn{
+      appearance:none;
+      border:1px solid var(--border);
+      background: rgba(255,255,255,.03);
+      color: var(--text);
+      padding: 10px 12px;
+      border-radius: 10px;
+      font-weight: 650;
+      font-size: 13px;
+      cursor:pointer;
+      transition: transform .06s ease, opacity .2s ease, border-color .2s ease;
+      user-select:none;
+    }
+    .btn:hover{ opacity:.92; border-color: rgba(88,166,255,.55); }
+    .btn:active{ transform: translateY(1px); }
+
+    .btn.primary{
+      background: linear-gradient(180deg, rgba(46,160,67,.22), rgba(46,160,67,.12));
+      border-color: rgba(46,160,67,.55);
+    }
+
+    .grid{
+      display:grid;
+      grid-template-columns: 1fr 1fr;
+      gap:16px;
+    }
+    @media (max-width: 860px){
+      .grid{ grid-template-columns: 1fr; }
+      .actions{ flex-wrap:wrap; justify-content:flex-end; }
+      .pill{ display:none; }
+    }
+
+    .card{
+      background: linear-gradient(180deg, rgba(255,255,255,.02), rgba(255,255,255,.01));
+      border:1px solid var(--border);
+      border-radius: var(--radius);
+      box-shadow: var(--shadow);
+      overflow:hidden;
+    }
+
+    .card-h{
+      padding: 14px 16px;
+      display:flex;
+      align-items:center;
+      justify-content:space-between;
+      gap:12px;
+      border-bottom: 1px solid rgba(48,54,61,.7);
+      background: rgba(0,0,0,.10);
+    }
+    .card-h h2{
+      margin:0;
+      font-size: 14px;
+      letter-spacing:.2px;
+      color: #e6edf3;
+      display:flex;
+      align-items:center;
+      gap:10px;
+    }
+
+    .badge{
+      font-size: 12px;
+      padding: 6px 10px;
+      border-radius: 999px;
+      border:1px solid var(--border);
+      color: var(--muted);
+      background: rgba(255,255,255,.02);
+      white-space: nowrap;
+    }
+
+    .card-b{
+      padding: 14px 16px 16px;
+      display:flex;
+      flex-direction:column;
+      gap:10px;
+    }
+
+    .row{
+      display:flex;
+      justify-content:space-between;
+      gap:12px;
+      padding: 10px 12px;
+      border-radius: 12px;
+      background: rgba(88,166,255,.06);
+      border: 1px solid rgba(88,166,255,.20);
+    }
+    .row .k{
+      color: var(--muted);
+      font-size: 12px;
+      line-height: 1.2;
+    }
+    .row .v{
+      font-weight: 750;
+      font-size: 13px;
+      color: #fff;
+      text-align:right;
+      line-height: 1.2;
+    }
+
+    .links{
+      display:flex;
+      gap:10px;
+      flex-wrap:wrap;
+      margin-top: 2px;
+    }
+    a.link{
+      display:inline-flex;
+      align-items:center;
+      gap:8px;
+      padding: 10px 12px;
+      border-radius: 10px;
+      text-decoration:none;
+      color: #fff;
+      border:1px solid var(--border);
+      background: rgba(255,255,255,.03);
+      font-weight: 700;
+      font-size: 13px;
+      transition: opacity .2s ease, border-color .2s ease;
+    }
+    a.link:hover{ opacity:.92; border-color: rgba(88,166,255,.55); }
+
+    a.link.green{
+      border-color: rgba(46,160,67,.55);
+      background: linear-gradient(180deg, rgba(46,160,67,.22), rgba(46,160,67,.10));
+    }
+
+    .footer{
+      padding: 12px 4px 0;
+      display:flex;
+      justify-content:space-between;
+      gap:12px;
+      color: var(--muted);
+      font-size: 12px;
+    }
+    code{
+      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+      color:#e6edf3;
+    }
+    .err{
+      color: #ffd7d5;
+      background: rgba(248,81,73,.10);
+      border: 1px solid rgba(248,81,73,.25);
+      padding: 10px 12px;
+      border-radius: 12px;
+      font-size: 13px;
+      display:none;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="wrap">
+    <div class="topbar">
+      <div class="title">
+        <h1>
+          XVB-EPG Monitor
+          <span class="pill" title="Stato ultimo refresh">
+            <span id="statusDot" class="dot"></span>
+            <span id="statusText">In attesa…</span>
+          </span>
+        </h1>
+        <p class="subtitle">
+          Repo: <code id="repoLabel">—</code> · API: <code>api.github.com</code>
+        </p>
+      </div>
+
+      <div class="actions">
+        <button class="btn" id="refreshBtn" type="button">Aggiorna</button>
+        <button class="btn primary" id="toggleAutoBtn" type="button">Auto: ON</button>
+      </div>
+    </div>
+
+    <div id="errorBox" class="err"></div>
+
+    <div class="grid">
+      <section class="card">
+        <div class="card-h">
+          <h2>Log</h2>
+          <span class="badge" id="logBadge">—</span>
+        </div>
+        <div class="card-b">
+          <div class="row">
+            <div class="k">Ultimo commit sul log</div>
+            <div class="v" id="logTime">Caricamento…</div>
+          </div>
+          <div class="row">
+            <div class="k">Commit</div>
+            <div class="v" id="logSha">—</div>
+          </div>
+
+          <div class="links">
+            <a class="link" id="logRaw" href="#" target="_blank" rel="noopener">Apri log (raw)</a>
+            <a class="link" id="logWeb" href="#" target="_blank" rel="noopener">Vedi su GitHub</a>
+          </div>
+        </div>
+      </section>
+
+      <section class="card">
+        <div class="card-h">
+          <h2>EPG XML</h2>
+          <span class="badge" id="xmlBadge">—</span>
+        </div>
+        <div class="card-b">
+          <div class="row">
+            <div class="k">Ultimo commit su epg.xml</div>
+            <div class="v" id="xmlTime">Caricamento…</div>
+          </div>
+          <div class="row">
+            <div class="k">Commit</div>
+            <div class="v" id="xmlSha">—</div>
+          </div>
+
+          <div class="links">
+            <a class="link green" id="xmlRaw" href="#" target="_blank" rel="noopener">Apri / Scarica epg.xml</a>
+            <a class="link" id="xmlWeb" href="#" target="_blank" rel="noopener">Vedi su GitHub</a>
+          </div>
+        </div>
+      </section>
+    </div>
+
+    <div class="footer">
+      <div>Ultimo refresh: <span id="lastRefresh">—</span></div>
+      <div>Auto refresh: <span id="autoEvery">60s</span></div>
+    </div>
+  </div>
+
+<script>
+  // === CONFIG ===
+  const USER = "jonathansanfilippo";
+  const REPO = "xvb-epg";
+
+  // IMPORTANTISSIMO: questi devono essere PATH nel repo, NON URL
+  const LOG_PATH = "log";             // es: "logs/update.log"
+  const XML_PATH = "docs/epg.xml";    // es: "docs/epg.xml"
+  const BRANCH  = "main";
+
+  // Auto refresh
+  const AUTO_SECONDS = 60;
+
+  // === HELPERS ===
+  const $ = (id) => document.getElementById(id);
+
+  function setStatus(kind, text){
+    const dot = $("statusDot");
+    const label = $("statusText");
+    dot.classList.remove("ok","bad","warn");
+    if(kind === "ok") dot.classList.add("ok");
+    else if(kind === "bad") dot.classList.add("bad");
+    else if(kind === "warn") dot.classList.add("warn");
+    label.textContent = text;
+  }
+
+  function showError(msg){
+    const box = $("errorBox");
+    box.style.display = "block";
+    box.textContent = msg;
+  }
+  function clearError(){
+    const box = $("errorBox");
+    box.style.display = "none";
+    box.textContent = "";
+  }
+
+  function fmtDate(iso){
+    try{
+      return new Date(iso).toLocaleString("it-IT");
+    }catch{
+      return "—";
+    }
+  }
+
+  function shortSha(sha){
+    if(!sha) return "—";
+    return sha.slice(0, 7);
+  }
+
+  async function fetchLastCommitForPath(path){
+    // GitHub API: commits?path=<PATH>&sha=<BRANCH>&per_page=1
+    const url = `https://api.github.com/repos/${USER}/${REPO}/commits?path=${encodeURIComponent(path)}&sha=${encodeURIComponent(BRANCH)}&per_page=1`;
+    const res = await fetch(url, {
+      headers: { "Accept": "application/vnd.github+json" }
+    });
+
+    // Gestione rate limit / errori
+    if(!res.ok){
+      const remaining = res.headers.get("x-ratelimit-remaining");
+      if(res.status === 403 && remaining === "0"){
+        throw new Error("Rate limit GitHub API raggiunto. Riprova più tardi oppure usa un token (se vuoi ti spiego come).");
+      }
+      throw new Error(`Errore GitHub API (${res.status}) su path: ${path}`);
+    }
+
+    const data = await res.json();
+    if(!Array.isArray(data) || data.length === 0) return null;
+
+    const c = data[0];
+    return {
+      sha: c.sha,
+      date: c.commit?.committer?.date || c.commit?.author?.date,
+      html_url: c.html_url
+    };
+  }
+
+  function setLinks(){
+    $("repoLabel").textContent = `${USER}/${REPO}`;
+
+    // Raw (apre file direttamente)
+    $("logRaw").href = `https://raw.githubusercontent.com/${USER}/${REPO}/${BRANCH}/${LOG_PATH}`;
+    $("xmlRaw").href = `https://raw.githubusercontent.com/${USER}/${REPO}/${BRANCH}/${XML_PATH}`;
+
+    // Web view (github)
+    $("logWeb").href = `https://github.com/${USER}/${REPO}/blob/${BRANCH}/${LOG_PATH}`;
+    $("xmlWeb").href = `https://github.com/${USER}/${REPO}/blob/${BRANCH}/${XML_PATH}`;
+  }
+
+  async function refresh(){
+    clearError();
+    setStatus("warn", "Aggiornamento…");
+
+    $("logTime").textContent = "Caricamento…";
+    $("xmlTime").textContent = "Caricamento…";
+    $("logSha").textContent  = "—";
+    $("xmlSha").textContent  = "—";
+    $("logBadge").textContent = LOG_PATH;
+    $("xmlBadge").textContent = XML_PATH;
+
+    try{
+      const [logCommit, xmlCommit] = await Promise.all([
+        fetchLastCommitForPath(LOG_PATH),
+        fetchLastCommitForPath(XML_PATH)
+      ]);
+
+      if(logCommit){
+        $("logTime").textContent = fmtDate(logCommit.date);
+        $("logSha").textContent  = shortSha(logCommit.sha);
+      }else{
+        $("logTime").textContent = "File log non trovato";
+        $("logSha").textContent  = "—";
+      }
+
+      if(xmlCommit){
+        $("xmlTime").textContent = fmtDate(xmlCommit.date);
+        $("xmlSha").textContent  = shortSha(xmlCommit.sha);
+      }else{
+        $("xmlTime").textContent = "File XML non trovato";
+        $("xmlSha").textContent  = "—";
+      }
+
+      $("lastRefresh").textContent = new Date().toLocaleString("it-IT");
+      setStatus("ok", "Online");
+    }catch(err){
+      showError(String(err.message || err));
+      $("lastRefresh").textContent = new Date().toLocaleString("it-IT");
+      setStatus("bad", "Errore");
+      console.error(err);
+    }
+  }
+
+  // === AUTO REFRESH ===
+  let autoOn = true;
+  let timer = null;
+
+  function startAuto(){
+    stopAuto();
+    timer = setInterval(() => {
+      if(autoOn) refresh();
+    }, AUTO_SECONDS * 1000);
+  }
+
+  function stopAuto(){
+    if(timer) clearInterval(timer);
+    timer = null;
+  }
+
+  function updateAutoUI(){
+    $("toggleAutoBtn").textContent = `Auto: ${autoOn ? "ON" : "OFF"}`;
+    $("autoEvery").textContent = `${AUTO_SECONDS}s`;
+  }
+
+  // === INIT ===
+  setLinks();
+  updateAutoUI();
+  startAuto();
+  refresh();
+
+  $("refreshBtn").addEventListener("click", refresh);
+  $("toggleAutoBtn").addEventListener("click", () => {
+    autoOn = !autoOn;
+    updateAutoUI();
+    setStatus("warn", autoOn ? "Auto refresh attivo" : "Auto refresh disattivato");
+  });
+</script>
 </body>
 </html>
