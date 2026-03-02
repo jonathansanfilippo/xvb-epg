@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="it">
+<html lang="en">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
@@ -257,9 +257,9 @@
       <div class="title">
         <h1>
           XVB-EPG Monitor
-          <span class="pill" title="Stato ultimo refresh">
+          <span class="pill" title="Latest refresh status">
             <span id="statusDot" class="dot"></span>
-            <span id="statusText">In attesa…</span>
+            <span id="statusText">Waiting…</span>
           </span>
         </h1>
         <p class="subtitle">
@@ -268,7 +268,7 @@
       </div>
 
       <div class="actions">
-        <button class="btn" id="refreshBtn" type="button">Aggiorna</button>
+        <button class="btn" id="refreshBtn" type="button">Refresh</button>
         <button class="btn primary" id="toggleAutoBtn" type="button">Auto: ON</button>
       </div>
     </div>
@@ -283,8 +283,8 @@
         </div>
         <div class="card-b">
           <div class="row">
-            <div class="k">Ultimo commit sul log</div>
-            <div class="v" id="logTime">Caricamento…</div>
+            <div class="k">Last commit on log</div>
+            <div class="v" id="logTime">Loading…</div>
           </div>
           <div class="row">
             <div class="k">Commit</div>
@@ -292,8 +292,8 @@
           </div>
 
           <div class="links">
-            <a class="link" id="logRaw" href="#" target="_blank" rel="noopener">Apri log (raw)</a>
-            <a class="link" id="logWeb" href="#" target="_blank" rel="noopener">Vedi su GitHub</a>
+            <a class="link" id="logRaw" href="#" target="_blank" rel="noopener">Open log (raw)</a>
+            <a class="link" id="logWeb" href="#" target="_blank" rel="noopener">View on GitHub</a>
           </div>
         </div>
       </section>
@@ -305,8 +305,8 @@
         </div>
         <div class="card-b">
           <div class="row">
-            <div class="k">Ultimo commit su epg.xml</div>
-            <div class="v" id="xmlTime">Caricamento…</div>
+            <div class="k">Last commit on epg.xml</div>
+            <div class="v" id="xmlTime">Loading…</div>
           </div>
           <div class="row">
             <div class="k">Commit</div>
@@ -314,15 +314,15 @@
           </div>
 
           <div class="links">
-            <a class="link green" id="xmlRaw" href="#" target="_blank" rel="noopener">Apri / Scarica epg.xml</a>
-            <a class="link" id="xmlWeb" href="#" target="_blank" rel="noopener">Vedi su GitHub</a>
+            <a class="link green" id="xmlRaw" href="#" target="_blank" rel="noopener">Open / Download epg.xml</a>
+            <a class="link" id="xmlWeb" href="#" target="_blank" rel="noopener">View on GitHub</a>
           </div>
         </div>
       </section>
     </div>
 
     <div class="footer">
-      <div>Ultimo refresh: <span id="lastRefresh">—</span></div>
+      <div>Last refresh: <span id="lastRefresh">—</span></div>
       <div>Auto refresh: <span id="autoEvery">60s</span></div>
     </div>
   </div>
@@ -332,9 +332,9 @@
   const USER = "jonathansanfilippo";
   const REPO = "xvb-epg";
 
-  // IMPORTANTISSIMO: questi devono essere PATH nel repo, NON URL
-  const LOG_PATH = "log";             // es: "logs/update.log"
-  const XML_PATH = "docs/epg.xml";    // es: "docs/epg.xml"
+  // IMPORTANT: these must be PATHS in the repo, NOT raw URLs
+  const LOG_PATH = "log";
+  const XML_PATH = "docs/epg.xml";
   const BRANCH  = "main";
 
   // Auto refresh
@@ -366,7 +366,7 @@
 
   function fmtDate(iso){
     try{
-      return new Date(iso).toLocaleString("it-IT");
+      return new Date(iso).toLocaleString("en-GB");
     }catch{
       return "—";
     }
@@ -378,19 +378,15 @@
   }
 
   async function fetchLastCommitForPath(path){
-    // GitHub API: commits?path=<PATH>&sha=<BRANCH>&per_page=1
     const url = `https://api.github.com/repos/${USER}/${REPO}/commits?path=${encodeURIComponent(path)}&sha=${encodeURIComponent(BRANCH)}&per_page=1`;
-    const res = await fetch(url, {
-      headers: { "Accept": "application/vnd.github+json" }
-    });
+    const res = await fetch(url, { headers: { "Accept": "application/vnd.github+json" } });
 
-    // Gestione rate limit / errori
     if(!res.ok){
       const remaining = res.headers.get("x-ratelimit-remaining");
       if(res.status === 403 && remaining === "0"){
-        throw new Error("Rate limit GitHub API raggiunto. Riprova più tardi oppure usa un token (se vuoi ti spiego come).");
+        throw new Error("GitHub API rate limit reached. Try again later, or use a token.");
       }
-      throw new Error(`Errore GitHub API (${res.status}) su path: ${path}`);
+      throw new Error(`GitHub API error (${res.status}) for path: ${path}`);
     }
 
     const data = await res.json();
@@ -407,21 +403,19 @@
   function setLinks(){
     $("repoLabel").textContent = `${USER}/${REPO}`;
 
-    // Raw (apre file direttamente)
     $("logRaw").href = `https://raw.githubusercontent.com/${USER}/${REPO}/${BRANCH}/${LOG_PATH}`;
     $("xmlRaw").href = `https://raw.githubusercontent.com/${USER}/${REPO}/${BRANCH}/${XML_PATH}`;
 
-    // Web view (github)
     $("logWeb").href = `https://github.com/${USER}/${REPO}/blob/${BRANCH}/${LOG_PATH}`;
     $("xmlWeb").href = `https://github.com/${USER}/${REPO}/blob/${BRANCH}/${XML_PATH}`;
   }
 
   async function refresh(){
     clearError();
-    setStatus("warn", "Aggiornamento…");
+    setStatus("warn", "Refreshing…");
 
-    $("logTime").textContent = "Caricamento…";
-    $("xmlTime").textContent = "Caricamento…";
+    $("logTime").textContent = "Loading…";
+    $("xmlTime").textContent = "Loading…";
     $("logSha").textContent  = "—";
     $("xmlSha").textContent  = "—";
     $("logBadge").textContent = LOG_PATH;
@@ -437,7 +431,7 @@
         $("logTime").textContent = fmtDate(logCommit.date);
         $("logSha").textContent  = shortSha(logCommit.sha);
       }else{
-        $("logTime").textContent = "File log non trovato";
+        $("logTime").textContent = "Log file not found";
         $("logSha").textContent  = "—";
       }
 
@@ -445,16 +439,16 @@
         $("xmlTime").textContent = fmtDate(xmlCommit.date);
         $("xmlSha").textContent  = shortSha(xmlCommit.sha);
       }else{
-        $("xmlTime").textContent = "File XML non trovato";
+        $("xmlTime").textContent = "XML file not found";
         $("xmlSha").textContent  = "—";
       }
 
-      $("lastRefresh").textContent = new Date().toLocaleString("it-IT");
+      $("lastRefresh").textContent = new Date().toLocaleString("en-GB");
       setStatus("ok", "Online");
     }catch(err){
       showError(String(err.message || err));
-      $("lastRefresh").textContent = new Date().toLocaleString("it-IT");
-      setStatus("bad", "Errore");
+      $("lastRefresh").textContent = new Date().toLocaleString("en-GB");
+      setStatus("bad", "Error");
       console.error(err);
     }
   }
@@ -490,7 +484,7 @@
   $("toggleAutoBtn").addEventListener("click", () => {
     autoOn = !autoOn;
     updateAutoUI();
-    setStatus("warn", autoOn ? "Auto refresh attivo" : "Auto refresh disattivato");
+    setStatus("warn", autoOn ? "Auto refresh enabled" : "Auto refresh disabled");
   });
 </script>
 </body>
