@@ -7419,23 +7419,23 @@
     <title lang="it">Traffico</title>
     <category lang="it">Notizie</category>
   </programme>
-  <programme start="20260306065900  +0000" stop="20260306074300  +0000" channel="Canale5.it">
+  <programme start="20260306065900  +0000" stop="20260306074200  +0000" channel="Canale5.it">
     <title lang="it">Tg5</title>
     <category lang="it">Notizie</category>
   </programme>
-  <programme start="20260306074300  +0000" stop="20260306095200  +0000" channel="Canale5.it">
+  <programme start="20260306074200  +0000" stop="20260306095300  +0000" channel="Canale5.it">
     <title lang="it">Mattino Cinque News</title>
     <category lang="it">Intrattenimento</category>
   </programme>
-  <programme start="20260306095200  +0000" stop="20260306100100  +0000" channel="Canale5.it">
+  <programme start="20260306095300  +0000" stop="20260306100200  +0000" channel="Canale5.it">
     <title lang="it">Tg5 ore 10</title>
     <category lang="it">Notizie</category>
   </programme>
-  <programme start="20260306100100  +0000" stop="20260306115800  +0000" channel="Canale5.it">
+  <programme start="20260306100200  +0000" stop="20260306115700  +0000" channel="Canale5.it">
     <title lang="it">Forum</title>
     <category lang="it">Intrattenimento</category>
   </programme>
-  <programme start="20260306115800  +0000" stop="20260306123500  +0000" channel="Canale5.it">
+  <programme start="20260306115700  +0000" stop="20260306123500  +0000" channel="Canale5.it">
     <title lang="it">Tg5</title>
     <category lang="it">Notizie</category>
   </programme>
@@ -7443,11 +7443,11 @@
     <title lang="it">Beautiful (St. 35 - Ep. 17)</title>
     <category lang="it">Soap Opera</category>
   </programme>
-  <programme start="20260306125500  +0000" stop="20260306130100  +0000" channel="Canale5.it">
+  <programme start="20260306125500  +0000" stop="20260306130200  +0000" channel="Canale5.it">
     <title lang="it">Io sono Farah (St. 2 - Ep. 34)</title>
     <category lang="it">Soap Opera</category>
   </programme>
-  <programme start="20260306130100  +0000" stop="20260306130500  +0000" channel="Canale5.it">
+  <programme start="20260306130200  +0000" stop="20260306130500  +0000" channel="Canale5.it">
     <title lang="it">Io sono Farah (St. 2 - Ep. 33)</title>
     <category lang="it">Soap Opera</category>
   </programme>
@@ -7459,15 +7459,15 @@
     <title lang="it">Uomini e donne</title>
     <category lang="it">Intrattenimento</category>
   </programme>
-  <programme start="20260306150600  +0000" stop="20260306152500  +0000" channel="Canale5.it">
+  <programme start="20260306150600  +0000" stop="20260306152400  +0000" channel="Canale5.it">
     <title lang="it">La forza di una donna (St. 3 - Ep. 16)</title>
     <category lang="it">Soap Opera</category>
   </programme>
-  <programme start="20260306152500  +0000" stop="20260306155500  +0000" channel="Canale5.it">
+  <programme start="20260306152400  +0000" stop="20260306155400  +0000" channel="Canale5.it">
     <title lang="it">Amici di maria - d.t. (lu/ve)</title>
     <category lang="it">Intrattenimento</category>
   </programme>
-  <programme start="20260306155500  +0000" stop="20260306174300  +0000" channel="Canale5.it">
+  <programme start="20260306155400  +0000" stop="20260306174300  +0000" channel="Canale5.it">
     <title lang="it">Dentro la notizia</title>
     <category lang="it">Attualità</category>
   </programme>
@@ -7479,11 +7479,11 @@
     <title lang="it">Tg5 Prima Pagina</title>
     <category lang="it">Notizie</category>
   </programme>
-  <programme start="20260306190000  +0000" stop="20260306193700  +0000" channel="Canale5.it">
+  <programme start="20260306190000  +0000" stop="20260306194200  +0000" channel="Canale5.it">
     <title lang="it">Tg5</title>
     <category lang="it">Notizie</category>
   </programme>
-  <programme start="20260306193700  +0000" stop="20260306202000  +0000" channel="Canale5.it">
+  <programme start="20260306194200  +0000" stop="20260306202000  +0000" channel="Canale5.it">
     <title lang="it">La ruota della fortuna</title>
     <category lang="it">Intrattenimento</category>
   </programme>
@@ -7491,55 +7491,59 @@
     <title lang="it">Riassunto - io sono farah</title>
     <category lang="it">Soap Opera</category>
   </programme>
-  <programme start="20260306202100  +0000" stop="20260306214900  +0000" channel="Canale5.it">
+  <programme start="20260306202100  +0000" stop="20260306215400  +0000" channel="Canale5.it">
     <title lang="it">Io sono Farah (St. 2 - Ep. 34)</title>
     <category lang="it">Soap Opera</category>
   </programme>
-  <programme start="20260306214900  +0000" stop="20260306225000  +0000" channel="Canale5.it">
+  <programme start="20260306215400  +0000" stop="20260306225400  +0000" channel="Canale5.it">
     <title lang="it">Io sono Farah (St. 2 - Ep. 35)</title>
     <category lang="it">Soap Opera</category>
   </programme>
-  <programme start="20260306225000  +0000" stop="20260306233400  +0000" channel="Canale5.it">
+  <programme start="20260306225400  +0000" stop="20260306233900  +0000" channel="Canale5.it">
     <title lang="it">Io sono Farah (St. 2 - Ep. 36)</title>
     <category lang="it">Soap Opera</category>
   </programme>
-  <programme start="20260306233400  +0000" stop="20260307002100  +0000" channel="Canale5.it">
+  <programme start="20260306233900  +0000" stop="20260307000600  +0000" channel="Canale5.it">
     <title lang="it">Io sono Farah (St. 2 - Ep. 37)</title>
     <category lang="it">Soap Opera</category>
   </programme>
-  <programme start="20260307002100  +0000" stop="20260307010200  +0000" channel="Canale5.it">
+  <programme start="20260307000600  +0000" stop="20260307004800  +0000" channel="Canale5.it">
     <title lang="it">Tg5</title>
     <category lang="it">Notizie</category>
   </programme>
-  <programme start="20260307010200  +0000" stop="20260307022000  +0000" channel="Canale5.it">
+  <programme start="20260307004800  +0000" stop="20260307020500  +0000" channel="Canale5.it">
     <title lang="it">Uomini e donne</title>
     <category lang="it">Reality</category>
   </programme>
-  <programme start="20260307022000  +0000" stop="20260307024300  +0000" channel="Canale5.it">
+  <programme start="20260307020500  +0000" stop="20260307022800  +0000" channel="Canale5.it">
+    <title lang="it">Una vita (St. 23 - Ep. 4)</title>
+    <category lang="it">Soap Opera</category>
+  </programme>
+  <programme start="20260307022800  +0000" stop="20260307025100  +0000" channel="Canale5.it">
     <title lang="it">Una vita (St. 23 - Ep. 5)</title>
     <category lang="it">Soap Opera</category>
   </programme>
-  <programme start="20260307024300  +0000" stop="20260307030700  +0000" channel="Canale5.it">
+  <programme start="20260307025100  +0000" stop="20260307031600  +0000" channel="Canale5.it">
     <title lang="it">Una vita (St. 23 - Ep. 6)</title>
     <category lang="it">Soap Opera</category>
   </programme>
-  <programme start="20260307030700  +0000" stop="20260307033000  +0000" channel="Canale5.it">
+  <programme start="20260307031600  +0000" stop="20260307033900  +0000" channel="Canale5.it">
     <title lang="it">Una vita (St. 23 - Ep. 7)</title>
     <category lang="it">Soap Opera</category>
   </programme>
-  <programme start="20260307033000  +0000" stop="20260307035400  +0000" channel="Canale5.it">
+  <programme start="20260307033900  +0000" stop="20260307040200  +0000" channel="Canale5.it">
     <title lang="it">Una vita (St. 23 - Ep. 8)</title>
     <category lang="it">Soap Opera</category>
   </programme>
-  <programme start="20260307035400  +0000" stop="20260307041700  +0000" channel="Canale5.it">
+  <programme start="20260307040200  +0000" stop="20260307042500  +0000" channel="Canale5.it">
     <title lang="it">Una vita (St. 23 - Ep. 9)</title>
     <category lang="it">Soap Opera</category>
   </programme>
-  <programme start="20260307041700  +0000" stop="20260307041700  +0000" channel="Canale5.it">
+  <programme start="20260307042500  +0000" stop="20260307042500  +0000" channel="Canale5.it">
     <title lang="it">Distretto di Polizia (St. 10 - Ep. 15)</title>
     <category lang="it">Serie TV</category>
   </programme>
-  <programme start="20260307041700  +0000" stop="20260307050000  +0000" channel="Canale5.it">
+  <programme start="20260307042500  +0000" stop="20260307050000  +0000" channel="Canale5.it">
     <title lang="it">Distretto di Polizia (St. 10 - Ep. 15)</title>
     <category lang="it">Serie TV</category>
   </programme>
@@ -7587,27 +7591,27 @@
     <title lang="it">Tg5</title>
     <category lang="it">Notizie</category>
   </programme>
-  <programme start="20260307074900  +0000" stop="20260307082900  +0000" channel="Canale5.it">
+  <programme start="20260307074900  +0000" stop="20260307083000  +0000" channel="Canale5.it">
     <title lang="it">X- Style</title>
     <category lang="it">LifeStyle</category>
   </programme>
-  <programme start="20260307082900  +0000" stop="20260307092400  +0000" channel="Canale5.it">
+  <programme start="20260307083000  +0000" stop="20260307092400  +0000" channel="Canale5.it">
     <title lang="it">Super partes c5,</title>
     <category lang="it">Attualità</category>
   </programme>
-  <programme start="20260307092400  +0000" stop="20260307095700  +0000" channel="Canale5.it">
+  <programme start="20260307092400  +0000" stop="20260307095800  +0000" channel="Canale5.it">
     <title lang="it">Melaverde - Le storie</title>
     <category lang="it">Documentario</category>
   </programme>
-  <programme start="20260307095700  +0000" stop="20260307115800  +0000" channel="Canale5.it">
+  <programme start="20260307095800  +0000" stop="20260307115800  +0000" channel="Canale5.it">
     <title lang="it">Forum</title>
     <category lang="it">Intrattenimento</category>
   </programme>
-  <programme start="20260307115800  +0000" stop="20260307124100  +0000" channel="Canale5.it">
+  <programme start="20260307115800  +0000" stop="20260307124200  +0000" channel="Canale5.it">
     <title lang="it">Tg5</title>
     <category lang="it">Notizie</category>
   </programme>
-  <programme start="20260307124100  +0000" stop="20260307124500  +0000" channel="Canale5.it">
+  <programme start="20260307124200  +0000" stop="20260307124500  +0000" channel="Canale5.it">
     <title lang="it">Beautiful (St. 35 - Ep. 17)</title>
     <category lang="it">Soap Opera</category>
   </programme>
@@ -7615,11 +7619,11 @@
     <title lang="it">Beautiful (St. 35 - Ep. 18)</title>
     <category lang="it">Soap Opera</category>
   </programme>
-  <programme start="20260307131000  +0000" stop="20260307141700  +0000" channel="Canale5.it">
+  <programme start="20260307131000  +0000" stop="20260307141900  +0000" channel="Canale5.it">
     <title lang="it">Forbidden Fruit (St. 3 - Ep. 28)</title>
     <category lang="it">Soap Opera</category>
   </programme>
-  <programme start="20260307141700  +0000" stop="20260307143000  +0000" channel="Canale5.it">
+  <programme start="20260307141900  +0000" stop="20260307143000  +0000" channel="Canale5.it">
     <title lang="it">La forza di una donna (St. 3 - Ep. 16)</title>
     <category lang="it">Soap Opera</category>
   </programme>
@@ -7627,11 +7631,11 @@
     <title lang="it">La forza di una donna (St. 3 - Ep. 17)</title>
     <category lang="it">Soap Opera</category>
   </programme>
-  <programme start="20260307153000  +0000" stop="20260307174100  +0000" channel="Canale5.it">
+  <programme start="20260307153000  +0000" stop="20260307174200  +0000" channel="Canale5.it">
     <title lang="it">Verissimo</title>
     <category lang="it">Intrattenimento</category>
   </programme>
-  <programme start="20260307174100  +0000" stop="20260307185400  +0000" channel="Canale5.it">
+  <programme start="20260307174200  +0000" stop="20260307185400  +0000" channel="Canale5.it">
     <title lang="it">Caduta libera</title>
     <category lang="it">Intrattenimento</category>
   </programme>
@@ -7639,43 +7643,43 @@
     <title lang="it">Tg5 Prima Pagina</title>
     <category lang="it">Notizie</category>
   </programme>
-  <programme start="20260307190000  +0000" stop="20260307193800  +0000" channel="Canale5.it">
+  <programme start="20260307190000  +0000" stop="20260307193700  +0000" channel="Canale5.it">
     <title lang="it">Tg5</title>
     <category lang="it">Notizie</category>
   </programme>
-  <programme start="20260307193800  +0000" stop="20260307204000  +0000" channel="Canale5.it">
+  <programme start="20260307193700  +0000" stop="20260307204000  +0000" channel="Canale5.it">
     <title lang="it">La ruota della fortuna</title>
     <category lang="it">Intrattenimento</category>
   </programme>
-  <programme start="20260307204000  +0000" stop="20260307235100  +0000" channel="Canale5.it">
+  <programme start="20260307204000  +0000" stop="20260307234900  +0000" channel="Canale5.it">
     <title lang="it">C&apos;e&apos; posta per te</title>
     <category lang="it">Intrattenimento</category>
   </programme>
-  <programme start="20260307235100  +0000" stop="20260308004400  +0000" channel="Canale5.it">
+  <programme start="20260307234900  +0000" stop="20260308003400  +0000" channel="Canale5.it">
     <title lang="it">Tg5 Speciale</title>
     <category lang="it">Notizie</category>
   </programme>
-  <programme start="20260308004400  +0000" stop="20260308012800  +0000" channel="Canale5.it">
+  <programme start="20260308003400  +0000" stop="20260308011800  +0000" channel="Canale5.it">
     <title lang="it">Tg5</title>
     <category lang="it">Notizie</category>
   </programme>
-  <programme start="20260308012800  +0000" stop="20260308031800  +0000" channel="Canale5.it">
+  <programme start="20260308011800  +0000" stop="20260308030800  +0000" channel="Canale5.it">
     <title lang="it">Il silenzio dell&apos;acqua (St. 2 - Ep. 1)</title>
     <category lang="it">Serie TV</category>
   </programme>
-  <programme start="20260308031800  +0000" stop="20260308034500  +0000" channel="Canale5.it">
+  <programme start="20260308030800  +0000" stop="20260308034500  +0000" channel="Canale5.it">
+    <title lang="it">Una vita (St. 23 - Ep. 9)</title>
+    <category lang="it">Soap Opera</category>
+  </programme>
+  <programme start="20260308034500  +0000" stop="20260308041800  +0000" channel="Canale5.it">
     <title lang="it">Una vita (St. 23 - Ep. 10)</title>
     <category lang="it">Soap Opera</category>
   </programme>
-  <programme start="20260308034500  +0000" stop="20260308041200  +0000" channel="Canale5.it">
-    <title lang="it">Una vita (St. 23 - Ep. 10)</title>
-    <category lang="it">Soap Opera</category>
-  </programme>
-  <programme start="20260308041200  +0000" stop="20260308041200  +0000" channel="Canale5.it">
+  <programme start="20260308041800  +0000" stop="20260308041800  +0000" channel="Canale5.it">
     <title lang="it">Distretto di Polizia (St. 10 - Ep. 16)</title>
     <category lang="it">Serie TV</category>
   </programme>
-  <programme start="20260308041200  +0000" stop="20260308050000  +0000" channel="Canale5.it">
+  <programme start="20260308041800  +0000" stop="20260308050000  +0000" channel="Canale5.it">
     <title lang="it">Distretto di Polizia (St. 10 - Ep. 16)</title>
     <category lang="it">Serie TV</category>
   </programme>
@@ -10927,75 +10931,71 @@
     <title lang="it">TG24 mezz&apos;ora (Diretta)</title>
     <category lang="it">Notizie</category>
   </programme>
-  <programme start="20260307053000  +0000" stop="20260307060000  +0000" channel="Cielo.it">
+  <programme start="20260307053000  +0000" stop="20260307055500  +0000" channel="Cielo.it">
     <title lang="it">TG24 mezz&apos;ora (Diretta)</title>
     <category lang="it">Notizie</category>
   </programme>
-  <programme start="20260307060000  +0000" stop="20260307063000  +0000" channel="Cielo.it">
-    <title lang="it">Tiny House Nation - Piccole case da sogno (St. 4 - Ep. 1)</title>
-    <category lang="it">Mondo e Tendenze</category>
-  </programme>
-  <programme start="20260307063000  +0000" stop="20260307073000  +0000" channel="Cielo.it">
+  <programme start="20260307055500  +0000" stop="20260307065500  +0000" channel="Cielo.it">
     <title lang="it">Love It or List It - Prendere o lasciare Australia (St. 2 - Ep. 10)</title>
     <category lang="it">LifeStyle</category>
   </programme>
-  <programme start="20260307073000  +0000" stop="20260307083000  +0000" channel="Cielo.it">
+  <programme start="20260307065500  +0000" stop="20260307080000  +0000" channel="Cielo.it">
     <title lang="it">Love It or List It - Prendere o lasciare Australia (St. 2 - Ep. 11)</title>
     <category lang="it">LifeStyle</category>
   </programme>
-  <programme start="20260307083000  +0000" stop="20260307093000  +0000" channel="Cielo.it">
+  <programme start="20260307080000  +0000" stop="20260307085500  +0000" channel="Cielo.it">
     <title lang="it">Fratelli in affari (St. 6 - Ep. 11)</title>
     <category lang="it">Mondo e Tendenze</category>
   </programme>
-  <programme start="20260307093000  +0000" stop="20260307093500  +0000" channel="Cielo.it">
+  <programme start="20260307085500  +0000" stop="20260307090500  +0000" channel="Cielo.it">
     <title lang="it">Sky TG24 in pillole</title>
-    <category lang="it">Rubrica</category>
+    <category lang="it">Altro</category>
   </programme>
-  <programme start="20260307093500  +0000" stop="20260307103000  +0000" channel="Cielo.it">
+  <programme start="20260307090500  +0000" stop="20260307100000  +0000" channel="Cielo.it">
     <title lang="it">Fratelli in affari (St. 10 - Ep. 14)</title>
     <category lang="it">Mondo e Tendenze</category>
   </programme>
-  <programme start="20260307103000  +0000" stop="20260307112000  +0000" channel="Cielo.it">
+  <programme start="20260307100000  +0000" stop="20260307110000  +0000" channel="Cielo.it">
     <title lang="it">Fratelli in affari (St. 10 - Ep. 16)</title>
     <category lang="it">Mondo e Tendenze</category>
   </programme>
-  <programme start="20260307112000  +0000" stop="20260307121000  +0000" channel="Cielo.it">
+  <programme start="20260307110000  +0000" stop="20260307120000  +0000" channel="Cielo.it">
     <title lang="it">Fratelli in affari (St. 10 - Ep. 15)</title>
     <category lang="it">Mondo e Tendenze</category>
   </programme>
-  <programme start="20260307121000  +0000" stop="20260307130000  +0000" channel="Cielo.it">
+  <programme start="20260307120000  +0000" stop="20260307125500  +0000" channel="Cielo.it">
     <title lang="it">Fratelli in affari (St. 10 - Ep. 17)</title>
     <category lang="it">Mondo e Tendenze</category>
   </programme>
-  <programme start="20260307130000  +0000" stop="20260307130500  +0000" channel="Cielo.it">
+  <programme start="20260307125500  +0000" stop="20260307130000  +0000" channel="Cielo.it">
     <title lang="it">Celebrity Chef - Anteprima</title>
     <category lang="it">LifeStyle</category>
   </programme>
-  <programme start="20260307130500  +0000" stop="20260307141500  +0000" channel="Cielo.it">
+  <programme start="20260307130000  +0000" stop="20260307140500  +0000" channel="Cielo.it">
     <title lang="it">Alessandro Borghese - Celebrity Chef (St. 4 - Ep. 3)</title>
     <category lang="it">LifeStyle</category>
   </programme>
-  <programme start="20260307141500  +0000" stop="20260307152500  +0000" channel="Cielo.it">
+  <programme start="20260307140500  +0000" stop="20260307152000  +0000" channel="Cielo.it">
     <title lang="it">Cucine da incubo (St. 9 - Ep. 6)</title>
     <category lang="it">Reality</category>
   </programme>
-  <programme start="20260307152500  +0000" stop="20260307163500  +0000" channel="Cielo.it">
+  <programme start="20260307152000  +0000" stop="20260307164000  +0000" channel="Cielo.it">
     <title lang="it">Cucine da incubo (St. 9 - Ep. 5)</title>
     <category lang="it">Reality</category>
   </programme>
-  <programme start="20260307163500  +0000" stop="20260307164000  +0000" channel="Cielo.it">
+  <programme start="20260307164000  +0000" stop="20260307164500  +0000" channel="Cielo.it">
     <title lang="it">Celebrity Chef - Anteprima</title>
-    <category lang="it">LifeStyle</category>
+    <category lang="it">Altro</category>
   </programme>
-  <programme start="20260307164000  +0000" stop="20260307175000  +0000" channel="Cielo.it">
+  <programme start="20260307164500  +0000" stop="20260307175500  +0000" channel="Cielo.it">
     <title lang="it">Alessandro Borghese - Celebrity Chef (St. 4 - Ep. 4)</title>
     <category lang="it">LifeStyle</category>
   </programme>
-  <programme start="20260307175000  +0000" stop="20260307185000  +0000" channel="Cielo.it">
+  <programme start="20260307175500  +0000" stop="20260307185500  +0000" channel="Cielo.it">
     <title lang="it">Cucine da incubo (St. 3 - Ep. 7)</title>
     <category lang="it">Reality</category>
   </programme>
-  <programme start="20260307185000  +0000" stop="20260307192000  +0000" channel="Cielo.it">
+  <programme start="20260307185500  +0000" stop="20260307192000  +0000" channel="Cielo.it">
     <title lang="it">Friends (St. 3 - Ep. 23)</title>
     <category lang="it">Sit Com</category>
   </programme>
@@ -11003,40 +11003,44 @@
     <title lang="it">Friends (St. 3 - Ep. 24)</title>
     <category lang="it">Sit Com</category>
   </programme>
-  <programme start="20260307195000  +0000" stop="20260307202000  +0000" channel="Cielo.it">
+  <programme start="20260307195000  +0000" stop="20260307201500  +0000" channel="Cielo.it">
     <title lang="it">Friends (St. 3 - Ep. 25)</title>
     <category lang="it">Sit Com</category>
   </programme>
-  <programme start="20260307202000  +0000" stop="20260307211500  +0000" channel="Cielo.it">
+  <programme start="20260307201500  +0000" stop="20260307211000  +0000" channel="Cielo.it">
     <title lang="it">Gomorra - La Serie (St. 5 - Ep. 1)</title>
     <category lang="it">Serie TV</category>
   </programme>
-  <programme start="20260307211500  +0000" stop="20260307221000  +0000" channel="Cielo.it">
+  <programme start="20260307211000  +0000" stop="20260307220500  +0000" channel="Cielo.it">
     <title lang="it">Gomorra - La Serie (St. 5 - Ep. 2)</title>
     <category lang="it">Serie TV</category>
   </programme>
-  <programme start="20260307221000  +0000" stop="20260307231000  +0000" channel="Cielo.it">
+  <programme start="20260307220500  +0000" stop="20260307230000  +0000" channel="Cielo.it">
     <title lang="it">Gomorra - La Serie (St. 5 - Ep. 3)</title>
     <category lang="it">Serie TV</category>
   </programme>
-  <programme start="20260307231000  +0000" stop="20260308010500  +0000" channel="Cielo.it">
+  <programme start="20260307230000  +0000" stop="20260308004500  +0000" channel="Cielo.it">
     <title lang="it">Altitude - Paura ad alta quota (2017)</title>
     <category lang="it">Film</category>
   </programme>
-  <programme start="20260308010500  +0000" stop="20260308030000  +0000" channel="Cielo.it">
-    <title lang="it">Killer Mountain (2011)</title>
-    <category lang="it">Film</category>
+  <programme start="20260308004500  +0000" stop="20260308022500  +0000" channel="Cielo.it">
+    <title lang="it">Killer Mountain</title>
+    <category lang="it">Altro</category>
   </programme>
-  <programme start="20260308030000  +0000" stop="20260308032500  +0000" channel="Cielo.it">
+  <programme start="20260308022500  +0000" stop="20260308025500  +0000" channel="Cielo.it">
     <title lang="it">Affari di famiglia (St. 6 - Ep. 17)</title>
     <category lang="it">Mondo e Tendenze</category>
   </programme>
-  <programme start="20260308032500  +0000" stop="20260308032500  +0000" channel="Cielo.it">
+  <programme start="20260308025500  +0000" stop="20260308033500  +0000" channel="Cielo.it">
     <title lang="it">Steve Austin - Sfida implacabile (St. 5 - Ep. 5)</title>
     <category lang="it">Show</category>
   </programme>
-  <programme start="20260308032500  +0000" stop="20260308050000  +0000" channel="Cielo.it">
-    <title lang="it">Steve Austin - Sfida implacabile (St. 5 - Ep. 5)</title>
+  <programme start="20260308033500  +0000" stop="20260308033500  +0000" channel="Cielo.it">
+    <title lang="it">Steve Austin - Sfida implacabile (St. 5 - Ep. 6)</title>
+    <category lang="it">Show</category>
+  </programme>
+  <programme start="20260308033500  +0000" stop="20260308050000  +0000" channel="Cielo.it">
+    <title lang="it">Steve Austin - Sfida implacabile (St. 5 - Ep. 6)</title>
     <category lang="it">Show</category>
   </programme>
   <programme start="20260308050000  +0000" stop="20260308050000  +0000" channel="Cielo.it">
@@ -11100,8 +11104,8 @@
     <category lang="it">Film</category>
   </programme>
   <programme start="20260308150000  +0000" stop="20260308165500  +0000" channel="Cielo.it">
-    <title lang="it">On Fire (2023)</title>
-    <category lang="it">Film</category>
+    <title lang="it">The Quake: Il terremoto del secolo</title>
+    <category lang="it">Altro</category>
   </programme>
   <programme start="20260308165500  +0000" stop="20260308185000  +0000" channel="Cielo.it">
     <title lang="it">Tempesta di ghiaccio (2009)</title>
@@ -11259,43 +11263,47 @@
     <title lang="it">Cassiodoro il più duro del pretorio (1976)</title>
     <category lang="it">Film</category>
   </programme>
-  <programme start="20260308031100  +0000" stop="20260308041300  +0000" channel="Cine34.it">
+  <programme start="20260308031100  +0000" stop="20260308043600  +0000" channel="Cine34.it">
     <title lang="it">La Cognatina (1975)</title>
     <category lang="it">Film</category>
   </programme>
-  <programme start="20260308041300  +0000" stop="20260308041300  +0000" channel="Cine34.it">
-    <title lang="it">L&apos;Insegnante (1975)</title>
-    <category lang="it">Film</category>
+  <programme start="20260308043600  +0000" stop="20260308043600  +0000" channel="Cine34.it">
+    <title lang="it">Dentro lo schermo - filler cine34</title>
+    <category lang="it">Cinema</category>
   </programme>
-  <programme start="20260308041300  +0000" stop="20260308053800  +0000" channel="Cine34.it">
-    <title lang="it">L&apos;Insegnante (1975)</title>
-    <category lang="it">Film</category>
+  <programme start="20260308043600  +0000" stop="20260308052400  +0000" channel="Cine34.it">
+    <title lang="it">Dentro lo schermo - filler cine34</title>
+    <category lang="it">Cinema</category>
   </programme>
-  <programme start="20260308053800  +0000" stop="20260308073000  +0000" channel="Cine34.it">
+  <programme start="20260308052400  +0000" stop="20260308053300  +0000" channel="Cine34.it">
+    <title lang="it">Vi racconto (St. 1 - Ep. 39)</title>
+    <category lang="it">Rubrica</category>
+  </programme>
+  <programme start="20260308053300  +0000" stop="20260308071100  +0000" channel="Cine34.it">
     <title lang="it">La moglie vergine (1975)</title>
     <category lang="it">Film</category>
   </programme>
-  <programme start="20260308073000  +0000" stop="20260308092700  +0000" channel="Cine34.it">
-    <title lang="it">Spaghetti a mezzanotte (1981)</title>
-    <category lang="it">Film</category>
+  <programme start="20260308071100  +0000" stop="20260308090900  +0000" channel="Cine34.it">
+    <title lang="it">Spaghetti a mezzanotte</title>
+    <category lang="it">Altro</category>
   </programme>
-  <programme start="20260308092700  +0000" stop="20260308113400  +0000" channel="Cine34.it">
+  <programme start="20260308090900  +0000" stop="20260308111100  +0000" channel="Cine34.it">
     <title lang="it">Se sei così, ti dico sì (2011)</title>
     <category lang="it">Film</category>
   </programme>
-  <programme start="20260308113400  +0000" stop="20260308133800  +0000" channel="Cine34.it">
+  <programme start="20260308111100  +0000" stop="20260308132500  +0000" channel="Cine34.it">
     <title lang="it">Mani di velluto (1979)</title>
     <category lang="it">Film</category>
   </programme>
-  <programme start="20260308133800  +0000" stop="20260308155700  +0000" channel="Cine34.it">
+  <programme start="20260308132500  +0000" stop="20260308155200  +0000" channel="Cine34.it">
     <title lang="it">Un&apos;estate al mare (2008)</title>
     <category lang="it">Film</category>
   </programme>
-  <programme start="20260308155700  +0000" stop="20260308180400  +0000" channel="Cine34.it">
+  <programme start="20260308155200  +0000" stop="20260308180600  +0000" channel="Cine34.it">
     <title lang="it">L&apos;agenzia dei bugiardi (2019)</title>
     <category lang="it">Film</category>
   </programme>
-  <programme start="20260308180400  +0000" stop="20260308200000  +0000" channel="Cine34.it">
+  <programme start="20260308180600  +0000" stop="20260308200000  +0000" channel="Cine34.it">
     <title lang="it">Se son rose (2018)</title>
     <category lang="it">Film</category>
   </programme>
@@ -11303,25 +11311,25 @@
     <title lang="it">Tre di troppo (2023)</title>
     <category lang="it">Film</category>
   </programme>
-  <programme start="20260308222100  +0000" stop="20260309001100  +0000" channel="Cine34.it">
+  <programme start="20260308222100  +0000" stop="20260309002200  +0000" channel="Cine34.it">
     <title lang="it">Com&apos;è bello far l&apos;amore (2012)</title>
     <category lang="it">Film</category>
   </programme>
-  <programme start="20260309001100  +0000" stop="20260309020700  +0000" channel="Cine34.it">
+  <programme start="20260309002200  +0000" stop="20260309020200  +0000" channel="Cine34.it">
     <title lang="it">Omicidio all&apos;italiana (2017)</title>
     <category lang="it">Film</category>
   </programme>
-  <programme start="20260309020700  +0000" stop="20260309032900  +0000" channel="Cine34.it">
+  <programme start="20260309020200  +0000" stop="20260309032400  +0000" channel="Cine34.it">
     <title lang="it">La Cognatina (1975)</title>
     <category lang="it">Film</category>
   </programme>
-  <programme start="20260309032900  +0000" stop="20260309041800  +0000" channel="Cine34.it">
+  <programme start="20260309032400  +0000" stop="20260309045100  +0000" channel="Cine34.it">
     <title lang="it">Da Scaramouche or se vuoi l&apos;assoluzione baciar devi sto... cordone! (1973)</title>
     <category lang="it">Film</category>
   </programme>
-  <programme start="20260309041800  +0000" stop="20260309044800  +0000" channel="Cine34.it">
-    <title lang="it">Italiani a Rio (1987)</title>
-    <category lang="it">Film</category>
+  <programme start="20260309045100  +0000" stop="20260309052100  +0000" channel="Cine34.it">
+    <title lang="it">Dentro lo schermo - filler cine34</title>
+    <category lang="it">Cinema</category>
   </programme>
   <programme start="20260306220000  +0000" stop="20260307060000  +0000" channel="ClassCNBC.it">
     <title lang="it">La giornata di Class CNBC</title>
@@ -14404,11 +14412,11 @@
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260306103000  +0000" stop="20260306120000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Val di Fassa | Discesa femminile 1</title>
+    <title lang="it">Pirovano sorprende tutti: sua la discesa della Val di Fassa</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260306120000  +0000" stop="20260306140000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Tutti in gioco DAZN Bet Club</title>
+    <title lang="it">Ventisettesima puntata | Tutti in gioco - Powered by DAZN Bet Club</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260306140000  +0000" stop="20260306150000  +0000" channel="superguidatv:dazn/dazn/459">
@@ -14467,24 +14475,16 @@
     <title lang="it">Sesta puntata | Friday Football Show</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260306220000  +0000" stop="20260306221000  +0000" channel="superguidatv:dazn/dazn/459">
+  <programme start="20260306220000  +0000" stop="20260306230000  +0000" channel="superguidatv:dazn/dazn/459">
     <title lang="it">UFC Countdown | Episodio 3</title>
-    <category lang="it">Sport</category>
-  </programme>
-  <programme start="20260306221000  +0000" stop="20260306230000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Flamengo - Astros de Jalisco</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260306230000  +0000" stop="20260307000000  +0000" channel="superguidatv:dazn/dazn/459">
     <title lang="it">UFC Highlights | Episodio 5</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260307000000  +0000" stop="20260307004000  +0000" channel="superguidatv:dazn/dazn/459">
+  <programme start="20260307000000  +0000" stop="20260307010000  +0000" channel="superguidatv:dazn/dazn/459">
     <title lang="it">Panthers vs. Red Wings</title>
-    <category lang="it">Sport</category>
-  </programme>
-  <programme start="20260307004000  +0000" stop="20260307010000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Paisas - Club Nacional</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260307010000  +0000" stop="20260307013000  +0000" channel="superguidatv:dazn/dazn/459">
@@ -14496,31 +14496,27 @@
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260307020000  +0000" stop="20260307020000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">St. John&apos;s @ Seton Hall</title>
-    <category lang="it">Sport</category>
-  </programme>
-  <programme start="20260307020000  +0000" stop="20260307020000  +0000" channel="superguidatv:dazn/dazn/459">
     <title lang="it">Canadiens vs. Ducks</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260307020000  +0000" stop="20260307030000  +0000" channel="superguidatv:dazn/dazn/459">
+  <programme start="20260307020000  +0000" stop="20260307020000  +0000" channel="superguidatv:dazn/dazn/459">
     <title lang="it">Hurricanes vs. Oilers</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260307030000  +0000" stop="20260307030000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Wild vs. Golden Knights</title>
+  <programme start="20260307020000  +0000" stop="20260307030000  +0000" channel="superguidatv:dazn/dazn/459">
+    <title lang="it">St. John&apos;s @ Seton Hall</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260307030000  +0000" stop="20260307050000  +0000" channel="superguidatv:dazn/dazn/459">
+  <programme start="20260307030000  +0000" stop="20260307030000  +0000" channel="superguidatv:dazn/dazn/459">
     <title lang="it">Blues vs. Sharks</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260307050000  +0000" stop="20260307050000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">LIV Golf Hong Kong - Giorno 3: Featured Group 3</title>
+  <programme start="20260307030000  +0000" stop="20260307050000  +0000" channel="superguidatv:dazn/dazn/459">
+    <title lang="it">Wild vs. Golden Knights</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260307050000  +0000" stop="20260307050000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">LIV Golf Hong Kong - Giorno 3: Featured Group 2</title>
+    <title lang="it">LIV Golf Hong Kong - Giorno 3: Featured Group 1</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260307050000  +0000" stop="20260307050000  +0000" channel="superguidatv:dazn/dazn/459">
@@ -14532,7 +14528,11 @@
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260307050000  +0000" stop="20260307050000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">LIV Golf Hong Kong - Giorno 3: Featured Group 1</title>
+    <title lang="it">LIV Golf Hong Kong - Giorno 3: Featured Group 3</title>
+    <category lang="it">Sport</category>
+  </programme>
+  <programme start="20260307050000  +0000" stop="20260307050000  +0000" channel="superguidatv:dazn/dazn/459">
+    <title lang="it">LIV Golf Hong Kong - Giorno 3: Featured Group 2</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260307050000  +0000" stop="20260307050000  +0000" channel="superguidatv:dazn/dazn/459">
@@ -16983,75 +16983,63 @@
     <title lang="it">Adriana, Tino e me (St. 2 - Ep. 34)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260309005500  +0000" stop="20260309010000  +0000" channel="DeAJunior.it">
+  <programme start="20260309005500  +0000" stop="20260309011000  +0000" channel="DeAJunior.it">
     <title lang="it">Adriana, Tino e me (St. 2 - Ep. 35)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260309010000  +0000" stop="20260309011000  +0000" channel="DeAJunior.it">
-    <title lang="it">Adriana, Tino e me (St. 2 - Ep. 38)</title>
-    <category lang="it">Ragazzi</category>
-  </programme>
-  <programme start="20260309011000  +0000" stop="20260309011500  +0000" channel="DeAJunior.it">
+  <programme start="20260309011000  +0000" stop="20260309012500  +0000" channel="DeAJunior.it">
     <title lang="it">Adriana, Tino e me (St. 2 - Ep. 36)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260309011500  +0000" stop="20260309012500  +0000" channel="DeAJunior.it">
-    <title lang="it">Adriana, Tino e me (St. 2 - Ep. 39)</title>
-    <category lang="it">Ragazzi</category>
-  </programme>
-  <programme start="20260309012500  +0000" stop="20260309013000  +0000" channel="DeAJunior.it">
+  <programme start="20260309012500  +0000" stop="20260309014500  +0000" channel="DeAJunior.it">
     <title lang="it">Adriana, Tino e me (St. 2 - Ep. 37)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260309013000  +0000" stop="20260309014500  +0000" channel="DeAJunior.it">
-    <title lang="it">Adriana, Tino e me (St. 2 - Ep. 39)</title>
-    <category lang="it">Ragazzi</category>
-  </programme>
-  <programme start="20260309014500  +0000" stop="20260309021500  +0000" channel="DeAJunior.it">
+  <programme start="20260309014500  +0000" stop="20260309021000  +0000" channel="DeAJunior.it">
     <title lang="it">Pippi Calzelunghe (St. 1 - Ep. 1)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260309021500  +0000" stop="20260309025000  +0000" channel="DeAJunior.it">
+  <programme start="20260309021000  +0000" stop="20260309024000  +0000" channel="DeAJunior.it">
     <title lang="it">Pippi Calzelunghe (St. 1 - Ep. 2)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260309025000  +0000" stop="20260309025500  +0000" channel="DeAJunior.it">
+  <programme start="20260309024000  +0000" stop="20260309024500  +0000" channel="DeAJunior.it">
     <title lang="it">Barbapapà (St. 1 - Ep. 34)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260309025500  +0000" stop="20260309030000  +0000" channel="DeAJunior.it">
+  <programme start="20260309024500  +0000" stop="20260309025000  +0000" channel="DeAJunior.it">
     <title lang="it">Barbapapà (St. 1 - Ep. 42)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260309030000  +0000" stop="20260309030500  +0000" channel="DeAJunior.it">
+  <programme start="20260309025000  +0000" stop="20260309025500  +0000" channel="DeAJunior.it">
     <title lang="it">Barbapapà (St. 1 - Ep. 43)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260309030500  +0000" stop="20260309031000  +0000" channel="DeAJunior.it">
+  <programme start="20260309025500  +0000" stop="20260309030000  +0000" channel="DeAJunior.it">
     <title lang="it">Barbapapà (St. 1 - Ep. 44)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260309031000  +0000" stop="20260309031500  +0000" channel="DeAJunior.it">
+  <programme start="20260309030000  +0000" stop="20260309030500  +0000" channel="DeAJunior.it">
     <title lang="it">Barbapapà (St. 1 - Ep. 45)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260309031500  +0000" stop="20260309032000  +0000" channel="DeAJunior.it">
+  <programme start="20260309030500  +0000" stop="20260309031500  +0000" channel="DeAJunior.it">
     <title lang="it">Barbapapà (St. 1 - Ep. 39)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260309032000  +0000" stop="20260309035000  +0000" channel="DeAJunior.it">
-    <title lang="it">Adriana, Tino e me (St. 2 - Ep. 38)</title>
+  <programme start="20260309031500  +0000" stop="20260309033000  +0000" channel="DeAJunior.it">
+    <title lang="it">Adriana, Tino e me (St. 2 - Ep. 34)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260309035000  +0000" stop="20260309042000  +0000" channel="DeAJunior.it">
-    <title lang="it">Adriana, Tino e me (St. 2 - Ep. 39)</title>
+  <programme start="20260309033000  +0000" stop="20260309034500  +0000" channel="DeAJunior.it">
+    <title lang="it">Adriana, Tino e me (St. 2 - Ep. 35)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260309042000  +0000" stop="20260309042500  +0000" channel="DeAJunior.it">
-    <title lang="it">Adriana, Tino e me (St. 2 - Ep. 39)</title>
+  <programme start="20260309034500  +0000" stop="20260309040500  +0000" channel="DeAJunior.it">
+    <title lang="it">Adriana, Tino e me (St. 2 - Ep. 36)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260309042500  +0000" stop="20260309043000  +0000" channel="DeAJunior.it">
+  <programme start="20260309040500  +0000" stop="20260309043000  +0000" channel="DeAJunior.it">
     <title lang="it">Pippi Calzelunghe (St. 1 - Ep. 1)</title>
     <category lang="it">Ragazzi</category>
   </programme>
@@ -17831,80 +17819,72 @@
     <title lang="it">Oggy e i maledetti scarafaggi (St. 8 - Ep. 11)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308004500  +0000" stop="20260308005000  +0000" channel="DeAKids.it">
+  <programme start="20260308004500  +0000" stop="20260308005500  +0000" channel="DeAKids.it">
     <title lang="it">Oggy e i maledetti scarafaggi (St. 8 - Ep. 12)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308005000  +0000" stop="20260308005500  +0000" channel="DeAKids.it">
-    <title lang="it">Oggy e i maledetti scarafaggi (St. 8 - Ep. 73)</title>
-    <category lang="it">Ragazzi</category>
-  </programme>
-  <programme start="20260308005500  +0000" stop="20260308011000  +0000" channel="DeAKids.it">
+  <programme start="20260308005500  +0000" stop="20260308011500  +0000" channel="DeAKids.it">
     <title lang="it">Egyxos (St. 1 - Ep. 25)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308011000  +0000" stop="20260308011500  +0000" channel="DeAKids.it">
-    <title lang="it">Oggy e i maledetti scarafaggi (St. 8 - Ep. 74)</title>
-    <category lang="it">Ragazzi</category>
-  </programme>
-  <programme start="20260308011500  +0000" stop="20260308013000  +0000" channel="DeAKids.it">
+  <programme start="20260308011500  +0000" stop="20260308014000  +0000" channel="DeAKids.it">
     <title lang="it">Egyxos (St. 1 - Ep. 26)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308013000  +0000" stop="20260308013500  +0000" channel="DeAKids.it">
-    <title lang="it">Oggy e i maledetti scarafaggi (St. 8 - Ep. 75)</title>
-    <category lang="it">Ragazzi</category>
-  </programme>
-  <programme start="20260308013500  +0000" stop="20260308014000  +0000" channel="DeAKids.it">
-    <title lang="it">Oggy e i maledetti scarafaggi (St. 8 - Ep. 76)</title>
-    <category lang="it">Ragazzi</category>
-  </programme>
-  <programme start="20260308014000  +0000" stop="20260308014500  +0000" channel="DeAKids.it">
+  <programme start="20260308014000  +0000" stop="20260308021000  +0000" channel="DeAKids.it">
     <title lang="it">Freestyle - Tutta un&apos;altra stanza (St. 1 - Ep. 2)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308014500  +0000" stop="20260308015500  +0000" channel="DeAKids.it">
-    <title lang="it">Oggy e i maledetti scarafaggi (St. 8 - Ep. 77)</title>
-    <category lang="it">Ragazzi</category>
-  </programme>
-  <programme start="20260308015500  +0000" stop="20260308020000  +0000" channel="DeAKids.it">
-    <title lang="it">Oggy e i maledetti scarafaggi (St. 8 - Ep. 78)</title>
-    <category lang="it">Ragazzi</category>
-  </programme>
-  <programme start="20260308020000  +0000" stop="20260308025000  +0000" channel="DeAKids.it">
-    <title lang="it">Egyxos (St. 1 - Ep. 25)</title>
-    <category lang="it">Ragazzi</category>
-  </programme>
-  <programme start="20260308025000  +0000" stop="20260308031000  +0000" channel="DeAKids.it">
+  <programme start="20260308021000  +0000" stop="20260308024000  +0000" channel="DeAKids.it">
     <title lang="it">Freestyle - Tutta un&apos;altra stanza (St. 1 - Ep. 3)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308031000  +0000" stop="20260308033000  +0000" channel="DeAKids.it">
-    <title lang="it">Oggy e i maledetti scarafaggi (St. 8 - Ep. 73)</title>
+  <programme start="20260308024000  +0000" stop="20260308025000  +0000" channel="DeAKids.it">
+    <title lang="it">Oggy e i maledetti scarafaggi (St. 8 - Ep. 5)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308033000  +0000" stop="20260308035000  +0000" channel="DeAKids.it">
-    <title lang="it">Oggy e i maledetti scarafaggi (St. 8 - Ep. 74)</title>
+  <programme start="20260308025000  +0000" stop="20260308025500  +0000" channel="DeAKids.it">
+    <title lang="it">Oggy e i maledetti scarafaggi (St. 8 - Ep. 6)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308035000  +0000" stop="20260308040000  +0000" channel="DeAKids.it">
-    <title lang="it">Oggy e i maledetti scarafaggi (St. 8 - Ep. 75)</title>
+  <programme start="20260308025500  +0000" stop="20260308030500  +0000" channel="DeAKids.it">
+    <title lang="it">Oggy e i maledetti scarafaggi (St. 8 - Ep. 7)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308040000  +0000" stop="20260308041000  +0000" channel="DeAKids.it">
-    <title lang="it">Oggy e i maledetti scarafaggi (St. 8 - Ep. 76)</title>
+  <programme start="20260308030500  +0000" stop="20260308031000  +0000" channel="DeAKids.it">
+    <title lang="it">Oggy e i maledetti scarafaggi (St. 8 - Ep. 8)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308041000  +0000" stop="20260308042000  +0000" channel="DeAKids.it">
-    <title lang="it">Oggy e i maledetti scarafaggi (St. 8 - Ep. 77)</title>
+  <programme start="20260308031000  +0000" stop="20260308032000  +0000" channel="DeAKids.it">
+    <title lang="it">Oggy e i maledetti scarafaggi (St. 8 - Ep. 9)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308042000  +0000" stop="20260308042000  +0000" channel="DeAKids.it">
-    <title lang="it">Oggy e i maledetti scarafaggi (St. 8 - Ep. 78)</title>
+  <programme start="20260308032000  +0000" stop="20260308033000  +0000" channel="DeAKids.it">
+    <title lang="it">Oggy e i maledetti scarafaggi (St. 8 - Ep. 10)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308042000  +0000" stop="20260308050000  +0000" channel="DeAKids.it">
-    <title lang="it">Oggy e i maledetti scarafaggi (St. 8 - Ep. 78)</title>
+  <programme start="20260308033000  +0000" stop="20260308033500  +0000" channel="DeAKids.it">
+    <title lang="it">Oggy e i maledetti scarafaggi (St. 8 - Ep. 11)</title>
+    <category lang="it">Ragazzi</category>
+  </programme>
+  <programme start="20260308033500  +0000" stop="20260308034500  +0000" channel="DeAKids.it">
+    <title lang="it">Oggy e i maledetti scarafaggi (St. 8 - Ep. 12)</title>
+    <category lang="it">Ragazzi</category>
+  </programme>
+  <programme start="20260308034500  +0000" stop="20260308040500  +0000" channel="DeAKids.it">
+    <title lang="it">Egyxos (St. 1 - Ep. 25)</title>
+    <category lang="it">Ragazzi</category>
+  </programme>
+  <programme start="20260308040500  +0000" stop="20260308043000  +0000" channel="DeAKids.it">
+    <title lang="it">Egyxos (St. 1 - Ep. 26)</title>
+    <category lang="it">Ragazzi</category>
+  </programme>
+  <programme start="20260308043000  +0000" stop="20260308043000  +0000" channel="DeAKids.it">
+    <title lang="it">Freestyle - Tutta un&apos;altra stanza (St. 1 - Ep. 3)</title>
+    <category lang="it">Ragazzi</category>
+  </programme>
+  <programme start="20260308043000  +0000" stop="20260308050000  +0000" channel="DeAKids.it">
+    <title lang="it">Freestyle - Tutta un&apos;altra stanza (St. 1 - Ep. 3)</title>
     <category lang="it">Ragazzi</category>
   </programme>
   <programme start="20260308050000  +0000" stop="20260308050000  +0000" channel="DeAKids.it">
@@ -17935,11 +17915,11 @@
     <title lang="it">Zig &amp; Sharko (St. 2 - Ep. 36)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308055000  +0000" stop="20260308060000  +0000" channel="DeAKids.it">
+  <programme start="20260308055000  +0000" stop="20260308055500  +0000" channel="DeAKids.it">
     <title lang="it">Zig &amp; Sharko (St. 2 - Ep. 37)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308060000  +0000" stop="20260308060500  +0000" channel="DeAKids.it">
+  <programme start="20260308055500  +0000" stop="20260308060500  +0000" channel="DeAKids.it">
     <title lang="it">Zig &amp; Sharko (St. 2 - Ep. 38)</title>
     <category lang="it">Ragazzi</category>
   </programme>
@@ -17947,15 +17927,15 @@
     <title lang="it">Zig &amp; Sharko (St. 2 - Ep. 39)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308061500  +0000" stop="20260308062500  +0000" channel="DeAKids.it">
+  <programme start="20260308061500  +0000" stop="20260308062000  +0000" channel="DeAKids.it">
     <title lang="it">Zig &amp; Sharko (St. 2 - Ep. 40)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308062500  +0000" stop="20260308063000  +0000" channel="DeAKids.it">
+  <programme start="20260308062000  +0000" stop="20260308063500  +0000" channel="DeAKids.it">
     <title lang="it">Zig &amp; Sharko (St. 2 - Ep. 41)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308063000  +0000" stop="20260308064000  +0000" channel="DeAKids.it">
+  <programme start="20260308063500  +0000" stop="20260308064000  +0000" channel="DeAKids.it">
     <title lang="it">Zig &amp; Sharko (St. 2 - Ep. 42)</title>
     <category lang="it">Ragazzi</category>
   </programme>
@@ -17967,15 +17947,15 @@
     <title lang="it">Zig &amp; Sharko (St. 2 - Ep. 44)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308065500  +0000" stop="20260308070500  +0000" channel="DeAKids.it">
+  <programme start="20260308065500  +0000" stop="20260308071000  +0000" channel="DeAKids.it">
     <title lang="it">Zig &amp; Sharko (St. 2 - Ep. 45)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308070500  +0000" stop="20260308071500  +0000" channel="DeAKids.it">
+  <programme start="20260308071000  +0000" stop="20260308072000  +0000" channel="DeAKids.it">
     <title lang="it">A tutto reality: Le origini (St. 2 - Ep. 6)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308071500  +0000" stop="20260308073000  +0000" channel="DeAKids.it">
+  <programme start="20260308072000  +0000" stop="20260308073000  +0000" channel="DeAKids.it">
     <title lang="it">A tutto reality: Le origini (St. 2 - Ep. 7)</title>
     <category lang="it">Ragazzi</category>
   </programme>
@@ -17983,11 +17963,11 @@
     <title lang="it">A tutto reality: Le origini (St. 2 - Ep. 8)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308074000  +0000" stop="20260308075500  +0000" channel="DeAKids.it">
+  <programme start="20260308074000  +0000" stop="20260308075000  +0000" channel="DeAKids.it">
     <title lang="it">A tutto reality: Le origini (St. 2 - Ep. 9)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308075500  +0000" stop="20260308080500  +0000" channel="DeAKids.it">
+  <programme start="20260308075000  +0000" stop="20260308080500  +0000" channel="DeAKids.it">
     <title lang="it">A tutto reality: Le origini (St. 2 - Ep. 10)</title>
     <category lang="it">Ragazzi</category>
   </programme>
@@ -18011,11 +17991,11 @@
     <title lang="it">New School (St. 1 - Ep. 4)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308091000  +0000" stop="20260308092500  +0000" channel="DeAKids.it">
+  <programme start="20260308091000  +0000" stop="20260308092000  +0000" channel="DeAKids.it">
     <title lang="it">New School (St. 1 - Ep. 5)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308092500  +0000" stop="20260308093500  +0000" channel="DeAKids.it">
+  <programme start="20260308092000  +0000" stop="20260308093500  +0000" channel="DeAKids.it">
     <title lang="it">New School (St. 1 - Ep. 6)</title>
     <category lang="it">Ragazzi</category>
   </programme>
@@ -18035,59 +18015,51 @@
     <title lang="it">Ki &amp; Hi - Nel Regno del Panda (St. 1 - Ep. 1)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308105000  +0000" stop="20260308110000  +0000" channel="DeAKids.it">
+  <programme start="20260308105000  +0000" stop="20260308110500  +0000" channel="DeAKids.it">
     <title lang="it">Il Barbiere Pasticciere (St. 2 - Ep. 20)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308110000  +0000" stop="20260308111500  +0000" channel="DeAKids.it">
+  <programme start="20260308110500  +0000" stop="20260308112000  +0000" channel="DeAKids.it">
     <title lang="it">Il barbiere pasticciere (St. 2 - Ep. 21)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308111500  +0000" stop="20260308112500  +0000" channel="DeAKids.it">
+  <programme start="20260308112000  +0000" stop="20260308114000  +0000" channel="DeAKids.it">
     <title lang="it">Il barbiere pasticciere (St. 2 - Ep. 22)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308112500  +0000" stop="20260308114000  +0000" channel="DeAKids.it">
-    <title lang="it">Il barbiere pasticciere (St. 2 - Ep. 23)</title>
-    <category lang="it">Ragazzi</category>
-  </programme>
-  <programme start="20260308114000  +0000" stop="20260308114500  +0000" channel="DeAKids.it">
+  <programme start="20260308114000  +0000" stop="20260308115000  +0000" channel="DeAKids.it">
     <title lang="it">New School (St. 2 - Ep. 5)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308114500  +0000" stop="20260308115500  +0000" channel="DeAKids.it">
+  <programme start="20260308115000  +0000" stop="20260308120000  +0000" channel="DeAKids.it">
     <title lang="it">Il Barbiere Pasticciere (St. 1 - Ep. 7)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308115500  +0000" stop="20260308120000  +0000" channel="DeAKids.it">
+  <programme start="20260308120000  +0000" stop="20260308121500  +0000" channel="DeAKids.it">
     <title lang="it">New School (St. 1 - Ep. 12)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308120000  +0000" stop="20260308121000  +0000" channel="DeAKids.it">
+  <programme start="20260308121500  +0000" stop="20260308122500  +0000" channel="DeAKids.it">
     <title lang="it">New School (St. 1 - Ep. 20)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308121000  +0000" stop="20260308121500  +0000" channel="DeAKids.it">
+  <programme start="20260308122500  +0000" stop="20260308124000  +0000" channel="DeAKids.it">
     <title lang="it">New School (St. 1 - Ep. 24)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308121500  +0000" stop="20260308122500  +0000" channel="DeAKids.it">
+  <programme start="20260308124000  +0000" stop="20260308125000  +0000" channel="DeAKids.it">
     <title lang="it">New School (St. 2 - Ep. 18)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308122500  +0000" stop="20260308124000  +0000" channel="DeAKids.it">
+  <programme start="20260308125000  +0000" stop="20260308130500  +0000" channel="DeAKids.it">
     <title lang="it">New School (St. 2 - Ep. 19)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308124000  +0000" stop="20260308125000  +0000" channel="DeAKids.it">
+  <programme start="20260308130500  +0000" stop="20260308131000  +0000" channel="DeAKids.it">
     <title lang="it">Gioco da ragazzi - Reload: Speciali (St. 1 - Ep. 2)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308125000  +0000" stop="20260308130500  +0000" channel="DeAKids.it">
-    <title lang="it">Gioco da ragazzi - Reload: Speciali (St. 1 - Ep. 3)</title>
-    <category lang="it">Ragazzi</category>
-  </programme>
-  <programme start="20260308130500  +0000" stop="20260308133500  +0000" channel="DeAKids.it">
+  <programme start="20260308131000  +0000" stop="20260308133500  +0000" channel="DeAKids.it">
     <title lang="it">H2O: Just Add Water (St. 2 - Ep. 7)</title>
     <category lang="it">Ragazzi</category>
   </programme>
@@ -18127,35 +18099,31 @@
     <title lang="it">Il Barbiere Pasticciere (St. 4 - Ep. 4)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308164500  +0000" stop="20260308165500  +0000" channel="DeAKids.it">
+  <programme start="20260308164500  +0000" stop="20260308170000  +0000" channel="DeAKids.it">
     <title lang="it">Il barbiere pasticciere (St. 4 - Ep. 5)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308165500  +0000" stop="20260308170000  +0000" channel="DeAKids.it">
+  <programme start="20260308170000  +0000" stop="20260308171500  +0000" channel="DeAKids.it">
     <title lang="it">Il barbiere pasticciere (St. 4 - Ep. 6)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308170000  +0000" stop="20260308171000  +0000" channel="DeAKids.it">
+  <programme start="20260308171500  +0000" stop="20260308172500  +0000" channel="DeAKids.it">
+    <title lang="it">Il barbiere pasticciere (St. 3 - Ep. 17)</title>
+    <category lang="it">Ragazzi</category>
+  </programme>
+  <programme start="20260308172500  +0000" stop="20260308174000  +0000" channel="DeAKids.it">
     <title lang="it">Il barbiere pasticciere (St. 3 - Ep. 18)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308171000  +0000" stop="20260308172000  +0000" channel="DeAKids.it">
-    <title lang="it">Il barbiere pasticciere (St. 3 - Ep. 19)</title>
-    <category lang="it">Ragazzi</category>
-  </programme>
-  <programme start="20260308172000  +0000" stop="20260308173500  +0000" channel="DeAKids.it">
-    <title lang="it">Il barbiere pasticciere (St. 3 - Ep. 20)</title>
-    <category lang="it">Ragazzi</category>
-  </programme>
-  <programme start="20260308173500  +0000" stop="20260308174500  +0000" channel="DeAKids.it">
+  <programme start="20260308174000  +0000" stop="20260308175000  +0000" channel="DeAKids.it">
     <title lang="it">Ki &amp; Hi - Nel Regno del Panda (St. 1 - Ep. 19)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308174500  +0000" stop="20260308180000  +0000" channel="DeAKids.it">
+  <programme start="20260308175000  +0000" stop="20260308180500  +0000" channel="DeAKids.it">
     <title lang="it">Ki &amp; Hi - Nel Regno del Panda (St. 1 - Ep. 20)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308180000  +0000" stop="20260308181500  +0000" channel="DeAKids.it">
+  <programme start="20260308180500  +0000" stop="20260308181500  +0000" channel="DeAKids.it">
     <title lang="it">New School (St. 3 - Ep. 1)</title>
     <category lang="it">Ragazzi</category>
   </programme>
@@ -18171,160 +18139,144 @@
     <title lang="it">New School (St. 3 - Ep. 4)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308185500  +0000" stop="20260308201500  +0000" channel="DeAKids.it">
+  <programme start="20260308185500  +0000" stop="20260308201000  +0000" channel="DeAKids.it">
     <title lang="it">MegaGame (St. 1 - Ep. 7)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308201500  +0000" stop="20260308204000  +0000" channel="DeAKids.it">
+  <programme start="20260308201000  +0000" stop="20260308203500  +0000" channel="DeAKids.it">
     <title lang="it">A tutto reality: L&apos;isola (St. 1 - Ep. 17)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308204000  +0000" stop="20260308210500  +0000" channel="DeAKids.it">
+  <programme start="20260308203500  +0000" stop="20260308210000  +0000" channel="DeAKids.it">
     <title lang="it">A tutto reality: L&apos;isola (St. 1 - Ep. 18)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308210500  +0000" stop="20260308211500  +0000" channel="DeAKids.it">
-    <title lang="it">Oggy e i maledetti scarafaggi (St. 8 - Ep. 11)</title>
-    <category lang="it">Ragazzi</category>
-  </programme>
-  <programme start="20260308211500  +0000" stop="20260308212000  +0000" channel="DeAKids.it">
+  <programme start="20260308210000  +0000" stop="20260308211000  +0000" channel="DeAKids.it">
     <title lang="it">Oggy e i maledetti scarafaggi (St. 8 - Ep. 12)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308212000  +0000" stop="20260308213000  +0000" channel="DeAKids.it">
+  <programme start="20260308211000  +0000" stop="20260308211500  +0000" channel="DeAKids.it">
     <title lang="it">Oggy e i maledetti scarafaggi (St. 8 - Ep. 13)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308213000  +0000" stop="20260308214000  +0000" channel="DeAKids.it">
+  <programme start="20260308211500  +0000" stop="20260308212500  +0000" channel="DeAKids.it">
     <title lang="it">Oggy e i maledetti scarafaggi (St. 8 - Ep. 14)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308214000  +0000" stop="20260308215000  +0000" channel="DeAKids.it">
+  <programme start="20260308212500  +0000" stop="20260308213000  +0000" channel="DeAKids.it">
     <title lang="it">Oggy e i maledetti scarafaggi (St. 8 - Ep. 15)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308215000  +0000" stop="20260308220000  +0000" channel="DeAKids.it">
+  <programme start="20260308213000  +0000" stop="20260308214000  +0000" channel="DeAKids.it">
     <title lang="it">Oggy e i maledetti scarafaggi (St. 8 - Ep. 16)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308220000  +0000" stop="20260308220500  +0000" channel="DeAKids.it">
+  <programme start="20260308214000  +0000" stop="20260308215000  +0000" channel="DeAKids.it">
+    <title lang="it">Oggy e i maledetti scarafaggi (St. 8 - Ep. 17)</title>
+    <category lang="it">Ragazzi</category>
+  </programme>
+  <programme start="20260308215000  +0000" stop="20260308221000  +0000" channel="DeAKids.it">
     <title lang="it">Egyxos (St. 1 - Ep. 1)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308220500  +0000" stop="20260308221500  +0000" channel="DeAKids.it">
+  <programme start="20260308221000  +0000" stop="20260308223500  +0000" channel="DeAKids.it">
     <title lang="it">Egyxos (St. 1 - Ep. 2)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308221500  +0000" stop="20260308223500  +0000" channel="DeAKids.it">
+  <programme start="20260308223500  +0000" stop="20260308230500  +0000" channel="DeAKids.it">
     <title lang="it">Freestyle - Tutta un&apos;altra stanza (St. 1 - Ep. 4)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308223500  +0000" stop="20260308225500  +0000" channel="DeAKids.it">
+  <programme start="20260308230500  +0000" stop="20260308233500  +0000" channel="DeAKids.it">
     <title lang="it">Freestyle - Tutta un&apos;altra stanza (St. 1 - Ep. 5)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308225500  +0000" stop="20260308231500  +0000" channel="DeAKids.it">
-    <title lang="it">Oggy e i maledetti scarafaggi (St. 8 - Ep. 1)</title>
+  <programme start="20260308233500  +0000" stop="20260308234000  +0000" channel="DeAKids.it">
+    <title lang="it">Oggy e i maledetti scarafaggi (St. 8 - Ep. 12)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308231500  +0000" stop="20260308232000  +0000" channel="DeAKids.it">
-    <title lang="it">Oggy e i maledetti scarafaggi (St. 8 - Ep. 2)</title>
-    <category lang="it">Ragazzi</category>
-  </programme>
-  <programme start="20260308232000  +0000" stop="20260308232500  +0000" channel="DeAKids.it">
-    <title lang="it">Oggy e i maledetti scarafaggi (St. 8 - Ep. 3)</title>
-    <category lang="it">Ragazzi</category>
-  </programme>
-  <programme start="20260308232500  +0000" stop="20260308233500  +0000" channel="DeAKids.it">
-    <title lang="it">Oggy e i maledetti scarafaggi (St. 8 - Ep. 4)</title>
-    <category lang="it">Ragazzi</category>
-  </programme>
-  <programme start="20260308233500  +0000" stop="20260308234500  +0000" channel="DeAKids.it">
-    <title lang="it">Oggy e i maledetti scarafaggi (St. 8 - Ep. 5)</title>
-    <category lang="it">Ragazzi</category>
-  </programme>
-  <programme start="20260308234500  +0000" stop="20260308235000  +0000" channel="DeAKids.it">
-    <title lang="it">Oggy e i maledetti scarafaggi (St. 8 - Ep. 6)</title>
+  <programme start="20260308234000  +0000" stop="20260308235000  +0000" channel="DeAKids.it">
+    <title lang="it">Oggy e i maledetti scarafaggi (St. 8 - Ep. 13)</title>
     <category lang="it">Ragazzi</category>
   </programme>
   <programme start="20260308235000  +0000" stop="20260309000000  +0000" channel="DeAKids.it">
+    <title lang="it">Oggy e i maledetti scarafaggi (St. 8 - Ep. 14)</title>
+    <category lang="it">Ragazzi</category>
+  </programme>
+  <programme start="20260309000000  +0000" stop="20260309001000  +0000" channel="DeAKids.it">
+    <title lang="it">Oggy e i maledetti scarafaggi (St. 8 - Ep. 15)</title>
+    <category lang="it">Ragazzi</category>
+  </programme>
+  <programme start="20260309001000  +0000" stop="20260309001500  +0000" channel="DeAKids.it">
+    <title lang="it">Oggy e i maledetti scarafaggi (St. 8 - Ep. 16)</title>
+    <category lang="it">Ragazzi</category>
+  </programme>
+  <programme start="20260309001500  +0000" stop="20260309002500  +0000" channel="DeAKids.it">
+    <title lang="it">Oggy e i maledetti scarafaggi (St. 8 - Ep. 17)</title>
+    <category lang="it">Ragazzi</category>
+  </programme>
+  <programme start="20260309002500  +0000" stop="20260309004500  +0000" channel="DeAKids.it">
     <title lang="it">Egyxos (St. 1 - Ep. 1)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260309000000  +0000" stop="20260309000500  +0000" channel="DeAKids.it">
+  <programme start="20260309004500  +0000" stop="20260309011000  +0000" channel="DeAKids.it">
     <title lang="it">Egyxos (St. 1 - Ep. 2)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260309000500  +0000" stop="20260309003000  +0000" channel="DeAKids.it">
+  <programme start="20260309011000  +0000" stop="20260309014000  +0000" channel="DeAKids.it">
     <title lang="it">Freestyle - Tutta un&apos;altra stanza (St. 1 - Ep. 4)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260309003000  +0000" stop="20260309005000  +0000" channel="DeAKids.it">
+  <programme start="20260309014000  +0000" stop="20260309021000  +0000" channel="DeAKids.it">
     <title lang="it">Freestyle - Tutta un&apos;altra stanza (St. 1 - Ep. 5)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260309005000  +0000" stop="20260309011000  +0000" channel="DeAKids.it">
-    <title lang="it">Oggy e i maledetti scarafaggi (St. 8 - Ep. 1)</title>
+  <programme start="20260309021000  +0000" stop="20260309021500  +0000" channel="DeAKids.it">
+    <title lang="it">Oggy e i maledetti scarafaggi (St. 8 - Ep. 12)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260309011000  +0000" stop="20260309013000  +0000" channel="DeAKids.it">
-    <title lang="it">Oggy e i maledetti scarafaggi (St. 8 - Ep. 2)</title>
+  <programme start="20260309021500  +0000" stop="20260309022500  +0000" channel="DeAKids.it">
+    <title lang="it">Oggy e i maledetti scarafaggi (St. 8 - Ep. 13)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260309013000  +0000" stop="20260309013500  +0000" channel="DeAKids.it">
-    <title lang="it">Oggy e i maledetti scarafaggi (St. 8 - Ep. 3)</title>
+  <programme start="20260309022500  +0000" stop="20260309023000  +0000" channel="DeAKids.it">
+    <title lang="it">Oggy e i maledetti scarafaggi (St. 8 - Ep. 14)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260309013500  +0000" stop="20260309014500  +0000" channel="DeAKids.it">
-    <title lang="it">Oggy e i maledetti scarafaggi (St. 8 - Ep. 4)</title>
+  <programme start="20260309023000  +0000" stop="20260309024000  +0000" channel="DeAKids.it">
+    <title lang="it">Oggy e i maledetti scarafaggi (St. 8 - Ep. 15)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260309014500  +0000" stop="20260309015500  +0000" channel="DeAKids.it">
-    <title lang="it">Oggy e i maledetti scarafaggi (St. 8 - Ep. 5)</title>
+  <programme start="20260309024000  +0000" stop="20260309025000  +0000" channel="DeAKids.it">
+    <title lang="it">Oggy e i maledetti scarafaggi (St. 8 - Ep. 16)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260309015500  +0000" stop="20260309020000  +0000" channel="DeAKids.it">
-    <title lang="it">Oggy e i maledetti scarafaggi (St. 8 - Ep. 6)</title>
+  <programme start="20260309025000  +0000" stop="20260309030000  +0000" channel="DeAKids.it">
+    <title lang="it">Oggy e i maledetti scarafaggi (St. 8 - Ep. 17)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260309020000  +0000" stop="20260309021000  +0000" channel="DeAKids.it">
+  <programme start="20260309030000  +0000" stop="20260309032000  +0000" channel="DeAKids.it">
     <title lang="it">Egyxos (St. 1 - Ep. 1)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260309021000  +0000" stop="20260309023000  +0000" channel="DeAKids.it">
+  <programme start="20260309032000  +0000" stop="20260309034500  +0000" channel="DeAKids.it">
     <title lang="it">Egyxos (St. 1 - Ep. 2)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260309023000  +0000" stop="20260309025000  +0000" channel="DeAKids.it">
+  <programme start="20260309034500  +0000" stop="20260309041500  +0000" channel="DeAKids.it">
     <title lang="it">Freestyle - Tutta un&apos;altra stanza (St. 1 - Ep. 4)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260309025000  +0000" stop="20260309031000  +0000" channel="DeAKids.it">
+  <programme start="20260309041500  +0000" stop="20260309044500  +0000" channel="DeAKids.it">
     <title lang="it">Freestyle - Tutta un&apos;altra stanza (St. 1 - Ep. 5)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260309031000  +0000" stop="20260309033000  +0000" channel="DeAKids.it">
-    <title lang="it">Oggy e i maledetti scarafaggi (St. 8 - Ep. 1)</title>
+  <programme start="20260309044500  +0000" stop="20260309045000  +0000" channel="DeAKids.it">
+    <title lang="it">Oggy e i maledetti scarafaggi (St. 8 - Ep. 12)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260309033000  +0000" stop="20260309035000  +0000" channel="DeAKids.it">
-    <title lang="it">Oggy e i maledetti scarafaggi (St. 8 - Ep. 2)</title>
-    <category lang="it">Ragazzi</category>
-  </programme>
-  <programme start="20260309035000  +0000" stop="20260309040000  +0000" channel="DeAKids.it">
-    <title lang="it">Oggy e i maledetti scarafaggi (St. 8 - Ep. 3)</title>
-    <category lang="it">Ragazzi</category>
-  </programme>
-  <programme start="20260309040000  +0000" stop="20260309041000  +0000" channel="DeAKids.it">
-    <title lang="it">Oggy e i maledetti scarafaggi (St. 8 - Ep. 4)</title>
-    <category lang="it">Ragazzi</category>
-  </programme>
-  <programme start="20260309041000  +0000" stop="20260309042000  +0000" channel="DeAKids.it">
-    <title lang="it">Oggy e i maledetti scarafaggi (St. 8 - Ep. 5)</title>
-    <category lang="it">Ragazzi</category>
-  </programme>
-  <programme start="20260309042000  +0000" stop="20260309050000  +0000" channel="DeAKids.it">
-    <title lang="it">Oggy e i maledetti scarafaggi (St. 8 - Ep. 6)</title>
+  <programme start="20260309045000  +0000" stop="20260309050000  +0000" channel="DeAKids.it">
+    <title lang="it">Oggy e i maledetti scarafaggi (St. 8 - Ep. 13)</title>
     <category lang="it">Ragazzi</category>
   </programme>
   <programme start="20260309050000  +0000" stop="20260309053000  +0000" channel="DeAKids.it">
@@ -27739,12 +27691,8 @@
     <title lang="it">I panini li fa Max (St. 16 - Ep. 6)</title>
     <category lang="it">Mondo e Tendenze</category>
   </programme>
-  <programme start="20260306185500  +0000" stop="20260306193000  +0000" channel="GamberoRossoChannel.it">
+  <programme start="20260306185500  +0000" stop="20260306200000  +0000" channel="GamberoRossoChannel.it">
     <title lang="it">Giorgione: orto e cucina (St. 16 - Ep. 6)</title>
-    <category lang="it">Mondo e Tendenze</category>
-  </programme>
-  <programme start="20260306193000  +0000" stop="20260306200000  +0000" channel="GamberoRossoChannel.it">
-    <title lang="it">Vito con i suoi (St. 13 - Ep. 5)</title>
     <category lang="it">Mondo e Tendenze</category>
   </programme>
   <programme start="20260306200000  +0000" stop="20260306203500  +0000" channel="GamberoRossoChannel.it">
@@ -27955,16 +27903,8 @@
     <title lang="it">La scelta di Sarah (St. 3 - Ep. 1)</title>
     <category lang="it">Mondo e Tendenze</category>
   </programme>
-  <programme start="20260307183000  +0000" stop="20260307190500  +0000" channel="GamberoRossoChannel.it">
+  <programme start="20260307183000  +0000" stop="20260307200500  +0000" channel="GamberoRossoChannel.it">
     <title lang="it">Fuoco (St. 6 - Ep. 1)</title>
-    <category lang="it">Mondo e Tendenze</category>
-  </programme>
-  <programme start="20260307190500  +0000" stop="20260307193500  +0000" channel="GamberoRossoChannel.it">
-    <title lang="it">Giorgione: A grande richiesta (St. 2 - Ep. 1)</title>
-    <category lang="it">Mondo e Tendenze</category>
-  </programme>
-  <programme start="20260307193500  +0000" stop="20260307200500  +0000" channel="GamberoRossoChannel.it">
-    <title lang="it">Giorgione e Vito con i suoi (St. 1 - Ep. 1)</title>
     <category lang="it">Mondo e Tendenze</category>
   </programme>
   <programme start="20260307200500  +0000" stop="20260307202000  +0000" channel="GamberoRossoChannel.it">
@@ -30955,123 +30895,123 @@
     <title lang="it">One Piece (St. 15 - Ep. 13)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307064700  +0000" stop="20260307071600  +0000" channel="Italia2.it">
+  <programme start="20260307064700  +0000" stop="20260307071700  +0000" channel="Italia2.it">
     <title lang="it">One Piece (St. 15 - Ep. 14)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307071600  +0000" stop="20260307074500  +0000" channel="Italia2.it">
+  <programme start="20260307071700  +0000" stop="20260307074600  +0000" channel="Italia2.it">
     <title lang="it">One Piece (St. 15 - Ep. 15)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307074500  +0000" stop="20260307081500  +0000" channel="Italia2.it">
+  <programme start="20260307074600  +0000" stop="20260307081600  +0000" channel="Italia2.it">
     <title lang="it">One Piece (St. 15 - Ep. 16)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307081500  +0000" stop="20260307084400  +0000" channel="Italia2.it">
+  <programme start="20260307081600  +0000" stop="20260307084500  +0000" channel="Italia2.it">
     <title lang="it">One Piece (St. 15 - Ep. 17)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307084400  +0000" stop="20260307091400  +0000" channel="Italia2.it">
+  <programme start="20260307084500  +0000" stop="20260307091500  +0000" channel="Italia2.it">
     <title lang="it">One Piece (St. 15 - Ep. 18)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307091400  +0000" stop="20260307093800  +0000" channel="Italia2.it">
+  <programme start="20260307091500  +0000" stop="20260307094600  +0000" channel="Italia2.it">
     <title lang="it">One Piece (St. 15 - Ep. 19)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307093800  +0000" stop="20260307102500  +0000" channel="Italia2.it">
+  <programme start="20260307094600  +0000" stop="20260307101400  +0000" channel="Italia2.it">
     <title lang="it">Holly e Benji Forever (St. 7 - Ep. 1)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307102500  +0000" stop="20260307105500  +0000" channel="Italia2.it">
+  <programme start="20260307101400  +0000" stop="20260307104300  +0000" channel="Italia2.it">
     <title lang="it">Holly e Benji Forever (St. 7 - Ep. 2)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307105500  +0000" stop="20260307112300  +0000" channel="Italia2.it">
+  <programme start="20260307104300  +0000" stop="20260307111200  +0000" channel="Italia2.it">
     <title lang="it">Holly e Benji Forever (St. 7 - Ep. 3)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307112300  +0000" stop="20260307120100  +0000" channel="Italia2.it">
+  <programme start="20260307111200  +0000" stop="20260307114100  +0000" channel="Italia2.it">
     <title lang="it">Holly e Benji Forever (St. 7 - Ep. 4)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307120100  +0000" stop="20260307122900  +0000" channel="Italia2.it">
+  <programme start="20260307114100  +0000" stop="20260307120900  +0000" channel="Italia2.it">
     <title lang="it">Holly e Benji Forever (St. 7 - Ep. 5)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307122900  +0000" stop="20260307125400  +0000" channel="Italia2.it">
+  <programme start="20260307120900  +0000" stop="20260307124000  +0000" channel="Italia2.it">
     <title lang="it">The Goldbergs (St. 8 - Ep. 20)</title>
     <category lang="it">Sit Com</category>
   </programme>
-  <programme start="20260307125400  +0000" stop="20260307132000  +0000" channel="Italia2.it">
-    <title lang="it">The Goldbergs (St. 8 - Ep. 21)</title>
-    <category lang="it">Sit Com</category>
+  <programme start="20260307124000  +0000" stop="20260307130900  +0000" channel="Italia2.it">
+    <title lang="it">I Goldbergs (St. 8 - Ep. 21)</title>
+    <category lang="it">Serie TV</category>
   </programme>
-  <programme start="20260307132000  +0000" stop="20260307134700  +0000" channel="Italia2.it">
+  <programme start="20260307130900  +0000" stop="20260307134300  +0000" channel="Italia2.it">
     <title lang="it">Due uomini e 1/2 (St. 5 - Ep. 16)</title>
     <category lang="it">Sit Com</category>
   </programme>
-  <programme start="20260307134700  +0000" stop="20260307141400  +0000" channel="Italia2.it">
+  <programme start="20260307134300  +0000" stop="20260307141600  +0000" channel="Italia2.it">
     <title lang="it">Due uomini e 1/2 (St. 5 - Ep. 17)</title>
     <category lang="it">Sit Com</category>
   </programme>
-  <programme start="20260307141400  +0000" stop="20260307144200  +0000" channel="Italia2.it">
+  <programme start="20260307141600  +0000" stop="20260307144400  +0000" channel="Italia2.it">
     <title lang="it">What&apos;s my destiny Dragon Ball (St. 1 - Ep. 75)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307144200  +0000" stop="20260307151000  +0000" channel="Italia2.it">
+  <programme start="20260307144400  +0000" stop="20260307151100  +0000" channel="Italia2.it">
     <title lang="it">What&apos;s my destiny Dragon Ball (St. 1 - Ep. 76)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307151000  +0000" stop="20260307153700  +0000" channel="Italia2.it">
+  <programme start="20260307151100  +0000" stop="20260307153800  +0000" channel="Italia2.it">
     <title lang="it">What&apos;s my destiny Dragon Ball (St. 1 - Ep. 77)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307153700  +0000" stop="20260307160500  +0000" channel="Italia2.it">
+  <programme start="20260307153800  +0000" stop="20260307160600  +0000" channel="Italia2.it">
     <title lang="it">What&apos;s my destiny Dragon Ball (St. 1 - Ep. 78)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307160500  +0000" stop="20260307163500  +0000" channel="Italia2.it">
+  <programme start="20260307160600  +0000" stop="20260307163300  +0000" channel="Italia2.it">
     <title lang="it">What&apos;s my destiny Dragon Ball (St. 1 - Ep. 79)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307163500  +0000" stop="20260307170400  +0000" channel="Italia2.it">
+  <programme start="20260307163300  +0000" stop="20260307165700  +0000" channel="Italia2.it">
     <title lang="it">What&apos;s my destiny Dragon Ball (St. 1 - Ep. 80)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307170400  +0000" stop="20260307174000  +0000" channel="Italia2.it">
+  <programme start="20260307165700  +0000" stop="20260307172600  +0000" channel="Italia2.it">
     <title lang="it">What&apos;s my destiny Dragon Ball (St. 1 - Ep. 81)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307174000  +0000" stop="20260307180300  +0000" channel="Italia2.it">
+  <programme start="20260307172600  +0000" stop="20260307175600  +0000" channel="Italia2.it">
     <title lang="it">What&apos;s my destiny Dragon Ball (St. 1 - Ep. 82)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307180300  +0000" stop="20260307183600  +0000" channel="Italia2.it">
+  <programme start="20260307175600  +0000" stop="20260307182900  +0000" channel="Italia2.it">
     <title lang="it">The Goldbergs (St. 8 - Ep. 22)</title>
     <category lang="it">Sit Com</category>
   </programme>
-  <programme start="20260307183600  +0000" stop="20260307190300  +0000" channel="Italia2.it">
+  <programme start="20260307182900  +0000" stop="20260307185600  +0000" channel="Italia2.it">
     <title lang="it">The Goldbergs (St. 9 - Ep. 1)</title>
     <category lang="it">Sit Com</category>
   </programme>
-  <programme start="20260307190300  +0000" stop="20260307193400  +0000" channel="Italia2.it">
+  <programme start="20260307185600  +0000" stop="20260307192700  +0000" channel="Italia2.it">
     <title lang="it">Due uomini e 1/2 (St. 5 - Ep. 18)</title>
     <category lang="it">Sit Com</category>
   </programme>
-  <programme start="20260307193400  +0000" stop="20260307200100  +0000" channel="Italia2.it">
+  <programme start="20260307192700  +0000" stop="20260307200000  +0000" channel="Italia2.it">
     <title lang="it">Due uomini e 1/2 (St. 5 - Ep. 19)</title>
     <category lang="it">Sit Com</category>
   </programme>
-  <programme start="20260307200100  +0000" stop="20260307220100  +0000" channel="Italia2.it">
+  <programme start="20260307200000  +0000" stop="20260307220100  +0000" channel="Italia2.it">
     <title lang="it">Ring (1999)</title>
     <category lang="it">Film</category>
   </programme>
-  <programme start="20260307220100  +0000" stop="20260308000000  +0000" channel="Italia2.it">
+  <programme start="20260307220100  +0000" stop="20260307235900  +0000" channel="Italia2.it">
     <title lang="it">The Nun - La vocazione del male (2018)</title>
     <category lang="it">Film</category>
   </programme>
-  <programme start="20260308000000  +0000" stop="20260308002900  +0000" channel="Italia2.it">
+  <programme start="20260307235900  +0000" stop="20260308002900  +0000" channel="Italia2.it">
     <title lang="it">What&apos;s my destiny Dragon Ball (St. 1 - Ep. 75)</title>
     <category lang="it">Ragazzi</category>
   </programme>
@@ -35535,11 +35475,11 @@
     <title lang="it">Innamorati per caso (2020)</title>
     <category lang="it">Film</category>
   </programme>
-  <programme start="20260308220700  +0000" stop="20260308235400  +0000" channel="La5.it">
+  <programme start="20260308220700  +0000" stop="20260308235300  +0000" channel="La5.it">
     <title lang="it">Amici di Maria</title>
     <category lang="it">Intrattenimento</category>
   </programme>
-  <programme start="20260308235400  +0000" stop="20260309003200  +0000" channel="La5.it">
+  <programme start="20260308235300  +0000" stop="20260309003200  +0000" channel="La5.it">
     <title lang="it">X- Style</title>
     <category lang="it">LifeStyle</category>
   </programme>
@@ -35571,11 +35511,11 @@
     <title lang="it">Centovetrine (St. 1 - Ep. 112)</title>
     <category lang="it">Soap Opera</category>
   </programme>
-  <programme start="20260309040700  +0000" stop="20260309045900  +0000" channel="La5.it">
+  <programme start="20260309040700  +0000" stop="20260309050000  +0000" channel="La5.it">
     <title lang="it">Tempesta d&apos;amore (St. 17 - Ep. 211)</title>
     <category lang="it">Soap Opera</category>
   </programme>
-  <programme start="20260309045900  +0000" stop="20260309052900  +0000" channel="La5.it">
+  <programme start="20260309050000  +0000" stop="20260309053000  +0000" channel="La5.it">
     <title lang="it">Tempesta d&apos;amore (St. 17 - Ep. 212)</title>
     <category lang="it">Soap Opera</category>
   </programme>
@@ -35983,63 +35923,63 @@
     <title lang="it">Non e&apos; la Rai</title>
     <category lang="it">Intrattenimento</category>
   </programme>
-  <programme start="20260307035000  +0000" stop="20260307050300  +0000" channel="MediasetExtra.it">
+  <programme start="20260307035000  +0000" stop="20260307050200  +0000" channel="MediasetExtra.it">
     <title lang="it">Non e&apos; la Rai</title>
     <category lang="it">Intrattenimento</category>
   </programme>
-  <programme start="20260307050300  +0000" stop="20260307052700  +0000" channel="MediasetExtra.it">
-    <title lang="it">Casa Vianello (St. 1 - Ep. 16)</title>
+  <programme start="20260307050200  +0000" stop="20260307051000  +0000" channel="MediasetExtra.it">
+    <title lang="it">La sai l&apos;ultima? - snack</title>
+    <category lang="it">Intrattenimento</category>
+  </programme>
+  <programme start="20260307051000  +0000" stop="20260307051400  +0000" channel="MediasetExtra.it">
+    <title lang="it">La sai l&apos;ultima? - snack</title>
+    <category lang="it">Intrattenimento</category>
+  </programme>
+  <programme start="20260307051400  +0000" stop="20260307053800  +0000" channel="MediasetExtra.it">
+    <title lang="it">Casa Vianello (St. 1 - Ep. 6)</title>
     <category lang="it">Sit Com</category>
   </programme>
-  <programme start="20260307052700  +0000" stop="20260307054700  +0000" channel="MediasetExtra.it">
-    <title lang="it">Casa Vianello (St. 1 - Ep. 17)</title>
+  <programme start="20260307053800  +0000" stop="20260307060100  +0000" channel="MediasetExtra.it">
+    <title lang="it">Casa Vianello (St. 1 - Ep. 7)</title>
     <category lang="it">Sit Com</category>
   </programme>
-  <programme start="20260307054700  +0000" stop="20260307060700  +0000" channel="MediasetExtra.it">
-    <title lang="it">Casa Vianello (St. 1 - Ep. 18)</title>
+  <programme start="20260307060100  +0000" stop="20260307062600  +0000" channel="MediasetExtra.it">
+    <title lang="it">Casa Vianello (St. 1 - Ep. 8)</title>
     <category lang="it">Sit Com</category>
   </programme>
-  <programme start="20260307060700  +0000" stop="20260307063100  +0000" channel="MediasetExtra.it">
-    <title lang="it">Casa Vianello (St. 1 - Ep. 19)</title>
+  <programme start="20260307062600  +0000" stop="20260307065200  +0000" channel="MediasetExtra.it">
+    <title lang="it">Casa Vianello (St. 1 - Ep. 9)</title>
     <category lang="it">Sit Com</category>
   </programme>
-  <programme start="20260307063100  +0000" stop="20260307065600  +0000" channel="MediasetExtra.it">
-    <title lang="it">Casa Vianello (St. 1 - Ep. 20)</title>
+  <programme start="20260307065200  +0000" stop="20260307071800  +0000" channel="MediasetExtra.it">
+    <title lang="it">Casa Vianello (St. 1 - Ep. 10)</title>
     <category lang="it">Sit Com</category>
   </programme>
-  <programme start="20260307065600  +0000" stop="20260307072600  +0000" channel="MediasetExtra.it">
-    <title lang="it">Casa Vianello (St. 2 - Ep. 1)</title>
-    <category lang="it">Sit Com</category>
-  </programme>
-  <programme start="20260307072600  +0000" stop="20260307075600  +0000" channel="MediasetExtra.it">
-    <title lang="it">Casa Vianello (St. 2 - Ep. 2)</title>
-    <category lang="it">Sit Com</category>
-  </programme>
-  <programme start="20260307075600  +0000" stop="20260307101700  +0000" channel="MediasetExtra.it">
+  <programme start="20260307071800  +0000" stop="20260307093400  +0000" channel="MediasetExtra.it">
     <title lang="it">Le stagioni del cuore (St. 1 - Ep. 6)</title>
     <category lang="it">Serie TV</category>
   </programme>
-  <programme start="20260307101700  +0000" stop="20260307110000  +0000" channel="MediasetExtra.it">
+  <programme start="20260307093400  +0000" stop="20260307103900  +0000" channel="MediasetExtra.it">
     <title lang="it">Carabinieri (St. 2 - Ep. 22)</title>
     <category lang="it">Serie TV</category>
   </programme>
-  <programme start="20260307110000  +0000" stop="20260307115500  +0000" channel="MediasetExtra.it">
+  <programme start="20260307103900  +0000" stop="20260307114300  +0000" channel="MediasetExtra.it">
     <title lang="it">Carabinieri (St. 2 - Ep. 23)</title>
     <category lang="it">Serie TV</category>
   </programme>
-  <programme start="20260307115500  +0000" stop="20260307125800  +0000" channel="MediasetExtra.it">
+  <programme start="20260307114300  +0000" stop="20260307125300  +0000" channel="MediasetExtra.it">
     <title lang="it">Carabinieri (St. 2 - Ep. 24)</title>
     <category lang="it">Serie TV</category>
   </programme>
-  <programme start="20260307125800  +0000" stop="20260307140700  +0000" channel="MediasetExtra.it">
+  <programme start="20260307125300  +0000" stop="20260307140400  +0000" channel="MediasetExtra.it">
     <title lang="it">Distretto di Polizia (St. 9 - Ep. 13)</title>
     <category lang="it">Serie TV</category>
   </programme>
-  <programme start="20260307140700  +0000" stop="20260307150900  +0000" channel="MediasetExtra.it">
+  <programme start="20260307140400  +0000" stop="20260307151100  +0000" channel="MediasetExtra.it">
     <title lang="it">Distretto di Polizia (St. 9 - Ep. 14)</title>
     <category lang="it">Serie TV</category>
   </programme>
-  <programme start="20260307150900  +0000" stop="20260307162300  +0000" channel="MediasetExtra.it">
+  <programme start="20260307151100  +0000" stop="20260307162300  +0000" channel="MediasetExtra.it">
     <title lang="it">Distretto di Polizia (St. 9 - Ep. 15)</title>
     <category lang="it">Serie TV</category>
   </programme>
@@ -36047,132 +35987,120 @@
     <title lang="it">Un ciclone in famiglia (St. 2 - Ep. 6)</title>
     <category lang="it">Serie TV</category>
   </programme>
-  <programme start="20260307182500  +0000" stop="20260307202800  +0000" channel="MediasetExtra.it">
+  <programme start="20260307182500  +0000" stop="20260307202200  +0000" channel="MediasetExtra.it">
     <title lang="it">Un ciclone in famiglia (St. 3 - Ep. 1)</title>
     <category lang="it">Serie TV</category>
   </programme>
-  <programme start="20260307202800  +0000" stop="20260307234100  +0000" channel="MediasetExtra.it">
+  <programme start="20260307202200  +0000" stop="20260307234200  +0000" channel="MediasetExtra.it">
     <title lang="it">Quarto grado</title>
     <category lang="it">Attualità</category>
   </programme>
-  <programme start="20260307234100  +0000" stop="20260308004200  +0000" channel="MediasetExtra.it">
+  <programme start="20260307234200  +0000" stop="20260308005200  +0000" channel="MediasetExtra.it">
     <title lang="it">Caduta libera</title>
     <category lang="it">Intrattenimento</category>
   </programme>
-  <programme start="20260308004200  +0000" stop="20260308022600  +0000" channel="MediasetExtra.it">
+  <programme start="20260308005200  +0000" stop="20260308022800  +0000" channel="MediasetExtra.it">
     <title lang="it">Non smettere di sognare (St. 1 - Ep. 7)</title>
     <category lang="it">Serie TV</category>
   </programme>
-  <programme start="20260308022600  +0000" stop="20260308033600  +0000" channel="MediasetExtra.it">
+  <programme start="20260308022800  +0000" stop="20260308033500  +0000" channel="MediasetExtra.it">
     <title lang="it">Non e&apos; la Rai</title>
     <category lang="it">Intrattenimento</category>
   </programme>
-  <programme start="20260308033600  +0000" stop="20260308044100  +0000" channel="MediasetExtra.it">
+  <programme start="20260308033500  +0000" stop="20260308044000  +0000" channel="MediasetExtra.it">
     <title lang="it">Non e&apos; la Rai</title>
     <category lang="it">Intrattenimento</category>
   </programme>
-  <programme start="20260308044100  +0000" stop="20260308044600  +0000" channel="MediasetExtra.it">
-    <title lang="it">Finche&apos; c&apos;e&apos; ditta c&apos;e&apos; speranza (St. 1 - Ep. 13)</title>
+  <programme start="20260308044000  +0000" stop="20260308045100  +0000" channel="MediasetExtra.it">
+    <title lang="it">Finche&apos; c&apos;e&apos; ditta c&apos;e&apos; speranza (St. 1 - Ep. 7)</title>
     <category lang="it">Sit Com</category>
   </programme>
-  <programme start="20260308044600  +0000" stop="20260308044600  +0000" channel="MediasetExtra.it">
-    <title lang="it">Finche&apos; c&apos;e&apos; ditta c&apos;e&apos; speranza (St. 1 - Ep. 14)</title>
+  <programme start="20260308045100  +0000" stop="20260308045500  +0000" channel="MediasetExtra.it">
+    <title lang="it">La sai l&apos;ultima? - snack</title>
+    <category lang="it">Intrattenimento</category>
+  </programme>
+  <programme start="20260308045500  +0000" stop="20260308045500  +0000" channel="MediasetExtra.it">
+    <title lang="it">La sai l&apos;ultima? - snack</title>
+    <category lang="it">Intrattenimento</category>
+  </programme>
+  <programme start="20260308045500  +0000" stop="20260308050200  +0000" channel="MediasetExtra.it">
+    <title lang="it">La sai l&apos;ultima? - snack</title>
+    <category lang="it">Intrattenimento</category>
+  </programme>
+  <programme start="20260308050200  +0000" stop="20260308051300  +0000" channel="MediasetExtra.it">
+    <title lang="it">La sai l&apos;ultima? - snack</title>
+    <category lang="it">Intrattenimento</category>
+  </programme>
+  <programme start="20260308051300  +0000" stop="20260308053500  +0000" channel="MediasetExtra.it">
+    <title lang="it">Casa Vianello (St. 1 - Ep. 11)</title>
     <category lang="it">Sit Com</category>
   </programme>
-  <programme start="20260308044600  +0000" stop="20260308050200  +0000" channel="MediasetExtra.it">
-    <title lang="it">Finche&apos; c&apos;e&apos; ditta c&apos;e&apos; speranza (St. 1 - Ep. 14)</title>
+  <programme start="20260308053500  +0000" stop="20260308055700  +0000" channel="MediasetExtra.it">
+    <title lang="it">Casa Vianello (St. 1 - Ep. 12)</title>
     <category lang="it">Sit Com</category>
   </programme>
-  <programme start="20260308050200  +0000" stop="20260308052600  +0000" channel="MediasetExtra.it">
-    <title lang="it">Casa Vianello (St. 1 - Ep. 17)</title>
+  <programme start="20260308055700  +0000" stop="20260308062000  +0000" channel="MediasetExtra.it">
+    <title lang="it">Casa Vianello (St. 1 - Ep. 13)</title>
     <category lang="it">Sit Com</category>
   </programme>
-  <programme start="20260308052600  +0000" stop="20260308055000  +0000" channel="MediasetExtra.it">
-    <title lang="it">Casa Vianello (St. 1 - Ep. 18)</title>
+  <programme start="20260308062000  +0000" stop="20260308064900  +0000" channel="MediasetExtra.it">
+    <title lang="it">Casa Vianello (St. 1 - Ep. 14)</title>
     <category lang="it">Sit Com</category>
   </programme>
-  <programme start="20260308055000  +0000" stop="20260308061500  +0000" channel="MediasetExtra.it">
-    <title lang="it">Casa Vianello (St. 1 - Ep. 19)</title>
+  <programme start="20260308064900  +0000" stop="20260308072700  +0000" channel="MediasetExtra.it">
+    <title lang="it">Casa Vianello (St. 1 - Ep. 15)</title>
     <category lang="it">Sit Com</category>
   </programme>
-  <programme start="20260308061500  +0000" stop="20260308064100  +0000" channel="MediasetExtra.it">
-    <title lang="it">Casa Vianello (St. 1 - Ep. 20)</title>
+  <programme start="20260308072700  +0000" stop="20260308080500  +0000" channel="MediasetExtra.it">
+    <title lang="it">Casa Vianello (St. 1 - Ep. 16)</title>
     <category lang="it">Sit Com</category>
   </programme>
-  <programme start="20260308064100  +0000" stop="20260308070600  +0000" channel="MediasetExtra.it">
-    <title lang="it">Casa Vianello (St. 2 - Ep. 1)</title>
-    <category lang="it">Sit Com</category>
-  </programme>
-  <programme start="20260308070600  +0000" stop="20260308073300  +0000" channel="MediasetExtra.it">
-    <title lang="it">Casa Vianello (St. 2 - Ep. 2)</title>
-    <category lang="it">Sit Com</category>
-  </programme>
-  <programme start="20260308073300  +0000" stop="20260308075900  +0000" channel="MediasetExtra.it">
-    <title lang="it">Casa Vianello (St. 2 - Ep. 3)</title>
-    <category lang="it">Sit Com</category>
-  </programme>
-  <programme start="20260308075900  +0000" stop="20260308082400  +0000" channel="MediasetExtra.it">
-    <title lang="it">Casa Vianello (St. 2 - Ep. 4)</title>
-    <category lang="it">Sit Com</category>
-  </programme>
-  <programme start="20260308082400  +0000" stop="20260308084900  +0000" channel="MediasetExtra.it">
-    <title lang="it">Casa Vianello (St. 2 - Ep. 5)</title>
-    <category lang="it">Sit Com</category>
-  </programme>
-  <programme start="20260308084900  +0000" stop="20260308091400  +0000" channel="MediasetExtra.it">
-    <title lang="it">Casa Vianello (St. 2 - Ep. 6)</title>
-    <category lang="it">Sit Com</category>
-  </programme>
-  <programme start="20260308091400  +0000" stop="20260308105600  +0000" channel="MediasetExtra.it">
+  <programme start="20260308080500  +0000" stop="20260308102100  +0000" channel="MediasetExtra.it">
     <title lang="it">Un ciclone in famiglia (St. 3 - Ep. 3)</title>
-    <category lang="it">Altro</category>
+    <category lang="it">Serie TV</category>
   </programme>
-  <programme start="20260308105600  +0000" stop="20260308123700  +0000" channel="MediasetExtra.it">
+  <programme start="20260308102100  +0000" stop="20260308124500  +0000" channel="MediasetExtra.it">
     <title lang="it">Un ciclone in famiglia (St. 3 - Ep. 4)</title>
-    <category lang="it">Altro</category>
+    <category lang="it">Serie TV</category>
   </programme>
-  <programme start="20260308123700  +0000" stop="20260308143000  +0000" channel="MediasetExtra.it">
+  <programme start="20260308124500  +0000" stop="20260308145600  +0000" channel="MediasetExtra.it">
     <title lang="it">Fosca Innocenti (St. 1 - Ep. 1)</title>
     <category lang="it">Serie TV</category>
   </programme>
-  <programme start="20260308143000  +0000" stop="20260308162600  +0000" channel="MediasetExtra.it">
+  <programme start="20260308145600  +0000" stop="20260308165800  +0000" channel="MediasetExtra.it">
     <title lang="it">Fosca Innocenti (St. 1 - Ep. 2)</title>
     <category lang="it">Serie TV</category>
   </programme>
-  <programme start="20260308162600  +0000" stop="20260308182900  +0000" channel="MediasetExtra.it">
+  <programme start="20260308165800  +0000" stop="20260308190100  +0000" channel="MediasetExtra.it">
     <title lang="it">Fosca Innocenti (St. 1 - Ep. 3)</title>
     <category lang="it">Serie TV</category>
   </programme>
-  <programme start="20260308182900  +0000" stop="20260308202900  +0000" channel="MediasetExtra.it">
+  <programme start="20260308190100  +0000" stop="20260308205900  +0000" channel="MediasetExtra.it">
     <title lang="it">Fosca Innocenti (St. 1 - Ep. 4)</title>
     <category lang="it">Serie TV</category>
   </programme>
-  <programme start="20260308202900  +0000" stop="20260308234200  +0000" channel="MediasetExtra.it">
+  <programme start="20260308205900  +0000" stop="20260309012000  +0000" channel="MediasetExtra.it">
     <title lang="it">Tu si que vales</title>
     <category lang="it">Intrattenimento</category>
   </programme>
-  <programme start="20260308234200  +0000" stop="20260309004200  +0000" channel="MediasetExtra.it">
+  <programme start="20260309012000  +0000" stop="20260309021700  +0000" channel="MediasetExtra.it">
     <title lang="it">Caduta libera</title>
     <category lang="it">Intrattenimento</category>
   </programme>
-  <programme start="20260309004200  +0000" stop="20260309022600  +0000" channel="MediasetExtra.it">
+  <programme start="20260309021700  +0000" stop="20260309040700  +0000" channel="MediasetExtra.it">
     <title lang="it">Non smettere di sognare (St. 1 - Ep. 8)</title>
     <category lang="it">Serie TV</category>
   </programme>
-  <programme start="20260309022600  +0000" stop="20260309033600  +0000" channel="MediasetExtra.it">
-    <title lang="it">Non e&apos; la Rai</title>
+  <programme start="20260309040700  +0000" stop="20260309042400  +0000" channel="MediasetExtra.it">
+    <title lang="it">La sai l&apos;ultima? - snack</title>
     <category lang="it">Intrattenimento</category>
   </programme>
-  <programme start="20260309033600  +0000" stop="20260309044100  +0000" channel="MediasetExtra.it">
-    <title lang="it">Non e&apos; la Rai</title>
-    <category lang="it">Intrattenimento</category>
-  </programme>
-  <programme start="20260309044100  +0000" stop="20260309044600  +0000" channel="MediasetExtra.it">
-    <title lang="it">Finche&apos; c&apos;e&apos; ditta c&apos;e&apos; speranza (St. 1 - Ep. 15)</title>
+  <programme start="20260309042400  +0000" stop="20260309044100  +0000" channel="MediasetExtra.it">
+    <title lang="it">Finche&apos; c&apos;e&apos; ditta c&apos;e&apos; speranza (St. 1 - Ep. 8)</title>
     <category lang="it">Sit Com</category>
   </programme>
-  <programme start="20260309044600  +0000" stop="20260309051600  +0000" channel="MediasetExtra.it">
-    <title lang="it">Finche&apos; c&apos;e&apos; ditta c&apos;e&apos; speranza (St. 1 - Ep. 16)</title>
+  <programme start="20260309044100  +0000" stop="20260309051100  +0000" channel="MediasetExtra.it">
+    <title lang="it">Finche&apos; c&apos;e&apos; ditta c&apos;e&apos; speranza (St. 1 - Ep. 15)</title>
     <category lang="it">Sit Com</category>
   </programme>
   <programme start="20260306035600  +0000" stop="20260306050300  +0000" channel="superguidatv:mediaset-extra/sky-intrattenimento/194">
@@ -37859,60 +37787,68 @@
     <title lang="it">44 gatti (St. 2 - Ep. 28)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307015500  +0000" stop="20260307023500  +0000" channel="NickJr.it">
+  <programme start="20260307015500  +0000" stop="20260307021000  +0000" channel="NickJr.it">
     <title lang="it">44 gatti (St. 2 - Ep. 29)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307023500  +0000" stop="20260307024500  +0000" channel="NickJr.it">
+  <programme start="20260307021000  +0000" stop="20260307021500  +0000" channel="NickJr.it">
     <title lang="it">Vetrina Nick Junior</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307024500  +0000" stop="20260307025500  +0000" channel="NickJr.it">
+  <programme start="20260307021500  +0000" stop="20260307023000  +0000" channel="NickJr.it">
     <title lang="it">44 gatti (St. 2 - Ep. 30)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307025500  +0000" stop="20260307031000  +0000" channel="NickJr.it">
+  <programme start="20260307023000  +0000" stop="20260307024500  +0000" channel="NickJr.it">
     <title lang="it">44 gatti (St. 2 - Ep. 31)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307031000  +0000" stop="20260307032000  +0000" channel="NickJr.it">
+  <programme start="20260307024500  +0000" stop="20260307025500  +0000" channel="NickJr.it">
     <title lang="it">44 gatti (St. 2 - Ep. 32)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307032000  +0000" stop="20260307033500  +0000" channel="NickJr.it">
+  <programme start="20260307025500  +0000" stop="20260307031000  +0000" channel="NickJr.it">
     <title lang="it">44 gatti (St. 2 - Ep. 33)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307033500  +0000" stop="20260307035000  +0000" channel="NickJr.it">
+  <programme start="20260307031000  +0000" stop="20260307032000  +0000" channel="NickJr.it">
     <title lang="it">44 gatti (St. 2 - Ep. 34)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307035000  +0000" stop="20260307040500  +0000" channel="NickJr.it">
+  <programme start="20260307032000  +0000" stop="20260307033000  +0000" channel="NickJr.it">
     <title lang="it">44 gatti (St. 2 - Ep. 35)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307040500  +0000" stop="20260307042000  +0000" channel="NickJr.it">
+  <programme start="20260307033000  +0000" stop="20260307034500  +0000" channel="NickJr.it">
     <title lang="it">44 gatti (St. 2 - Ep. 36)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307042000  +0000" stop="20260307043000  +0000" channel="NickJr.it">
+  <programme start="20260307034500  +0000" stop="20260307035500  +0000" channel="NickJr.it">
     <title lang="it">44 gatti (St. 2 - Ep. 37)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307043000  +0000" stop="20260307044500  +0000" channel="NickJr.it">
+  <programme start="20260307035500  +0000" stop="20260307041000  +0000" channel="NickJr.it">
     <title lang="it">44 gatti (St. 2 - Ep. 38)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307044500  +0000" stop="20260307045500  +0000" channel="NickJr.it">
+  <programme start="20260307041000  +0000" stop="20260307042500  +0000" channel="NickJr.it">
     <title lang="it">44 gatti (St. 2 - Ep. 39)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307045500  +0000" stop="20260307045500  +0000" channel="NickJr.it">
+  <programme start="20260307042500  +0000" stop="20260307043500  +0000" channel="NickJr.it">
     <title lang="it">44 gatti (St. 2 - Ep. 40)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307045500  +0000" stop="20260307050000  +0000" channel="NickJr.it">
-    <title lang="it">44 gatti (St. 2 - Ep. 40)</title>
+  <programme start="20260307043500  +0000" stop="20260307044500  +0000" channel="NickJr.it">
+    <title lang="it">44 gatti (St. 2 - Ep. 34)</title>
+    <category lang="it">Ragazzi</category>
+  </programme>
+  <programme start="20260307044500  +0000" stop="20260307044500  +0000" channel="NickJr.it">
+    <title lang="it">44 gatti (St. 2 - Ep. 35)</title>
+    <category lang="it">Ragazzi</category>
+  </programme>
+  <programme start="20260307044500  +0000" stop="20260307050000  +0000" channel="NickJr.it">
+    <title lang="it">44 gatti (St. 2 - Ep. 35)</title>
     <category lang="it">Ragazzi</category>
   </programme>
   <programme start="20260307050000  +0000" stop="20260307050000  +0000" channel="NickJr.it">
@@ -38063,8 +37999,16 @@
     <title lang="it">Alvinnn!!! and the Chipmunks (St. 3 - Ep. 6)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307190000  +0000" stop="20260307201500  +0000" channel="NickJr.it">
+  <programme start="20260307190000  +0000" stop="20260307192500  +0000" channel="NickJr.it">
     <title lang="it">Alvinnn!!! and the Chipmunks (St. 3 - Ep. 7)</title>
+    <category lang="it">Ragazzi</category>
+  </programme>
+  <programme start="20260307192500  +0000" stop="20260307195000  +0000" channel="NickJr.it">
+    <title lang="it">Alvinnn!!! and the Chipmunks (St. 3 - Ep. 8)</title>
+    <category lang="it">Ragazzi</category>
+  </programme>
+  <programme start="20260307195000  +0000" stop="20260307201500  +0000" channel="NickJr.it">
+    <title lang="it">Alvinnn!!! and the Chipmunks (St. 3 - Ep. 9)</title>
     <category lang="it">Ragazzi</category>
   </programme>
   <programme start="20260307201500  +0000" stop="20260307204000  +0000" channel="NickJr.it">
@@ -38791,24 +38735,16 @@
     <title lang="it">Monster Loving Maniacs (St. 1 - Ep. 44)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307010500  +0000" stop="20260307011000  +0000" channel="Nickelodeon.it">
+  <programme start="20260307010500  +0000" stop="20260307011500  +0000" channel="Nickelodeon.it">
     <title lang="it">Monster Loving Maniacs (St. 1 - Ep. 45)</title>
-    <category lang="it">Ragazzi</category>
-  </programme>
-  <programme start="20260307011000  +0000" stop="20260307011500  +0000" channel="Nickelodeon.it">
-    <title lang="it">Monster Loving Maniacs (St. 1 - Ep. 40)</title>
     <category lang="it">Ragazzi</category>
   </programme>
   <programme start="20260307011500  +0000" stop="20260307012500  +0000" channel="Nickelodeon.it">
     <title lang="it">Monster Loving Maniacs (St. 1 - Ep. 46)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307012500  +0000" stop="20260307013500  +0000" channel="Nickelodeon.it">
+  <programme start="20260307012500  +0000" stop="20260307014000  +0000" channel="Nickelodeon.it">
     <title lang="it">Monster Loving Maniacs (St. 1 - Ep. 47)</title>
-    <category lang="it">Ragazzi</category>
-  </programme>
-  <programme start="20260307013500  +0000" stop="20260307014000  +0000" channel="Nickelodeon.it">
-    <title lang="it">Monster Loving Maniacs (St. 1 - Ep. 42)</title>
     <category lang="it">Ragazzi</category>
   </programme>
   <programme start="20260307014000  +0000" stop="20260307015000  +0000" channel="Nickelodeon.it">
@@ -38819,68 +38755,72 @@
     <title lang="it">Monster Loving Maniacs (St. 1 - Ep. 49)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307020000  +0000" stop="20260307020500  +0000" channel="Nickelodeon.it">
+  <programme start="20260307020000  +0000" stop="20260307021500  +0000" channel="Nickelodeon.it">
     <title lang="it">Monster Loving Maniacs (St. 1 - Ep. 50)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307020500  +0000" stop="20260307021500  +0000" channel="Nickelodeon.it">
-    <title lang="it">Monster Loving Maniacs (St. 1 - Ep. 44)</title>
-    <category lang="it">Ragazzi</category>
-  </programme>
-  <programme start="20260307021500  +0000" stop="20260307023000  +0000" channel="Nickelodeon.it">
-    <title lang="it">Monster Loving Maniacs (St. 1 - Ep. 45)</title>
-    <category lang="it">Ragazzi</category>
-  </programme>
-  <programme start="20260307023000  +0000" stop="20260307024000  +0000" channel="Nickelodeon.it">
-    <title lang="it">Monster Loving Maniacs (St. 1 - Ep. 46)</title>
-    <category lang="it">Ragazzi</category>
-  </programme>
-  <programme start="20260307024000  +0000" stop="20260307025000  +0000" channel="Nickelodeon.it">
-    <title lang="it">Monster Loving Maniacs (St. 1 - Ep. 47)</title>
-    <category lang="it">Ragazzi</category>
-  </programme>
-  <programme start="20260307025000  +0000" stop="20260307030500  +0000" channel="Nickelodeon.it">
-    <title lang="it">Monster Loving Maniacs (St. 1 - Ep. 48)</title>
-    <category lang="it">Ragazzi</category>
-  </programme>
-  <programme start="20260307030500  +0000" stop="20260307031500  +0000" channel="Nickelodeon.it">
-    <title lang="it">Monster Loving Maniacs (St. 1 - Ep. 49)</title>
-    <category lang="it">Ragazzi</category>
-  </programme>
-  <programme start="20260307031500  +0000" stop="20260307033000  +0000" channel="Nickelodeon.it">
-    <title lang="it">Monster Loving Maniacs (St. 1 - Ep. 50)</title>
-    <category lang="it">Ragazzi</category>
-  </programme>
-  <programme start="20260307033000  +0000" stop="20260307034000  +0000" channel="Nickelodeon.it">
+  <programme start="20260307021500  +0000" stop="20260307022500  +0000" channel="Nickelodeon.it">
     <title lang="it">Vetrina Nick Junior</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307034000  +0000" stop="20260307035500  +0000" channel="Nickelodeon.it">
+  <programme start="20260307022500  +0000" stop="20260307023500  +0000" channel="Nickelodeon.it">
     <title lang="it">Monster Loving Maniacs (St. 1 - Ep. 51)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307035500  +0000" stop="20260307040500  +0000" channel="Nickelodeon.it">
+  <programme start="20260307023500  +0000" stop="20260307024500  +0000" channel="Nickelodeon.it">
     <title lang="it">Monster Loving Maniacs (St. 1 - Ep. 52)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307040500  +0000" stop="20260307042000  +0000" channel="Nickelodeon.it">
+  <programme start="20260307024500  +0000" stop="20260307025500  +0000" channel="Nickelodeon.it">
     <title lang="it">Monster Loving Maniacs (St. 1 - Ep. 1)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307042000  +0000" stop="20260307043000  +0000" channel="Nickelodeon.it">
+  <programme start="20260307025500  +0000" stop="20260307031000  +0000" channel="Nickelodeon.it">
     <title lang="it">Monster Loving Maniacs (St. 1 - Ep. 2)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307043000  +0000" stop="20260307044500  +0000" channel="Nickelodeon.it">
+  <programme start="20260307031000  +0000" stop="20260307032000  +0000" channel="Nickelodeon.it">
     <title lang="it">Monster Loving Maniacs (St. 1 - Ep. 3)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307044500  +0000" stop="20260307044500  +0000" channel="Nickelodeon.it">
+  <programme start="20260307032000  +0000" stop="20260307033000  +0000" channel="Nickelodeon.it">
     <title lang="it">Monster Loving Maniacs (St. 1 - Ep. 4)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307044500  +0000" stop="20260307050000  +0000" channel="Nickelodeon.it">
+  <programme start="20260307033000  +0000" stop="20260307034000  +0000" channel="Nickelodeon.it">
+    <title lang="it">Monster Loving Maniacs (St. 1 - Ep. 51)</title>
+    <category lang="it">Ragazzi</category>
+  </programme>
+  <programme start="20260307034000  +0000" stop="20260307035000  +0000" channel="Nickelodeon.it">
+    <title lang="it">Monster Loving Maniacs (St. 1 - Ep. 52)</title>
+    <category lang="it">Ragazzi</category>
+  </programme>
+  <programme start="20260307035000  +0000" stop="20260307040500  +0000" channel="Nickelodeon.it">
+    <title lang="it">Monster Loving Maniacs (St. 1 - Ep. 1)</title>
+    <category lang="it">Ragazzi</category>
+  </programme>
+  <programme start="20260307040500  +0000" stop="20260307041500  +0000" channel="Nickelodeon.it">
+    <title lang="it">Monster Loving Maniacs (St. 1 - Ep. 2)</title>
+    <category lang="it">Ragazzi</category>
+  </programme>
+  <programme start="20260307041500  +0000" stop="20260307042500  +0000" channel="Nickelodeon.it">
+    <title lang="it">Monster Loving Maniacs (St. 1 - Ep. 3)</title>
+    <category lang="it">Ragazzi</category>
+  </programme>
+  <programme start="20260307042500  +0000" stop="20260307043500  +0000" channel="Nickelodeon.it">
     <title lang="it">Monster Loving Maniacs (St. 1 - Ep. 4)</title>
+    <category lang="it">Ragazzi</category>
+  </programme>
+  <programme start="20260307043500  +0000" stop="20260307044500  +0000" channel="Nickelodeon.it">
+    <title lang="it">Monster Loving Maniacs (St. 1 - Ep. 5)</title>
+    <category lang="it">Ragazzi</category>
+  </programme>
+  <programme start="20260307044500  +0000" stop="20260307044500  +0000" channel="Nickelodeon.it">
+    <title lang="it">Monster Loving Maniacs (St. 1 - Ep. 6)</title>
+    <category lang="it">Ragazzi</category>
+  </programme>
+  <programme start="20260307044500  +0000" stop="20260307050000  +0000" channel="Nickelodeon.it">
+    <title lang="it">Monster Loving Maniacs (St. 1 - Ep. 6)</title>
     <category lang="it">Ragazzi</category>
   </programme>
   <programme start="20260307050000  +0000" stop="20260307050000  +0000" channel="Nickelodeon.it">
@@ -39027,8 +38967,16 @@
     <title lang="it">SpongeBob (St. 15 - Ep. 5)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307185500  +0000" stop="20260307200500  +0000" channel="Nickelodeon.it">
+  <programme start="20260307185500  +0000" stop="20260307192000  +0000" channel="Nickelodeon.it">
     <title lang="it">SpongeBob (St. 15 - Ep. 6)</title>
+    <category lang="it">Ragazzi</category>
+  </programme>
+  <programme start="20260307192000  +0000" stop="20260307194500  +0000" channel="Nickelodeon.it">
+    <title lang="it">SpongeBob (St. 15 - Ep. 7)</title>
+    <category lang="it">Ragazzi</category>
+  </programme>
+  <programme start="20260307194500  +0000" stop="20260307200500  +0000" channel="Nickelodeon.it">
+    <title lang="it">SpongeBob (St. 15 - Ep. 8)</title>
     <category lang="it">Ragazzi</category>
   </programme>
   <programme start="20260307200500  +0000" stop="20260307203000  +0000" channel="Nickelodeon.it">
@@ -49315,39 +49263,39 @@
     <title lang="it">Taken (St. 1 - Ep. 1)</title>
     <category lang="it">Serie TV</category>
   </programme>
-  <programme start="20260307041300  +0000" stop="20260307044100  +0000" channel="Rete4.it">
+  <programme start="20260307041300  +0000" stop="20260307044200  +0000" channel="Rete4.it">
     <title lang="it">Due per tre (St. 1 - Ep. 18)</title>
     <category lang="it">Sit Com</category>
   </programme>
-  <programme start="20260307044100  +0000" stop="20260307044100  +0000" channel="Rete4.it">
+  <programme start="20260307044200  +0000" stop="20260307044200  +0000" channel="Rete4.it">
     <title lang="it">Tg4 - ultima ora mattina</title>
     <category lang="it">Notizie</category>
   </programme>
-  <programme start="20260307044100  +0000" stop="20260307050100  +0000" channel="Rete4.it">
+  <programme start="20260307044200  +0000" stop="20260307050200  +0000" channel="Rete4.it">
     <title lang="it">Tg4 - ultima ora mattina</title>
     <category lang="it">Notizie</category>
   </programme>
-  <programme start="20260307050100  +0000" stop="20260307055700  +0000" channel="Rete4.it">
+  <programme start="20260307050200  +0000" stop="20260307055800  +0000" channel="Rete4.it">
     <title lang="it">4 di sera</title>
     <category lang="it">Attualità</category>
   </programme>
-  <programme start="20260307055700  +0000" stop="20260307063400  +0000" channel="Rete4.it">
+  <programme start="20260307055800  +0000" stop="20260307063000  +0000" channel="Rete4.it">
     <title lang="it">La promessa (St. 4 - Ep. 97)</title>
     <category lang="it">Soap Opera</category>
   </programme>
-  <programme start="20260307063400  +0000" stop="20260307073000  +0000" channel="Rete4.it">
+  <programme start="20260307063000  +0000" stop="20260307073000  +0000" channel="Rete4.it">
     <title lang="it">Terra Amara (St. 2 - Ep. 66)</title>
     <category lang="it">Soap Opera</category>
   </programme>
-  <programme start="20260307073000  +0000" stop="20260307083500  +0000" channel="Rete4.it">
+  <programme start="20260307073000  +0000" stop="20260307083600  +0000" channel="Rete4.it">
     <title lang="it">Terra Amara (St. 2 - Ep. 67)</title>
     <category lang="it">Soap Opera</category>
   </programme>
-  <programme start="20260307083500  +0000" stop="20260307094200  +0000" channel="Rete4.it">
+  <programme start="20260307083600  +0000" stop="20260307094300  +0000" channel="Rete4.it">
     <title lang="it">Tradimento (St. 1 - Ep. 66)</title>
     <category lang="it">Soap Opera</category>
   </programme>
-  <programme start="20260307094200  +0000" stop="20260307105500  +0000" channel="Rete4.it">
+  <programme start="20260307094300  +0000" stop="20260307105500  +0000" channel="Rete4.it">
     <title lang="it">Delitti ai Caraibi (St. 1 - Ep. 6)</title>
     <category lang="it">Serie TV</category>
   </programme>
@@ -49359,19 +49307,27 @@
     <title lang="it">La signora in giallo (St. 12 - Ep. 8)</title>
     <category lang="it">Serie TV</category>
   </programme>
-  <programme start="20260307130000  +0000" stop="20260307143000  +0000" channel="Rete4.it">
+  <programme start="20260307130000  +0000" stop="20260307143100  +0000" channel="Rete4.it">
     <title lang="it">Lo sportello di forum</title>
     <category lang="it">Intrattenimento</category>
   </programme>
-  <programme start="20260307143000  +0000" stop="20260307143500  +0000" channel="Rete4.it">
+  <programme start="20260307143100  +0000" stop="20260307143600  +0000" channel="Rete4.it">
     <title lang="it">Tg4 - Diario del giorno (Anteprima)</title>
     <category lang="it">Rubrica</category>
   </programme>
-  <programme start="20260307143500  +0000" stop="20260307155100  +0000" channel="Rete4.it">
+  <programme start="20260307143600  +0000" stop="20260307153400  +0000" channel="Rete4.it">
     <title lang="it">Diario del giorno sabato</title>
     <category lang="it">Rubrica</category>
   </programme>
-  <programme start="20260307155100  +0000" stop="20260307175800  +0000" channel="Rete4.it">
+  <programme start="20260307153400  +0000" stop="20260307153900  +0000" channel="Rete4.it">
+    <title lang="it">Freedom Pills (St. 1 - Ep. 9)</title>
+    <category lang="it">Altro</category>
+  </programme>
+  <programme start="20260307153900  +0000" stop="20260307155200  +0000" channel="Rete4.it">
+    <title lang="it">Freedom pills (St. 1 - Ep. 20)</title>
+    <category lang="it">Altro</category>
+  </programme>
+  <programme start="20260307155200  +0000" stop="20260307175800  +0000" channel="Rete4.it">
     <title lang="it">Colombo (St. 2 - Ep. 5)</title>
     <category lang="it">Serie TV</category>
   </programme>
@@ -49379,11 +49335,11 @@
     <title lang="it">Tg4</title>
     <category lang="it">Notizie</category>
   </programme>
-  <programme start="20260307184100  +0000" stop="20260307192200  +0000" channel="Rete4.it">
+  <programme start="20260307184100  +0000" stop="20260307192300  +0000" channel="Rete4.it">
     <title lang="it">La promessa (St. 4 - Ep. 97)</title>
     <category lang="it">Soap Opera</category>
   </programme>
-  <programme start="20260307192200  +0000" stop="20260307192900  +0000" channel="Rete4.it">
+  <programme start="20260307192300  +0000" stop="20260307192900  +0000" channel="Rete4.it">
     <title lang="it">La promessa (St. 4 - Ep. 98)</title>
     <category lang="it">Soap Opera</category>
   </programme>
@@ -49391,11 +49347,11 @@
     <title lang="it">4 di sera weekend</title>
     <category lang="it">Rubrica</category>
   </programme>
-  <programme start="20260307203300  +0000" stop="20260307223900  +0000" channel="Rete4.it">
+  <programme start="20260307203300  +0000" stop="20260307223800  +0000" channel="Rete4.it">
     <title lang="it">Banana Joe (1982)</title>
     <category lang="it">Film</category>
   </programme>
-  <programme start="20260307223900  +0000" stop="20260308005800  +0000" channel="Rete4.it">
+  <programme start="20260307223800  +0000" stop="20260308005800  +0000" channel="Rete4.it">
     <title lang="it">Arma letale 3 (1992)</title>
     <category lang="it">Film</category>
   </programme>
@@ -49403,17 +49359,25 @@
     <title lang="it">Tg4 - ultima ora notte</title>
     <category lang="it">Notizie</category>
   </programme>
-  <programme start="20260308011700  +0000" stop="20260308024900  +0000" channel="Rete4.it">
+  <programme start="20260308011700  +0000" stop="20260308024800  +0000" channel="Rete4.it">
     <title lang="it">Ieri e oggi in tv special</title>
     <category lang="it">Intrattenimento</category>
   </programme>
-  <programme start="20260308024900  +0000" stop="20260308041500  +0000" channel="Rete4.it">
+  <programme start="20260308024800  +0000" stop="20260308041500  +0000" channel="Rete4.it">
     <title lang="it">La signora gioca bene a scopa? (1974)</title>
     <category lang="it">Film</category>
+  </programme>
+  <programme start="20260308041500  +0000" stop="20260308041500  +0000" channel="Rete4.it">
+    <title lang="it">Taken (St. 1 - Ep. 2)</title>
+    <category lang="it">Altro</category>
   </programme>
   <programme start="20260308041500  +0000" stop="20260308050000  +0000" channel="Rete4.it">
     <title lang="it">Taken (St. 1 - Ep. 2)</title>
     <category lang="it">Altro</category>
+  </programme>
+  <programme start="20260308050000  +0000" stop="20260308050000  +0000" channel="Rete4.it">
+    <title lang="it">Tg4 - ultima ora mattina</title>
+    <category lang="it">Notizie</category>
   </programme>
   <programme start="20260308050000  +0000" stop="20260308052100  +0000" channel="Rete4.it">
     <title lang="it">Tg4 - ultima ora mattina</title>
@@ -58347,28 +58311,20 @@
     <title lang="it">Premier Padel (St. 2026 - Ep. 7)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260306160000  +0000" stop="20260306182500  +0000" channel="SkySportUno.it">
+  <programme start="20260306160000  +0000" stop="20260306180000  +0000" channel="SkySportUno.it">
     <title lang="it">Premier Padel (St. 2026 - Ep. 8)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260306182500  +0000" stop="20260306192500  +0000" channel="SkySportUno.it">
+  <programme start="20260306180000  +0000" stop="20260306190000  +0000" channel="SkySportUno.it">
     <title lang="it">L&apos;uomo della domenica (St. 2026 - Ep. 6)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260306192500  +0000" stop="20260306213000  +0000" channel="SkySportUno.it">
-    <title lang="it">Bundesliga (St. 2025 - Ep. 138)</title>
+  <programme start="20260306190000  +0000" stop="20260306231000  +0000" channel="SkySportUno.it">
+    <title lang="it">Tennis: ATP &amp; WTA 1000 Indian Wells (St. 2026 - Ep. 3)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260306213000  +0000" stop="20260306220500  +0000" channel="SkySportUno.it">
-    <title lang="it">Basket Room NBA Talk (St. 2025 - Ep. 19)</title>
-    <category lang="it">Sport</category>
-  </programme>
-  <programme start="20260306220500  +0000" stop="20260306235000  +0000" channel="SkySportUno.it">
-    <title lang="it">Ligue 1 (St. 2025 - Ep. 80)</title>
-    <category lang="it">Sport</category>
-  </programme>
-  <programme start="20260306235000  +0000" stop="20260307001000  +0000" channel="SkySportUno.it">
-    <title lang="it">Sport Dataroom (St. 2025 - Ep. 17)</title>
+  <programme start="20260306231000  +0000" stop="20260307001000  +0000" channel="SkySportUno.it">
+    <title lang="it">L&apos;uomo della domenica (St. 2026 - Ep. 6)</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260307001000  +0000" stop="20260307011500  +0000" channel="SkySportUno.it">
@@ -58379,11 +58335,11 @@
     <title lang="it">F1 Paddock Live Pre Libere</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260307012500  +0000" stop="20260307024000  +0000" channel="SkySportUno.it">
+  <programme start="20260307012500  +0000" stop="20260307023500  +0000" channel="SkySportUno.it">
     <title lang="it">F1 (St. 2026 - Ep. 3)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260307024000  +0000" stop="20260307031000  +0000" channel="SkySportUno.it">
+  <programme start="20260307023500  +0000" stop="20260307031000  +0000" channel="SkySportUno.it">
     <title lang="it">F1 Paddock Live Post Libere</title>
     <category lang="it">Sport</category>
   </programme>
@@ -59147,13 +59103,13 @@
     <title lang="it">TG24 mezz&apos;ora</title>
     <category lang="it">Notizie</category>
   </programme>
-  <programme start="20260308100000  +0000" stop="20260308103000  +0000" channel="SkyTG24.it">
+  <programme start="20260308100000  +0000" stop="20260308102700  +0000" channel="SkyTG24.it">
     <title lang="it">TG24 Progress</title>
     <category lang="it">Notizie</category>
   </programme>
-  <programme start="20260308103000  +0000" stop="20260308105800  +0000" channel="SkyTG24.it">
-    <title lang="it">Tg24 Progress 11:30 (R.)</title>
-    <category lang="it">Notizie</category>
+  <programme start="20260308102700  +0000" stop="20260308105800  +0000" channel="SkyTG24.it">
+    <title lang="it">TG24 Progress</title>
+    <category lang="it">Altro</category>
   </programme>
   <programme start="20260308105800  +0000" stop="20260308113000  +0000" channel="SkyTG24.it">
     <title lang="it">Il TG di Mezzogiorno</title>
@@ -59188,23 +59144,23 @@
     <category lang="it">Notizie</category>
   </programme>
   <programme start="20260308140000  +0000" stop="20260308141500  +0000" channel="SkyTG24.it">
-    <title lang="it">Tg24</title>
+    <title lang="it">TG24 mezz&apos;ora</title>
     <category lang="it">Notizie</category>
   </programme>
   <programme start="20260308141500  +0000" stop="20260308142700  +0000" channel="SkyTG24.it">
-    <title lang="it">Sky Cube (2026) Ep.1 - La Nuova Sfida Dell&apos;artico</title>
-    <category lang="it">Notizie</category>
+    <title lang="it">Sky Cube: Cosa c&apos;e&apos; da sapere (St. 1 - Ep. 1)</title>
+    <category lang="it">Altro</category>
   </programme>
   <programme start="20260308142700  +0000" stop="20260308144500  +0000" channel="SkyTG24.it">
-    <title lang="it">Sky Cube (2026) Ep.3 - La dottrina &quot;Donroe&quot;</title>
-    <category lang="it">Notizie</category>
+    <title lang="it">Sky Cube: Cosa c&apos;e&apos; da sapere (St. 1 - Ep. 3)</title>
+    <category lang="it">Altro</category>
   </programme>
   <programme start="20260308144500  +0000" stop="20260308150000  +0000" channel="SkyTG24.it">
-    <title lang="it">Drive Club</title>
+    <title lang="it">Drive Club (St. 7 - Ep. 5)</title>
     <category lang="it">Notizie</category>
   </programme>
   <programme start="20260308150000  +0000" stop="20260308153000  +0000" channel="SkyTG24.it">
-    <title lang="it">Tg24</title>
+    <title lang="it">TG24 mezz&apos;ora</title>
     <category lang="it">Notizie</category>
   </programme>
   <programme start="20260308153000  +0000" stop="20260308155300  +0000" channel="SkyTG24.it">
@@ -59223,13 +59179,13 @@
     <title lang="it">TG24 mezz&apos;ora</title>
     <category lang="it">Notizie</category>
   </programme>
-  <programme start="20260308170000  +0000" stop="20260308171300  +0000" channel="SkyTG24.it">
+  <programme start="20260308170000  +0000" stop="20260308172800  +0000" channel="SkyTG24.it">
     <title lang="it">TG24 mezz&apos;ora</title>
     <category lang="it">Notizie</category>
   </programme>
-  <programme start="20260308171300  +0000" stop="20260308175800  +0000" channel="SkyTG24.it">
+  <programme start="20260308172800  +0000" stop="20260308175800  +0000" channel="SkyTG24.it">
     <title lang="it">Sky TG25 (St. 3 - Ep. 10)</title>
-    <category lang="it">Notizie</category>
+    <category lang="it">Altro</category>
   </programme>
   <programme start="20260308175800  +0000" stop="20260308180000  +0000" channel="SkyTG24.it">
     <title lang="it">TG24 Preview</title>
@@ -59260,12 +59216,12 @@
     <category lang="it">Notizie</category>
   </programme>
   <programme start="20260308200000  +0000" stop="20260308201200  +0000" channel="SkyTG24.it">
-    <title lang="it">Tg24</title>
+    <title lang="it">TG24 mezz&apos;ora</title>
     <category lang="it">Notizie</category>
   </programme>
   <programme start="20260308201200  +0000" stop="20260308203000  +0000" channel="SkyTG24.it">
-    <title lang="it">Countdown: dallo spazio alla terra Stg</title>
-    <category lang="it">Notizie</category>
+    <title lang="it">Countdown - Dallo spazio alla Terra (St. 4 - Ep. 6)</title>
+    <category lang="it">Altro</category>
   </programme>
   <programme start="20260308203000  +0000" stop="20260308211500  +0000" channel="SkyTG24.it">
     <title lang="it">Un avvertimento prima di iniziare (St. 1 - Ep. 7)</title>
@@ -63279,16 +63235,16 @@
     <title lang="it">WTA 1000 Indian Wells 2026</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260306082500  +0000" stop="20260306103000  +0000" channel="SuperTennis.it">
+  <programme start="20260306082500  +0000" stop="20260306084000  +0000" channel="SuperTennis.it">
     <title lang="it">Colpo da campione - Stagione 2026 - Ep. 3 - Colpo da campione - Il diritto di Eala (Ep. 3)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260306103000  +0000" stop="20260306104500  +0000" channel="SuperTennis.it">
-    <title lang="it">Young Talent 2026 - Ep. 3 - Young Talent - Zeno Roveri (Ep. 3)</title>
+  <programme start="20260306084000  +0000" stop="20260306103000  +0000" channel="SuperTennis.it">
+    <title lang="it">WTA 1000 Indian Wells 2026</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260306104500  +0000" stop="20260306123000  +0000" channel="SuperTennis.it">
-    <title lang="it">WTA 1000 Indian Wells 2026</title>
+  <programme start="20260306103000  +0000" stop="20260306123000  +0000" channel="SuperTennis.it">
+    <title lang="it">Young Talent 2026 - Ep. 3 - Young Talent - Zeno Roveri (Ep. 3)</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260306123000  +0000" stop="20260306124500  +0000" channel="SuperTennis.it">
@@ -64199,108 +64155,112 @@
     <title lang="it">Chicago Justice (St. 1 - Ep. 3)</title>
     <category lang="it">Serie TV</category>
   </programme>
-  <programme start="20260308041800  +0000" stop="20260308045700  +0000" channel="TopCrime.it">
+  <programme start="20260308041800  +0000" stop="20260308045500  +0000" channel="TopCrime.it">
     <title lang="it">Poirot (St. 9 - Ep. 3)</title>
     <category lang="it">Serie TV</category>
   </programme>
-  <programme start="20260308045700  +0000" stop="20260308045700  +0000" channel="TopCrime.it">
+  <programme start="20260308045500  +0000" stop="20260308045500  +0000" channel="TopCrime.it">
     <title lang="it">Chicago Justice (St. 1 - Ep. 4)</title>
     <category lang="it">Serie TV</category>
   </programme>
-  <programme start="20260308045700  +0000" stop="20260308053800  +0000" channel="TopCrime.it">
+  <programme start="20260308045500  +0000" stop="20260308053600  +0000" channel="TopCrime.it">
     <title lang="it">Chicago Justice (St. 1 - Ep. 4)</title>
     <category lang="it">Serie TV</category>
   </programme>
-  <programme start="20260308053800  +0000" stop="20260308061800  +0000" channel="TopCrime.it">
+  <programme start="20260308053600  +0000" stop="20260308061600  +0000" channel="TopCrime.it">
     <title lang="it">Chicago Justice (St. 1 - Ep. 5)</title>
     <category lang="it">Serie TV</category>
   </programme>
-  <programme start="20260308061800  +0000" stop="20260308065900  +0000" channel="TopCrime.it">
+  <programme start="20260308061600  +0000" stop="20260308065700  +0000" channel="TopCrime.it">
     <title lang="it">Forever (St. 1 - Ep. 17)</title>
     <category lang="it">Serie TV</category>
   </programme>
-  <programme start="20260308065900  +0000" stop="20260308080100  +0000" channel="TopCrime.it">
+  <programme start="20260308065700  +0000" stop="20260308075900  +0000" channel="TopCrime.it">
     <title lang="it">Forever (St. 1 - Ep. 18)</title>
     <category lang="it">Serie TV</category>
   </programme>
-  <programme start="20260308080100  +0000" stop="20260308091100  +0000" channel="TopCrime.it">
+  <programme start="20260308075900  +0000" stop="20260308090900  +0000" channel="TopCrime.it">
     <title lang="it">Law &amp; Order - Unità vittime speciali (St. 8 - Ep. 17)</title>
     <category lang="it">Serie TV</category>
   </programme>
-  <programme start="20260308091100  +0000" stop="20260308101100  +0000" channel="TopCrime.it">
+  <programme start="20260308090900  +0000" stop="20260308101000  +0000" channel="TopCrime.it">
     <title lang="it">Law &amp; Order - Unità vittime speciali (St. 8 - Ep. 18)</title>
     <category lang="it">Serie TV</category>
   </programme>
-  <programme start="20260308101100  +0000" stop="20260308111200  +0000" channel="TopCrime.it">
+  <programme start="20260308101000  +0000" stop="20260308111000  +0000" channel="TopCrime.it">
     <title lang="it">Law &amp; Order - Unità vittime speciali (St. 8 - Ep. 19)</title>
     <category lang="it">Serie TV</category>
   </programme>
-  <programme start="20260308111200  +0000" stop="20260308121300  +0000" channel="TopCrime.it">
+  <programme start="20260308111000  +0000" stop="20260308121100  +0000" channel="TopCrime.it">
     <title lang="it">Law &amp; Order - Unità vittime speciali (St. 8 - Ep. 20)</title>
     <category lang="it">Serie TV</category>
   </programme>
-  <programme start="20260308121300  +0000" stop="20260308131200  +0000" channel="TopCrime.it">
+  <programme start="20260308121100  +0000" stop="20260308131000  +0000" channel="TopCrime.it">
     <title lang="it">Rizzoli &amp; Isles (St. 2 - Ep. 13)</title>
     <category lang="it">Serie TV</category>
   </programme>
-  <programme start="20260308131200  +0000" stop="20260308141300  +0000" channel="TopCrime.it">
+  <programme start="20260308131000  +0000" stop="20260308141100  +0000" channel="TopCrime.it">
     <title lang="it">Rizzoli &amp; Isles (St. 2 - Ep. 14)</title>
     <category lang="it">Serie TV</category>
   </programme>
-  <programme start="20260308141300  +0000" stop="20260308161700  +0000" channel="TopCrime.it">
+  <programme start="20260308141100  +0000" stop="20260308161600  +0000" channel="TopCrime.it">
     <title lang="it">Perry Mason: Elisir di morte (1993)</title>
     <category lang="it">Film</category>
   </programme>
-  <programme start="20260308161700  +0000" stop="20260308171700  +0000" channel="TopCrime.it">
+  <programme start="20260308161600  +0000" stop="20260308171600  +0000" channel="TopCrime.it">
+    <title lang="it">Forever (St. 1 - Ep. 16)</title>
+    <category lang="it">Serie TV</category>
+  </programme>
+  <programme start="20260308171600  +0000" stop="20260308181500  +0000" channel="TopCrime.it">
     <title lang="it">Forever (St. 1 - Ep. 17)</title>
     <category lang="it">Serie TV</category>
   </programme>
-  <programme start="20260308171700  +0000" stop="20260308181600  +0000" channel="TopCrime.it">
+  <programme start="20260308181500  +0000" stop="20260308191500  +0000" channel="TopCrime.it">
     <title lang="it">Forever (St. 1 - Ep. 18)</title>
     <category lang="it">Serie TV</category>
   </programme>
-  <programme start="20260308181600  +0000" stop="20260308191500  +0000" channel="TopCrime.it">
+  <programme start="20260308191500  +0000" stop="20260308201500  +0000" channel="TopCrime.it">
     <title lang="it">Rizzoli &amp; Isles (St. 2 - Ep. 15)</title>
     <category lang="it">Serie TV</category>
   </programme>
-  <programme start="20260308191500  +0000" stop="20260308201400  +0000" channel="TopCrime.it">
-    <title lang="it">Rizzoli &amp; Isles (St. 3 - Ep. 1)</title>
-    <category lang="it">Serie TV</category>
-  </programme>
-  <programme start="20260308201400  +0000" stop="20260308220500  +0000" channel="TopCrime.it">
+  <programme start="20260308201500  +0000" stop="20260308220600  +0000" channel="TopCrime.it">
     <title lang="it">Maigret e la ragazza scomparsa (1992)</title>
     <category lang="it">Film</category>
   </programme>
-  <programme start="20260308220500  +0000" stop="20260309000500  +0000" channel="TopCrime.it">
+  <programme start="20260308220600  +0000" stop="20260309000500  +0000" channel="TopCrime.it">
     <title lang="it">Poirot e la salma (2004)</title>
     <category lang="it">Film</category>
   </programme>
-  <programme start="20260309000500  +0000" stop="20260309005200  +0000" channel="TopCrime.it">
+  <programme start="20260309000500  +0000" stop="20260309005300  +0000" channel="TopCrime.it">
     <title lang="it">Law &amp; Order - Unità vittime speciali (St. 8 - Ep. 17)</title>
     <category lang="it">Serie TV</category>
   </programme>
-  <programme start="20260309005200  +0000" stop="20260309013500  +0000" channel="TopCrime.it">
+  <programme start="20260309005300  +0000" stop="20260309013600  +0000" channel="TopCrime.it">
     <title lang="it">Law &amp; Order - Unità vittime speciali (St. 8 - Ep. 18)</title>
     <category lang="it">Serie TV</category>
   </programme>
-  <programme start="20260309013500  +0000" stop="20260309021600  +0000" channel="TopCrime.it">
+  <programme start="20260309013600  +0000" stop="20260309021700  +0000" channel="TopCrime.it">
     <title lang="it">Law &amp; Order - Unità vittime speciali (St. 8 - Ep. 19)</title>
     <category lang="it">Serie TV</category>
   </programme>
-  <programme start="20260309021600  +0000" stop="20260309030000  +0000" channel="TopCrime.it">
+  <programme start="20260309021700  +0000" stop="20260309030100  +0000" channel="TopCrime.it">
     <title lang="it">Law &amp; Order - Unità vittime speciali (St. 8 - Ep. 20)</title>
     <category lang="it">Serie TV</category>
   </programme>
-  <programme start="20260309030000  +0000" stop="20260309034100  +0000" channel="TopCrime.it">
+  <programme start="20260309030100  +0000" stop="20260309034200  +0000" channel="TopCrime.it">
     <title lang="it">Chicago Justice (St. 1 - Ep. 4)</title>
     <category lang="it">Serie TV</category>
   </programme>
-  <programme start="20260309034100  +0000" stop="20260309042200  +0000" channel="TopCrime.it">
+  <programme start="20260309034200  +0000" stop="20260309042300  +0000" channel="TopCrime.it">
     <title lang="it">Chicago Justice (St. 1 - Ep. 5)</title>
     <category lang="it">Serie TV</category>
   </programme>
-  <programme start="20260309042200  +0000" stop="20260309045200  +0000" channel="TopCrime.it">
+  <programme start="20260309042300  +0000" stop="20260309050000  +0000" channel="TopCrime.it">
     <title lang="it">Maigret (St. 1 - Ep. 2)</title>
+    <category lang="it">Serie TV</category>
+  </programme>
+  <programme start="20260309050000  +0000" stop="20260309053000  +0000" channel="TopCrime.it">
+    <title lang="it">FBI: Most Wanted (St. 1 - Ep. 11)</title>
     <category lang="it">Serie TV</category>
   </programme>
   <programme start="20260306042100  +0000" stop="20260306050100  +0000" channel="superguidatv:top-crime/sky-intrattenimento/193">
@@ -66151,11 +66111,11 @@
     <title lang="it">Il mio medico</title>
     <category lang="it">Mondo e Tendenze</category>
   </programme>
-  <programme start="20260307032500  +0000" stop="20260307035000  +0000" channel="TV2000.it">
+  <programme start="20260307032500  +0000" stop="20260307035500  +0000" channel="TV2000.it">
     <title lang="it">Vediamoci Chiaro</title>
     <category lang="it">Mondo e Tendenze</category>
   </programme>
-  <programme start="20260307035000  +0000" stop="20260307040000  +0000" channel="TV2000.it">
+  <programme start="20260307035500  +0000" stop="20260307040000  +0000" channel="TV2000.it">
     <title lang="it">Clip Borghi d&apos;Italia</title>
     <category lang="it">Mondo e Tendenze</category>
   </programme>
@@ -66167,11 +66127,11 @@
     <title lang="it">Quel che bolle in pentola</title>
     <category lang="it">Mondo e Tendenze</category>
   </programme>
-  <programme start="20260307042500  +0000" stop="20260307051000  +0000" channel="TV2000.it">
+  <programme start="20260307042500  +0000" stop="20260307051500  +0000" channel="TV2000.it">
     <title lang="it">Quel che bolle in pentola</title>
     <category lang="it">Mondo e Tendenze</category>
   </programme>
-  <programme start="20260307051000  +0000" stop="20260307052000  +0000" channel="TV2000.it">
+  <programme start="20260307051500  +0000" stop="20260307052000  +0000" channel="TV2000.it">
     <title lang="it">La preghiera del mattino</title>
     <category lang="it">Mondo e Tendenze</category>
   </programme>
@@ -66184,8 +66144,8 @@
     <category lang="it">Mondo e Tendenze</category>
   </programme>
   <programme start="20260307063500  +0000" stop="20260307070000  +0000" channel="TV2000.it">
-    <title lang="it">Terra Santa News</title>
-    <category lang="it">LifeStyle</category>
+    <title lang="it">La casa sulla roccia</title>
+    <category lang="it">Mondo e Tendenze</category>
   </programme>
   <programme start="20260307070000  +0000" stop="20260307072500  +0000" channel="TV2000.it">
     <title lang="it">Indagine ai confini del sacro</title>
@@ -66195,24 +66155,20 @@
     <title lang="it">TG 2000 Flash</title>
     <category lang="it">Notizie</category>
   </programme>
-  <programme start="20260307073000  +0000" stop="20260307081000  +0000" channel="TV2000.it">
+  <programme start="20260307073000  +0000" stop="20260307080500  +0000" channel="TV2000.it">
     <title lang="it">Santa Messa</title>
     <category lang="it">Mondo e Tendenze</category>
   </programme>
-  <programme start="20260307081000  +0000" stop="20260307093500  +0000" channel="TV2000.it">
+  <programme start="20260307080500  +0000" stop="20260307094000  +0000" channel="TV2000.it">
     <title lang="it">Di Buon Mattino</title>
     <category lang="it">Mondo e Tendenze</category>
   </programme>
-  <programme start="20260307093500  +0000" stop="20260307102000  +0000" channel="TV2000.it">
+  <programme start="20260307094000  +0000" stop="20260307102500  +0000" channel="TV2000.it">
     <title lang="it">Caro Gesu&apos;</title>
     <category lang="it">Mondo e Tendenze</category>
   </programme>
-  <programme start="20260307102000  +0000" stop="20260307105000  +0000" channel="TV2000.it">
+  <programme start="20260307102500  +0000" stop="20260307110000  +0000" channel="TV2000.it">
     <title lang="it">Soul</title>
-    <category lang="it">Mondo e Tendenze</category>
-  </programme>
-  <programme start="20260307105000  +0000" stop="20260307110000  +0000" channel="TV2000.it">
-    <title lang="it">Angelus da Loreto</title>
     <category lang="it">Mondo e Tendenze</category>
   </programme>
   <programme start="20260307110000  +0000" stop="20260307112000  +0000" channel="TV2000.it">
@@ -66231,19 +66187,19 @@
     <title lang="it">Sulla strada</title>
     <category lang="it">Mondo e Tendenze</category>
   </programme>
-  <programme start="20260307140000  +0000" stop="20260307141500  +0000" channel="TV2000.it">
+  <programme start="20260307140000  +0000" stop="20260307142000  +0000" channel="TV2000.it">
     <title lang="it">Coroncina alla Divina Misericordia</title>
     <category lang="it">Mondo e Tendenze</category>
   </programme>
-  <programme start="20260307141500  +0000" stop="20260307145000  +0000" channel="TV2000.it">
+  <programme start="20260307142000  +0000" stop="20260307150000  +0000" channel="TV2000.it">
     <title lang="it">Il mio medico</title>
     <category lang="it">Mondo e Tendenze</category>
   </programme>
-  <programme start="20260307145000  +0000" stop="20260307161500  +0000" channel="TV2000.it">
+  <programme start="20260307150000  +0000" stop="20260307163000  +0000" channel="TV2000.it">
     <title lang="it">Terra nostra</title>
     <category lang="it">Soap Opera</category>
   </programme>
-  <programme start="20260307161500  +0000" stop="20260307170000  +0000" channel="TV2000.it">
+  <programme start="20260307163000  +0000" stop="20260307170000  +0000" channel="TV2000.it">
     <title lang="it">Storie d&apos; Italia</title>
     <category lang="it">Mondo e Tendenze</category>
   </programme>
@@ -66271,44 +66227,52 @@
     <title lang="it">A proposito di Henry (1991)</title>
     <category lang="it">Film</category>
   </programme>
-  <programme start="20260307234000  +0000" stop="20260308000500  +0000" channel="TV2000.it">
+  <programme start="20260307234000  +0000" stop="20260308000000  +0000" channel="TV2000.it">
     <title lang="it">La Compieta</title>
     <category lang="it">Mondo e Tendenze</category>
   </programme>
-  <programme start="20260308000500  +0000" stop="20260308003500  +0000" channel="TV2000.it">
+  <programme start="20260308000000  +0000" stop="20260308002500  +0000" channel="TV2000.it">
     <title lang="it">Santo Rosario</title>
     <category lang="it">Mondo e Tendenze</category>
   </programme>
-  <programme start="20260308003500  +0000" stop="20260308005500  +0000" channel="TV2000.it">
+  <programme start="20260308002500  +0000" stop="20260308005000  +0000" channel="TV2000.it">
     <title lang="it">Sulla strada</title>
     <category lang="it">Mondo e Tendenze</category>
   </programme>
-  <programme start="20260308005500  +0000" stop="20260308012000  +0000" channel="TV2000.it">
+  <programme start="20260308005000  +0000" stop="20260308011500  +0000" channel="TV2000.it">
     <title lang="it">I Santi</title>
     <category lang="it">Mondo e Tendenze</category>
   </programme>
-  <programme start="20260308012000  +0000" stop="20260308022000  +0000" channel="TV2000.it">
+  <programme start="20260308011500  +0000" stop="20260308021500  +0000" channel="TV2000.it">
     <title lang="it">Braccio Fortebraccio da Montone</title>
     <category lang="it">Mondo e Tendenze</category>
   </programme>
-  <programme start="20260308022000  +0000" stop="20260308024000  +0000" channel="TV2000.it">
+  <programme start="20260308021500  +0000" stop="20260308023500  +0000" channel="TV2000.it">
     <title lang="it">Nicolaus Pictor</title>
     <category lang="it">Mondo e Tendenze</category>
   </programme>
-  <programme start="20260308024000  +0000" stop="20260308030000  +0000" channel="TV2000.it">
+  <programme start="20260308023500  +0000" stop="20260308025500  +0000" channel="TV2000.it">
     <title lang="it">Eccomi</title>
     <category lang="it">Mondo e Tendenze</category>
   </programme>
-  <programme start="20260308030000  +0000" stop="20260308034500  +0000" channel="TV2000.it">
+  <programme start="20260308025500  +0000" stop="20260308030500  +0000" channel="TV2000.it">
+    <title lang="it">Eccomi</title>
+    <category lang="it">Mondo e Tendenze</category>
+  </programme>
+  <programme start="20260308030500  +0000" stop="20260308035500  +0000" channel="TV2000.it">
     <title lang="it">Quel che bolle in pentola</title>
     <category lang="it">Mondo e Tendenze</category>
   </programme>
-  <programme start="20260308034500  +0000" stop="20260308040000  +0000" channel="TV2000.it">
+  <programme start="20260308035500  +0000" stop="20260308040000  +0000" channel="TV2000.it">
     <title lang="it">Clip Borghi d&apos;Italia</title>
     <category lang="it">Mondo e Tendenze</category>
   </programme>
-  <programme start="20260308040000  +0000" stop="20260308044500  +0000" channel="TV2000.it">
+  <programme start="20260308040000  +0000" stop="20260308043000  +0000" channel="TV2000.it">
     <title lang="it">Santo Rosario</title>
+    <category lang="it">Mondo e Tendenze</category>
+  </programme>
+  <programme start="20260308043000  +0000" stop="20260308044500  +0000" channel="TV2000.it">
+    <title lang="it">Firmato da te</title>
     <category lang="it">Mondo e Tendenze</category>
   </programme>
   <programme start="20260308044500  +0000" stop="20260308045000  +0000" channel="TV2000.it">
@@ -66316,22 +66280,22 @@
     <category lang="it">Mondo e Tendenze</category>
   </programme>
   <programme start="20260308045000  +0000" stop="20260308045000  +0000" channel="TV2000.it">
-    <title lang="it">Terra Santa News</title>
-    <category lang="it">LifeStyle</category>
+    <title lang="it">La casa sulla roccia</title>
+    <category lang="it">Mondo e Tendenze</category>
   </programme>
   <programme start="20260308045000  +0000" stop="20260308051500  +0000" channel="TV2000.it">
-    <title lang="it">Terra Santa News</title>
-    <category lang="it">LifeStyle</category>
+    <title lang="it">La casa sulla roccia</title>
+    <category lang="it">Mondo e Tendenze</category>
   </programme>
   <programme start="20260308051500  +0000" stop="20260308054500  +0000" channel="TV2000.it">
     <title lang="it">Borghi D&apos;Italia</title>
     <category lang="it">Documentario</category>
   </programme>
-  <programme start="20260308054500  +0000" stop="20260308062500  +0000" channel="TV2000.it">
+  <programme start="20260308054500  +0000" stop="20260308063000  +0000" channel="TV2000.it">
     <title lang="it">Santo Rosario</title>
     <category lang="it">Mondo e Tendenze</category>
   </programme>
-  <programme start="20260308062500  +0000" stop="20260308070000  +0000" channel="TV2000.it">
+  <programme start="20260308063000  +0000" stop="20260308070000  +0000" channel="TV2000.it">
     <title lang="it">Retroscena</title>
     <category lang="it">Teatro</category>
   </programme>
@@ -66347,9 +66311,13 @@
     <title lang="it">Buongiorno Prof</title>
     <category lang="it">Mondo e Tendenze</category>
   </programme>
-  <programme start="20260308085500  +0000" stop="20260308110000  +0000" channel="TV2000.it">
+  <programme start="20260308085500  +0000" stop="20260308102500  +0000" channel="TV2000.it">
     <title lang="it">Il miracolo della farfalla (2002)</title>
     <category lang="it">Film</category>
+  </programme>
+  <programme start="20260308102500  +0000" stop="20260308110000  +0000" channel="TV2000.it">
+    <title lang="it">La Chiesa di San Sebastiano a Venezia</title>
+    <category lang="it">Mondo e Tendenze</category>
   </programme>
   <programme start="20260308110000  +0000" stop="20260308112000  +0000" channel="TV2000.it">
     <title lang="it">Angelus</title>
@@ -66359,55 +66327,55 @@
     <title lang="it">Borghi D&apos;Italia</title>
     <category lang="it">Documentario</category>
   </programme>
-  <programme start="20260308115000  +0000" stop="20260308140000  +0000" channel="TV2000.it">
+  <programme start="20260308115000  +0000" stop="20260308134000  +0000" channel="TV2000.it">
     <title lang="it">10 giorni senza mamma (2019)</title>
     <category lang="it">Film</category>
+  </programme>
+  <programme start="20260308134000  +0000" stop="20260308140000  +0000" channel="TV2000.it">
+    <title lang="it">Firmato da te</title>
+    <category lang="it">Mondo e Tendenze</category>
   </programme>
   <programme start="20260308140000  +0000" stop="20260308141500  +0000" channel="TV2000.it">
     <title lang="it">Coroncina alla Divina Misericordia</title>
     <category lang="it">Mondo e Tendenze</category>
   </programme>
-  <programme start="20260308141500  +0000" stop="20260308160000  +0000" channel="TV2000.it">
+  <programme start="20260308141500  +0000" stop="20260308155500  +0000" channel="TV2000.it">
     <title lang="it">Terramater</title>
     <category lang="it">Mondo e Tendenze</category>
   </programme>
-  <programme start="20260308160000  +0000" stop="20260308170000  +0000" channel="TV2000.it">
+  <programme start="20260308155500  +0000" stop="20260308165500  +0000" channel="TV2000.it">
     <title lang="it">Santa Messa</title>
     <category lang="it">Mondo e Tendenze</category>
   </programme>
-  <programme start="20260308170000  +0000" stop="20260308173000  +0000" channel="TV2000.it">
+  <programme start="20260308165500  +0000" stop="20260308173000  +0000" channel="TV2000.it">
     <title lang="it">Rosario In Diretta Da Lourdes</title>
     <category lang="it">Mondo e Tendenze</category>
   </programme>
-  <programme start="20260308173000  +0000" stop="20260308180000  +0000" channel="TV2000.it">
+  <programme start="20260308173000  +0000" stop="20260308180500  +0000" channel="TV2000.it">
     <title lang="it">Tg2000</title>
     <category lang="it">Notizie</category>
   </programme>
-  <programme start="20260308180000  +0000" stop="20260308190000  +0000" channel="TV2000.it">
+  <programme start="20260308180500  +0000" stop="20260308190000  +0000" channel="TV2000.it">
     <title lang="it">Santa Messa</title>
     <category lang="it">Mondo e Tendenze</category>
   </programme>
-  <programme start="20260308190000  +0000" stop="20260308194500  +0000" channel="TV2000.it">
+  <programme start="20260308190000  +0000" stop="20260308201000  +0000" channel="TV2000.it">
     <title lang="it">Santo Rosario</title>
     <category lang="it">Mondo e Tendenze</category>
   </programme>
-  <programme start="20260308194500  +0000" stop="20260308200500  +0000" channel="TV2000.it">
-    <title lang="it">Tg2000</title>
-    <category lang="it">Notizie</category>
-  </programme>
-  <programme start="20260308200500  +0000" stop="20260308203500  +0000" channel="TV2000.it">
+  <programme start="20260308201000  +0000" stop="20260308203500  +0000" channel="TV2000.it">
     <title lang="it">Soul</title>
     <category lang="it">Mondo e Tendenze</category>
   </programme>
-  <programme start="20260308203500  +0000" stop="20260308222500  +0000" channel="TV2000.it">
+  <programme start="20260308203500  +0000" stop="20260308223000  +0000" channel="TV2000.it">
     <title lang="it">La candidata ideale (2020)</title>
     <category lang="it">Film</category>
   </programme>
-  <programme start="20260308222500  +0000" stop="20260308235500  +0000" channel="TV2000.it">
+  <programme start="20260308223000  +0000" stop="20260309000000  +0000" channel="TV2000.it">
     <title lang="it">Malala (2015)</title>
     <category lang="it">Film</category>
   </programme>
-  <programme start="20260308235500  +0000" stop="20260309003000  +0000" channel="TV2000.it">
+  <programme start="20260309000000  +0000" stop="20260309003000  +0000" channel="TV2000.it">
     <title lang="it">Effetto notte</title>
     <category lang="it">LifeStyle</category>
   </programme>
@@ -66419,24 +66387,24 @@
     <title lang="it">La Compieta</title>
     <category lang="it">Mondo e Tendenze</category>
   </programme>
-  <programme start="20260309010500  +0000" stop="20260309011500  +0000" channel="TV2000.it">
+  <programme start="20260309010500  +0000" stop="20260309013500  +0000" channel="TV2000.it">
     <title lang="it">Santo Rosario</title>
     <category lang="it">Mondo e Tendenze</category>
   </programme>
-  <programme start="20260309011500  +0000" stop="20260309013000  +0000" channel="TV2000.it">
-    <title lang="it">La Compieta</title>
-    <category lang="it">Mondo e Tendenze</category>
-  </programme>
-  <programme start="20260309013000  +0000" stop="20260309013500  +0000" channel="TV2000.it">
-    <title lang="it">Santo Rosario</title>
-    <category lang="it">Mondo e Tendenze</category>
-  </programme>
-  <programme start="20260309013500  +0000" stop="20260309020000  +0000" channel="TV2000.it">
+  <programme start="20260309013500  +0000" stop="20260309020500  +0000" channel="TV2000.it">
     <title lang="it">I Santi</title>
     <category lang="it">Mondo e Tendenze</category>
   </programme>
-  <programme start="20260309020000  +0000" stop="20260309040000  +0000" channel="TV2000.it">
-    <title lang="it">Eccomi</title>
+  <programme start="20260309020500  +0000" stop="20260309030500  +0000" channel="TV2000.it">
+    <title lang="it">Il canto gregoriano</title>
+    <category lang="it">Mondo e Tendenze</category>
+  </programme>
+  <programme start="20260309030500  +0000" stop="20260309035000  +0000" channel="TV2000.it">
+    <title lang="it">Quel che bolle in pentola</title>
+    <category lang="it">Mondo e Tendenze</category>
+  </programme>
+  <programme start="20260309035000  +0000" stop="20260309040000  +0000" channel="TV2000.it">
+    <title lang="it">Clip Borghi d&apos;Italia</title>
     <category lang="it">Mondo e Tendenze</category>
   </programme>
   <programme start="20260309040000  +0000" stop="20260309042500  +0000" channel="TV2000.it">
