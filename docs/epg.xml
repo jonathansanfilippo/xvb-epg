@@ -14524,7 +14524,11 @@
     <category lang="it">Sit Com</category>
   </programme>
   <programme start="20260307050000  +0000" stop="20260307050000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">LIV Golf Hong Kong - Giorno 3: Featured Group 3</title>
+    <title lang="it">LIV Golf Hong Kong - Giorno 3</title>
+    <category lang="it">Sport</category>
+  </programme>
+  <programme start="20260307050000  +0000" stop="20260307050000  +0000" channel="superguidatv:dazn/dazn/459">
+    <title lang="it">LIV Golf Hong Kong - Giorno 3: Featured Group 4</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260307050000  +0000" stop="20260307050000  +0000" channel="superguidatv:dazn/dazn/459">
@@ -14535,12 +14539,8 @@
     <title lang="it">LIV Golf Hong Kong - Giorno 3: Featured Group 2</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260307050000  +0000" stop="20260307050000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">LIV Golf Hong Kong - Giorno 3</title>
-    <category lang="it">Sport</category>
-  </programme>
   <programme start="20260307050000  +0000" stop="20260307070000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">LIV Golf Hong Kong - Giorno 3: Featured Group 4</title>
+    <title lang="it">LIV Golf Hong Kong - Giorno 3: Featured Group 3</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260307070000  +0000" stop="20260307081500  +0000" channel="superguidatv:dazn/dazn/459">
@@ -14552,7 +14552,7 @@
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260307094500  +0000" stop="20260307100000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Val di Fassa | Discesa femminile 2</title>
+    <title lang="it">Pirovano non si ferma più! Doppietta storica nella discesa in Val di Fassa</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260307100000  +0000" stop="20260307103000  +0000" channel="superguidatv:dazn/dazn/459">
@@ -14564,11 +14564,11 @@
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260307104500  +0000" stop="20260307110000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Strade Bianche Women</title>
+    <title lang="it">Strade Bianche</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260307110000  +0000" stop="20260307111500  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Allegri, la conferenza stampa pre-partita</title>
+    <title lang="it">Allegri: &quot;Derby bello da giocare e da vivere, l&apos;importante è fare punti..&quot;</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260307111500  +0000" stop="20260307120000  +0000" channel="superguidatv:dazn/dazn/459">
@@ -14584,11 +14584,11 @@
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260307123000  +0000" stop="20260307123000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Boreham Wood - Brackley</title>
+    <title lang="it">Kontiolahti | Mass Start femminile</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260307123000  +0000" stop="20260307130000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Kontiolahti | Mass Start femminile</title>
+    <title lang="it">Boreham Wood - Brackley</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260307130000  +0000" stop="20260307131500  +0000" channel="superguidatv:dazn/dazn/459">
@@ -14596,7 +14596,7 @@
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260307131500  +0000" stop="20260307132000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Chivu, la conferenza stampa pre-partita</title>
+    <title lang="it">Chivu: &quot;Sappiamo cosa rappresenta il derby, febbre per Thuram&quot;</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260307132000  +0000" stop="20260307132600  +0000" channel="superguidatv:dazn/dazn/459">
@@ -14612,15 +14612,15 @@
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260307140000  +0000" stop="20260307140000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Zona Serie BKT</title>
-    <category lang="it">Sport</category>
-  </programme>
-  <programme start="20260307140000  +0000" stop="20260307140000  +0000" channel="superguidatv:dazn/dazn/459">
     <title lang="it">Avellino - Padova</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260307140000  +0000" stop="20260307140000  +0000" channel="superguidatv:dazn/dazn/459">
     <title lang="it">Südtirol - Virtus Entella</title>
+    <category lang="it">Sport</category>
+  </programme>
+  <programme start="20260307140000  +0000" stop="20260307140000  +0000" channel="superguidatv:dazn/dazn/459">
+    <title lang="it">Zona Serie BKT</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260307140000  +0000" stop="20260307142500  +0000" channel="superguidatv:dazn/dazn/459">
@@ -14632,11 +14632,15 @@
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260307150000  +0000" stop="20260307150000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Hartlepool - FC Halifax Town</title>
+    <title lang="it">York - Eastleigh</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260307150000  +0000" stop="20260307150000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Rochdale - Boston</title>
+    <title lang="it">Yeovil - Scunthorpe</title>
+    <category lang="it">Sport</category>
+  </programme>
+  <programme start="20260307150000  +0000" stop="20260307150000  +0000" channel="superguidatv:dazn/dazn/459">
+    <title lang="it">Altrincham - Truro</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260307150000  +0000" stop="20260307150000  +0000" channel="superguidatv:dazn/dazn/459">
@@ -14648,7 +14652,7 @@
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260307150000  +0000" stop="20260307150000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Forest Green - Aldershot</title>
+    <title lang="it">Hartlepool - FC Halifax Town</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260307150000  +0000" stop="20260307150000  +0000" channel="superguidatv:dazn/dazn/459">
@@ -14656,23 +14660,19 @@
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260307150000  +0000" stop="20260307150000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Yeovil - Scunthorpe</title>
+    <title lang="it">Woking - Tamworth</title>
+    <category lang="it">Sport</category>
+  </programme>
+  <programme start="20260307150000  +0000" stop="20260307150000  +0000" channel="superguidatv:dazn/dazn/459">
+    <title lang="it">Rochdale - Boston</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260307150000  +0000" stop="20260307150000  +0000" channel="superguidatv:dazn/dazn/459">
     <title lang="it">Braintree - Wealdstone</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260307150000  +0000" stop="20260307150000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">York - Eastleigh</title>
-    <category lang="it">Sport</category>
-  </programme>
-  <programme start="20260307150000  +0000" stop="20260307150000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Altrincham - Truro</title>
-    <category lang="it">Sport</category>
-  </programme>
   <programme start="20260307150000  +0000" stop="20260307151500  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Woking - Tamworth</title>
+    <title lang="it">Forest Green - Aldershot</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260307151500  +0000" stop="20260307155600  +0000" channel="superguidatv:dazn/dazn/459">
@@ -14688,7 +14688,7 @@
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260307170000  +0000" stop="20260307170000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Arkansas @ Missouri</title>
+    <title lang="it">Butler @ DePaul</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260307170000  +0000" stop="20260307170000  +0000" channel="superguidatv:dazn/dazn/459">
@@ -14696,7 +14696,7 @@
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260307170000  +0000" stop="20260307173000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Butler @ DePaul</title>
+    <title lang="it">Arkansas @ Missouri</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260307173000  +0000" stop="20260307173000  +0000" channel="superguidatv:dazn/dazn/459">
@@ -14704,7 +14704,7 @@
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260307173000  +0000" stop="20260307173000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">UConn @ Marquette</title>
+    <title lang="it">Capitals vs. Bruins</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260307173000  +0000" stop="20260307173000  +0000" channel="superguidatv:dazn/dazn/459">
@@ -14716,7 +14716,7 @@
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260307173000  +0000" stop="20260307174500  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Capitals vs. Bruins</title>
+    <title lang="it">UConn @ Marquette</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260307174500  +0000" stop="20260307180000  +0000" channel="superguidatv:dazn/dazn/459">
@@ -14724,11 +14724,11 @@
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260307180000  +0000" stop="20260307180000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">South Carolina @ Ole Miss</title>
+    <title lang="it">Surrey 89ers - Leicester Riders</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260307180000  +0000" stop="20260307180000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Surrey 89ers - Leicester Riders</title>
+    <title lang="it">South Carolina @ Ole Miss</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260307180000  +0000" stop="20260307183000  +0000" channel="superguidatv:dazn/dazn/459">
@@ -14752,15 +14752,15 @@
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260307190000  +0000" stop="20260307190000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Arizona State @ Iowa State</title>
+    <title lang="it">SMU @ Florida State</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260307190000  +0000" stop="20260307190000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Big Ten Women&apos;s Basketball Tournament: Semi-Final 1</title>
+    <title lang="it">Arizona State @ Iowa State</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260307190000  +0000" stop="20260307193000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">SMU @ Florida State</title>
+    <title lang="it">UCLA vs. Ohio State</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260307193000  +0000" stop="20260307194500  +0000" channel="superguidatv:dazn/dazn/459">
@@ -14772,7 +14772,7 @@
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260307200000  +0000" stop="20260307200000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Newcastle - Manchester City</title>
+    <title lang="it">Athletic Bilbao - Barcellona</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260307200000  +0000" stop="20260307200000  +0000" channel="superguidatv:dazn/dazn/459">
@@ -14780,7 +14780,7 @@
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260307200000  +0000" stop="20260307203000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Athletic Bilbao - Barcellona</title>
+    <title lang="it">Newcastle - Manchester City</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260307203000  +0000" stop="20260307210000  +0000" channel="superguidatv:dazn/dazn/459">
@@ -14788,7 +14788,7 @@
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260307210000  +0000" stop="20260307210000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Florida @ Kentucky</title>
+    <title lang="it">California @ Wake Forest</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260307210000  +0000" stop="20260307210000  +0000" channel="superguidatv:dazn/dazn/459">
@@ -14796,11 +14796,11 @@
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260307210000  +0000" stop="20260307213000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">California @ Wake Forest</title>
+    <title lang="it">Florida @ Kentucky</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260307213000  +0000" stop="20260307214800  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Big Ten Women&apos;s Basketball Tournament: Semi-Final 2</title>
+    <title lang="it">Iowa vs. Michigan</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260307214800  +0000" stop="20260307223000  +0000" channel="superguidatv:dazn/dazn/459">
@@ -14812,11 +14812,11 @@
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260307223000  +0000" stop="20260307223000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Flyers vs. Penguins</title>
+    <title lang="it">Predators vs. Sabres</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260307223000  +0000" stop="20260307230000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Predators vs. Sabres</title>
+    <title lang="it">Flyers vs. Penguins</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260307230000  +0000" stop="20260307233000  +0000" channel="superguidatv:dazn/dazn/459">
@@ -34580,8 +34580,8 @@
     <category lang="it">Film</category>
   </programme>
   <programme start="20260307110500  +0000" stop="20260307113000  +0000" channel="RSILa1.ch">
-    <title lang="it">Segni dei tempi</title>
-    <category lang="it">Attualità</category>
+    <title lang="it">Segni dei tempi - La rinascita della spiritualità</title>
+    <category lang="it">Altro</category>
   </programme>
   <programme start="20260307113000  +0000" stop="20260307114500  +0000" channel="RSILa1.ch">
     <title lang="it">Telegiornale</title>
@@ -37207,80 +37207,104 @@
     <title lang="it">Ridiculousness: Veri American Idiots (St. 35 - Ep. 9)</title>
     <category lang="it">Show</category>
   </programme>
-  <programme start="20260307052500  +0000" stop="20260307055500  +0000" channel="MTV.it">
+  <programme start="20260307052500  +0000" stop="20260307055000  +0000" channel="MTV.it">
     <title lang="it">Ridiculousness: Veri American Idiots (St. 35 - Ep. 11)</title>
     <category lang="it">Show</category>
   </programme>
-  <programme start="20260307055500  +0000" stop="20260307062000  +0000" channel="MTV.it">
+  <programme start="20260307055000  +0000" stop="20260307061500  +0000" channel="MTV.it">
     <title lang="it">Ridiculousness: Veri American Idiots (St. 35 - Ep. 14)</title>
     <category lang="it">Show</category>
   </programme>
-  <programme start="20260307062000  +0000" stop="20260307065000  +0000" channel="MTV.it">
+  <programme start="20260307061500  +0000" stop="20260307064000  +0000" channel="MTV.it">
     <title lang="it">Ridiculousness: Veri American Idiots (St. 35 - Ep. 16)</title>
     <category lang="it">Show</category>
   </programme>
-  <programme start="20260307065000  +0000" stop="20260307071000  +0000" channel="MTV.it">
+  <programme start="20260307064000  +0000" stop="20260307070000  +0000" channel="MTV.it">
     <title lang="it">Ridiculousness: Veri American Idiots (St. 35 - Ep. 17)</title>
     <category lang="it">Show</category>
   </programme>
-  <programme start="20260307071000  +0000" stop="20260307074000  +0000" channel="MTV.it">
+  <programme start="20260307070000  +0000" stop="20260307073000  +0000" channel="MTV.it">
     <title lang="it">Ridiculousness: Veri American Idiots (St. 35 - Ep. 19)</title>
     <category lang="it">Show</category>
   </programme>
-  <programme start="20260307074000  +0000" stop="20260307080500  +0000" channel="MTV.it">
+  <programme start="20260307073000  +0000" stop="20260307075000  +0000" channel="MTV.it">
     <title lang="it">Ridiculousness: Veri American Idiots (St. 35 - Ep. 20)</title>
     <category lang="it">Show</category>
   </programme>
-  <programme start="20260307080500  +0000" stop="20260307090000  +0000" channel="MTV.it">
+  <programme start="20260307075000  +0000" stop="20260307084000  +0000" channel="MTV.it">
     <title lang="it">Teen Mom Family Reunion (St. 1 - Ep. 1)</title>
     <category lang="it">Show</category>
   </programme>
-  <programme start="20260307090000  +0000" stop="20260307105000  +0000" channel="MTV.it">
+  <programme start="20260307084000  +0000" stop="20260307092000  +0000" channel="MTV.it">
     <title lang="it">Teen Mom Family Reunion (St. 1 - Ep. 2)</title>
     <category lang="it">Show</category>
   </programme>
-  <programme start="20260307105000  +0000" stop="20260307115000  +0000" channel="MTV.it">
+  <programme start="20260307092000  +0000" stop="20260307101500  +0000" channel="MTV.it">
+    <title lang="it">Teen Mom UK: Next Generation (St. 3 - Ep. 2)</title>
+    <category lang="it">Show</category>
+  </programme>
+  <programme start="20260307101500  +0000" stop="20260307103500  +0000" channel="MTV.it">
+    <title lang="it">Ridiculousness: Veri American Idiots (St. 37 - Ep. 41)</title>
+    <category lang="it">Show</category>
+  </programme>
+  <programme start="20260307103500  +0000" stop="20260307110000  +0000" channel="MTV.it">
+    <title lang="it">Ridiculousness: Veri American Idiots (St. 37 - Ep. 42)</title>
+    <category lang="it">Show</category>
+  </programme>
+  <programme start="20260307110000  +0000" stop="20260307115000  +0000" channel="MTV.it">
     <title lang="it">Teen Mom UK: Next Generation (St. 3 - Ep. 3)</title>
     <category lang="it">Show</category>
   </programme>
-  <programme start="20260307115000  +0000" stop="20260307124000  +0000" channel="MTV.it">
+  <programme start="20260307115000  +0000" stop="20260307121000  +0000" channel="MTV.it">
+    <title lang="it">Ridiculousness: Veri American Idiots (St. 35 - Ep. 2)</title>
+    <category lang="it">Show</category>
+  </programme>
+  <programme start="20260307121000  +0000" stop="20260307124000  +0000" channel="MTV.it">
+    <title lang="it">Ridiculousness: Veri American Idiots (St. 35 - Ep. 4)</title>
+    <category lang="it">Show</category>
+  </programme>
+  <programme start="20260307124000  +0000" stop="20260307133000  +0000" channel="MTV.it">
     <title lang="it">Dimostrare di essere i migliori (St. 14 - Ep. 7)</title>
-    <category lang="it">Intrattenimento</category>
+    <category lang="it">Altro</category>
   </programme>
-  <programme start="20260307124000  +0000" stop="20260307133500  +0000" channel="MTV.it">
+  <programme start="20260307133000  +0000" stop="20260307135000  +0000" channel="MTV.it">
+    <title lang="it">Ridiculousness: Veri American Idiots (St. 35 - Ep. 6)</title>
+    <category lang="it">Show</category>
+  </programme>
+  <programme start="20260307135000  +0000" stop="20260307143500  +0000" channel="MTV.it">
     <title lang="it">Chi ha la magia (St. 14 - Ep. 8)</title>
-    <category lang="it">Intrattenimento</category>
+    <category lang="it">Altro</category>
   </programme>
-  <programme start="20260307133500  +0000" stop="20260307143500  +0000" channel="MTV.it">
+  <programme start="20260307143500  +0000" stop="20260307152500  +0000" channel="MTV.it">
     <title lang="it">Dallas Cowboys Cheerleaders: Making... (St. 14 - Ep. 9)</title>
     <category lang="it">Show</category>
   </programme>
-  <programme start="20260307143500  +0000" stop="20260307152500  +0000" channel="MTV.it">
+  <programme start="20260307152500  +0000" stop="20260307161000  +0000" channel="MTV.it">
     <title lang="it">Benvenute nella formazione a triangolo! (St. 14 - Ep. 10)</title>
-    <category lang="it">Intrattenimento</category>
+    <category lang="it">Altro</category>
   </programme>
-  <programme start="20260307152500  +0000" stop="20260307162500  +0000" channel="MTV.it">
+  <programme start="20260307161000  +0000" stop="20260307165500  +0000" channel="MTV.it">
     <title lang="it">La foto perfetta (St. 12 - Ep. 8)</title>
-    <category lang="it">Intrattenimento</category>
+    <category lang="it">Altro</category>
   </programme>
-  <programme start="20260307162500  +0000" stop="20260307165500  +0000" channel="MTV.it">
+  <programme start="20260307165500  +0000" stop="20260307172000  +0000" channel="MTV.it">
     <title lang="it">MTV Cribs Italia (St. 2 - Ep. 9)</title>
     <category lang="it">Show</category>
   </programme>
-  <programme start="20260307165500  +0000" stop="20260307171500  +0000" channel="MTV.it">
+  <programme start="20260307172000  +0000" stop="20260307175000  +0000" channel="MTV.it">
     <title lang="it">MTV Cribs Italia (St. 2 - Ep. 10)</title>
     <category lang="it">Show</category>
   </programme>
-  <programme start="20260307171500  +0000" stop="20260307180500  +0000" channel="MTV.it">
-    <title lang="it">Caught In The Act: Double Life (St. 1 - Ep. 11)</title>
+  <programme start="20260307175000  +0000" stop="20260307183500  +0000" channel="MTV.it">
+    <title lang="it">Catfish: False Identita&apos; (St. 8 - Ep. 34)</title>
     <category lang="it">Show</category>
   </programme>
-  <programme start="20260307180500  +0000" stop="20260307200000  +0000" channel="MTV.it">
-    <title lang="it">Help! I am in a secret relationship! (St. 2 - Ep. 15)</title>
+  <programme start="20260307183500  +0000" stop="20260307201000  +0000" channel="MTV.it">
+    <title lang="it">Catfish: False identita&apos; (St. 3 - Ep. 9)</title>
     <category lang="it">Show</category>
   </programme>
-  <programme start="20260307200000  +0000" stop="20260307210000  +0000" channel="MTV.it">
-    <title lang="it">Help! I am in a secret relationship! (St. 2 - Ep. 17)</title>
+  <programme start="20260307201000  +0000" stop="20260307210000  +0000" channel="MTV.it">
+    <title lang="it">Catfish: False identita&apos; (St. 5 - Ep. 14)</title>
     <category lang="it">Show</category>
   </programme>
   <programme start="20260307210000  +0000" stop="20260307212500  +0000" channel="MTV.it">
@@ -37291,59 +37315,63 @@
     <title lang="it">Ridiculousness: Veri American Idiots (St. 42 - Ep. 14)</title>
     <category lang="it">Serie TV</category>
   </programme>
-  <programme start="20260307215500  +0000" stop="20260307222500  +0000" channel="MTV.it">
+  <programme start="20260307215500  +0000" stop="20260307222000  +0000" channel="MTV.it">
     <title lang="it">Ridiculousness: Veri American Idiots (St. 42 - Ep. 15)</title>
     <category lang="it">Serie TV</category>
   </programme>
-  <programme start="20260307222500  +0000" stop="20260307225500  +0000" channel="MTV.it">
+  <programme start="20260307222000  +0000" stop="20260307224500  +0000" channel="MTV.it">
     <title lang="it">Ridiculousness: Veri American Idiots (St. 37 - Ep. 37)</title>
     <category lang="it">Serie TV</category>
   </programme>
-  <programme start="20260307225500  +0000" stop="20260307232500  +0000" channel="MTV.it">
+  <programme start="20260307224500  +0000" stop="20260307230500  +0000" channel="MTV.it">
     <title lang="it">Ridiculousness: Veri American Idiots (St. 37 - Ep. 41)</title>
     <category lang="it">Serie TV</category>
   </programme>
-  <programme start="20260307232500  +0000" stop="20260307235500  +0000" channel="MTV.it">
+  <programme start="20260307230500  +0000" stop="20260307233500  +0000" channel="MTV.it">
     <title lang="it">Ridiculousness: Veri American Idiots (St. 37 - Ep. 42)</title>
     <category lang="it">Serie TV</category>
   </programme>
-  <programme start="20260307235500  +0000" stop="20260308003000  +0000" channel="MTV.it">
+  <programme start="20260307233500  +0000" stop="20260307235500  +0000" channel="MTV.it">
     <title lang="it">Ridiculousness: Veri American Idiots (St. 38 - Ep. 2)</title>
     <category lang="it">Serie TV</category>
   </programme>
-  <programme start="20260308003000  +0000" stop="20260308011500  +0000" channel="MTV.it">
+  <programme start="20260307235500  +0000" stop="20260308005000  +0000" channel="MTV.it">
     <title lang="it">Dating Naked UK (St. 1 - Ep. 7)</title>
     <category lang="it">Show</category>
   </programme>
-  <programme start="20260308011500  +0000" stop="20260308015500  +0000" channel="MTV.it">
+  <programme start="20260308005000  +0000" stop="20260308013000  +0000" channel="MTV.it">
     <title lang="it">Dating Naked UK (St. 1 - Ep. 8)</title>
     <category lang="it">Show</category>
   </programme>
-  <programme start="20260308015500  +0000" stop="20260308024000  +0000" channel="MTV.it">
+  <programme start="20260308013000  +0000" stop="20260308021500  +0000" channel="MTV.it">
     <title lang="it">Geordie Shore (St. 16 - Ep. 5)</title>
     <category lang="it">Reality</category>
   </programme>
-  <programme start="20260308024000  +0000" stop="20260308032000  +0000" channel="MTV.it">
+  <programme start="20260308021500  +0000" stop="20260308030000  +0000" channel="MTV.it">
     <title lang="it">Geordie Shore (St. 15 - Ep. 6)</title>
     <category lang="it">Reality</category>
   </programme>
-  <programme start="20260308032000  +0000" stop="20260308040500  +0000" channel="MTV.it">
+  <programme start="20260308030000  +0000" stop="20260308031500  +0000" channel="MTV.it">
+    <title lang="it">Ridiculousness: Veri American Idiots (St. 37 - Ep. 37)</title>
+    <category lang="it">Show</category>
+  </programme>
+  <programme start="20260308031500  +0000" stop="20260308035500  +0000" channel="MTV.it">
     <title lang="it">Dating Naked UK (St. 1 - Ep. 8)</title>
     <category lang="it">Show</category>
   </programme>
-  <programme start="20260308040500  +0000" stop="20260308042500  +0000" channel="MTV.it">
+  <programme start="20260308035500  +0000" stop="20260308041500  +0000" channel="MTV.it">
     <title lang="it">Ridiculousness: Veri American Idiots (St. 38 - Ep. 3)</title>
     <category lang="it">Serie TV</category>
   </programme>
-  <programme start="20260308042500  +0000" stop="20260308043500  +0000" channel="MTV.it">
+  <programme start="20260308041500  +0000" stop="20260308044000  +0000" channel="MTV.it">
     <title lang="it">Ridiculousness: Veri American Idiots (St. 37 - Ep. 42)</title>
     <category lang="it">Show</category>
   </programme>
-  <programme start="20260308043500  +0000" stop="20260308043500  +0000" channel="MTV.it">
+  <programme start="20260308044000  +0000" stop="20260308044000  +0000" channel="MTV.it">
     <title lang="it">Ridiculousness: Veri American Idiots (St. 35 - Ep. 1)</title>
     <category lang="it">Show</category>
   </programme>
-  <programme start="20260308043500  +0000" stop="20260308050000  +0000" channel="MTV.it">
+  <programme start="20260308044000  +0000" stop="20260308050000  +0000" channel="MTV.it">
     <title lang="it">Ridiculousness: Veri American Idiots (St. 35 - Ep. 1)</title>
     <category lang="it">Show</category>
   </programme>
@@ -37355,79 +37383,111 @@
     <title lang="it">Ridiculousness: Veri American Idiots (St. 35 - Ep. 21)</title>
     <category lang="it">Show</category>
   </programme>
-  <programme start="20260308052500  +0000" stop="20260308055500  +0000" channel="MTV.it">
+  <programme start="20260308052500  +0000" stop="20260308055000  +0000" channel="MTV.it">
     <title lang="it">Ridiculousness: Veri American Idiots (St. 35 - Ep. 27)</title>
     <category lang="it">Show</category>
   </programme>
-  <programme start="20260308055500  +0000" stop="20260308062000  +0000" channel="MTV.it">
+  <programme start="20260308055000  +0000" stop="20260308061500  +0000" channel="MTV.it">
     <title lang="it">Ridiculousness: Veri American Idiots (St. 35 - Ep. 28)</title>
     <category lang="it">Show</category>
   </programme>
-  <programme start="20260308062000  +0000" stop="20260308065000  +0000" channel="MTV.it">
+  <programme start="20260308061500  +0000" stop="20260308064000  +0000" channel="MTV.it">
     <title lang="it">Ridiculousness: Veri American Idiots (St. 35 - Ep. 30)</title>
     <category lang="it">Show</category>
   </programme>
-  <programme start="20260308065000  +0000" stop="20260308071000  +0000" channel="MTV.it">
+  <programme start="20260308064000  +0000" stop="20260308070000  +0000" channel="MTV.it">
     <title lang="it">Ridiculousness: Veri American Idiots (St. 35 - Ep. 31)</title>
     <category lang="it">Show</category>
   </programme>
-  <programme start="20260308071000  +0000" stop="20260308074000  +0000" channel="MTV.it">
+  <programme start="20260308070000  +0000" stop="20260308073000  +0000" channel="MTV.it">
     <title lang="it">Ridiculousness: Veri American Idiots (St. 35 - Ep. 32)</title>
     <category lang="it">Show</category>
   </programme>
-  <programme start="20260308074000  +0000" stop="20260308080500  +0000" channel="MTV.it">
+  <programme start="20260308073000  +0000" stop="20260308075000  +0000" channel="MTV.it">
     <title lang="it">Ridiculousness: Veri American Idiots (St. 35 - Ep. 34)</title>
     <category lang="it">Show</category>
   </programme>
-  <programme start="20260308080500  +0000" stop="20260308090000  +0000" channel="MTV.it">
+  <programme start="20260308075000  +0000" stop="20260308084000  +0000" channel="MTV.it">
     <title lang="it">S2 Ep7 - The Challenge: All Stars</title>
     <category lang="it">Show</category>
   </programme>
-  <programme start="20260308090000  +0000" stop="20260308095500  +0000" channel="MTV.it">
+  <programme start="20260308084000  +0000" stop="20260308093000  +0000" channel="MTV.it">
     <title lang="it">The Challenge: All Stars (St. 2 - Ep. 8)</title>
     <category lang="it">Show</category>
   </programme>
-  <programme start="20260308095500  +0000" stop="20260308105000  +0000" channel="MTV.it">
+  <programme start="20260308093000  +0000" stop="20260308101500  +0000" channel="MTV.it">
     <title lang="it">Ink Master: Return of the Masters (St. 10 - Ep. 4)</title>
     <category lang="it">Show</category>
   </programme>
-  <programme start="20260308105000  +0000" stop="20260308114500  +0000" channel="MTV.it">
+  <programme start="20260308101500  +0000" stop="20260308103000  +0000" channel="MTV.it">
+    <title lang="it">Ridiculousness: Veri American Idiots (St. 35 - Ep. 5)</title>
+    <category lang="it">Show</category>
+  </programme>
+  <programme start="20260308103000  +0000" stop="20260308105000  +0000" channel="MTV.it">
+    <title lang="it">Ridiculousness: Veri American Idiots (St. 35 - Ep. 13)</title>
+    <category lang="it">Show</category>
+  </programme>
+  <programme start="20260308105000  +0000" stop="20260308111500  +0000" channel="MTV.it">
+    <title lang="it">Ridiculousness: Veri American Idiots (St. 35 - Ep. 14)</title>
+    <category lang="it">Show</category>
+  </programme>
+  <programme start="20260308111500  +0000" stop="20260308120000  +0000" channel="MTV.it">
     <title lang="it">Ink Master: Return of the Masters (St. 10 - Ep. 5)</title>
     <category lang="it">Show</category>
   </programme>
-  <programme start="20260308114500  +0000" stop="20260308124000  +0000" channel="MTV.it">
+  <programme start="20260308120000  +0000" stop="20260308122000  +0000" channel="MTV.it">
+    <title lang="it">Ridiculousness: Veri American Idiots (St. 35 - Ep. 15)</title>
+    <category lang="it">Show</category>
+  </programme>
+  <programme start="20260308122000  +0000" stop="20260308125500  +0000" channel="MTV.it">
+    <title lang="it">Ridiculousness: Veri American Idiots (St. 35 - Ep. 16)</title>
+    <category lang="it">Show</category>
+  </programme>
+  <programme start="20260308125500  +0000" stop="20260308134000  +0000" channel="MTV.it">
     <title lang="it">Ink Master: Return of the Masters (St. 10 - Ep. 6)</title>
     <category lang="it">Show</category>
   </programme>
-  <programme start="20260308124000  +0000" stop="20260308133500  +0000" channel="MTV.it">
+  <programme start="20260308134000  +0000" stop="20260308140500  +0000" channel="MTV.it">
+    <title lang="it">Ridiculousness: Veri American Idiots (St. 35 - Ep. 17)</title>
+    <category lang="it">Show</category>
+  </programme>
+  <programme start="20260308140500  +0000" stop="20260308145500  +0000" channel="MTV.it">
     <title lang="it">Ink Master: Return of the Masters (St. 10 - Ep. 7)</title>
     <category lang="it">Show</category>
   </programme>
-  <programme start="20260308133500  +0000" stop="20260308143500  +0000" channel="MTV.it">
+  <programme start="20260308145500  +0000" stop="20260308154000  +0000" channel="MTV.it">
     <title lang="it">Caught In The Act (St. 3 - Ep. 11)</title>
     <category lang="it">Show</category>
   </programme>
-  <programme start="20260308143500  +0000" stop="20260308153500  +0000" channel="MTV.it">
+  <programme start="20260308154000  +0000" stop="20260308162000  +0000" channel="MTV.it">
     <title lang="it">Caught In The Act (St. 3 - Ep. 12)</title>
     <category lang="it">Show</category>
   </programme>
-  <programme start="20260308153500  +0000" stop="20260308171500  +0000" channel="MTV.it">
+  <programme start="20260308162000  +0000" stop="20260308170500  +0000" channel="MTV.it">
     <title lang="it">Catfish: False Identita&apos; (St. 7 - Ep. 13)</title>
     <category lang="it">Show</category>
   </programme>
-  <programme start="20260308171500  +0000" stop="20260308190500  +0000" channel="MTV.it">
+  <programme start="20260308170500  +0000" stop="20260308175000  +0000" channel="MTV.it">
+    <title lang="it">Catfish: False identita&apos; (St. 7 - Ep. 14)</title>
+    <category lang="it">Show</category>
+  </programme>
+  <programme start="20260308175000  +0000" stop="20260308183500  +0000" channel="MTV.it">
     <title lang="it">Caught In The Act: Double Life (St. 1 - Ep. 12)</title>
     <category lang="it">Show</category>
   </programme>
-  <programme start="20260308190500  +0000" stop="20260308201000  +0000" channel="MTV.it">
+  <programme start="20260308183500  +0000" stop="20260308192500  +0000" channel="MTV.it">
+    <title lang="it">Caught In The Act (St. 4 - Ep. 16)</title>
+    <category lang="it">Show</category>
+  </programme>
+  <programme start="20260308192500  +0000" stop="20260308201000  +0000" channel="MTV.it">
     <title lang="it">Caught In The Act (St. 2 - Ep. 11)</title>
     <category lang="it">Show</category>
   </programme>
-  <programme start="20260308201000  +0000" stop="20260308210500  +0000" channel="MTV.it">
+  <programme start="20260308201000  +0000" stop="20260308210000  +0000" channel="MTV.it">
     <title lang="it">MTV Cribs Italia (St. 5 - Ep. 2)</title>
     <category lang="it">Show</category>
   </programme>
-  <programme start="20260308210500  +0000" stop="20260308220000  +0000" channel="MTV.it">
+  <programme start="20260308210000  +0000" stop="20260308220000  +0000" channel="MTV.it">
     <title lang="it">Dating Naked UK (St. 1 - Ep. 8)</title>
     <category lang="it">Show</category>
   </programme>
@@ -37435,23 +37495,27 @@
     <title lang="it">MTV Unplugged: Nirvana</title>
     <category lang="it">Show</category>
   </programme>
-  <programme start="20260308225500  +0000" stop="20260308232500  +0000" channel="MTV.it">
+  <programme start="20260308225500  +0000" stop="20260308232000  +0000" channel="MTV.it">
     <title lang="it">Ridiculousness: Veri American Idiots (St. 38 - Ep. 7)</title>
     <category lang="it">Show</category>
   </programme>
-  <programme start="20260308232500  +0000" stop="20260308235500  +0000" channel="MTV.it">
+  <programme start="20260308232000  +0000" stop="20260308235000  +0000" channel="MTV.it">
     <title lang="it">Ridiculousness: Veri American Idiots (St. 38 - Ep. 8)</title>
     <category lang="it">Show</category>
   </programme>
-  <programme start="20260308235500  +0000" stop="20260309003000  +0000" channel="MTV.it">
+  <programme start="20260308235000  +0000" stop="20260309001500  +0000" channel="MTV.it">
     <title lang="it">Ridiculousness: Veri American Idiots (St. 38 - Ep. 13)</title>
     <category lang="it">Show</category>
   </programme>
-  <programme start="20260309003000  +0000" stop="20260309015500  +0000" channel="MTV.it">
+  <programme start="20260309001500  +0000" stop="20260309010500  +0000" channel="MTV.it">
     <title lang="it">Dating Naked UK (St. 1 - Ep. 8)</title>
     <category lang="it">Show</category>
   </programme>
-  <programme start="20260309015500  +0000" stop="20260309024000  +0000" channel="MTV.it">
+  <programme start="20260309010500  +0000" stop="20260309014500  +0000" channel="MTV.it">
+    <title lang="it">Caught In The Act (St. 4 - Ep. 16)</title>
+    <category lang="it">Show</category>
+  </programme>
+  <programme start="20260309014500  +0000" stop="20260309024000  +0000" channel="MTV.it">
     <title lang="it">Geordie Shore (St. 15 - Ep. 7)</title>
     <category lang="it">Reality</category>
   </programme>
@@ -37611,11 +37675,11 @@
     <title lang="it">44 gatti (St. 2 - Ep. 28)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307052500  +0000" stop="20260307054000  +0000" channel="NickJr.it">
+  <programme start="20260307052500  +0000" stop="20260307053500  +0000" channel="NickJr.it">
     <title lang="it">44 gatti (St. 2 - Ep. 29)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307054000  +0000" stop="20260307055000  +0000" channel="NickJr.it">
+  <programme start="20260307053500  +0000" stop="20260307055000  +0000" channel="NickJr.it">
     <title lang="it">44 gatti (St. 2 - Ep. 30)</title>
     <category lang="it">Ragazzi</category>
   </programme>
@@ -37623,52 +37687,56 @@
     <title lang="it">Alvinnn!!! and the Chipmunks (St. 2 - Ep. 1)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307061500  +0000" stop="20260307064000  +0000" channel="NickJr.it">
+  <programme start="20260307061500  +0000" stop="20260307063500  +0000" channel="NickJr.it">
     <title lang="it">Alvinnn!!! and the Chipmunks (St. 2 - Ep. 2)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307064000  +0000" stop="20260307070500  +0000" channel="NickJr.it">
+  <programme start="20260307063500  +0000" stop="20260307070000  +0000" channel="NickJr.it">
     <title lang="it">Alvinnn!!! and the Chipmunks (St. 2 - Ep. 3)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307070500  +0000" stop="20260307073000  +0000" channel="NickJr.it">
+  <programme start="20260307070000  +0000" stop="20260307072500  +0000" channel="NickJr.it">
     <title lang="it">Alvinnn!!! and the Chipmunks (St. 2 - Ep. 4)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307073000  +0000" stop="20260307075500  +0000" channel="NickJr.it">
+  <programme start="20260307072500  +0000" stop="20260307075000  +0000" channel="NickJr.it">
     <title lang="it">Alvinnn!!! and the Chipmunks (St. 2 - Ep. 5)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307075500  +0000" stop="20260307082000  +0000" channel="NickJr.it">
+  <programme start="20260307075000  +0000" stop="20260307081500  +0000" channel="NickJr.it">
     <title lang="it">Alvinnn!!! and the Chipmunks (St. 2 - Ep. 6)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307082000  +0000" stop="20260307084500  +0000" channel="NickJr.it">
+  <programme start="20260307081500  +0000" stop="20260307084000  +0000" channel="NickJr.it">
     <title lang="it">Alvinnn!!! and the Chipmunks (St. 2 - Ep. 7)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307084500  +0000" stop="20260307091000  +0000" channel="NickJr.it">
+  <programme start="20260307084000  +0000" stop="20260307090000  +0000" channel="NickJr.it">
     <title lang="it">Alvinnn!!! and the Chipmunks (St. 2 - Ep. 8)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307091000  +0000" stop="20260307093500  +0000" channel="NickJr.it">
+  <programme start="20260307090000  +0000" stop="20260307092500  +0000" channel="NickJr.it">
     <title lang="it">Alvinnn!!! and the Chipmunks (St. 2 - Ep. 9)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307093500  +0000" stop="20260307100000  +0000" channel="NickJr.it">
+  <programme start="20260307092500  +0000" stop="20260307095000  +0000" channel="NickJr.it">
     <title lang="it">Alvinnn!!! and the Chipmunks (St. 2 - Ep. 10)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307100000  +0000" stop="20260307102500  +0000" channel="NickJr.it">
+  <programme start="20260307095000  +0000" stop="20260307101000  +0000" channel="NickJr.it">
     <title lang="it">Alvinnn!!! and the Chipmunks (St. 2 - Ep. 11)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307102500  +0000" stop="20260307105000  +0000" channel="NickJr.it">
+  <programme start="20260307101000  +0000" stop="20260307103500  +0000" channel="NickJr.it">
     <title lang="it">Alvinnn!!! and the Chipmunks (St. 2 - Ep. 12)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307105000  +0000" stop="20260307111500  +0000" channel="NickJr.it">
+  <programme start="20260307103500  +0000" stop="20260307110000  +0000" channel="NickJr.it">
     <title lang="it">Alvinnn!!! and the Chipmunks (St. 2 - Ep. 13)</title>
+    <category lang="it">Ragazzi</category>
+  </programme>
+  <programme start="20260307110000  +0000" stop="20260307111500  +0000" channel="NickJr.it">
+    <title lang="it">Alvinnn!!! and the Chipmunks (St. 2 - Ep. 3)</title>
     <category lang="it">Ragazzi</category>
   </programme>
   <programme start="20260307111500  +0000" stop="20260307114000  +0000" channel="NickJr.it">
@@ -37679,240 +37747,248 @@
     <title lang="it">Alvinnn!!! and the Chipmunks (St. 2 - Ep. 15)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307120500  +0000" stop="20260307123500  +0000" channel="NickJr.it">
+  <programme start="20260307120500  +0000" stop="20260307122500  +0000" channel="NickJr.it">
     <title lang="it">Alvinnn!!! and the Chipmunks (St. 2 - Ep. 16)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307123500  +0000" stop="20260307130000  +0000" channel="NickJr.it">
+  <programme start="20260307122500  +0000" stop="20260307125000  +0000" channel="NickJr.it">
     <title lang="it">Alvinnn!!! and the Chipmunks (St. 2 - Ep. 17)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307130000  +0000" stop="20260307132500  +0000" channel="NickJr.it">
+  <programme start="20260307125000  +0000" stop="20260307131500  +0000" channel="NickJr.it">
     <title lang="it">Alvinnn!!! and the Chipmunks (St. 2 - Ep. 18)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307132500  +0000" stop="20260307135000  +0000" channel="NickJr.it">
+  <programme start="20260307131500  +0000" stop="20260307134000  +0000" channel="NickJr.it">
     <title lang="it">Alvinnn!!! and the Chipmunks (St. 2 - Ep. 19)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307135000  +0000" stop="20260307141500  +0000" channel="NickJr.it">
+  <programme start="20260307134000  +0000" stop="20260307140500  +0000" channel="NickJr.it">
     <title lang="it">Alvinnn!!! and the Chipmunks (St. 2 - Ep. 20)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307141500  +0000" stop="20260307144000  +0000" channel="NickJr.it">
+  <programme start="20260307140500  +0000" stop="20260307143000  +0000" channel="NickJr.it">
     <title lang="it">Alvinnn!!! and the Chipmunks (St. 2 - Ep. 21)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307144000  +0000" stop="20260307150000  +0000" channel="NickJr.it">
+  <programme start="20260307143000  +0000" stop="20260307145000  +0000" channel="NickJr.it">
     <title lang="it">Alvinnn!!! and the Chipmunks (St. 2 - Ep. 22)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307150000  +0000" stop="20260307152500  +0000" channel="NickJr.it">
+  <programme start="20260307145000  +0000" stop="20260307151500  +0000" channel="NickJr.it">
     <title lang="it">Alvinnn!!! and the Chipmunks (St. 2 - Ep. 24)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307152500  +0000" stop="20260307155000  +0000" channel="NickJr.it">
+  <programme start="20260307151500  +0000" stop="20260307154000  +0000" channel="NickJr.it">
     <title lang="it">Alvinnn!!! and the Chipmunks (St. 2 - Ep. 23)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307155000  +0000" stop="20260307161500  +0000" channel="NickJr.it">
+  <programme start="20260307154000  +0000" stop="20260307160500  +0000" channel="NickJr.it">
     <title lang="it">Alvinnn!!! and the Chipmunks (St. 2 - Ep. 25)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307161500  +0000" stop="20260307164000  +0000" channel="NickJr.it">
+  <programme start="20260307160500  +0000" stop="20260307163000  +0000" channel="NickJr.it">
     <title lang="it">Alvinnn!!! e i Chipmunks (St. 2 - Ep. 26)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307164000  +0000" stop="20260307170000  +0000" channel="NickJr.it">
+  <programme start="20260307163000  +0000" stop="20260307165000  +0000" channel="NickJr.it">
     <title lang="it">Alvinnn!!! and the Chipmunks (St. 3 - Ep. 1)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307170000  +0000" stop="20260307172500  +0000" channel="NickJr.it">
+  <programme start="20260307165000  +0000" stop="20260307171500  +0000" channel="NickJr.it">
     <title lang="it">Alvinnn!!! and the Chipmunks (St. 3 - Ep. 2)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307172500  +0000" stop="20260307175000  +0000" channel="NickJr.it">
+  <programme start="20260307171500  +0000" stop="20260307174000  +0000" channel="NickJr.it">
     <title lang="it">Alvinnn!!! and the Chipmunks (St. 3 - Ep. 3)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307175000  +0000" stop="20260307181500  +0000" channel="NickJr.it">
+  <programme start="20260307174000  +0000" stop="20260307180000  +0000" channel="NickJr.it">
     <title lang="it">Alvinnn!!! and the Chipmunks (St. 3 - Ep. 4)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307181500  +0000" stop="20260307184000  +0000" channel="NickJr.it">
-    <title lang="it">Alvinnn!!! and the Chipmunks (St. 3 - Ep. 5)</title>
-    <category lang="it">Ragazzi</category>
-  </programme>
-  <programme start="20260307184000  +0000" stop="20260307190000  +0000" channel="NickJr.it">
+  <programme start="20260307180000  +0000" stop="20260307181500  +0000" channel="NickJr.it">
     <title lang="it">Alvinnn!!! and the Chipmunks (St. 3 - Ep. 6)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307190000  +0000" stop="20260307192500  +0000" channel="NickJr.it">
+  <programme start="20260307181500  +0000" stop="20260307183500  +0000" channel="NickJr.it">
+    <title lang="it">Alvinnn!!! and the Chipmunks (St. 3 - Ep. 5)</title>
+    <category lang="it">Ragazzi</category>
+  </programme>
+  <programme start="20260307183500  +0000" stop="20260307190000  +0000" channel="NickJr.it">
+    <title lang="it">Alvinnn!!! and the Chipmunks (St. 3 - Ep. 6)</title>
+    <category lang="it">Ragazzi</category>
+  </programme>
+  <programme start="20260307190000  +0000" stop="20260307200500  +0000" channel="NickJr.it">
     <title lang="it">Alvinnn!!! and the Chipmunks (St. 3 - Ep. 7)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307192500  +0000" stop="20260307195000  +0000" channel="NickJr.it">
-    <title lang="it">Alvinnn!!! and the Chipmunks (St. 3 - Ep. 8)</title>
-    <category lang="it">Ragazzi</category>
-  </programme>
-  <programme start="20260307195000  +0000" stop="20260307201500  +0000" channel="NickJr.it">
-    <title lang="it">Alvinnn!!! and the Chipmunks (St. 3 - Ep. 9)</title>
-    <category lang="it">Ragazzi</category>
-  </programme>
-  <programme start="20260307201500  +0000" stop="20260307204000  +0000" channel="NickJr.it">
+  <programme start="20260307200500  +0000" stop="20260307203000  +0000" channel="NickJr.it">
     <title lang="it">Alvinnn!!! and the Chipmunks (St. 3 - Ep. 10)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307204000  +0000" stop="20260307211000  +0000" channel="NickJr.it">
+  <programme start="20260307203000  +0000" stop="20260307205500  +0000" channel="NickJr.it">
     <title lang="it">Alvinnn!!! and the Chipmunks (St. 3 - Ep. 11)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307211000  +0000" stop="20260307213000  +0000" channel="NickJr.it">
+  <programme start="20260307205500  +0000" stop="20260307211500  +0000" channel="NickJr.it">
     <title lang="it">Alvinnn!!! and the Chipmunks (St. 3 - Ep. 12)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307213000  +0000" stop="20260307215000  +0000" channel="NickJr.it">
+  <programme start="20260307211500  +0000" stop="20260307213000  +0000" channel="NickJr.it">
     <title lang="it">44 gatti (St. 2 - Ep. 27)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307215000  +0000" stop="20260307220000  +0000" channel="NickJr.it">
+  <programme start="20260307213000  +0000" stop="20260307214000  +0000" channel="NickJr.it">
     <title lang="it">44 gatti (St. 2 - Ep. 28)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307220000  +0000" stop="20260307221500  +0000" channel="NickJr.it">
+  <programme start="20260307214000  +0000" stop="20260307215500  +0000" channel="NickJr.it">
     <title lang="it">44 gatti (St. 2 - Ep. 29)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307221500  +0000" stop="20260307223500  +0000" channel="NickJr.it">
+  <programme start="20260307215500  +0000" stop="20260307220500  +0000" channel="NickJr.it">
     <title lang="it">44 gatti (St. 2 - Ep. 30)</title>
+    <category lang="it">Ragazzi</category>
+  </programme>
+  <programme start="20260307220500  +0000" stop="20260307222000  +0000" channel="NickJr.it">
+    <title lang="it">44 gatti (St. 2 - Ep. 31)</title>
+    <category lang="it">Ragazzi</category>
+  </programme>
+  <programme start="20260307222000  +0000" stop="20260307223500  +0000" channel="NickJr.it">
+    <title lang="it">44 gatti (St. 2 - Ep. 32)</title>
     <category lang="it">Ragazzi</category>
   </programme>
   <programme start="20260307223500  +0000" stop="20260307224500  +0000" channel="NickJr.it">
-    <title lang="it">44 gatti (St. 2 - Ep. 31)</title>
+    <title lang="it">44 gatti (St. 2 - Ep. 33)</title>
     <category lang="it">Ragazzi</category>
   </programme>
   <programme start="20260307224500  +0000" stop="20260307230000  +0000" channel="NickJr.it">
-    <title lang="it">44 gatti (St. 2 - Ep. 32)</title>
+    <title lang="it">44 gatti (St. 2 - Ep. 34)</title>
     <category lang="it">Ragazzi</category>
   </programme>
   <programme start="20260307230000  +0000" stop="20260307231000  +0000" channel="NickJr.it">
-    <title lang="it">44 gatti (St. 2 - Ep. 33)</title>
-    <category lang="it">Ragazzi</category>
-  </programme>
-  <programme start="20260307231000  +0000" stop="20260307232500  +0000" channel="NickJr.it">
-    <title lang="it">44 gatti (St. 2 - Ep. 34)</title>
-    <category lang="it">Ragazzi</category>
-  </programme>
-  <programme start="20260307232500  +0000" stop="20260307233500  +0000" channel="NickJr.it">
     <title lang="it">44 gatti (St. 2 - Ep. 35)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307233500  +0000" stop="20260307234500  +0000" channel="NickJr.it">
+  <programme start="20260307231000  +0000" stop="20260307232000  +0000" channel="NickJr.it">
     <title lang="it">44 gatti (St. 2 - Ep. 36)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307234500  +0000" stop="20260308000000  +0000" channel="NickJr.it">
+  <programme start="20260307232000  +0000" stop="20260307233500  +0000" channel="NickJr.it">
     <title lang="it">44 gatti (St. 2 - Ep. 37)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308000000  +0000" stop="20260308001500  +0000" channel="NickJr.it">
+  <programme start="20260307233500  +0000" stop="20260307235000  +0000" channel="NickJr.it">
     <title lang="it">44 gatti (St. 2 - Ep. 38)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308001500  +0000" stop="20260308002500  +0000" channel="NickJr.it">
+  <programme start="20260307235000  +0000" stop="20260308000000  +0000" channel="NickJr.it">
     <title lang="it">44 gatti (St. 2 - Ep. 39)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308002500  +0000" stop="20260308004000  +0000" channel="NickJr.it">
+  <programme start="20260308000000  +0000" stop="20260308001500  +0000" channel="NickJr.it">
     <title lang="it">44 gatti (St. 2 - Ep. 40)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308004000  +0000" stop="20260308005000  +0000" channel="NickJr.it">
+  <programme start="20260308001500  +0000" stop="20260308002500  +0000" channel="NickJr.it">
     <title lang="it">44 gatti (St. 2 - Ep. 41)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308005000  +0000" stop="20260308010500  +0000" channel="NickJr.it">
+  <programme start="20260308002500  +0000" stop="20260308003500  +0000" channel="NickJr.it">
     <title lang="it">44 gatti (St. 2 - Ep. 42)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308010500  +0000" stop="20260308011500  +0000" channel="NickJr.it">
+  <programme start="20260308003500  +0000" stop="20260308005000  +0000" channel="NickJr.it">
     <title lang="it">44 gatti (St. 2 - Ep. 43)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308011500  +0000" stop="20260308013000  +0000" channel="NickJr.it">
+  <programme start="20260308005000  +0000" stop="20260308010000  +0000" channel="NickJr.it">
     <title lang="it">44 gatti (St. 2 - Ep. 44)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308013000  +0000" stop="20260308014000  +0000" channel="NickJr.it">
+  <programme start="20260308010000  +0000" stop="20260308011500  +0000" channel="NickJr.it">
     <title lang="it">44 gatti (St. 2 - Ep. 45)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308014000  +0000" stop="20260308015500  +0000" channel="NickJr.it">
+  <programme start="20260308011500  +0000" stop="20260308012500  +0000" channel="NickJr.it">
     <title lang="it">44 gatti (St. 2 - Ep. 46)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308015500  +0000" stop="20260308020500  +0000" channel="NickJr.it">
+  <programme start="20260308012500  +0000" stop="20260308014000  +0000" channel="NickJr.it">
     <title lang="it">44 gatti (St. 2 - Ep. 47)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308020500  +0000" stop="20260308022000  +0000" channel="NickJr.it">
+  <programme start="20260308014000  +0000" stop="20260308015000  +0000" channel="NickJr.it">
     <title lang="it">44 gatti (St. 2 - Ep. 48)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308022000  +0000" stop="20260308023500  +0000" channel="NickJr.it">
+  <programme start="20260308015000  +0000" stop="20260308020500  +0000" channel="NickJr.it">
     <title lang="it">44 gatti (St. 2 - Ep. 49)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308023500  +0000" stop="20260308024500  +0000" channel="NickJr.it">
+  <programme start="20260308020500  +0000" stop="20260308021000  +0000" channel="NickJr.it">
     <title lang="it">Vetrina Nick Junior</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308024500  +0000" stop="20260308025500  +0000" channel="NickJr.it">
+  <programme start="20260308021000  +0000" stop="20260308022000  +0000" channel="NickJr.it">
     <title lang="it">44 gatti (St. 2 - Ep. 50)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308025500  +0000" stop="20260308031000  +0000" channel="NickJr.it">
+  <programme start="20260308022000  +0000" stop="20260308023500  +0000" channel="NickJr.it">
     <title lang="it">44 gatti (St. 2 - Ep. 51)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308031000  +0000" stop="20260308032000  +0000" channel="NickJr.it">
+  <programme start="20260308023500  +0000" stop="20260308024500  +0000" channel="NickJr.it">
     <title lang="it">44 gatti (St. 2 - Ep. 52)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308032000  +0000" stop="20260308033500  +0000" channel="NickJr.it">
+  <programme start="20260308024500  +0000" stop="20260308030000  +0000" channel="NickJr.it">
     <title lang="it">44 gatti (St. 2 - Ep. 27)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308033500  +0000" stop="20260308035000  +0000" channel="NickJr.it">
+  <programme start="20260308030000  +0000" stop="20260308031000  +0000" channel="NickJr.it">
     <title lang="it">44 gatti (St. 2 - Ep. 28)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308035000  +0000" stop="20260308040500  +0000" channel="NickJr.it">
+  <programme start="20260308031000  +0000" stop="20260308032500  +0000" channel="NickJr.it">
     <title lang="it">44 gatti (St. 2 - Ep. 29)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308040500  +0000" stop="20260308042000  +0000" channel="NickJr.it">
+  <programme start="20260308032500  +0000" stop="20260308033500  +0000" channel="NickJr.it">
     <title lang="it">44 gatti (St. 2 - Ep. 30)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308042000  +0000" stop="20260308043000  +0000" channel="NickJr.it">
+  <programme start="20260308033500  +0000" stop="20260308034500  +0000" channel="NickJr.it">
     <title lang="it">44 gatti (St. 2 - Ep. 31)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308043000  +0000" stop="20260308044500  +0000" channel="NickJr.it">
+  <programme start="20260308034500  +0000" stop="20260308040000  +0000" channel="NickJr.it">
     <title lang="it">44 gatti (St. 2 - Ep. 32)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308044500  +0000" stop="20260308045500  +0000" channel="NickJr.it">
+  <programme start="20260308040000  +0000" stop="20260308041000  +0000" channel="NickJr.it">
     <title lang="it">44 gatti (St. 2 - Ep. 33)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308045500  +0000" stop="20260308045500  +0000" channel="NickJr.it">
+  <programme start="20260308041000  +0000" stop="20260308042000  +0000" channel="NickJr.it">
     <title lang="it">44 gatti (St. 2 - Ep. 34)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308045500  +0000" stop="20260308050000  +0000" channel="NickJr.it">
-    <title lang="it">44 gatti (St. 2 - Ep. 34)</title>
+  <programme start="20260308042000  +0000" stop="20260308043500  +0000" channel="NickJr.it">
+    <title lang="it">44 gatti (St. 2 - Ep. 28)</title>
+    <category lang="it">Ragazzi</category>
+  </programme>
+  <programme start="20260308043500  +0000" stop="20260308044500  +0000" channel="NickJr.it">
+    <title lang="it">44 gatti (St. 2 - Ep. 29)</title>
+    <category lang="it">Ragazzi</category>
+  </programme>
+  <programme start="20260308044500  +0000" stop="20260308044500  +0000" channel="NickJr.it">
+    <title lang="it">44 gatti (St. 2 - Ep. 30)</title>
+    <category lang="it">Ragazzi</category>
+  </programme>
+  <programme start="20260308044500  +0000" stop="20260308050000  +0000" channel="NickJr.it">
+    <title lang="it">44 gatti (St. 2 - Ep. 30)</title>
     <category lang="it">Ragazzi</category>
   </programme>
   <programme start="20260308050000  +0000" stop="20260308050000  +0000" channel="NickJr.it">
@@ -37927,247 +38003,263 @@
     <title lang="it">44 gatti (St. 2 - Ep. 32)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308052500  +0000" stop="20260308054000  +0000" channel="NickJr.it">
+  <programme start="20260308052500  +0000" stop="20260308053500  +0000" channel="NickJr.it">
     <title lang="it">44 gatti (St. 2 - Ep. 33)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308054000  +0000" stop="20260308055000  +0000" channel="NickJr.it">
+  <programme start="20260308053500  +0000" stop="20260308055000  +0000" channel="NickJr.it">
     <title lang="it">44 gatti (St. 2 - Ep. 34)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308055000  +0000" stop="20260308061500  +0000" channel="NickJr.it">
+  <programme start="20260308055000  +0000" stop="20260308061000  +0000" channel="NickJr.it">
     <title lang="it">PAW Patrol (St. 11 - Ep. 19)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308061500  +0000" stop="20260308064000  +0000" channel="NickJr.it">
+  <programme start="20260308061000  +0000" stop="20260308063500  +0000" channel="NickJr.it">
     <title lang="it">PAW Patrol (St. 11 - Ep. 20)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308064000  +0000" stop="20260308070500  +0000" channel="NickJr.it">
+  <programme start="20260308063500  +0000" stop="20260308070000  +0000" channel="NickJr.it">
     <title lang="it">PAW Patrol (St. 11 - Ep. 24)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308070500  +0000" stop="20260308073000  +0000" channel="NickJr.it">
+  <programme start="20260308070000  +0000" stop="20260308072000  +0000" channel="NickJr.it">
     <title lang="it">PAW Patrol (St. 11 - Ep. 25)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308073000  +0000" stop="20260308075500  +0000" channel="NickJr.it">
+  <programme start="20260308072000  +0000" stop="20260308074500  +0000" channel="NickJr.it">
     <title lang="it">PAW Patrol (St. 11 - Ep. 26)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308075500  +0000" stop="20260308082000  +0000" channel="NickJr.it">
+  <programme start="20260308074500  +0000" stop="20260308081000  +0000" channel="NickJr.it">
     <title lang="it">PAW Patrol (St. 5 - Ep. 1)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308082000  +0000" stop="20260308084500  +0000" channel="NickJr.it">
+  <programme start="20260308081000  +0000" stop="20260308083000  +0000" channel="NickJr.it">
     <title lang="it">PAW Patrol (St. 5 - Ep. 2)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308084500  +0000" stop="20260308091000  +0000" channel="NickJr.it">
+  <programme start="20260308083000  +0000" stop="20260308085500  +0000" channel="NickJr.it">
     <title lang="it">PAW Patrol (St. 5 - Ep. 3)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308091000  +0000" stop="20260308093500  +0000" channel="NickJr.it">
+  <programme start="20260308085500  +0000" stop="20260308092000  +0000" channel="NickJr.it">
     <title lang="it">PAW Patrol (St. 5 - Ep. 4)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308093500  +0000" stop="20260308100000  +0000" channel="NickJr.it">
+  <programme start="20260308092000  +0000" stop="20260308094000  +0000" channel="NickJr.it">
     <title lang="it">PAW Patrol (St. 5 - Ep. 5)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308100000  +0000" stop="20260308102500  +0000" channel="NickJr.it">
+  <programme start="20260308094000  +0000" stop="20260308100500  +0000" channel="NickJr.it">
     <title lang="it">PAW Patrol (St. 5 - Ep. 6)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308102500  +0000" stop="20260308105000  +0000" channel="NickJr.it">
+  <programme start="20260308100500  +0000" stop="20260308102500  +0000" channel="NickJr.it">
     <title lang="it">PAW Patrol (St. 5 - Ep. 7)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308105000  +0000" stop="20260308111500  +0000" channel="NickJr.it">
+  <programme start="20260308102500  +0000" stop="20260308105000  +0000" channel="NickJr.it">
     <title lang="it">PAW Patrol (St. 5 - Ep. 8)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308111500  +0000" stop="20260308114000  +0000" channel="NickJr.it">
+  <programme start="20260308105000  +0000" stop="20260308111500  +0000" channel="NickJr.it">
+    <title lang="it">PAW Patrol (St. 5 - Ep. 1)</title>
+    <category lang="it">Ragazzi</category>
+  </programme>
+  <programme start="20260308111500  +0000" stop="20260308113500  +0000" channel="NickJr.it">
     <title lang="it">PAW Patrol (St. 5 - Ep. 9)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308114000  +0000" stop="20260308120500  +0000" channel="NickJr.it">
+  <programme start="20260308113500  +0000" stop="20260308120000  +0000" channel="NickJr.it">
     <title lang="it">PAW Patrol (St. 5 - Ep. 10)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308120500  +0000" stop="20260308123500  +0000" channel="NickJr.it">
+  <programme start="20260308120000  +0000" stop="20260308122500  +0000" channel="NickJr.it">
     <title lang="it">PAW Patrol (St. 5 - Ep. 11)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308123500  +0000" stop="20260308130000  +0000" channel="NickJr.it">
+  <programme start="20260308122500  +0000" stop="20260308124500  +0000" channel="NickJr.it">
     <title lang="it">PAW Patrol (St. 5 - Ep. 12)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308130000  +0000" stop="20260308132500  +0000" channel="NickJr.it">
+  <programme start="20260308124500  +0000" stop="20260308131000  +0000" channel="NickJr.it">
     <title lang="it">PAW Patrol (St. 5 - Ep. 13)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308132500  +0000" stop="20260308135000  +0000" channel="NickJr.it">
+  <programme start="20260308131000  +0000" stop="20260308133500  +0000" channel="NickJr.it">
     <title lang="it">PAW Patrol (St. 5 - Ep. 14)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308135000  +0000" stop="20260308141500  +0000" channel="NickJr.it">
+  <programme start="20260308133500  +0000" stop="20260308135500  +0000" channel="NickJr.it">
     <title lang="it">PAW Patrol (St. 5 - Ep. 15)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308141500  +0000" stop="20260308144000  +0000" channel="NickJr.it">
+  <programme start="20260308135500  +0000" stop="20260308142000  +0000" channel="NickJr.it">
     <title lang="it">PAW Patrol (St. 5 - Ep. 16)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308144000  +0000" stop="20260308150000  +0000" channel="NickJr.it">
+  <programme start="20260308142000  +0000" stop="20260308144500  +0000" channel="NickJr.it">
     <title lang="it">PAW Patrol (St. 5 - Ep. 17)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308150000  +0000" stop="20260308152500  +0000" channel="NickJr.it">
+  <programme start="20260308144500  +0000" stop="20260308150500  +0000" channel="NickJr.it">
     <title lang="it">PAW Patrol (St. 5 - Ep. 18)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308152500  +0000" stop="20260308155000  +0000" channel="NickJr.it">
+  <programme start="20260308150500  +0000" stop="20260308153000  +0000" channel="NickJr.it">
     <title lang="it">PAW Patrol (St. 5 - Ep. 19)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308155000  +0000" stop="20260308161500  +0000" channel="NickJr.it">
+  <programme start="20260308153000  +0000" stop="20260308155500  +0000" channel="NickJr.it">
     <title lang="it">PAW Patrol (St. 5 - Ep. 20)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308161500  +0000" stop="20260308164000  +0000" channel="NickJr.it">
+  <programme start="20260308155500  +0000" stop="20260308162000  +0000" channel="NickJr.it">
     <title lang="it">PAW Patrol (St. 5 - Ep. 21)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308164000  +0000" stop="20260308170000  +0000" channel="NickJr.it">
+  <programme start="20260308162000  +0000" stop="20260308164000  +0000" channel="NickJr.it">
     <title lang="it">PAW Patrol (St. 5 - Ep. 22)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308170000  +0000" stop="20260308172500  +0000" channel="NickJr.it">
+  <programme start="20260308164000  +0000" stop="20260308170500  +0000" channel="NickJr.it">
     <title lang="it">PAW Patrol (St. 5 - Ep. 23)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308172500  +0000" stop="20260308175000  +0000" channel="NickJr.it">
+  <programme start="20260308170500  +0000" stop="20260308172500  +0000" channel="NickJr.it">
     <title lang="it">PAW Patrol (St. 5 - Ep. 24)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308175000  +0000" stop="20260308181500  +0000" channel="NickJr.it">
+  <programme start="20260308172500  +0000" stop="20260308175000  +0000" channel="NickJr.it">
     <title lang="it">PAW Patrol (St. 5 - Ep. 25)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308181500  +0000" stop="20260308184000  +0000" channel="NickJr.it">
+  <programme start="20260308175000  +0000" stop="20260308181500  +0000" channel="NickJr.it">
+    <title lang="it">PAW Patrol (St. 5 - Ep. 1)</title>
+    <category lang="it">Ragazzi</category>
+  </programme>
+  <programme start="20260308181500  +0000" stop="20260308183500  +0000" channel="NickJr.it">
     <title lang="it">PAW Patrol (St. 5 - Ep. 26)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308184000  +0000" stop="20260308190000  +0000" channel="NickJr.it">
+  <programme start="20260308183500  +0000" stop="20260308190000  +0000" channel="NickJr.it">
     <title lang="it">PAW Patrol (St. 4 - Ep. 1)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308190000  +0000" stop="20260308201500  +0000" channel="NickJr.it">
+  <programme start="20260308190000  +0000" stop="20260308192500  +0000" channel="NickJr.it">
     <title lang="it">PAW Patrol (St. 4 - Ep. 2)</title>
+    <category lang="it">Ragazzi</category>
+  </programme>
+  <programme start="20260308192500  +0000" stop="20260308195000  +0000" channel="NickJr.it">
+    <title lang="it">PAW Patrol (St. 4 - Ep. 3)</title>
+    <category lang="it">Ragazzi</category>
+  </programme>
+  <programme start="20260308195000  +0000" stop="20260308201500  +0000" channel="NickJr.it">
+    <title lang="it">PAW Patrol (St. 4 - Ep. 4)</title>
     <category lang="it">Ragazzi</category>
   </programme>
   <programme start="20260308201500  +0000" stop="20260308204000  +0000" channel="NickJr.it">
     <title lang="it">PAW Patrol (St. 4 - Ep. 5)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308204000  +0000" stop="20260308211000  +0000" channel="NickJr.it">
+  <programme start="20260308204000  +0000" stop="20260308210500  +0000" channel="NickJr.it">
     <title lang="it">PAW Patrol (St. 4 - Ep. 7)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308211000  +0000" stop="20260308213000  +0000" channel="NickJr.it">
+  <programme start="20260308210500  +0000" stop="20260308212500  +0000" channel="NickJr.it">
     <title lang="it">PAW Patrol (St. 4 - Ep. 6)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308213000  +0000" stop="20260308215000  +0000" channel="NickJr.it">
+  <programme start="20260308212500  +0000" stop="20260308214000  +0000" channel="NickJr.it">
     <title lang="it">44 gatti (St. 2 - Ep. 35)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308215000  +0000" stop="20260308220000  +0000" channel="NickJr.it">
+  <programme start="20260308214000  +0000" stop="20260308215000  +0000" channel="NickJr.it">
     <title lang="it">44 gatti (St. 2 - Ep. 36)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308220000  +0000" stop="20260308221500  +0000" channel="NickJr.it">
+  <programme start="20260308215000  +0000" stop="20260308220500  +0000" channel="NickJr.it">
     <title lang="it">44 gatti (St. 2 - Ep. 37)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308221500  +0000" stop="20260308223500  +0000" channel="NickJr.it">
+  <programme start="20260308220500  +0000" stop="20260308221500  +0000" channel="NickJr.it">
     <title lang="it">44 gatti (St. 2 - Ep. 38)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308223500  +0000" stop="20260308224500  +0000" channel="NickJr.it">
+  <programme start="20260308221500  +0000" stop="20260308223000  +0000" channel="NickJr.it">
     <title lang="it">44 gatti (St. 2 - Ep. 39)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308224500  +0000" stop="20260308230000  +0000" channel="NickJr.it">
+  <programme start="20260308223000  +0000" stop="20260308224000  +0000" channel="NickJr.it">
     <title lang="it">44 gatti (St. 2 - Ep. 40)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308230000  +0000" stop="20260308231000  +0000" channel="NickJr.it">
+  <programme start="20260308224000  +0000" stop="20260308225500  +0000" channel="NickJr.it">
     <title lang="it">44 gatti (St. 2 - Ep. 41)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308231000  +0000" stop="20260308232500  +0000" channel="NickJr.it">
+  <programme start="20260308225500  +0000" stop="20260308230500  +0000" channel="NickJr.it">
     <title lang="it">44 gatti (St. 2 - Ep. 42)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308232500  +0000" stop="20260308233500  +0000" channel="NickJr.it">
+  <programme start="20260308230500  +0000" stop="20260308232000  +0000" channel="NickJr.it">
     <title lang="it">44 gatti (St. 2 - Ep. 43)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308233500  +0000" stop="20260308234500  +0000" channel="NickJr.it">
+  <programme start="20260308232000  +0000" stop="20260308233000  +0000" channel="NickJr.it">
     <title lang="it">44 gatti (St. 2 - Ep. 44)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308234500  +0000" stop="20260309000000  +0000" channel="NickJr.it">
+  <programme start="20260308233000  +0000" stop="20260308234500  +0000" channel="NickJr.it">
     <title lang="it">44 gatti (St. 2 - Ep. 45)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260309000000  +0000" stop="20260309001500  +0000" channel="NickJr.it">
+  <programme start="20260308234500  +0000" stop="20260308235500  +0000" channel="NickJr.it">
     <title lang="it">44 gatti (St. 2 - Ep. 46)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260309001500  +0000" stop="20260309002500  +0000" channel="NickJr.it">
+  <programme start="20260308235500  +0000" stop="20260309001000  +0000" channel="NickJr.it">
     <title lang="it">44 gatti (St. 2 - Ep. 47)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260309002500  +0000" stop="20260309004000  +0000" channel="NickJr.it">
+  <programme start="20260309001000  +0000" stop="20260309002000  +0000" channel="NickJr.it">
     <title lang="it">44 gatti (St. 2 - Ep. 48)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260309004000  +0000" stop="20260309005000  +0000" channel="NickJr.it">
+  <programme start="20260309002000  +0000" stop="20260309003500  +0000" channel="NickJr.it">
     <title lang="it">44 gatti (St. 2 - Ep. 49)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260309005000  +0000" stop="20260309010500  +0000" channel="NickJr.it">
+  <programme start="20260309003500  +0000" stop="20260309004500  +0000" channel="NickJr.it">
     <title lang="it">44 gatti (St. 2 - Ep. 50)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260309010500  +0000" stop="20260309011500  +0000" channel="NickJr.it">
+  <programme start="20260309004500  +0000" stop="20260309010000  +0000" channel="NickJr.it">
     <title lang="it">44 gatti (St. 2 - Ep. 51)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260309011500  +0000" stop="20260309013000  +0000" channel="NickJr.it">
+  <programme start="20260309010000  +0000" stop="20260309011000  +0000" channel="NickJr.it">
     <title lang="it">44 gatti (St. 2 - Ep. 52)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260309013000  +0000" stop="20260309014000  +0000" channel="NickJr.it">
+  <programme start="20260309011000  +0000" stop="20260309012500  +0000" channel="NickJr.it">
     <title lang="it">44 gatti (St. 2 - Ep. 27)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260309014000  +0000" stop="20260309015500  +0000" channel="NickJr.it">
+  <programme start="20260309012500  +0000" stop="20260309013500  +0000" channel="NickJr.it">
     <title lang="it">44 gatti (St. 2 - Ep. 28)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260309015500  +0000" stop="20260309020500  +0000" channel="NickJr.it">
+  <programme start="20260309013500  +0000" stop="20260309015000  +0000" channel="NickJr.it">
     <title lang="it">44 gatti (St. 2 - Ep. 29)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260309020500  +0000" stop="20260309022000  +0000" channel="NickJr.it">
+  <programme start="20260309015000  +0000" stop="20260309020000  +0000" channel="NickJr.it">
     <title lang="it">44 gatti (St. 2 - Ep. 30)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260309022000  +0000" stop="20260309023500  +0000" channel="NickJr.it">
+  <programme start="20260309020000  +0000" stop="20260309023500  +0000" channel="NickJr.it">
     <title lang="it">44 gatti (St. 2 - Ep. 31)</title>
     <category lang="it">Ragazzi</category>
   </programme>
@@ -38531,91 +38623,103 @@
     <title lang="it">Monster Loving Maniacs (St. 1 - Ep. 40)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307051000  +0000" stop="20260307053000  +0000" channel="Nickelodeon.it">
+  <programme start="20260307051000  +0000" stop="20260307052000  +0000" channel="Nickelodeon.it">
     <title lang="it">Monster Loving Maniacs (St. 1 - Ep. 39)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307053000  +0000" stop="20260307054000  +0000" channel="Nickelodeon.it">
+  <programme start="20260307052000  +0000" stop="20260307053500  +0000" channel="Nickelodeon.it">
     <title lang="it">Monster Loving Maniacs (St. 1 - Ep. 38)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307054000  +0000" stop="20260307060000  +0000" channel="Nickelodeon.it">
+  <programme start="20260307053500  +0000" stop="20260307054500  +0000" channel="Nickelodeon.it">
     <title lang="it">Monster Loving Maniacs (St. 1 - Ep. 37)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307060000  +0000" stop="20260307064000  +0000" channel="Nickelodeon.it">
+  <programme start="20260307054500  +0000" stop="20260307060500  +0000" channel="Nickelodeon.it">
     <title lang="it">SpongeBob (St. 13 - Ep. 14)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307064000  +0000" stop="20260307070500  +0000" channel="Nickelodeon.it">
+  <programme start="20260307060500  +0000" stop="20260307063000  +0000" channel="Nickelodeon.it">
     <title lang="it">SpongeBob (St. 13 - Ep. 15)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307070500  +0000" stop="20260307073500  +0000" channel="Nickelodeon.it">
+  <programme start="20260307063000  +0000" stop="20260307065000  +0000" channel="Nickelodeon.it">
     <title lang="it">SpongeBob (St. 13 - Ep. 16)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307073500  +0000" stop="20260307075500  +0000" channel="Nickelodeon.it">
+  <programme start="20260307065000  +0000" stop="20260307071500  +0000" channel="Nickelodeon.it">
     <title lang="it">SpongeBob (St. 13 - Ep. 17)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307075500  +0000" stop="20260307082000  +0000" channel="Nickelodeon.it">
+  <programme start="20260307071500  +0000" stop="20260307074000  +0000" channel="Nickelodeon.it">
     <title lang="it">SpongeBob (St. 13 - Ep. 18)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307082000  +0000" stop="20260307084500  +0000" channel="Nickelodeon.it">
+  <programme start="20260307074000  +0000" stop="20260307080500  +0000" channel="Nickelodeon.it">
+    <title lang="it">SpongeBob (St. 13 - Ep. 13)</title>
+    <category lang="it">Ragazzi</category>
+  </programme>
+  <programme start="20260307080500  +0000" stop="20260307082500  +0000" channel="Nickelodeon.it">
     <title lang="it">SpongeBob (St. 13 - Ep. 19)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307084500  +0000" stop="20260307091000  +0000" channel="Nickelodeon.it">
+  <programme start="20260307082500  +0000" stop="20260307085000  +0000" channel="Nickelodeon.it">
     <title lang="it">SpongeBob (St. 13 - Ep. 20)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307091000  +0000" stop="20260307093500  +0000" channel="Nickelodeon.it">
+  <programme start="20260307085000  +0000" stop="20260307091500  +0000" channel="Nickelodeon.it">
     <title lang="it">SpongeBob (St. 13 - Ep. 21)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307093500  +0000" stop="20260307095500  +0000" channel="Nickelodeon.it">
+  <programme start="20260307091500  +0000" stop="20260307093500  +0000" channel="Nickelodeon.it">
     <title lang="it">SpongeBob (St. 13 - Ep. 22)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307095500  +0000" stop="20260307102000  +0000" channel="Nickelodeon.it">
+  <programme start="20260307093500  +0000" stop="20260307100000  +0000" channel="Nickelodeon.it">
     <title lang="it">SpongeBob (St. 13 - Ep. 23)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307102000  +0000" stop="20260307105000  +0000" channel="Nickelodeon.it">
+  <programme start="20260307100000  +0000" stop="20260307102500  +0000" channel="Nickelodeon.it">
     <title lang="it">SpongeBob (St. 13 - Ep. 24)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307105000  +0000" stop="20260307111500  +0000" channel="Nickelodeon.it">
+  <programme start="20260307102500  +0000" stop="20260307104500  +0000" channel="Nickelodeon.it">
     <title lang="it">SpongeBob (St. 13 - Ep. 25)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307111500  +0000" stop="20260307114000  +0000" channel="Nickelodeon.it">
+  <programme start="20260307104500  +0000" stop="20260307111000  +0000" channel="Nickelodeon.it">
+    <title lang="it">SpongeBob (St. 13 - Ep. 20)</title>
+    <category lang="it">Ragazzi</category>
+  </programme>
+  <programme start="20260307111000  +0000" stop="20260307113500  +0000" channel="Nickelodeon.it">
     <title lang="it">SpongeBob (St. 13 - Ep. 26)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307114000  +0000" stop="20260307120500  +0000" channel="Nickelodeon.it">
+  <programme start="20260307113500  +0000" stop="20260307120000  +0000" channel="Nickelodeon.it">
     <title lang="it">SpongeBob (St. 14 - Ep. 1)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307120500  +0000" stop="20260307123000  +0000" channel="Nickelodeon.it">
+  <programme start="20260307120000  +0000" stop="20260307122000  +0000" channel="Nickelodeon.it">
     <title lang="it">SpongeBob (St. 14 - Ep. 2)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307123000  +0000" stop="20260307125000  +0000" channel="Nickelodeon.it">
+  <programme start="20260307122000  +0000" stop="20260307124500  +0000" channel="Nickelodeon.it">
     <title lang="it">SpongeBob (St. 14 - Ep. 3)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307125000  +0000" stop="20260307131500  +0000" channel="Nickelodeon.it">
+  <programme start="20260307124500  +0000" stop="20260307130500  +0000" channel="Nickelodeon.it">
     <title lang="it">SpongeBob (St. 14 - Ep. 4)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307131500  +0000" stop="20260307134000  +0000" channel="Nickelodeon.it">
+  <programme start="20260307130500  +0000" stop="20260307133000  +0000" channel="Nickelodeon.it">
     <title lang="it">SpongeBob (St. 14 - Ep. 5)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307134000  +0000" stop="20260307140500  +0000" channel="Nickelodeon.it">
+  <programme start="20260307133000  +0000" stop="20260307134500  +0000" channel="Nickelodeon.it">
+    <title lang="it">SpongeBob (St. 14 - Ep. 2)</title>
+    <category lang="it">Ragazzi</category>
+  </programme>
+  <programme start="20260307134500  +0000" stop="20260307140500  +0000" channel="Nickelodeon.it">
     <title lang="it">SpongeBob (St. 14 - Ep. 6)</title>
     <category lang="it">Ragazzi</category>
   </programme>
@@ -38623,63 +38727,59 @@
     <title lang="it">SpongeBob (St. 14 - Ep. 7)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307143000  +0000" stop="20260307145500  +0000" channel="Nickelodeon.it">
+  <programme start="20260307143000  +0000" stop="20260307145000  +0000" channel="Nickelodeon.it">
     <title lang="it">SpongeBob (St. 14 - Ep. 8)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307145500  +0000" stop="20260307152000  +0000" channel="Nickelodeon.it">
+  <programme start="20260307145000  +0000" stop="20260307151500  +0000" channel="Nickelodeon.it">
     <title lang="it">SpongeBob (St. 14 - Ep. 9)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307152000  +0000" stop="20260307154500  +0000" channel="Nickelodeon.it">
+  <programme start="20260307151500  +0000" stop="20260307154000  +0000" channel="Nickelodeon.it">
     <title lang="it">SpongeBob (St. 14 - Ep. 10)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307154500  +0000" stop="20260307161000  +0000" channel="Nickelodeon.it">
+  <programme start="20260307154000  +0000" stop="20260307160500  +0000" channel="Nickelodeon.it">
     <title lang="it">SpongeBob (St. 14 - Ep. 11)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307161000  +0000" stop="20260307163500  +0000" channel="Nickelodeon.it">
+  <programme start="20260307160500  +0000" stop="20260307163000  +0000" channel="Nickelodeon.it">
     <title lang="it">SpongeBob (St. 14 - Ep. 12)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307163500  +0000" stop="20260307165500  +0000" channel="Nickelodeon.it">
+  <programme start="20260307163000  +0000" stop="20260307165000  +0000" channel="Nickelodeon.it">
     <title lang="it">SpongeBob (St. 14 - Ep. 13)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307165500  +0000" stop="20260307172000  +0000" channel="Nickelodeon.it">
+  <programme start="20260307165000  +0000" stop="20260307170000  +0000" channel="Nickelodeon.it">
+    <title lang="it">SpongeBob (St. 14 - Ep. 1)</title>
+    <category lang="it">Ragazzi</category>
+  </programme>
+  <programme start="20260307170000  +0000" stop="20260307172500  +0000" channel="Nickelodeon.it">
     <title lang="it">SpongeBob (St. 15 - Ep. 1)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307172000  +0000" stop="20260307174500  +0000" channel="Nickelodeon.it">
+  <programme start="20260307172500  +0000" stop="20260307175000  +0000" channel="Nickelodeon.it">
     <title lang="it">SpongeBob (St. 15 - Ep. 2)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307174500  +0000" stop="20260307181000  +0000" channel="Nickelodeon.it">
+  <programme start="20260307175000  +0000" stop="20260307181500  +0000" channel="Nickelodeon.it">
     <title lang="it">SpongeBob (St. 15 - Ep. 3)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307181000  +0000" stop="20260307183500  +0000" channel="Nickelodeon.it">
+  <programme start="20260307181500  +0000" stop="20260307183500  +0000" channel="Nickelodeon.it">
     <title lang="it">SpongeBob (St. 15 - Ep. 4)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307183500  +0000" stop="20260307185500  +0000" channel="Nickelodeon.it">
+  <programme start="20260307183500  +0000" stop="20260307190000  +0000" channel="Nickelodeon.it">
     <title lang="it">SpongeBob (St. 15 - Ep. 5)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307185500  +0000" stop="20260307192000  +0000" channel="Nickelodeon.it">
+  <programme start="20260307190000  +0000" stop="20260307201000  +0000" channel="Nickelodeon.it">
     <title lang="it">SpongeBob (St. 15 - Ep. 6)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307192000  +0000" stop="20260307194500  +0000" channel="Nickelodeon.it">
-    <title lang="it">SpongeBob (St. 15 - Ep. 7)</title>
-    <category lang="it">Ragazzi</category>
-  </programme>
-  <programme start="20260307194500  +0000" stop="20260307200500  +0000" channel="Nickelodeon.it">
-    <title lang="it">SpongeBob (St. 15 - Ep. 8)</title>
-    <category lang="it">Ragazzi</category>
-  </programme>
-  <programme start="20260307200500  +0000" stop="20260307203000  +0000" channel="Nickelodeon.it">
+  <programme start="20260307201000  +0000" stop="20260307203000  +0000" channel="Nickelodeon.it">
     <title lang="it">SpongeBob (St. 15 - Ep. 9)</title>
     <category lang="it">Ragazzi</category>
   </programme>
@@ -38687,139 +38787,163 @@
     <title lang="it">SpongeBob (St. 15 - Ep. 10)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307205500  +0000" stop="20260307211500  +0000" channel="Nickelodeon.it">
+  <programme start="20260307205500  +0000" stop="20260307212000  +0000" channel="Nickelodeon.it">
     <title lang="it">SpongeBob (St. 15 - Ep. 11)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307211500  +0000" stop="20260307214500  +0000" channel="Nickelodeon.it">
+  <programme start="20260307212000  +0000" stop="20260307214000  +0000" channel="Nickelodeon.it">
     <title lang="it">SpongeBob (St. 15 - Ep. 12)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307214500  +0000" stop="20260307220000  +0000" channel="Nickelodeon.it">
+  <programme start="20260307214000  +0000" stop="20260307215000  +0000" channel="Nickelodeon.it">
     <title lang="it">Monster Loving Maniacs (St. 1 - Ep. 8)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307220000  +0000" stop="20260307221500  +0000" channel="Nickelodeon.it">
+  <programme start="20260307215000  +0000" stop="20260307220500  +0000" channel="Nickelodeon.it">
     <title lang="it">Monster Loving Maniacs (St. 1 - Ep. 7)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307221500  +0000" stop="20260307224000  +0000" channel="Nickelodeon.it">
+  <programme start="20260307220500  +0000" stop="20260307221500  +0000" channel="Nickelodeon.it">
     <title lang="it">Monster Loving Maniacs (St. 1 - Ep. 6)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307224000  +0000" stop="20260307225000  +0000" channel="Nickelodeon.it">
+  <programme start="20260307221500  +0000" stop="20260307223000  +0000" channel="Nickelodeon.it">
     <title lang="it">Monster Loving Maniacs (St. 1 - Ep. 5)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307225000  +0000" stop="20260307230500  +0000" channel="Nickelodeon.it">
+  <programme start="20260307223000  +0000" stop="20260307224000  +0000" channel="Nickelodeon.it">
     <title lang="it">Monster Loving Maniacs (St. 1 - Ep. 4)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307230500  +0000" stop="20260307231500  +0000" channel="Nickelodeon.it">
+  <programme start="20260307224000  +0000" stop="20260307225000  +0000" channel="Nickelodeon.it">
     <title lang="it">Monster Loving Maniacs (St. 1 - Ep. 3)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307231500  +0000" stop="20260307233000  +0000" channel="Nickelodeon.it">
+  <programme start="20260307225000  +0000" stop="20260307230000  +0000" channel="Nickelodeon.it">
     <title lang="it">Monster Loving Maniacs (St. 1 - Ep. 2)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307233000  +0000" stop="20260307234000  +0000" channel="Nickelodeon.it">
+  <programme start="20260307230000  +0000" stop="20260307231500  +0000" channel="Nickelodeon.it">
     <title lang="it">Monster Loving Maniacs (St. 1 - Ep. 1)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307234000  +0000" stop="20260307235500  +0000" channel="Nickelodeon.it">
+  <programme start="20260307231500  +0000" stop="20260307232500  +0000" channel="Nickelodeon.it">
     <title lang="it">Monster Loving Maniacs (St. 1 - Ep. 52)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260307235500  +0000" stop="20260308000500  +0000" channel="Nickelodeon.it">
+  <programme start="20260307232500  +0000" stop="20260307233500  +0000" channel="Nickelodeon.it">
     <title lang="it">Monster Loving Maniacs (St. 1 - Ep. 51)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308000500  +0000" stop="20260308002000  +0000" channel="Nickelodeon.it">
+  <programme start="20260307233500  +0000" stop="20260307235000  +0000" channel="Nickelodeon.it">
     <title lang="it">Monster Loving Maniacs (St. 1 - Ep. 50)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308002000  +0000" stop="20260308003000  +0000" channel="Nickelodeon.it">
+  <programme start="20260307235000  +0000" stop="20260308000000  +0000" channel="Nickelodeon.it">
     <title lang="it">Monster Loving Maniacs (St. 1 - Ep. 49)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308003000  +0000" stop="20260308004500  +0000" channel="Nickelodeon.it">
+  <programme start="20260308000000  +0000" stop="20260308001000  +0000" channel="Nickelodeon.it">
     <title lang="it">Monster Loving Maniacs (St. 1 - Ep. 48)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308004500  +0000" stop="20260308005500  +0000" channel="Nickelodeon.it">
+  <programme start="20260308001000  +0000" stop="20260308002000  +0000" channel="Nickelodeon.it">
     <title lang="it">Monster Loving Maniacs (St. 1 - Ep. 47)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308005500  +0000" stop="20260308011000  +0000" channel="Nickelodeon.it">
+  <programme start="20260308002000  +0000" stop="20260308003500  +0000" channel="Nickelodeon.it">
     <title lang="it">Monster Loving Maniacs (St. 1 - Ep. 46)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308011000  +0000" stop="20260308012000  +0000" channel="Nickelodeon.it">
+  <programme start="20260308003500  +0000" stop="20260308004500  +0000" channel="Nickelodeon.it">
     <title lang="it">Monster Loving Maniacs (St. 1 - Ep. 45)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308012000  +0000" stop="20260308013500  +0000" channel="Nickelodeon.it">
+  <programme start="20260308004500  +0000" stop="20260308005500  +0000" channel="Nickelodeon.it">
     <title lang="it">Monster Loving Maniacs (St. 1 - Ep. 44)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308013500  +0000" stop="20260308015000  +0000" channel="Nickelodeon.it">
+  <programme start="20260308005500  +0000" stop="20260308011000  +0000" channel="Nickelodeon.it">
     <title lang="it">Monster Loving Maniacs (St. 1 - Ep. 43)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308015000  +0000" stop="20260308020500  +0000" channel="Nickelodeon.it">
+  <programme start="20260308011000  +0000" stop="20260308012000  +0000" channel="Nickelodeon.it">
     <title lang="it">Monster Loving Maniacs (St. 1 - Ep. 42)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308020500  +0000" stop="20260308021500  +0000" channel="Nickelodeon.it">
+  <programme start="20260308012000  +0000" stop="20260308013000  +0000" channel="Nickelodeon.it">
     <title lang="it">Monster Loving Maniacs (St. 1 - Ep. 41)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308021500  +0000" stop="20260308023000  +0000" channel="Nickelodeon.it">
+  <programme start="20260308013000  +0000" stop="20260308014000  +0000" channel="Nickelodeon.it">
     <title lang="it">Monster Loving Maniacs (St. 1 - Ep. 40)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308023000  +0000" stop="20260308024000  +0000" channel="Nickelodeon.it">
+  <programme start="20260308014000  +0000" stop="20260308015500  +0000" channel="Nickelodeon.it">
     <title lang="it">Monster Loving Maniacs (St. 1 - Ep. 39)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308024000  +0000" stop="20260308025000  +0000" channel="Nickelodeon.it">
+  <programme start="20260308015500  +0000" stop="20260308020500  +0000" channel="Nickelodeon.it">
     <title lang="it">Monster Loving Maniacs (St. 1 - Ep. 38)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308025000  +0000" stop="20260308030500  +0000" channel="Nickelodeon.it">
+  <programme start="20260308020500  +0000" stop="20260308021500  +0000" channel="Nickelodeon.it">
     <title lang="it">Monster Loving Maniacs (St. 1 - Ep. 37)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308030500  +0000" stop="20260308031500  +0000" channel="Nickelodeon.it">
+  <programme start="20260308021500  +0000" stop="20260308022500  +0000" channel="Nickelodeon.it">
     <title lang="it">Monster Loving Maniacs (St. 1 - Ep. 36)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308031500  +0000" stop="20260308033000  +0000" channel="Nickelodeon.it">
+  <programme start="20260308022500  +0000" stop="20260308024000  +0000" channel="Nickelodeon.it">
     <title lang="it">Monster Loving Maniacs (St. 1 - Ep. 35)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308033000  +0000" stop="20260308034000  +0000" channel="Nickelodeon.it">
+  <programme start="20260308024000  +0000" stop="20260308024500  +0000" channel="Nickelodeon.it">
     <title lang="it">Vetrina Nick Junior</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308034000  +0000" stop="20260308035500  +0000" channel="Nickelodeon.it">
+  <programme start="20260308024500  +0000" stop="20260308025500  +0000" channel="Nickelodeon.it">
     <title lang="it">Monster Loving Maniacs (St. 1 - Ep. 34)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308035500  +0000" stop="20260308040500  +0000" channel="Nickelodeon.it">
+  <programme start="20260308025500  +0000" stop="20260308030500  +0000" channel="Nickelodeon.it">
     <title lang="it">Monster Loving Maniacs (St. 1 - Ep. 33)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308040500  +0000" stop="20260308042000  +0000" channel="Nickelodeon.it">
+  <programme start="20260308030500  +0000" stop="20260308032000  +0000" channel="Nickelodeon.it">
     <title lang="it">Monster Loving Maniacs (St. 1 - Ep. 32)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308042000  +0000" stop="20260308043000  +0000" channel="Nickelodeon.it">
+  <programme start="20260308032000  +0000" stop="20260308033000  +0000" channel="Nickelodeon.it">
     <title lang="it">Monster Loving Maniacs (St. 1 - Ep. 31)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308043000  +0000" stop="20260308044500  +0000" channel="Nickelodeon.it">
+  <programme start="20260308033000  +0000" stop="20260308034000  +0000" channel="Nickelodeon.it">
+    <title lang="it">Monster Loving Maniacs (St. 1 - Ep. 30)</title>
+    <category lang="it">Ragazzi</category>
+  </programme>
+  <programme start="20260308034000  +0000" stop="20260308035000  +0000" channel="Nickelodeon.it">
+    <title lang="it">Monster Loving Maniacs (St. 1 - Ep. 29)</title>
+    <category lang="it">Ragazzi</category>
+  </programme>
+  <programme start="20260308035000  +0000" stop="20260308040500  +0000" channel="Nickelodeon.it">
+    <title lang="it">Monster Loving Maniacs (St. 1 - Ep. 34)</title>
+    <category lang="it">Ragazzi</category>
+  </programme>
+  <programme start="20260308040500  +0000" stop="20260308041500  +0000" channel="Nickelodeon.it">
+    <title lang="it">Monster Loving Maniacs (St. 1 - Ep. 33)</title>
+    <category lang="it">Ragazzi</category>
+  </programme>
+  <programme start="20260308041500  +0000" stop="20260308042500  +0000" channel="Nickelodeon.it">
+    <title lang="it">Monster Loving Maniacs (St. 1 - Ep. 32)</title>
+    <category lang="it">Ragazzi</category>
+  </programme>
+  <programme start="20260308042500  +0000" stop="20260308043500  +0000" channel="Nickelodeon.it">
+    <title lang="it">Monster Loving Maniacs (St. 1 - Ep. 31)</title>
+    <category lang="it">Ragazzi</category>
+  </programme>
+  <programme start="20260308043500  +0000" stop="20260308044500  +0000" channel="Nickelodeon.it">
     <title lang="it">Monster Loving Maniacs (St. 1 - Ep. 30)</title>
     <category lang="it">Ragazzi</category>
   </programme>
@@ -38839,91 +38963,103 @@
     <title lang="it">Monster Loving Maniacs (St. 1 - Ep. 36)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308051000  +0000" stop="20260308053000  +0000" channel="Nickelodeon.it">
+  <programme start="20260308051000  +0000" stop="20260308052000  +0000" channel="Nickelodeon.it">
     <title lang="it">Monster Loving Maniacs (St. 1 - Ep. 35)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308053000  +0000" stop="20260308054000  +0000" channel="Nickelodeon.it">
+  <programme start="20260308052000  +0000" stop="20260308053500  +0000" channel="Nickelodeon.it">
     <title lang="it">Monster Loving Maniacs (St. 1 - Ep. 34)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308054000  +0000" stop="20260308060000  +0000" channel="Nickelodeon.it">
+  <programme start="20260308053500  +0000" stop="20260308054500  +0000" channel="Nickelodeon.it">
     <title lang="it">Monster Loving Maniacs (St. 1 - Ep. 33)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308060000  +0000" stop="20260308064000  +0000" channel="Nickelodeon.it">
+  <programme start="20260308054500  +0000" stop="20260308061000  +0000" channel="Nickelodeon.it">
     <title lang="it">Lo Show di Patrick Stella (St. 4 - Ep. 1)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308064000  +0000" stop="20260308070500  +0000" channel="Nickelodeon.it">
+  <programme start="20260308061000  +0000" stop="20260308063000  +0000" channel="Nickelodeon.it">
     <title lang="it">Lo Show di Patrick Stella (St. 4 - Ep. 2)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308070500  +0000" stop="20260308073500  +0000" channel="Nickelodeon.it">
+  <programme start="20260308063000  +0000" stop="20260308065500  +0000" channel="Nickelodeon.it">
     <title lang="it">Lo Show di Patrick Stella (St. 4 - Ep. 3)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308073500  +0000" stop="20260308075500  +0000" channel="Nickelodeon.it">
+  <programme start="20260308065500  +0000" stop="20260308071500  +0000" channel="Nickelodeon.it">
     <title lang="it">Lo Show di Patrick Stella (St. 4 - Ep. 4)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308075500  +0000" stop="20260308082000  +0000" channel="Nickelodeon.it">
+  <programme start="20260308071500  +0000" stop="20260308074000  +0000" channel="Nickelodeon.it">
     <title lang="it">Lo Show di Patrick Stella (St. 4 - Ep. 5)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308082000  +0000" stop="20260308084500  +0000" channel="Nickelodeon.it">
+  <programme start="20260308074000  +0000" stop="20260308080500  +0000" channel="Nickelodeon.it">
+    <title lang="it">Lo Show di Patrick Stella (St. 4 - Ep. 1)</title>
+    <category lang="it">Ragazzi</category>
+  </programme>
+  <programme start="20260308080500  +0000" stop="20260308082500  +0000" channel="Nickelodeon.it">
     <title lang="it">Lo Show di Patrick Stella (St. 4 - Ep. 6)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308084500  +0000" stop="20260308091000  +0000" channel="Nickelodeon.it">
+  <programme start="20260308082500  +0000" stop="20260308085000  +0000" channel="Nickelodeon.it">
     <title lang="it">Lo Show di Patrick Stella (St. 4 - Ep. 7)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308091000  +0000" stop="20260308093500  +0000" channel="Nickelodeon.it">
+  <programme start="20260308085000  +0000" stop="20260308091000  +0000" channel="Nickelodeon.it">
     <title lang="it">Lo Show di Patrick Stella (St. 4 - Ep. 8)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308093500  +0000" stop="20260308095500  +0000" channel="Nickelodeon.it">
+  <programme start="20260308091000  +0000" stop="20260308093500  +0000" channel="Nickelodeon.it">
     <title lang="it">Lo Show di Patrick Stella (St. 4 - Ep. 9)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308095500  +0000" stop="20260308102000  +0000" channel="Nickelodeon.it">
+  <programme start="20260308093500  +0000" stop="20260308100000  +0000" channel="Nickelodeon.it">
     <title lang="it">Lo Show di Patrick Stella (St. 4 - Ep. 10)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308102000  +0000" stop="20260308105000  +0000" channel="Nickelodeon.it">
+  <programme start="20260308100000  +0000" stop="20260308102500  +0000" channel="Nickelodeon.it">
     <title lang="it">Lo Show di Patrick Stella (St. 4 - Ep. 12)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308105000  +0000" stop="20260308111500  +0000" channel="Nickelodeon.it">
+  <programme start="20260308102500  +0000" stop="20260308104500  +0000" channel="Nickelodeon.it">
     <title lang="it">Lo Show di Patrick Stella (St. 4 - Ep. 13)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308111500  +0000" stop="20260308114000  +0000" channel="Nickelodeon.it">
+  <programme start="20260308104500  +0000" stop="20260308110500  +0000" channel="Nickelodeon.it">
+    <title lang="it">Lo Show di Patrick Stella (St. 4 - Ep. 7)</title>
+    <category lang="it">Ragazzi</category>
+  </programme>
+  <programme start="20260308110500  +0000" stop="20260308113000  +0000" channel="Nickelodeon.it">
     <title lang="it">Lo Show di Patrick Stella (St. 3 - Ep. 1)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308114000  +0000" stop="20260308120500  +0000" channel="Nickelodeon.it">
+  <programme start="20260308113000  +0000" stop="20260308115000  +0000" channel="Nickelodeon.it">
     <title lang="it">Lo Show di Patrick Stella (St. 3 - Ep. 2)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308120500  +0000" stop="20260308123000  +0000" channel="Nickelodeon.it">
+  <programme start="20260308115000  +0000" stop="20260308121500  +0000" channel="Nickelodeon.it">
     <title lang="it">Lo Show di Patrick Stella (St. 3 - Ep. 3)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308123000  +0000" stop="20260308125000  +0000" channel="Nickelodeon.it">
+  <programme start="20260308121500  +0000" stop="20260308124000  +0000" channel="Nickelodeon.it">
     <title lang="it">Lo Show di Patrick Stella (St. 3 - Ep. 4)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308125000  +0000" stop="20260308131500  +0000" channel="Nickelodeon.it">
+  <programme start="20260308124000  +0000" stop="20260308130000  +0000" channel="Nickelodeon.it">
     <title lang="it">Lo Show di Patrick Stella (St. 3 - Ep. 5)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308131500  +0000" stop="20260308134000  +0000" channel="Nickelodeon.it">
+  <programme start="20260308130000  +0000" stop="20260308132000  +0000" channel="Nickelodeon.it">
     <title lang="it">Lo Show di Patrick Stella (St. 3 - Ep. 6)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308134000  +0000" stop="20260308140500  +0000" channel="Nickelodeon.it">
+  <programme start="20260308132000  +0000" stop="20260308134500  +0000" channel="Nickelodeon.it">
+    <title lang="it">Lo Show di Patrick Stella (St. 3 - Ep. 3)</title>
+    <category lang="it">Ragazzi</category>
+  </programme>
+  <programme start="20260308134500  +0000" stop="20260308140500  +0000" channel="Nickelodeon.it">
     <title lang="it">Lo Show di Patrick Stella (St. 3 - Ep. 7)</title>
     <category lang="it">Ragazzi</category>
   </programme>
@@ -38931,163 +39067,175 @@
     <title lang="it">Lo Show di Patrick Stella (St. 3 - Ep. 8)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308143000  +0000" stop="20260308145500  +0000" channel="Nickelodeon.it">
+  <programme start="20260308143000  +0000" stop="20260308145000  +0000" channel="Nickelodeon.it">
     <title lang="it">Lo Show di Patrick Stella (St. 3 - Ep. 9)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308145500  +0000" stop="20260308152000  +0000" channel="Nickelodeon.it">
+  <programme start="20260308145000  +0000" stop="20260308151500  +0000" channel="Nickelodeon.it">
     <title lang="it">Lo Show di Patrick Stella (St. 3 - Ep. 10)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308152000  +0000" stop="20260308154500  +0000" channel="Nickelodeon.it">
+  <programme start="20260308151500  +0000" stop="20260308153500  +0000" channel="Nickelodeon.it">
     <title lang="it">Lo Show di Patrick Stella (St. 3 - Ep. 11)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308154500  +0000" stop="20260308161000  +0000" channel="Nickelodeon.it">
+  <programme start="20260308153500  +0000" stop="20260308160000  +0000" channel="Nickelodeon.it">
     <title lang="it">Lo Show di Patrick Stella (St. 3 - Ep. 12)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308161000  +0000" stop="20260308163500  +0000" channel="Nickelodeon.it">
+  <programme start="20260308160000  +0000" stop="20260308162500  +0000" channel="Nickelodeon.it">
     <title lang="it">Lo Show di Patrick Stella (St. 3 - Ep. 13)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308163500  +0000" stop="20260308165500  +0000" channel="Nickelodeon.it">
+  <programme start="20260308162500  +0000" stop="20260308164500  +0000" channel="Nickelodeon.it">
     <title lang="it">Lo Show di Patrick Stella (St. 4 - Ep. 1)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308165500  +0000" stop="20260308172000  +0000" channel="Nickelodeon.it">
+  <programme start="20260308164500  +0000" stop="20260308170500  +0000" channel="Nickelodeon.it">
+    <title lang="it">Lo Show di Patrick Stella (St. 4 - Ep. 8)</title>
+    <category lang="it">Ragazzi</category>
+  </programme>
+  <programme start="20260308170500  +0000" stop="20260308173000  +0000" channel="Nickelodeon.it">
     <title lang="it">Lo Show di Patrick Stella (St. 4 - Ep. 2)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308172000  +0000" stop="20260308174500  +0000" channel="Nickelodeon.it">
+  <programme start="20260308173000  +0000" stop="20260308175500  +0000" channel="Nickelodeon.it">
     <title lang="it">Lo Show di Patrick Stella (St. 4 - Ep. 3)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308174500  +0000" stop="20260308181000  +0000" channel="Nickelodeon.it">
+  <programme start="20260308175500  +0000" stop="20260308181500  +0000" channel="Nickelodeon.it">
     <title lang="it">Lo Show di Patrick Stella (St. 4 - Ep. 4)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308181000  +0000" stop="20260308183500  +0000" channel="Nickelodeon.it">
+  <programme start="20260308181500  +0000" stop="20260308184000  +0000" channel="Nickelodeon.it">
     <title lang="it">Lo Show di Patrick Stella (St. 4 - Ep. 5)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308183500  +0000" stop="20260308185500  +0000" channel="Nickelodeon.it">
+  <programme start="20260308184000  +0000" stop="20260308190000  +0000" channel="Nickelodeon.it">
     <title lang="it">Lo Show di Patrick Stella (St. 4 - Ep. 6)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308185500  +0000" stop="20260308200500  +0000" channel="Nickelodeon.it">
+  <programme start="20260308190000  +0000" stop="20260308192000  +0000" channel="Nickelodeon.it">
     <title lang="it">Lo Show di Patrick Stella (St. 4 - Ep. 7)</title>
+    <category lang="it">Ragazzi</category>
+  </programme>
+  <programme start="20260308192000  +0000" stop="20260308194500  +0000" channel="Nickelodeon.it">
+    <title lang="it">Lo Show di Patrick Stella (St. 4 - Ep. 8)</title>
+    <category lang="it">Ragazzi</category>
+  </programme>
+  <programme start="20260308194500  +0000" stop="20260308200500  +0000" channel="Nickelodeon.it">
+    <title lang="it">Lo Show di Patrick Stella (St. 4 - Ep. 9)</title>
     <category lang="it">Ragazzi</category>
   </programme>
   <programme start="20260308200500  +0000" stop="20260308203000  +0000" channel="Nickelodeon.it">
     <title lang="it">Lo Show di Patrick Stella (St. 4 - Ep. 10)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308203000  +0000" stop="20260308205500  +0000" channel="Nickelodeon.it">
+  <programme start="20260308203000  +0000" stop="20260308205000  +0000" channel="Nickelodeon.it">
     <title lang="it">Lo Show di Patrick Stella (St. 4 - Ep. 12)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308205500  +0000" stop="20260308211500  +0000" channel="Nickelodeon.it">
+  <programme start="20260308205000  +0000" stop="20260308211500  +0000" channel="Nickelodeon.it">
     <title lang="it">Lo Show di Patrick Stella (St. 4 - Ep. 13)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308211500  +0000" stop="20260308214500  +0000" channel="Nickelodeon.it">
+  <programme start="20260308211500  +0000" stop="20260308213500  +0000" channel="Nickelodeon.it">
     <title lang="it">Lo Show di Patrick Stella (St. 3 - Ep. 1)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308214500  +0000" stop="20260308220000  +0000" channel="Nickelodeon.it">
+  <programme start="20260308213500  +0000" stop="20260308215000  +0000" channel="Nickelodeon.it">
     <title lang="it">Monster Loving Maniacs (St. 1 - Ep. 28)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308220000  +0000" stop="20260308221500  +0000" channel="Nickelodeon.it">
+  <programme start="20260308215000  +0000" stop="20260308220000  +0000" channel="Nickelodeon.it">
     <title lang="it">Monster Loving Maniacs (St. 1 - Ep. 27)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308221500  +0000" stop="20260308224000  +0000" channel="Nickelodeon.it">
+  <programme start="20260308220000  +0000" stop="20260308221000  +0000" channel="Nickelodeon.it">
     <title lang="it">Monster Loving Maniacs (St. 1 - Ep. 26)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308224000  +0000" stop="20260308225000  +0000" channel="Nickelodeon.it">
+  <programme start="20260308221000  +0000" stop="20260308222500  +0000" channel="Nickelodeon.it">
     <title lang="it">Monster Loving Maniacs (St. 1 - Ep. 25)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308225000  +0000" stop="20260308230500  +0000" channel="Nickelodeon.it">
+  <programme start="20260308222500  +0000" stop="20260308223500  +0000" channel="Nickelodeon.it">
     <title lang="it">Monster Loving Maniacs (St. 1 - Ep. 24)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308230500  +0000" stop="20260308231500  +0000" channel="Nickelodeon.it">
+  <programme start="20260308223500  +0000" stop="20260308224500  +0000" channel="Nickelodeon.it">
     <title lang="it">Monster Loving Maniacs (St. 1 - Ep. 23)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308231500  +0000" stop="20260308233000  +0000" channel="Nickelodeon.it">
+  <programme start="20260308224500  +0000" stop="20260308230000  +0000" channel="Nickelodeon.it">
     <title lang="it">Monster Loving Maniacs (St. 1 - Ep. 22)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308233000  +0000" stop="20260308234000  +0000" channel="Nickelodeon.it">
+  <programme start="20260308230000  +0000" stop="20260308231000  +0000" channel="Nickelodeon.it">
     <title lang="it">Monster Loving Maniacs (St. 1 - Ep. 21)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308234000  +0000" stop="20260308235500  +0000" channel="Nickelodeon.it">
+  <programme start="20260308231000  +0000" stop="20260308232000  +0000" channel="Nickelodeon.it">
     <title lang="it">Monster Loving Maniacs (St. 1 - Ep. 20)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308235500  +0000" stop="20260309000500  +0000" channel="Nickelodeon.it">
+  <programme start="20260308232000  +0000" stop="20260308233500  +0000" channel="Nickelodeon.it">
     <title lang="it">Monster Loving Maniacs (St. 1 - Ep. 19)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260309000500  +0000" stop="20260309002000  +0000" channel="Nickelodeon.it">
+  <programme start="20260308233500  +0000" stop="20260308234500  +0000" channel="Nickelodeon.it">
     <title lang="it">Monster Loving Maniacs (St. 1 - Ep. 18)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260309002000  +0000" stop="20260309003000  +0000" channel="Nickelodeon.it">
+  <programme start="20260308234500  +0000" stop="20260308235500  +0000" channel="Nickelodeon.it">
     <title lang="it">Monster Loving Maniacs (St. 1 - Ep. 17)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260309003000  +0000" stop="20260309004500  +0000" channel="Nickelodeon.it">
+  <programme start="20260308235500  +0000" stop="20260309000500  +0000" channel="Nickelodeon.it">
     <title lang="it">Monster Loving Maniacs (St. 1 - Ep. 16)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260309004500  +0000" stop="20260309005500  +0000" channel="Nickelodeon.it">
+  <programme start="20260309000500  +0000" stop="20260309002000  +0000" channel="Nickelodeon.it">
     <title lang="it">Monster Loving Maniacs (St. 1 - Ep. 15)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260309005500  +0000" stop="20260309011000  +0000" channel="Nickelodeon.it">
+  <programme start="20260309002000  +0000" stop="20260309003000  +0000" channel="Nickelodeon.it">
     <title lang="it">Monster Loving Maniacs (St. 1 - Ep. 14)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260309011000  +0000" stop="20260309012000  +0000" channel="Nickelodeon.it">
+  <programme start="20260309003000  +0000" stop="20260309004000  +0000" channel="Nickelodeon.it">
     <title lang="it">Monster Loving Maniacs (St. 1 - Ep. 13)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260309012000  +0000" stop="20260309013500  +0000" channel="Nickelodeon.it">
+  <programme start="20260309004000  +0000" stop="20260309005000  +0000" channel="Nickelodeon.it">
     <title lang="it">Monster Loving Maniacs (St. 1 - Ep. 12)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260309013500  +0000" stop="20260309015000  +0000" channel="Nickelodeon.it">
+  <programme start="20260309005000  +0000" stop="20260309010500  +0000" channel="Nickelodeon.it">
     <title lang="it">Monster Loving Maniacs (St. 1 - Ep. 11)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260309015000  +0000" stop="20260309020500  +0000" channel="Nickelodeon.it">
+  <programme start="20260309010500  +0000" stop="20260309011500  +0000" channel="Nickelodeon.it">
     <title lang="it">Monster Loving Maniacs (St. 1 - Ep. 10)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260309020500  +0000" stop="20260309021500  +0000" channel="Nickelodeon.it">
+  <programme start="20260309011500  +0000" stop="20260309012500  +0000" channel="Nickelodeon.it">
     <title lang="it">Monster Loving Maniacs (St. 1 - Ep. 9)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260309021500  +0000" stop="20260309023000  +0000" channel="Nickelodeon.it">
+  <programme start="20260309012500  +0000" stop="20260309014000  +0000" channel="Nickelodeon.it">
     <title lang="it">Monster Loving Maniacs (St. 1 - Ep. 8)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260309023000  +0000" stop="20260309024000  +0000" channel="Nickelodeon.it">
+  <programme start="20260309014000  +0000" stop="20260309015000  +0000" channel="Nickelodeon.it">
     <title lang="it">Monster Loving Maniacs (St. 1 - Ep. 7)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260309024000  +0000" stop="20260309025000  +0000" channel="Nickelodeon.it">
+  <programme start="20260309015000  +0000" stop="20260309020000  +0000" channel="Nickelodeon.it">
     <title lang="it">Monster Loving Maniacs (St. 1 - Ep. 6)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260309025000  +0000" stop="20260309030500  +0000" channel="Nickelodeon.it">
+  <programme start="20260309020000  +0000" stop="20260309030500  +0000" channel="Nickelodeon.it">
     <title lang="it">Monster Loving Maniacs (St. 1 - Ep. 5)</title>
     <category lang="it">Ragazzi</category>
   </programme>
@@ -45563,15 +45711,19 @@
     <title lang="it">Serie B</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260307233000  +0000" stop="20260308003000  +0000" channel="RaiSport.it@HD">
+  <programme start="20260307233000  +0000" stop="20260308010000  +0000" channel="RaiSport.it@HD">
     <title lang="it">Strade Bianche</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260308003000  +0000" stop="20260308024500  +0000" channel="RaiSport.it@HD">
+  <programme start="20260308010000  +0000" stop="20260308031500  +0000" channel="RaiSport.it@HD">
     <title lang="it">Pattinaggio di Velocità</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260308024500  +0000" stop="20260308050000  +0000" channel="RaiSport.it@HD">
+  <programme start="20260308031500  +0000" stop="20260308031500  +0000" channel="RaiSport.it@HD">
+    <title lang="it">Sci di Fondo</title>
+    <category lang="it">Sport</category>
+  </programme>
+  <programme start="20260308031500  +0000" stop="20260308050000  +0000" channel="RaiSport.it@HD">
     <title lang="it">Sci di Fondo</title>
     <category lang="it">Sport</category>
   </programme>
@@ -45587,16 +45739,24 @@
     <title lang="it">Tg Sport</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260308063000  +0000" stop="20260308081500  +0000" channel="RaiSport.it@HD">
+  <programme start="20260308063000  +0000" stop="20260308074500  +0000" channel="RaiSport.it@HD">
     <title lang="it">Pallanuoto</title>
+    <category lang="it">Sport</category>
+  </programme>
+  <programme start="20260308074500  +0000" stop="20260308081500  +0000" channel="RaiSport.it@HD">
+    <title lang="it">Ippica</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260308081500  +0000" stop="20260308093000  +0000" channel="RaiSport.it@HD">
     <title lang="it">Sci Alpino: Coppa del Mondo maschile</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260308093000  +0000" stop="20260308111500  +0000" channel="RaiSport.it@HD">
+  <programme start="20260308093000  +0000" stop="20260308104500  +0000" channel="RaiSport.it@HD">
     <title lang="it">Sci di Fondo</title>
+    <category lang="it">Sport</category>
+  </programme>
+  <programme start="20260308104500  +0000" stop="20260308111500  +0000" channel="RaiSport.it@HD">
+    <title lang="it">Memory - Rai Sport</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260308111500  +0000" stop="20260308123000  +0000" channel="RaiSport.it@HD">
@@ -57215,101 +57375,89 @@
     <title lang="it">F1 Paddock Live Pre Qualifiche (Diretta)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260307050000  +0000" stop="20260307063500  +0000" channel="SkySportF1.it">
+  <programme start="20260307050000  +0000" stop="20260307062000  +0000" channel="SkySportF1.it">
     <title lang="it">GP Australia: Qualifiche F1 (Diretta) (St. 2026 - Ep. 4)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260307063500  +0000" stop="20260307065000  +0000" channel="SkySportF1.it">
+  <programme start="20260307062000  +0000" stop="20260307064500  +0000" channel="SkySportF1.it">
     <title lang="it">F1 Paddock Live Post... (Diretta)</title>
-    <category lang="it">Rubrica</category>
+    <category lang="it">Altro</category>
   </programme>
-  <programme start="20260307065000  +0000" stop="20260307072500  +0000" channel="SkySportF1.it">
+  <programme start="20260307064500  +0000" stop="20260307071500  +0000" channel="SkySportF1.it">
     <title lang="it">F1 Paddock Live Show (Diretta)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260307072500  +0000" stop="20260307082000  +0000" channel="SkySportF1.it">
+  <programme start="20260307071500  +0000" stop="20260307081500  +0000" channel="SkySportF1.it">
     <title lang="it">Melbourne: Sprint Race F3 (St. 2026 - Ep. 3)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260307082000  +0000" stop="20260307095000  +0000" channel="SkySportF1.it">
+  <programme start="20260307081500  +0000" stop="20260307090500  +0000" channel="SkySportF1.it">
     <title lang="it">GP Australia: Qualifiche F1 (St. 2026 - Ep. 4)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260307095000  +0000" stop="20260307102000  +0000" channel="SkySportF1.it">
+  <programme start="20260307090500  +0000" stop="20260307094000  +0000" channel="SkySportF1.it">
     <title lang="it">F1 Paddock Live Show</title>
-    <category lang="it">Sport</category>
+    <category lang="it">Altro</category>
   </programme>
-  <programme start="20260307102000  +0000" stop="20260307112000  +0000" channel="SkySportF1.it">
-    <title lang="it">Melbourne: F2 Sprint Race</title>
-    <category lang="it">Sport</category>
+  <programme start="20260307094000  +0000" stop="20260307101500  +0000" channel="SkySportF1.it">
+    <title lang="it">Melbourne: Sprint Race F3 (St. 2026 - Ep. 3)</title>
+    <category lang="it">Altro</category>
   </programme>
-  <programme start="20260307112000  +0000" stop="20260307125000  +0000" channel="SkySportF1.it">
+  <programme start="20260307101500  +0000" stop="20260307111000  +0000" channel="SkySportF1.it">
     <title lang="it">GP Australia: Qualifiche F1 (St. 2026 - Ep. 4)</title>
-    <category lang="it">Sport</category>
+    <category lang="it">Altro</category>
+  </programme>
+  <programme start="20260307111000  +0000" stop="20260307125000  +0000" channel="SkySportF1.it">
+    <title lang="it">F1 Paddock Live Show</title>
+    <category lang="it">Altro</category>
   </programme>
   <programme start="20260307125000  +0000" stop="20260307130500  +0000" channel="SkySportF1.it">
     <title lang="it">Season Build Up F2: Chasing the Dream (St. 6 - Ep. 1)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260307130500  +0000" stop="20260307141500  +0000" channel="SkySportF1.it">
+  <programme start="20260307130500  +0000" stop="20260307143500  +0000" channel="SkySportF1.it">
     <title lang="it">GP Australia: Qualifiche F1 (St. 2026 - Ep. 4)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260307141500  +0000" stop="20260307144500  +0000" channel="SkySportF1.it">
+  <programme start="20260307143500  +0000" stop="20260307152500  +0000" channel="SkySportF1.it">
     <title lang="it">F1 Paddock Live Show</title>
-    <category lang="it">Sport</category>
+    <category lang="it">Altro</category>
   </programme>
-  <programme start="20260307144500  +0000" stop="20260307154500  +0000" channel="SkySportF1.it">
-    <title lang="it">Melbourne: Sprint Race F3 (St. 2026 - Ep. 3)</title>
-    <category lang="it">Sport</category>
-  </programme>
-  <programme start="20260307154500  +0000" stop="20260307160000  +0000" channel="SkySportF1.it">
-    <title lang="it">Australia Aspettando il GP (St. 2026 - Ep. 1)</title>
-    <category lang="it">Sport</category>
-  </programme>
-  <programme start="20260307160000  +0000" stop="20260307171500  +0000" channel="SkySportF1.it">
+  <programme start="20260307152500  +0000" stop="20260307165000  +0000" channel="SkySportF1.it">
     <title lang="it">GP Australia: Qualifiche F1 (St. 2026 - Ep. 4)</title>
-    <category lang="it">Sport</category>
+    <category lang="it">Altro</category>
   </programme>
-  <programme start="20260307171500  +0000" stop="20260307174500  +0000" channel="SkySportF1.it">
+  <programme start="20260307165000  +0000" stop="20260307172500  +0000" channel="SkySportF1.it">
     <title lang="it">F1 Paddock Live Show</title>
-    <category lang="it">Sport</category>
+    <category lang="it">Altro</category>
   </programme>
-  <programme start="20260307174500  +0000" stop="20260307190000  +0000" channel="SkySportF1.it">
+  <programme start="20260307172500  +0000" stop="20260307195500  +0000" channel="SkySportF1.it">
+    <title lang="it">GP Australia: Qualifiche F1 (St. 2026 - Ep. 4)</title>
+    <category lang="it">Altro</category>
+  </programme>
+  <programme start="20260307195500  +0000" stop="20260307212500  +0000" channel="SkySportF1.it">
     <title lang="it">GP Australia: Qualifiche F1 (St. 2026 - Ep. 4)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260307190000  +0000" stop="20260307200000  +0000" channel="SkySportF1.it">
-    <title lang="it">Melbourne: Sprint Race</title>
-    <category lang="it">Sport</category>
-  </programme>
-  <programme start="20260307200000  +0000" stop="20260307211500  +0000" channel="SkySportF1.it">
-    <title lang="it">GP Australia: Qualifiche F1 (St. 2026 - Ep. 4)</title>
-    <category lang="it">Sport</category>
-  </programme>
-  <programme start="20260307211500  +0000" stop="20260307214500  +0000" channel="SkySportF1.it">
-    <title lang="it">F1 Paddock Live Show</title>
-    <category lang="it">Sport</category>
+  <programme start="20260307212500  +0000" stop="20260307214500  +0000" channel="SkySportF1.it">
+    <title lang="it">Camara con vista: F1</title>
+    <category lang="it">Altro</category>
   </programme>
   <programme start="20260307214500  +0000" stop="20260307224500  +0000" channel="SkySportF1.it">
     <title lang="it">Melbourne: Sprint Race F3 (Diretta) (St. 2026 - Ep. 3)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260307224500  +0000" stop="20260307230000  +0000" channel="SkySportF1.it">
-    <title lang="it">Season Build Up F2: Chasing the Dream (St. 6 - Ep. 1)</title>
-    <category lang="it">Sport</category>
-  </programme>
-  <programme start="20260307230000  +0000" stop="20260308001500  +0000" channel="SkySportF1.it">
+  <programme start="20260307224500  +0000" stop="20260308001000  +0000" channel="SkySportF1.it">
     <title lang="it">GP Australia: Qualifiche F1 (St. 2026 - Ep. 4)</title>
-    <category lang="it">Sport</category>
+    <category lang="it">Altro</category>
   </programme>
-  <programme start="20260308001500  +0000" stop="20260308002500  +0000" channel="SkySportF1.it">
+  <programme start="20260308001000  +0000" stop="20260308002500  +0000" channel="SkySportF1.it">
     <title lang="it">Highlights F1</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260308002500  +0000" stop="20260308014500  +0000" channel="SkySportF1.it">
-    <title lang="it">Melbourne: Feature Race (Diretta) (St. 2026 - Ep. 4)</title>
-    <category lang="it">Sport</category>
+    <title lang="it">Melbourne: Feature Race F3 (Diretta) (St. 2026 - Ep. 4)</title>
+    <category lang="it">Altro</category>
   </programme>
   <programme start="20260308014500  +0000" stop="20260308020000  +0000" channel="SkySportF1.it">
     <title lang="it">Camara con vista: F1</title>
@@ -58283,19 +58431,19 @@
     <title lang="it">Basket Room NBA Talk (St. 2025 - Ep. 19)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260307100000  +0000" stop="20260307120000  +0000" channel="superguidatv:sky-sport-nba/sky-sport/40">
+  <programme start="20260307100000  +0000" stop="20260307113000  +0000" channel="superguidatv:sky-sport-nba/sky-sport/40">
     <title lang="it">NBA (St. 2025 - Ep. 87)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260307120000  +0000" stop="20260307123000  +0000" channel="superguidatv:sky-sport-nba/sky-sport/40">
+  <programme start="20260307113000  +0000" stop="20260307120000  +0000" channel="superguidatv:sky-sport-nba/sky-sport/40">
     <title lang="it">Amadori Protein Talk (St. 2025 - Ep. 6)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260307123000  +0000" stop="20260307143000  +0000" channel="superguidatv:sky-sport-nba/sky-sport/40">
+  <programme start="20260307120000  +0000" stop="20260307142000  +0000" channel="superguidatv:sky-sport-nba/sky-sport/40">
     <title lang="it">Eurolega (St. 2025 - Ep. 112)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260307143000  +0000" stop="20260307153000  +0000" channel="superguidatv:sky-sport-nba/sky-sport/40">
+  <programme start="20260307142000  +0000" stop="20260307153000  +0000" channel="superguidatv:sky-sport-nba/sky-sport/40">
     <title lang="it">Final Eight Mixtape (Ep. 21)</title>
     <category lang="it">Sport</category>
   </programme>
@@ -63331,15 +63479,15 @@
     <title lang="it">PILLOLE TENNIS TALK 2026 - Ep. 7 - Pillola Tennis Talk - Il successo di Darderi a Santiago (Ep. 7)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260307104500  +0000" stop="20260307123500  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
+  <programme start="20260307104500  +0000" stop="20260307123000  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
     <title lang="it">WTA 1000 Indian Wells 2026</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260307123500  +0000" stop="20260307125000  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
+  <programme start="20260307123000  +0000" stop="20260307124500  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
     <title lang="it">Stag. 2023 - Supertennis TG</title>
     <category lang="it">Notizie</category>
   </programme>
-  <programme start="20260307125000  +0000" stop="20260307140000  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
+  <programme start="20260307124500  +0000" stop="20260307140000  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
     <title lang="it">WTA 1000 Indian Wells 2026 - Ep. 22 - Aryna Sabalenka vs Himeno Sakatsume WTA 1000 Indian Wells # 1 (Ep. 22)</title>
     <category lang="it">Sport</category>
   </programme>
@@ -63555,15 +63703,15 @@
     <title lang="it">PILLOLE TENNIS TALK 2026 - Ep. 7 - Pillola Tennis Talk - Il successo di Darderi a Santiago (Ep. 7)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260307104500  +0000" stop="20260307123500  +0000" channel="SuperTennis.it">
+  <programme start="20260307104500  +0000" stop="20260307123000  +0000" channel="SuperTennis.it">
     <title lang="it">WTA 1000 Indian Wells 2026</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260307123500  +0000" stop="20260307125000  +0000" channel="SuperTennis.it">
+  <programme start="20260307123000  +0000" stop="20260307124500  +0000" channel="SuperTennis.it">
     <title lang="it">Stag. 2023 - Supertennis TG</title>
     <category lang="it">Notizie</category>
   </programme>
-  <programme start="20260307125000  +0000" stop="20260307140000  +0000" channel="SuperTennis.it">
+  <programme start="20260307124500  +0000" stop="20260307140000  +0000" channel="SuperTennis.it">
     <title lang="it">WTA 1000 Indian Wells 2026 - Ep. 22 - Aryna Sabalenka vs Himeno Sakatsume WTA 1000 Indian Wells # 1 (Ep. 22)</title>
     <category lang="it">Sport</category>
   </programme>
