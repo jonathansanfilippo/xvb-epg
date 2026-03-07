@@ -14528,15 +14528,15 @@
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260307050000  +0000" stop="20260307050000  +0000" channel="superguidatv:dazn/dazn/459">
+    <title lang="it">LIV Golf Hong Kong - Giorno 3: Featured Group 2</title>
+    <category lang="it">Sport</category>
+  </programme>
+  <programme start="20260307050000  +0000" stop="20260307050000  +0000" channel="superguidatv:dazn/dazn/459">
     <title lang="it">LIV Golf Hong Kong - Giorno 3: Featured Group 4</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260307050000  +0000" stop="20260307050000  +0000" channel="superguidatv:dazn/dazn/459">
     <title lang="it">LIV Golf Hong Kong - Giorno 3: Featured Group 1</title>
-    <category lang="it">Sport</category>
-  </programme>
-  <programme start="20260307050000  +0000" stop="20260307050000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">LIV Golf Hong Kong - Giorno 3: Featured Group 2</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260307050000  +0000" stop="20260307070000  +0000" channel="superguidatv:dazn/dazn/459">
@@ -14564,7 +14564,7 @@
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260307104500  +0000" stop="20260307110000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Strade Bianche</title>
+    <title lang="it">Strade Bianche Women</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260307110000  +0000" stop="20260307111500  +0000" channel="superguidatv:dazn/dazn/459">
@@ -14599,12 +14599,8 @@
     <title lang="it">Chivu: &quot;Sappiamo cosa rappresenta il derby, febbre per Thuram&quot;</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260307132000  +0000" stop="20260307132600  +0000" channel="superguidatv:dazn/dazn/459">
+  <programme start="20260307132000  +0000" stop="20260307133000  +0000" channel="superguidatv:dazn/dazn/459">
     <title lang="it">Strade Bianche</title>
-    <category lang="it">Sport</category>
-  </programme>
-  <programme start="20260307132600  +0000" stop="20260307133000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Cagliari - Como</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260307133000  +0000" stop="20260307140000  +0000" channel="superguidatv:dazn/dazn/459">
@@ -14612,19 +14608,23 @@
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260307140000  +0000" stop="20260307140000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Avellino - Padova</title>
-    <category lang="it">Sport</category>
-  </programme>
-  <programme start="20260307140000  +0000" stop="20260307140000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Südtirol - Virtus Entella</title>
+    <title lang="it">Cagliari - Como</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260307140000  +0000" stop="20260307140000  +0000" channel="superguidatv:dazn/dazn/459">
     <title lang="it">Zona Serie BKT</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260307140000  +0000" stop="20260307142500  +0000" channel="superguidatv:dazn/dazn/459">
+  <programme start="20260307140000  +0000" stop="20260307140000  +0000" channel="superguidatv:dazn/dazn/459">
     <title lang="it">Spezia - Monza</title>
+    <category lang="it">Sport</category>
+  </programme>
+  <programme start="20260307140000  +0000" stop="20260307140000  +0000" channel="superguidatv:dazn/dazn/459">
+    <title lang="it">Avellino - Padova</title>
+    <category lang="it">Sport</category>
+  </programme>
+  <programme start="20260307140000  +0000" stop="20260307142500  +0000" channel="superguidatv:dazn/dazn/459">
+    <title lang="it">Südtirol - Virtus Entella</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260307142500  +0000" stop="20260307150000  +0000" channel="superguidatv:dazn/dazn/459">
@@ -14632,15 +14632,7 @@
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260307150000  +0000" stop="20260307150000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">York - Eastleigh</title>
-    <category lang="it">Sport</category>
-  </programme>
-  <programme start="20260307150000  +0000" stop="20260307150000  +0000" channel="superguidatv:dazn/dazn/459">
     <title lang="it">Yeovil - Scunthorpe</title>
-    <category lang="it">Sport</category>
-  </programme>
-  <programme start="20260307150000  +0000" stop="20260307150000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Altrincham - Truro</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260307150000  +0000" stop="20260307150000  +0000" channel="superguidatv:dazn/dazn/459">
@@ -14648,7 +14640,7 @@
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260307150000  +0000" stop="20260307150000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Dagenham - Dorking</title>
+    <title lang="it">Woking - Tamworth</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260307150000  +0000" stop="20260307150000  +0000" channel="superguidatv:dazn/dazn/459">
@@ -14656,11 +14648,7 @@
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260307150000  +0000" stop="20260307150000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Sutton - Morecambe</title>
-    <category lang="it">Sport</category>
-  </programme>
-  <programme start="20260307150000  +0000" stop="20260307150000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Woking - Tamworth</title>
+    <title lang="it">Forest Green - Aldershot</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260307150000  +0000" stop="20260307150000  +0000" channel="superguidatv:dazn/dazn/459">
@@ -14668,11 +14656,23 @@
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260307150000  +0000" stop="20260307150000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Braintree - Wealdstone</title>
+    <title lang="it">Sutton - Morecambe</title>
+    <category lang="it">Sport</category>
+  </programme>
+  <programme start="20260307150000  +0000" stop="20260307150000  +0000" channel="superguidatv:dazn/dazn/459">
+    <title lang="it">York - Eastleigh</title>
+    <category lang="it">Sport</category>
+  </programme>
+  <programme start="20260307150000  +0000" stop="20260307150000  +0000" channel="superguidatv:dazn/dazn/459">
+    <title lang="it">Dagenham - Dorking</title>
+    <category lang="it">Sport</category>
+  </programme>
+  <programme start="20260307150000  +0000" stop="20260307150000  +0000" channel="superguidatv:dazn/dazn/459">
+    <title lang="it">Altrincham - Truro</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260307150000  +0000" stop="20260307151500  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Forest Green - Aldershot</title>
+    <title lang="it">Braintree - Wealdstone</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260307151500  +0000" stop="20260307155600  +0000" channel="superguidatv:dazn/dazn/459">
@@ -14692,19 +14692,19 @@
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260307170000  +0000" stop="20260307170000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Georgia Tech @ Clemson</title>
-    <category lang="it">Sport</category>
-  </programme>
-  <programme start="20260307170000  +0000" stop="20260307173000  +0000" channel="superguidatv:dazn/dazn/459">
     <title lang="it">Arkansas @ Missouri</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260307173000  +0000" stop="20260307173000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Arnold Palmer Invitational presented by Mastercard | Giorno 3</title>
+  <programme start="20260307170000  +0000" stop="20260307173000  +0000" channel="superguidatv:dazn/dazn/459">
+    <title lang="it">Georgia Tech @ Clemson</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260307173000  +0000" stop="20260307173000  +0000" channel="superguidatv:dazn/dazn/459">
     <title lang="it">Capitals vs. Bruins</title>
+    <category lang="it">Sport</category>
+  </programme>
+  <programme start="20260307173000  +0000" stop="20260307173000  +0000" channel="superguidatv:dazn/dazn/459">
+    <title lang="it">UConn @ Marquette</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260307173000  +0000" stop="20260307173000  +0000" channel="superguidatv:dazn/dazn/459">
@@ -14716,7 +14716,7 @@
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260307173000  +0000" stop="20260307174500  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">UConn @ Marquette</title>
+    <title lang="it">Arnold Palmer Invitational presented by Mastercard | Giorno 3</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260307174500  +0000" stop="20260307180000  +0000" channel="superguidatv:dazn/dazn/459">
@@ -14724,11 +14724,11 @@
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260307180000  +0000" stop="20260307180000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Surrey 89ers - Leicester Riders</title>
+    <title lang="it">South Carolina @ Ole Miss</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260307180000  +0000" stop="20260307180000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">South Carolina @ Ole Miss</title>
+    <title lang="it">Surrey 89ers - Leicester Riders</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260307180000  +0000" stop="20260307183000  +0000" channel="superguidatv:dazn/dazn/459">
@@ -14748,6 +14748,10 @@
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260307190000  +0000" stop="20260307190000  +0000" channel="superguidatv:dazn/dazn/459">
+    <title lang="it">UCLA vs. Ohio State</title>
+    <category lang="it">Sport</category>
+  </programme>
+  <programme start="20260307190000  +0000" stop="20260307190000  +0000" channel="superguidatv:dazn/dazn/459">
     <title lang="it">Louisville @ Miami</title>
     <category lang="it">Sport</category>
   </programme>
@@ -14755,12 +14759,8 @@
     <title lang="it">SMU @ Florida State</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260307190000  +0000" stop="20260307190000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Arizona State @ Iowa State</title>
-    <category lang="it">Sport</category>
-  </programme>
   <programme start="20260307190000  +0000" stop="20260307193000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">UCLA vs. Ohio State</title>
+    <title lang="it">Arizona State @ Iowa State</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260307193000  +0000" stop="20260307194500  +0000" channel="superguidatv:dazn/dazn/459">
@@ -14772,15 +14772,15 @@
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260307200000  +0000" stop="20260307200000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Athletic Bilbao - Barcellona</title>
-    <category lang="it">Sport</category>
-  </programme>
-  <programme start="20260307200000  +0000" stop="20260307200000  +0000" channel="superguidatv:dazn/dazn/459">
     <title lang="it">Rangers vs. Devils</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260307200000  +0000" stop="20260307203000  +0000" channel="superguidatv:dazn/dazn/459">
+  <programme start="20260307200000  +0000" stop="20260307200000  +0000" channel="superguidatv:dazn/dazn/459">
     <title lang="it">Newcastle - Manchester City</title>
+    <category lang="it">Sport</category>
+  </programme>
+  <programme start="20260307200000  +0000" stop="20260307203000  +0000" channel="superguidatv:dazn/dazn/459">
+    <title lang="it">Athletic Bilbao - Barcellona</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260307203000  +0000" stop="20260307210000  +0000" channel="superguidatv:dazn/dazn/459">
@@ -14788,11 +14788,11 @@
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260307210000  +0000" stop="20260307210000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">California @ Wake Forest</title>
+    <title lang="it">Wisconsin @ Purdue</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260307210000  +0000" stop="20260307210000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Wisconsin @ Purdue</title>
+    <title lang="it">California @ Wake Forest</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260307210000  +0000" stop="20260307213000  +0000" channel="superguidatv:dazn/dazn/459">
@@ -14808,11 +14808,11 @@
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260307223000  +0000" stop="20260307223000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Indiana @ Ohio State</title>
+    <title lang="it">Predators vs. Sabres</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260307223000  +0000" stop="20260307223000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Predators vs. Sabres</title>
+    <title lang="it">Indiana @ Ohio State</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260307223000  +0000" stop="20260307230000  +0000" channel="superguidatv:dazn/dazn/459">
@@ -41919,7 +41919,15 @@
     <title lang="it">Tg1</title>
     <category lang="it">Notizie</category>
   </programme>
-  <programme start="20260308071800  +0000" stop="20260308082500  +0000" channel="Rai1.it">
+  <programme start="20260308071800  +0000" stop="20260308080000  +0000" channel="Rai1.it">
+    <title lang="it">Unomattina in famiglia</title>
+    <category lang="it">Attualità</category>
+  </programme>
+  <programme start="20260308080000  +0000" stop="20260308080400  +0000" channel="Rai1.it">
+    <title lang="it">Tg1</title>
+    <category lang="it">Notizie</category>
+  </programme>
+  <programme start="20260308080400  +0000" stop="20260308082500  +0000" channel="Rai1.it">
     <title lang="it">Unomattina in famiglia</title>
     <category lang="it">Attualità</category>
   </programme>
@@ -42151,9 +42159,13 @@
     <title lang="it">Tg1</title>
     <category lang="it">Notizie</category>
   </programme>
-  <programme start="20260309230000  +0000" stop="20260310002500  +0000" channel="Rai1.it">
+  <programme start="20260309230000  +0000" stop="20260310002000  +0000" channel="Rai1.it">
     <title lang="it">XXI Secolo</title>
     <category lang="it">Attualità</category>
+  </programme>
+  <programme start="20260310002000  +0000" stop="20260310002500  +0000" channel="Rai1.it">
+    <title lang="it">Che tempo fa</title>
+    <category lang="it">Notizie</category>
   </programme>
   <programme start="20260310002500  +0000" stop="20260310014000  +0000" channel="Rai1.it">
     <title lang="it">L&apos;Eredità</title>
@@ -42163,9 +42175,13 @@
     <title lang="it">Un passo dal cielo (St. 2 - Ep. 4)</title>
     <category lang="it">Serie TV</category>
   </programme>
-  <programme start="20260310023500  +0000" stop="20260310050000  +0000" channel="Rai1.it">
+  <programme start="20260310023500  +0000" stop="20260310033500  +0000" channel="Rai1.it">
     <title lang="it">Un passo dal cielo (St. 2 - Ep. 5)</title>
     <category lang="it">Serie TV</category>
+  </programme>
+  <programme start="20260310033500  +0000" stop="20260310050000  +0000" channel="Rai1.it">
+    <title lang="it">RaiNews</title>
+    <category lang="it">Notizie</category>
   </programme>
   <programme start="20260310050000  +0000" stop="20260310053000  +0000" channel="Rai1.it">
     <title lang="it">1mattina News</title>
@@ -42555,19 +42571,19 @@
     <title lang="it">8 donne e un mistero (2002)</title>
     <category lang="it">Film</category>
   </programme>
-  <programme start="20260310024000  +0000" stop="20260310032000  +0000" channel="Rai2.it">
+  <programme start="20260310024000  +0000" stop="20260310031500  +0000" channel="Rai2.it">
     <title lang="it">Good Sam (St. 1 - Ep. 11)</title>
     <category lang="it">Serie TV</category>
   </programme>
-  <programme start="20260310032000  +0000" stop="20260310040000  +0000" channel="Rai2.it">
-    <title lang="it">The Good Doctor (St. 5 - Ep. 11)</title>
+  <programme start="20260310031500  +0000" stop="20260310040000  +0000" channel="Rai2.it">
+    <title lang="it">The Good Doctor</title>
     <category lang="it">Serie TV</category>
   </programme>
-  <programme start="20260310040000  +0000" stop="20260310041000  +0000" channel="Rai2.it">
+  <programme start="20260310040000  +0000" stop="20260310040500  +0000" channel="Rai2.it">
     <title lang="it">Zio Gianni</title>
     <category lang="it">Sit Com</category>
   </programme>
-  <programme start="20260310041000  +0000" stop="20260310043000  +0000" channel="Rai2.it">
+  <programme start="20260310040500  +0000" stop="20260310043000  +0000" channel="Rai2.it">
     <title lang="it">Piloti</title>
     <category lang="it">Sit Com</category>
   </programme>
@@ -43147,27 +43163,27 @@
     <title lang="it">Delitti in Paradiso (St. 1 - Ep. 1)</title>
     <category lang="it">Serie TV</category>
   </programme>
-  <programme start="20260308054700  +0000" stop="20260308064800  +0000" channel="Rai4.it">
+  <programme start="20260308054700  +0000" stop="20260308064700  +0000" channel="Rai4.it">
     <title lang="it">Delitti in Paradiso (St. 1 - Ep. 2)</title>
     <category lang="it">Serie TV</category>
   </programme>
-  <programme start="20260308064800  +0000" stop="20260308075100  +0000" channel="Rai4.it">
+  <programme start="20260308064700  +0000" stop="20260308074900  +0000" channel="Rai4.it">
     <title lang="it">Delitti in Paradiso (St. 1 - Ep. 3)</title>
     <category lang="it">Serie TV</category>
   </programme>
-  <programme start="20260308075100  +0000" stop="20260308085300  +0000" channel="Rai4.it">
+  <programme start="20260308074900  +0000" stop="20260308085000  +0000" channel="Rai4.it">
     <title lang="it">Delitti in Paradiso (St. 1 - Ep. 4)</title>
     <category lang="it">Serie TV</category>
   </programme>
-  <programme start="20260308085300  +0000" stop="20260308091500  +0000" channel="Rai4.it">
+  <programme start="20260308085000  +0000" stop="20260308091300  +0000" channel="Rai4.it">
     <title lang="it">Wonderland</title>
     <category lang="it">Notizie</category>
   </programme>
-  <programme start="20260308091500  +0000" stop="20260308100100  +0000" channel="Rai4.it">
+  <programme start="20260308091300  +0000" stop="20260308095900  +0000" channel="Rai4.it">
     <title lang="it">Criminal Minds (St. 1 - Ep. 16)</title>
     <category lang="it">Serie TV</category>
   </programme>
-  <programme start="20260308100100  +0000" stop="20260308104400  +0000" channel="Rai4.it">
+  <programme start="20260308095900  +0000" stop="20260308104400  +0000" channel="Rai4.it">
     <title lang="it">Criminal Minds (St. 1 - Ep. 17)</title>
     <category lang="it">Serie TV</category>
   </programme>
@@ -43175,43 +43191,43 @@
     <title lang="it">Criminal Minds (St. 1 - Ep. 18)</title>
     <category lang="it">Serie TV</category>
   </programme>
-  <programme start="20260308112900  +0000" stop="20260308121400  +0000" channel="Rai4.it">
+  <programme start="20260308112900  +0000" stop="20260308121300  +0000" channel="Rai4.it">
     <title lang="it">Criminal Minds (St. 1 - Ep. 19)</title>
     <category lang="it">Serie TV</category>
   </programme>
-  <programme start="20260308121400  +0000" stop="20260308130000  +0000" channel="Rai4.it">
+  <programme start="20260308121300  +0000" stop="20260308130100  +0000" channel="Rai4.it">
     <title lang="it">Criminal Minds (St. 1 - Ep. 20)</title>
     <category lang="it">Serie TV</category>
   </programme>
-  <programme start="20260308130000  +0000" stop="20260308145600  +0000" channel="Rai4.it">
+  <programme start="20260308130100  +0000" stop="20260308145700  +0000" channel="Rai4.it">
     <title lang="it">La rapina perfetta (2008)</title>
     <category lang="it">Film</category>
   </programme>
-  <programme start="20260308145600  +0000" stop="20260308150100  +0000" channel="Rai4.it">
+  <programme start="20260308145700  +0000" stop="20260308150100  +0000" channel="Rai4.it">
     <title lang="it">70 x 70 Lo sapevate che... (St. 1 - Ep. 63)</title>
     <category lang="it">Rubrica</category>
   </programme>
-  <programme start="20260308150100  +0000" stop="20260308150400  +0000" channel="Rai4.it">
+  <programme start="20260308150100  +0000" stop="20260308150500  +0000" channel="Rai4.it">
     <title lang="it">70 x 70 Lo sapevate che... (St. 1 - Ep. 64)</title>
     <category lang="it">Rubrica</category>
   </programme>
-  <programme start="20260308150400  +0000" stop="20260308150700  +0000" channel="Rai4.it">
+  <programme start="20260308150500  +0000" stop="20260308150800  +0000" channel="Rai4.it">
     <title lang="it">70 x 70 Lo sapevate che... (St. 1 - Ep. 65)</title>
     <category lang="it">Rubrica</category>
   </programme>
-  <programme start="20260308150700  +0000" stop="20260308155700  +0000" channel="Rai4.it">
+  <programme start="20260308150800  +0000" stop="20260308155700  +0000" channel="Rai4.it">
     <title lang="it">Private Eyes (St. 3 - Ep. 3)</title>
     <category lang="it">Serie TV</category>
   </programme>
-  <programme start="20260308155700  +0000" stop="20260308164100  +0000" channel="Rai4.it">
+  <programme start="20260308155700  +0000" stop="20260308164200  +0000" channel="Rai4.it">
     <title lang="it">Private Eyes (St. 3 - Ep. 4)</title>
     <category lang="it">Serie TV</category>
   </programme>
-  <programme start="20260308164100  +0000" stop="20260308172200  +0000" channel="Rai4.it">
+  <programme start="20260308164200  +0000" stop="20260308172300  +0000" channel="Rai4.it">
     <title lang="it">Elementary (St. 4 - Ep. 8)</title>
     <category lang="it">Serie TV</category>
   </programme>
-  <programme start="20260308172200  +0000" stop="20260308180700  +0000" channel="Rai4.it">
+  <programme start="20260308172300  +0000" stop="20260308180700  +0000" channel="Rai4.it">
     <title lang="it">Elementary (St. 4 - Ep. 9)</title>
     <category lang="it">Serie TV</category>
   </programme>
@@ -43227,15 +43243,15 @@
     <title lang="it">Elementary (St. 4 - Ep. 12)</title>
     <category lang="it">Serie TV</category>
   </programme>
-  <programme start="20260308202100  +0000" stop="20260308220100  +0000" channel="Rai4.it">
+  <programme start="20260308202100  +0000" stop="20260308220200  +0000" channel="Rai4.it">
     <title lang="it">Faster (2010)</title>
     <category lang="it">Film</category>
   </programme>
-  <programme start="20260308220100  +0000" stop="20260308233300  +0000" channel="Rai4.it">
+  <programme start="20260308220200  +0000" stop="20260308233400  +0000" channel="Rai4.it">
     <title lang="it">The Island (2023)</title>
     <category lang="it">Film</category>
   </programme>
-  <programme start="20260308233300  +0000" stop="20260308233700  +0000" channel="Rai4.it">
+  <programme start="20260308233400  +0000" stop="20260308233700  +0000" channel="Rai4.it">
     <title lang="it">Appuntamento al cinema</title>
     <category lang="it">Cinema</category>
   </programme>
@@ -43271,11 +43287,11 @@
     <title lang="it">9-1-1 (St. 6 - Ep. 2)</title>
     <category lang="it">Serie TV</category>
   </programme>
-  <programme start="20260309063800  +0000" stop="20260309072300  +0000" channel="Rai4.it">
+  <programme start="20260309063800  +0000" stop="20260309072200  +0000" channel="Rai4.it">
     <title lang="it">Elementary (St. 4 - Ep. 11)</title>
     <category lang="it">Serie TV</category>
   </programme>
-  <programme start="20260309072300  +0000" stop="20260309080500  +0000" channel="Rai4.it">
+  <programme start="20260309072200  +0000" stop="20260309080500  +0000" channel="Rai4.it">
     <title lang="it">Elementary (St. 4 - Ep. 12)</title>
     <category lang="it">Serie TV</category>
   </programme>
@@ -43283,11 +43299,11 @@
     <title lang="it">Hawaii Five-0 (St. 5 - Ep. 4)</title>
     <category lang="it">Serie TV</category>
   </programme>
-  <programme start="20260309085200  +0000" stop="20260309093300  +0000" channel="Rai4.it">
+  <programme start="20260309085200  +0000" stop="20260309093400  +0000" channel="Rai4.it">
     <title lang="it">Hawaii Five-0 (St. 5 - Ep. 5)</title>
     <category lang="it">Serie TV</category>
   </programme>
-  <programme start="20260309093300  +0000" stop="20260309101800  +0000" channel="Rai4.it">
+  <programme start="20260309093400  +0000" stop="20260309101800  +0000" channel="Rai4.it">
     <title lang="it">Wild Card (St. 2 - Ep. 6)</title>
     <category lang="it">Serie TV</category>
   </programme>
@@ -43311,35 +43327,35 @@
     <title lang="it">9-1-1 (St. 6 - Ep. 3)</title>
     <category lang="it">Serie TV</category>
   </programme>
-  <programme start="20260309140300  +0000" stop="20260309145300  +0000" channel="Rai4.it">
+  <programme start="20260309140300  +0000" stop="20260309145200  +0000" channel="Rai4.it">
     <title lang="it">9-1-1 (St. 6 - Ep. 4)</title>
     <category lang="it">Serie TV</category>
   </programme>
-  <programme start="20260309145300  +0000" stop="20260309145500  +0000" channel="Rai4.it">
+  <programme start="20260309145200  +0000" stop="20260309145400  +0000" channel="Rai4.it">
     <title lang="it">70 x 70 Lo sapevate che... (St. 1 - Ep. 66)</title>
     <category lang="it">Rubrica</category>
   </programme>
-  <programme start="20260309145500  +0000" stop="20260309145800  +0000" channel="Rai4.it">
+  <programme start="20260309145400  +0000" stop="20260309145700  +0000" channel="Rai4.it">
     <title lang="it">70 x 70 Lo sapevate che... (St. 1 - Ep. 67)</title>
     <category lang="it">Rubrica</category>
   </programme>
-  <programme start="20260309145800  +0000" stop="20260309150100  +0000" channel="Rai4.it">
+  <programme start="20260309145700  +0000" stop="20260309150000  +0000" channel="Rai4.it">
     <title lang="it">70 x 70 Lo sapevate che... (St. 1 - Ep. 69)</title>
     <category lang="it">Rubrica</category>
   </programme>
-  <programme start="20260309150100  +0000" stop="20260309154500  +0000" channel="Rai4.it">
+  <programme start="20260309150000  +0000" stop="20260309154400  +0000" channel="Rai4.it">
     <title lang="it">Senza traccia (St. 3 - Ep. 16)</title>
     <category lang="it">Serie TV</category>
   </programme>
-  <programme start="20260309154500  +0000" stop="20260309163200  +0000" channel="Rai4.it">
+  <programme start="20260309154400  +0000" stop="20260309163200  +0000" channel="Rai4.it">
     <title lang="it">Elementary (St. 4 - Ep. 13)</title>
     <category lang="it">Serie TV</category>
   </programme>
-  <programme start="20260309163200  +0000" stop="20260309171500  +0000" channel="Rai4.it">
+  <programme start="20260309163200  +0000" stop="20260309171600  +0000" channel="Rai4.it">
     <title lang="it">Elementary (St. 4 - Ep. 14)</title>
     <category lang="it">Serie TV</category>
   </programme>
-  <programme start="20260309171500  +0000" stop="20260309180100  +0000" channel="Rai4.it">
+  <programme start="20260309171600  +0000" stop="20260309180100  +0000" channel="Rai4.it">
     <title lang="it">Hawaii Five-0 (St. 5 - Ep. 6)</title>
     <category lang="it">Serie TV</category>
   </programme>
@@ -43359,19 +43375,19 @@
     <title lang="it">Benvenuti a ieri (2015)</title>
     <category lang="it">Film</category>
   </programme>
-  <programme start="20260309220900  +0000" stop="20260309234200  +0000" channel="Rai4.it">
+  <programme start="20260309220900  +0000" stop="20260309234300  +0000" channel="Rai4.it">
     <title lang="it">Nessuno ti salverà (2023)</title>
     <category lang="it">Film</category>
   </programme>
-  <programme start="20260309234200  +0000" stop="20260309234500  +0000" channel="Rai4.it">
+  <programme start="20260309234300  +0000" stop="20260309234600  +0000" channel="Rai4.it">
     <title lang="it">Appuntamento al cinema</title>
     <category lang="it">Cinema</category>
   </programme>
-  <programme start="20260309234500  +0000" stop="20260310002700  +0000" channel="Rai4.it">
+  <programme start="20260309234600  +0000" stop="20260310002800  +0000" channel="Rai4.it">
     <title lang="it">CSI: Vegas (St. 2 - Ep. 12)</title>
     <category lang="it">Serie TV</category>
   </programme>
-  <programme start="20260310002700  +0000" stop="20260310012500  +0000" channel="Rai4.it">
+  <programme start="20260310002800  +0000" stop="20260310012500  +0000" channel="Rai4.it">
     <title lang="it">Rapa (St. 2 - Ep. 5)</title>
     <category lang="it">Serie TV</category>
   </programme>
@@ -43567,83 +43583,83 @@
     <title lang="it">Sapiens Un solo pianeta</title>
     <category lang="it">Documentario</category>
   </programme>
-  <programme start="20260308110300  +0000" stop="20260308113300  +0000" channel="Rai5.it">
+  <programme start="20260308110300  +0000" stop="20260308113400  +0000" channel="Rai5.it">
     <title lang="it">Save the Date (Ep. 17)</title>
     <category lang="it">LifeStyle</category>
   </programme>
-  <programme start="20260308113300  +0000" stop="20260308120300  +0000" channel="Rai5.it">
+  <programme start="20260308113400  +0000" stop="20260308120400  +0000" channel="Rai5.it">
     <title lang="it">Passepartout</title>
     <category lang="it">Documentario</category>
   </programme>
-  <programme start="20260308120300  +0000" stop="20260308123400  +0000" channel="Rai5.it">
+  <programme start="20260308120400  +0000" stop="20260308123500  +0000" channel="Rai5.it">
     <title lang="it">Passepartout</title>
     <category lang="it">Documentario</category>
   </programme>
-  <programme start="20260308123400  +0000" stop="20260308130600  +0000" channel="Rai5.it">
+  <programme start="20260308123500  +0000" stop="20260308130700  +0000" channel="Rai5.it">
     <title lang="it">Movie Mag</title>
     <category lang="it">Notizie</category>
   </programme>
-  <programme start="20260308130600  +0000" stop="20260308140000  +0000" channel="Rai5.it">
+  <programme start="20260308130700  +0000" stop="20260308140200  +0000" channel="Rai5.it">
     <title lang="it">L&apos;uomo dei boschi (Ep. 3)</title>
     <category lang="it">Mondo e Tendenze</category>
   </programme>
-  <programme start="20260308140000  +0000" stop="20260308142600  +0000" channel="Rai5.it">
+  <programme start="20260308140200  +0000" stop="20260308142800  +0000" channel="Rai5.it">
     <title lang="it">Geo</title>
     <category lang="it">Documentario</category>
   </programme>
-  <programme start="20260308142600  +0000" stop="20260308153900  +0000" channel="Rai5.it">
+  <programme start="20260308142800  +0000" stop="20260308154000  +0000" channel="Rai5.it">
     <title lang="it">Mistero buffo</title>
     <category lang="it">Documentario</category>
   </programme>
-  <programme start="20260308153900  +0000" stop="20260308165100  +0000" channel="Rai5.it">
+  <programme start="20260308154000  +0000" stop="20260308165200  +0000" channel="Rai5.it">
     <title lang="it">Mistero buffo</title>
     <category lang="it">Documentario</category>
   </programme>
-  <programme start="20260308165100  +0000" stop="20260308192900  +0000" channel="Rai5.it">
+  <programme start="20260308165200  +0000" stop="20260308193000  +0000" channel="Rai5.it">
     <title lang="it">Splendida Cornice (St. 5)</title>
     <category lang="it">Attualità</category>
   </programme>
-  <programme start="20260308192900  +0000" stop="20260308193100  +0000" channel="Rai5.it">
+  <programme start="20260308193000  +0000" stop="20260308193200  +0000" channel="Rai5.it">
     <title lang="it">Rai News Giorno</title>
     <category lang="it">Notizie</category>
   </programme>
-  <programme start="20260308193100  +0000" stop="20260308202400  +0000" channel="Rai5.it">
+  <programme start="20260308193200  +0000" stop="20260308202500  +0000" channel="Rai5.it">
     <title lang="it">Overland (Ep. 3)</title>
     <category lang="it">Documentario</category>
   </programme>
-  <programme start="20260308202400  +0000" stop="20260308230000  +0000" channel="Rai5.it">
+  <programme start="20260308202500  +0000" stop="20260308230000  +0000" channel="Rai5.it">
     <title lang="it">Simone Veil - La donna del secolo (2022)</title>
     <category lang="it">Film</category>
   </programme>
-  <programme start="20260308230000  +0000" stop="20260309003100  +0000" channel="Rai5.it">
+  <programme start="20260308230000  +0000" stop="20260309003300  +0000" channel="Rai5.it">
     <title lang="it">Il segno delle donne (Ep. 6)</title>
     <category lang="it">Documentario</category>
   </programme>
-  <programme start="20260309003100  +0000" stop="20260309003300  +0000" channel="Rai5.it">
+  <programme start="20260309003300  +0000" stop="20260309003400  +0000" channel="Rai5.it">
     <title lang="it">RaiNews</title>
     <category lang="it">Notizie</category>
   </programme>
-  <programme start="20260309003300  +0000" stop="20260309012500  +0000" channel="Rai5.it">
+  <programme start="20260309003400  +0000" stop="20260309012500  +0000" channel="Rai5.it">
     <title lang="it">Overland (Ep. 3)</title>
     <category lang="it">Documentario</category>
   </programme>
-  <programme start="20260309012500  +0000" stop="20260309021200  +0000" channel="Rai5.it">
+  <programme start="20260309012500  +0000" stop="20260309021300  +0000" channel="Rai5.it">
     <title lang="it">Amabili testi</title>
     <category lang="it">Mondo e Tendenze</category>
   </programme>
-  <programme start="20260309021200  +0000" stop="20260309030700  +0000" channel="Rai5.it">
+  <programme start="20260309021300  +0000" stop="20260309030800  +0000" channel="Rai5.it">
     <title lang="it">Di là dal fiume e tra gli alberi (St. 6 - Ep. 14)</title>
     <category lang="it">Documentario</category>
   </programme>
-  <programme start="20260309030700  +0000" stop="20260309040000  +0000" channel="Rai5.it">
+  <programme start="20260309030800  +0000" stop="20260309040100  +0000" channel="Rai5.it">
     <title lang="it">L&apos;uomo dei boschi (Ep. 3)</title>
     <category lang="it">Mondo e Tendenze</category>
   </programme>
-  <programme start="20260309040000  +0000" stop="20260309040000  +0000" channel="Rai5.it">
+  <programme start="20260309040100  +0000" stop="20260309040100  +0000" channel="Rai5.it">
     <title lang="it">Di là dal fiume e tra gli alberi (St. 6 - Ep. 14)</title>
     <category lang="it">Documentario</category>
   </programme>
-  <programme start="20260309040000  +0000" stop="20260309050000  +0000" channel="Rai5.it">
+  <programme start="20260309040100  +0000" stop="20260309050000  +0000" channel="Rai5.it">
     <title lang="it">Di là dal fiume e tra gli alberi (St. 6 - Ep. 14)</title>
     <category lang="it">Documentario</category>
   </programme>
@@ -43767,8 +43783,12 @@
     <title lang="it">19391945. La II Guerra Mondiale (Ep. 2)</title>
     <category lang="it">Documentario</category>
   </programme>
-  <programme start="20260310035400  +0000" stop="20260310042400  +0000" channel="Rai5.it">
+  <programme start="20260310035400  +0000" stop="20260310050000  +0000" channel="Rai5.it">
     <title lang="it">Paradisi da salvare (St. 1 - Ep. 13)</title>
+    <category lang="it">Documentario</category>
+  </programme>
+  <programme start="20260310050000  +0000" stop="20260310053000  +0000" channel="Rai5.it">
+    <title lang="it">Poke Stories (Ep. 1)</title>
     <category lang="it">Documentario</category>
   </programme>
   <programme start="20260307045000  +0000" stop="20260307050500  +0000" channel="RaiGulp.it">
@@ -44215,11 +44235,11 @@
     <title lang="it">Runes La magia delle rune (St. 1 - Ep. 23)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308134500  +0000" stop="20260308141000  +0000" channel="RaiGulp.it">
+  <programme start="20260308134500  +0000" stop="20260308141500  +0000" channel="RaiGulp.it">
     <title lang="it">Runes La magia delle rune (St. 1 - Ep. 24)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260308141000  +0000" stop="20260308155000  +0000" channel="RaiGulp.it">
+  <programme start="20260308141500  +0000" stop="20260308155000  +0000" channel="RaiGulp.it">
     <title lang="it">Dora e la città perduta (2019)</title>
     <category lang="it">Film</category>
   </programme>
@@ -44304,7 +44324,7 @@
     <category lang="it">Ragazzi</category>
   </programme>
   <programme start="20260308233000  +0000" stop="20260309000500  +0000" channel="RaiGulp.it">
-    <title lang="it">La Compagnia dei Celestini (Ep. 24)</title>
+    <title lang="it">La Compagnia dei Celestini (St. 2 - Ep. 24)</title>
     <category lang="it">Ragazzi</category>
   </programme>
   <programme start="20260309000500  +0000" stop="20260309003000  +0000" channel="RaiGulp.it">
@@ -44907,11 +44927,11 @@
     <title lang="it">Nati stanchi (2002)</title>
     <category lang="it">Film</category>
   </programme>
-  <programme start="20260310005500  +0000" stop="20260310022000  +0000" channel="RaiMovie.it">
+  <programme start="20260310005500  +0000" stop="20260310022500  +0000" channel="RaiMovie.it">
     <title lang="it">I giorni del cielo (1978)</title>
     <category lang="it">Film</category>
   </programme>
-  <programme start="20260310022000  +0000" stop="20260310040000  +0000" channel="RaiMovie.it">
+  <programme start="20260310022500  +0000" stop="20260310040000  +0000" channel="RaiMovie.it">
     <title lang="it">L&apos;ultimo guappo (1978)</title>
     <category lang="it">Film</category>
   </programme>
@@ -45744,22 +45764,18 @@
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260308074500  +0000" stop="20260308081500  +0000" channel="RaiSport.it@HD">
-    <title lang="it">Ippica</title>
+    <title lang="it">Pattinaggio di Velocità Mondiali</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260308081500  +0000" stop="20260308093000  +0000" channel="RaiSport.it@HD">
     <title lang="it">Sci Alpino: Coppa del Mondo maschile</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260308093000  +0000" stop="20260308104500  +0000" channel="RaiSport.it@HD">
-    <title lang="it">Sci di Fondo</title>
+  <programme start="20260308093000  +0000" stop="20260308113000  +0000" channel="RaiSport.it@HD">
+    <title lang="it">Paralimpiadi Invernali Milano Cortina 2026</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260308104500  +0000" stop="20260308111500  +0000" channel="RaiSport.it@HD">
-    <title lang="it">Memory - Rai Sport</title>
-    <category lang="it">Sport</category>
-  </programme>
-  <programme start="20260308111500  +0000" stop="20260308123000  +0000" channel="RaiSport.it@HD">
+  <programme start="20260308113000  +0000" stop="20260308123000  +0000" channel="RaiSport.it@HD">
     <title lang="it">Sci Alpino: Coppa del Mondo maschile</title>
     <category lang="it">Sport</category>
   </programme>
@@ -45775,32 +45791,44 @@
     <title lang="it">Pallanuoto</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260308170000  +0000" stop="20260308173000  +0000" channel="RaiSport.it@HD">
+  <programme start="20260308170000  +0000" stop="20260308173500  +0000" channel="RaiSport.it@HD">
     <title lang="it">Sci di Fondo</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260308173000  +0000" stop="20260308200000  +0000" channel="RaiSport.it@HD">
+  <programme start="20260308173500  +0000" stop="20260308200000  +0000" channel="RaiSport.it@HD">
     <title lang="it">Paralimpiadi Invernali Milano Cortina 2026</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260308200000  +0000" stop="20260308223000  +0000" channel="RaiSport.it@HD">
-    <title lang="it">Pallavolo: Serie A Femminile</title>
+    <title lang="it">Pallavolo</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260308223000  +0000" stop="20260308231500  +0000" channel="RaiSport.it@HD">
+  <programme start="20260308223000  +0000" stop="20260308232000  +0000" channel="RaiSport.it@HD">
     <title lang="it">SportAbilia</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260308231500  +0000" stop="20260309030000  +0000" channel="RaiSport.it@HD">
+  <programme start="20260308232000  +0000" stop="20260309030500  +0000" channel="RaiSport.it@HD">
     <title lang="it">Pattinaggio di Velocità</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260309030000  +0000" stop="20260309030000  +0000" channel="RaiSport.it@HD">
-    <title lang="it">Baseball</title>
+  <programme start="20260309030500  +0000" stop="20260309035000  +0000" channel="RaiSport.it@HD">
+    <title lang="it">Tiro Con L&apos;Arco</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260309030000  +0000" stop="20260309060000  +0000" channel="RaiSport.it@HD">
-    <title lang="it">Baseball</title>
+  <programme start="20260309035000  +0000" stop="20260309035000  +0000" channel="RaiSport.it@HD">
+    <title lang="it">Pallanuoto</title>
+    <category lang="it">Sport</category>
+  </programme>
+  <programme start="20260309035000  +0000" stop="20260309050000  +0000" channel="RaiSport.it@HD">
+    <title lang="it">Pallanuoto</title>
+    <category lang="it">Sport</category>
+  </programme>
+  <programme start="20260309050000  +0000" stop="20260309050000  +0000" channel="RaiSport.it@HD">
+    <title lang="it">Strade Bianche</title>
+    <category lang="it">Sport</category>
+  </programme>
+  <programme start="20260309050000  +0000" stop="20260309060000  +0000" channel="RaiSport.it@HD">
+    <title lang="it">Strade Bianche</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260309060000  +0000" stop="20260309063000  +0000" channel="RaiSport.it@HD">
@@ -45808,18 +45836,18 @@
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260309063000  +0000" stop="20260309070000  +0000" channel="RaiSport.it@HD">
-    <title lang="it">Sci di Fondo</title>
+    <title lang="it">SportAbilia</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260309070000  +0000" stop="20260309093000  +0000" channel="RaiSport.it@HD">
     <title lang="it">Pallavolo: Serie A Maschile</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260309093000  +0000" stop="20260309123000  +0000" channel="RaiSport.it@HD">
-    <title lang="it">Pallavolo: Serie A Maschile</title>
+  <programme start="20260309093000  +0000" stop="20260309115500  +0000" channel="RaiSport.it@HD">
+    <title lang="it">Pallavolo</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260309123000  +0000" stop="20260309133000  +0000" channel="RaiSport.it@HD">
+  <programme start="20260309115500  +0000" stop="20260309133000  +0000" channel="RaiSport.it@HD">
     <title lang="it">Paralimpiadi Invernali Milano Cortina 2026</title>
     <category lang="it">Sport</category>
   </programme>
@@ -45831,44 +45859,48 @@
     <title lang="it">Paralimpiadi Invernali Milano Cortina 2026</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260309173000  +0000" stop="20260309190000  +0000" channel="RaiSport.it@HD">
+  <programme start="20260309173000  +0000" stop="20260309181000  +0000" channel="RaiSport.it@HD">
     <title lang="it">Paralimpiadi Invernali Milano Cortina 2026</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260309190000  +0000" stop="20260309192500  +0000" channel="RaiSport.it@HD">
+  <programme start="20260309181000  +0000" stop="20260309185500  +0000" channel="RaiSport.it@HD">
+    <title lang="it">Tiro Con L&apos;Arco</title>
+    <category lang="it">Sport</category>
+  </programme>
+  <programme start="20260309185500  +0000" stop="20260309192500  +0000" channel="RaiSport.it@HD">
     <title lang="it">C siamo</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260309192500  +0000" stop="20260309212500  +0000" channel="RaiSport.it@HD">
+  <programme start="20260309192500  +0000" stop="20260309213000  +0000" channel="RaiSport.it@HD">
     <title lang="it">Serie C</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260309212500  +0000" stop="20260309214500  +0000" channel="RaiSport.it@HD">
+  <programme start="20260309213000  +0000" stop="20260309215000  +0000" channel="RaiSport.it@HD">
     <title lang="it">C siamo</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260309214500  +0000" stop="20260309223000  +0000" channel="RaiSport.it@HD">
-    <title lang="it">Memory - Rai Sport</title>
+  <programme start="20260309215000  +0000" stop="20260309223000  +0000" channel="RaiSport.it@HD">
+    <title lang="it">Strade Bianche</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260309223000  +0000" stop="20260309231500  +0000" channel="RaiSport.it@HD">
+  <programme start="20260309223000  +0000" stop="20260309232000  +0000" channel="RaiSport.it@HD">
     <title lang="it">SportAbilia</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260309231500  +0000" stop="20260310001500  +0000" channel="RaiSport.it@HD">
+  <programme start="20260309232000  +0000" stop="20260310002000  +0000" channel="RaiSport.it@HD">
     <title lang="it">Mondiale Motocross</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260310001500  +0000" stop="20260310011500  +0000" channel="RaiSport.it@HD">
+  <programme start="20260310002000  +0000" stop="20260310012500  +0000" channel="RaiSport.it@HD">
     <title lang="it">Mondiale Motocross</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260310011500  +0000" stop="20260310034500  +0000" channel="RaiSport.it@HD">
+  <programme start="20260310012500  +0000" stop="20260310040000  +0000" channel="RaiSport.it@HD">
     <title lang="it">Pallavolo: Serie A Maschile</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260310034500  +0000" stop="20260310050000  +0000" channel="RaiSport.it@HD">
-    <title lang="it">Pallavolo: Serie A Maschile</title>
+  <programme start="20260310040000  +0000" stop="20260310050000  +0000" channel="RaiSport.it@HD">
+    <title lang="it">Pallavolo</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260310050000  +0000" stop="20260310053000  +0000" channel="RaiSport.it@HD">
@@ -47952,11 +47984,11 @@
     <category lang="it">Ragazzi</category>
   </programme>
   <programme start="20260309142500  +0000" stop="20260309143000  +0000" channel="RaiYoyo.it">
-    <title lang="it">Piccolissimi (Ep. 17)</title>
+    <title lang="it">Piccolissimi (St. 3 - Ep. 17)</title>
     <category lang="it">Ragazzi</category>
   </programme>
   <programme start="20260309143000  +0000" stop="20260309143500  +0000" channel="RaiYoyo.it">
-    <title lang="it">Piccolissimi (Ep. 19)</title>
+    <title lang="it">Piccolissimi (St. 3 - Ep. 19)</title>
     <category lang="it">Ragazzi</category>
   </programme>
   <programme start="20260309143500  +0000" stop="20260309144500  +0000" channel="RaiYoyo.it">
@@ -52699,31 +52731,31 @@
     <title lang="it">Diabolik (2021)</title>
     <category lang="it">Film</category>
   </programme>
-  <programme start="20260309063500  +0000" stop="20260309082500  +0000" channel="SkyCinemaUno.it@Plus24">
+  <programme start="20260309063500  +0000" stop="20260309083000  +0000" channel="SkyCinemaUno.it@Plus24">
     <title lang="it">E noi come stronzi rimanemmo a guardare (2021)</title>
     <category lang="it">Film</category>
   </programme>
-  <programme start="20260309082500  +0000" stop="20260309103500  +0000" channel="SkyCinemaUno.it@Plus24">
+  <programme start="20260309083000  +0000" stop="20260309104000  +0000" channel="SkyCinemaUno.it@Plus24">
     <title lang="it">Allied - Un&apos;ombra nascosta (2016)</title>
     <category lang="it">Film</category>
   </programme>
-  <programme start="20260309103500  +0000" stop="20260309121500  +0000" channel="SkyCinemaUno.it@Plus24">
+  <programme start="20260309104000  +0000" stop="20260309122500  +0000" channel="SkyCinemaUno.it@Plus24">
     <title lang="it">Insospettabili sospetti (2017)</title>
     <category lang="it">Film</category>
   </programme>
-  <programme start="20260309121500  +0000" stop="20260309142500  +0000" channel="SkyCinemaUno.it@Plus24">
+  <programme start="20260309122500  +0000" stop="20260309143500  +0000" channel="SkyCinemaUno.it@Plus24">
     <title lang="it">Bullet Train (2022)</title>
     <category lang="it">Film</category>
   </programme>
-  <programme start="20260309142500  +0000" stop="20260309144000  +0000" channel="SkyCinemaUno.it@Plus24">
+  <programme start="20260309143500  +0000" stop="20260309145000  +0000" channel="SkyCinemaUno.it@Plus24">
     <title lang="it">Intervista A Matilda De Angelis (Ep. 480)</title>
     <category lang="it">Rubrica</category>
   </programme>
-  <programme start="20260309144000  +0000" stop="20260309163000  +0000" channel="SkyCinemaUno.it@Plus24">
+  <programme start="20260309145000  +0000" stop="20260309164000  +0000" channel="SkyCinemaUno.it@Plus24">
     <title lang="it">Jack Ryan - L&apos;iniziazione (2014)</title>
     <category lang="it">Film</category>
   </programme>
-  <programme start="20260309163000  +0000" stop="20260309183000  +0000" channel="SkyCinemaUno.it@Plus24">
+  <programme start="20260309164000  +0000" stop="20260309183000  +0000" channel="SkyCinemaUno.it@Plus24">
     <title lang="it">L&apos;illusione perfetta - Now You See Me: Now You Don&apos;t (2025)</title>
     <category lang="it">Film</category>
   </programme>
@@ -52731,23 +52763,23 @@
     <title lang="it">Quasi orfano (2022)</title>
     <category lang="it">Film</category>
   </programme>
-  <programme start="20260309201500  +0000" stop="20260309224000  +0000" channel="SkyCinemaUno.it@Plus24">
+  <programme start="20260309201500  +0000" stop="20260309223000  +0000" channel="SkyCinemaUno.it@Plus24">
     <title lang="it">Angeli e demoni (2009)</title>
     <category lang="it">Film</category>
   </programme>
-  <programme start="20260309224000  +0000" stop="20260309233500  +0000" channel="SkyCinemaUno.it@Plus24">
+  <programme start="20260309223000  +0000" stop="20260309232500  +0000" channel="SkyCinemaUno.it@Plus24">
     <title lang="it">Avvocato Ligas (St. 1 - Ep. 1)</title>
     <category lang="it">Serie TV</category>
   </programme>
-  <programme start="20260309233500  +0000" stop="20260310004000  +0000" channel="SkyCinemaUno.it@Plus24">
+  <programme start="20260309232500  +0000" stop="20260310003000  +0000" channel="SkyCinemaUno.it@Plus24">
     <title lang="it">Avvocato Ligas (St. 1 - Ep. 2)</title>
     <category lang="it">Serie TV</category>
   </programme>
-  <programme start="20260310004000  +0000" stop="20260310022500  +0000" channel="SkyCinemaUno.it@Plus24">
+  <programme start="20260310003000  +0000" stop="20260310021500  +0000" channel="SkyCinemaUno.it@Plus24">
     <title lang="it">Modalità aereo (2019)</title>
     <category lang="it">Film</category>
   </programme>
-  <programme start="20260310022500  +0000" stop="20260310041500  +0000" channel="SkyCinemaUno.it@Plus24">
+  <programme start="20260310021500  +0000" stop="20260310041500  +0000" channel="SkyCinemaUno.it@Plus24">
     <title lang="it">Absolution - Storia criminale (2024)</title>
     <category lang="it">Film</category>
   </programme>
@@ -56779,23 +56811,23 @@
     <title lang="it">Golf: DP World Tour (St. 2026 - Ep. 42)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260307110000  +0000" stop="20260307153000  +0000" channel="SkySportAction.it">
+  <programme start="20260307110000  +0000" stop="20260307173000  +0000" channel="SkySportAction.it">
     <title lang="it">Golf: DP World Tour (St. 2026 - Ep. 43)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260307153000  +0000" stop="20260307154500  +0000" channel="SkySportAction.it">
+  <programme start="20260307173000  +0000" stop="20260307174500  +0000" channel="SkySportAction.it">
     <title lang="it">Golf: Highlights DP World Tour (St. 2026 - Ep. 8)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260307154500  +0000" stop="20260307160000  +0000" channel="SkySportAction.it">
+  <programme start="20260307174500  +0000" stop="20260307180000  +0000" channel="SkySportAction.it">
     <title lang="it">Golf: Highlights DP World Tour (St. 2026 - Ep. 6)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260307160000  +0000" stop="20260307163000  +0000" channel="SkySportAction.it">
+  <programme start="20260307180000  +0000" stop="20260307183000  +0000" channel="SkySportAction.it">
     <title lang="it">Golf: Challenge Tour (St. 2026 - Ep. 2)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260307163000  +0000" stop="20260307193000  +0000" channel="SkySportAction.it">
+  <programme start="20260307183000  +0000" stop="20260307193000  +0000" channel="SkySportAction.it">
     <title lang="it">Golf: DP World Tour (St. 2026 - Ep. 43)</title>
     <category lang="it">Sport</category>
   </programme>
@@ -56979,11 +57011,11 @@
     <title lang="it">The Boat Show (St. 2026 - Ep. 4)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260307135500  +0000" stop="20260307160500  +0000" channel="SkySportArena.it">
+  <programme start="20260307135500  +0000" stop="20260307161000  +0000" channel="SkySportArena.it">
     <title lang="it">Sei Nazioni (St. 2026 - Ep. 11)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260307160500  +0000" stop="20260307162500  +0000" channel="SkySportArena.it">
+  <programme start="20260307161000  +0000" stop="20260307162500  +0000" channel="SkySportArena.it">
     <title lang="it">Sport Dataroom (St. 2025 - Ep. 17)</title>
     <category lang="it">Sport</category>
   </programme>
@@ -57127,19 +57159,19 @@
     <title lang="it">Sport Dataroom (St. 2025 - Ep. 17)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260307115500  +0000" stop="20260307135500  +0000" channel="SkySportCalcio.it">
+  <programme start="20260307115500  +0000" stop="20260307141000  +0000" channel="SkySportCalcio.it">
     <title lang="it">Bundesliga 2 (St. 2025 - Ep. 51)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260307135500  +0000" stop="20260307142500  +0000" channel="SkySportCalcio.it">
+  <programme start="20260307141000  +0000" stop="20260307142500  +0000" channel="SkySportCalcio.it">
     <title lang="it">Premier League Remix (Ep. 77)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260307142500  +0000" stop="20260307162000  +0000" channel="SkySportCalcio.it">
+  <programme start="20260307142500  +0000" stop="20260307163500  +0000" channel="SkySportCalcio.it">
     <title lang="it">Bundesliga (St. 2025 - Ep. 139)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260307162000  +0000" stop="20260307182500  +0000" channel="SkySportCalcio.it">
+  <programme start="20260307163500  +0000" stop="20260307182500  +0000" channel="SkySportCalcio.it">
     <title lang="it">Serie C (St. 2025 - Ep. 320)</title>
     <category lang="it">Sport</category>
   </programme>
@@ -57451,11 +57483,11 @@
     <title lang="it">GP Australia: Qualifiche F1 (St. 2026 - Ep. 4)</title>
     <category lang="it">Altro</category>
   </programme>
-  <programme start="20260308001000  +0000" stop="20260308002500  +0000" channel="SkySportF1.it">
+  <programme start="20260308001000  +0000" stop="20260308002000  +0000" channel="SkySportF1.it">
     <title lang="it">Highlights F1</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260308002500  +0000" stop="20260308014500  +0000" channel="SkySportF1.it">
+  <programme start="20260308002000  +0000" stop="20260308014500  +0000" channel="SkySportF1.it">
     <title lang="it">Melbourne: Feature Race F3 (Diretta) (St. 2026 - Ep. 4)</title>
     <category lang="it">Altro</category>
   </programme>
@@ -57775,11 +57807,11 @@
     <title lang="it">UEFA Champions League: storia di un sogno</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260307132000  +0000" stop="20260307152500  +0000" channel="SkySportFootball.it">
+  <programme start="20260307132000  +0000" stop="20260307154000  +0000" channel="SkySportFootball.it">
     <title lang="it">Calcio Campionato Italiano Serie C - Ep. 313 - Calcio Serie C 31ga Girone A Giana Erminio/ L.R. Vicenza 07/03/2026 (St. 2025 - Ep. 313)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260307152500  +0000" stop="20260307154500  +0000" channel="SkySportFootball.it">
+  <programme start="20260307154000  +0000" stop="20260307154500  +0000" channel="SkySportFootball.it">
     <title lang="it">La giovane Italia (St. 2026 - Ep. 5)</title>
     <category lang="it">Sport</category>
   </programme>
@@ -58415,48 +58447,52 @@
     <title lang="it">Basket Room NBA Talk (St. 2025 - Ep. 19)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260307060000  +0000" stop="20260307080000  +0000" channel="superguidatv:sky-sport-nba/sky-sport/40">
+  <programme start="20260307060000  +0000" stop="20260307081500  +0000" channel="superguidatv:sky-sport-nba/sky-sport/40">
     <title lang="it">Eurolega (St. 2025 - Ep. 112)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260307080000  +0000" stop="20260307083000  +0000" channel="superguidatv:sky-sport-nba/sky-sport/40">
+  <programme start="20260307081500  +0000" stop="20260307084000  +0000" channel="superguidatv:sky-sport-nba/sky-sport/40">
     <title lang="it">NBA Action (St. 2025 - Ep. 20)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260307083000  +0000" stop="20260307093000  +0000" channel="superguidatv:sky-sport-nba/sky-sport/40">
+  <programme start="20260307084000  +0000" stop="20260307094000  +0000" channel="superguidatv:sky-sport-nba/sky-sport/40">
     <title lang="it">Final Eight Mixtape (Ep. 21)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260307093000  +0000" stop="20260307100000  +0000" channel="superguidatv:sky-sport-nba/sky-sport/40">
+  <programme start="20260307094000  +0000" stop="20260307101000  +0000" channel="superguidatv:sky-sport-nba/sky-sport/40">
     <title lang="it">Basket Room NBA Talk (St. 2025 - Ep. 19)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260307100000  +0000" stop="20260307113000  +0000" channel="superguidatv:sky-sport-nba/sky-sport/40">
+  <programme start="20260307101000  +0000" stop="20260307114000  +0000" channel="superguidatv:sky-sport-nba/sky-sport/40">
     <title lang="it">NBA (St. 2025 - Ep. 87)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260307113000  +0000" stop="20260307120000  +0000" channel="superguidatv:sky-sport-nba/sky-sport/40">
+  <programme start="20260307114000  +0000" stop="20260307121000  +0000" channel="superguidatv:sky-sport-nba/sky-sport/40">
     <title lang="it">Amadori Protein Talk (St. 2025 - Ep. 6)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260307120000  +0000" stop="20260307142000  +0000" channel="superguidatv:sky-sport-nba/sky-sport/40">
+  <programme start="20260307121000  +0000" stop="20260307142000  +0000" channel="superguidatv:sky-sport-nba/sky-sport/40">
     <title lang="it">Eurolega (St. 2025 - Ep. 112)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260307142000  +0000" stop="20260307153000  +0000" channel="superguidatv:sky-sport-nba/sky-sport/40">
+  <programme start="20260307142000  +0000" stop="20260307143500  +0000" channel="superguidatv:sky-sport-nba/sky-sport/40">
+    <title lang="it">Intervista A Cecilia Zandalasini (Ep. 22)</title>
+    <category lang="it">Sport</category>
+  </programme>
+  <programme start="20260307143500  +0000" stop="20260307153000  +0000" channel="superguidatv:sky-sport-nba/sky-sport/40">
     <title lang="it">Final Eight Mixtape (Ep. 21)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260307153000  +0000" stop="20260307154500  +0000" channel="superguidatv:sky-sport-nba/sky-sport/40">
-    <title lang="it">Intervista a Cecilia Zandalasini (Ep. 22)</title>
+  <programme start="20260307153000  +0000" stop="20260307160000  +0000" channel="superguidatv:sky-sport-nba/sky-sport/40">
+    <title lang="it">Amadori Protein Talk (St. 2025 - Ep. 6)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260307154500  +0000" stop="20260307173500  +0000" channel="superguidatv:sky-sport-nba/sky-sport/40">
+  <programme start="20260307160000  +0000" stop="20260307172500  +0000" channel="superguidatv:sky-sport-nba/sky-sport/40">
     <title lang="it">NBA (St. 2025 - Ep. 87)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260307173500  +0000" stop="20260307175500  +0000" channel="superguidatv:sky-sport-nba/sky-sport/40">
-    <title lang="it">Intervista a Cecilia Zandalasini (Ep. 22)</title>
+  <programme start="20260307172500  +0000" stop="20260307175500  +0000" channel="superguidatv:sky-sport-nba/sky-sport/40">
+    <title lang="it">Basket Room NBA Talk (St. 2025 - Ep. 19)</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260307175500  +0000" stop="20260307182500  +0000" channel="superguidatv:sky-sport-nba/sky-sport/40">
@@ -58467,39 +58503,39 @@
     <title lang="it">Lega Basket Serie A (St. 2025 - Ep. 41)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260307203000  +0000" stop="20260307223000  +0000" channel="superguidatv:sky-sport-nba/sky-sport/40">
+  <programme start="20260307203000  +0000" stop="20260307220000  +0000" channel="superguidatv:sky-sport-nba/sky-sport/40">
     <title lang="it">NBA (St. 2025 - Ep. 87)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260307223000  +0000" stop="20260307224500  +0000" channel="superguidatv:sky-sport-nba/sky-sport/40">
-    <title lang="it">Intervista a Cecilia Zandalasini (Ep. 22)</title>
+  <programme start="20260307220000  +0000" stop="20260307222000  +0000" channel="superguidatv:sky-sport-nba/sky-sport/40">
+    <title lang="it">Intervista A Cecilia Zandalasini (Ep. 22)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260307224500  +0000" stop="20260308004500  +0000" channel="superguidatv:sky-sport-nba/sky-sport/40">
+  <programme start="20260307222000  +0000" stop="20260308001500  +0000" channel="superguidatv:sky-sport-nba/sky-sport/40">
     <title lang="it">Lega Basket Serie A (St. 2025 - Ep. 41)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260308004500  +0000" stop="20260308011500  +0000" channel="superguidatv:sky-sport-nba/sky-sport/40">
+  <programme start="20260308001500  +0000" stop="20260308004500  +0000" channel="superguidatv:sky-sport-nba/sky-sport/40">
     <title lang="it">Basket Room NBA Talk (St. 2025 - Ep. 19)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260308011500  +0000" stop="20260308013000  +0000" channel="superguidatv:sky-sport-nba/sky-sport/40">
-    <title lang="it">Intervista a Cecilia Zandalasini (Ep. 22)</title>
+  <programme start="20260308004500  +0000" stop="20260308010000  +0000" channel="superguidatv:sky-sport-nba/sky-sport/40">
+    <title lang="it">Intervista A Cecilia Zandalasini (Ep. 22)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260308013000  +0000" stop="20260308033000  +0000" channel="superguidatv:sky-sport-nba/sky-sport/40">
+  <programme start="20260308010000  +0000" stop="20260308023500  +0000" channel="superguidatv:sky-sport-nba/sky-sport/40">
     <title lang="it">NBA (St. 2025 - Ep. 87)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260308033000  +0000" stop="20260308043000  +0000" channel="superguidatv:sky-sport-nba/sky-sport/40">
+  <programme start="20260308023500  +0000" stop="20260308033500  +0000" channel="superguidatv:sky-sport-nba/sky-sport/40">
     <title lang="it">Federico Buffa Talks (St. 1 - Ep. 33)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260308043000  +0000" stop="20260308043000  +0000" channel="superguidatv:sky-sport-nba/sky-sport/40">
+  <programme start="20260308033500  +0000" stop="20260308033500  +0000" channel="superguidatv:sky-sport-nba/sky-sport/40">
     <title lang="it">NBA Action (St. 2025 - Ep. 20)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260308043000  +0000" stop="20260308050000  +0000" channel="superguidatv:sky-sport-nba/sky-sport/40">
+  <programme start="20260308033500  +0000" stop="20260308050000  +0000" channel="superguidatv:sky-sport-nba/sky-sport/40">
     <title lang="it">NBA Action (St. 2025 - Ep. 20)</title>
     <category lang="it">Sport</category>
   </programme>
@@ -58859,11 +58895,11 @@
     <title lang="it">Sport Dataroom (St. 2025 - Ep. 17)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260307132500  +0000" stop="20260307153000  +0000" channel="SkySportUno.it">
+  <programme start="20260307132500  +0000" stop="20260307154000  +0000" channel="SkySportUno.it">
     <title lang="it">Serie C (St. 2025 - Ep. 314)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260307153000  +0000" stop="20260307160000  +0000" channel="SkySportUno.it">
+  <programme start="20260307154000  +0000" stop="20260307160000  +0000" channel="SkySportUno.it">
     <title lang="it">Premier League Remix (Ep. 77)</title>
     <category lang="it">Sport</category>
   </programme>
@@ -63479,21 +63515,17 @@
     <title lang="it">PILLOLE TENNIS TALK 2026 - Ep. 7 - Pillola Tennis Talk - Il successo di Darderi a Santiago (Ep. 7)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260307104500  +0000" stop="20260307123000  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
+  <programme start="20260307104500  +0000" stop="20260307123500  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
     <title lang="it">WTA 1000 Indian Wells 2026</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260307123000  +0000" stop="20260307124500  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
+  <programme start="20260307123500  +0000" stop="20260307154500  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
     <title lang="it">Stag. 2023 - Supertennis TG</title>
     <category lang="it">Notizie</category>
   </programme>
-  <programme start="20260307124500  +0000" stop="20260307140000  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
-    <title lang="it">WTA 1000 Indian Wells 2026 - Ep. 22 - Aryna Sabalenka vs Himeno Sakatsume WTA 1000 Indian Wells # 1 (Ep. 22)</title>
-    <category lang="it">Sport</category>
-  </programme>
-  <programme start="20260307140000  +0000" stop="20260307160000  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
-    <title lang="it">WTA 1000 Indian Wells 2026 - Ep. 26 - Coco Gauff vs Kamilla Rakhimova WTA 1000 Indian Wells # 1 (Ep. 26)</title>
-    <category lang="it">Sport</category>
+  <programme start="20260307154500  +0000" stop="20260307160000  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
+    <title lang="it">WTA 1000 Indian Wells 2026 (Ep. 26)</title>
+    <category lang="it">Altro</category>
   </programme>
   <programme start="20260307160000  +0000" stop="20260307161500  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
     <title lang="it">Colpo da campione - Stagione 2026 - Ep. 4 - Colpo da campione Tennis - Gli spostamenti di Sinner (Ep. 4)</title>
@@ -63703,21 +63735,17 @@
     <title lang="it">PILLOLE TENNIS TALK 2026 - Ep. 7 - Pillola Tennis Talk - Il successo di Darderi a Santiago (Ep. 7)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260307104500  +0000" stop="20260307123000  +0000" channel="SuperTennis.it">
+  <programme start="20260307104500  +0000" stop="20260307123500  +0000" channel="SuperTennis.it">
     <title lang="it">WTA 1000 Indian Wells 2026</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260307123000  +0000" stop="20260307124500  +0000" channel="SuperTennis.it">
+  <programme start="20260307123500  +0000" stop="20260307154500  +0000" channel="SuperTennis.it">
     <title lang="it">Stag. 2023 - Supertennis TG</title>
     <category lang="it">Notizie</category>
   </programme>
-  <programme start="20260307124500  +0000" stop="20260307140000  +0000" channel="SuperTennis.it">
-    <title lang="it">WTA 1000 Indian Wells 2026 - Ep. 22 - Aryna Sabalenka vs Himeno Sakatsume WTA 1000 Indian Wells # 1 (Ep. 22)</title>
-    <category lang="it">Sport</category>
-  </programme>
-  <programme start="20260307140000  +0000" stop="20260307160000  +0000" channel="SuperTennis.it">
-    <title lang="it">WTA 1000 Indian Wells 2026 - Ep. 26 - Coco Gauff vs Kamilla Rakhimova WTA 1000 Indian Wells # 1 (Ep. 26)</title>
-    <category lang="it">Sport</category>
+  <programme start="20260307154500  +0000" stop="20260307160000  +0000" channel="SuperTennis.it">
+    <title lang="it">WTA 1000 Indian Wells 2026 (Ep. 26)</title>
+    <category lang="it">Altro</category>
   </programme>
   <programme start="20260307160000  +0000" stop="20260307161500  +0000" channel="SuperTennis.it">
     <title lang="it">Colpo da campione - Stagione 2026 - Ep. 4 - Colpo da campione Tennis - Gli spostamenti di Sinner (Ep. 4)</title>
