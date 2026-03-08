@@ -14740,19 +14740,7 @@
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260308140000  +0000" stop="20260308140000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Zona Serie A Enilive | BOL-VER, FIO-PAR</title>
-    <category lang="it">Sport</category>
-  </programme>
-  <programme start="20260308140000  +0000" stop="20260308140000  +0000" channel="superguidatv:dazn/dazn/459">
     <title lang="it">Bologna - Hellas Verona</title>
-    <category lang="it">Sport</category>
-  </programme>
-  <programme start="20260308140000  +0000" stop="20260308140000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Frosinone - Sampdoria</title>
-    <category lang="it">Sport</category>
-  </programme>
-  <programme start="20260308140000  +0000" stop="20260308140000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Mantova - Juve Stabia</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260308140000  +0000" stop="20260308140000  +0000" channel="superguidatv:dazn/dazn/459">
@@ -14760,11 +14748,23 @@
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260308140000  +0000" stop="20260308140000  +0000" channel="superguidatv:dazn/dazn/459">
+    <title lang="it">Frosinone - Sampdoria</title>
+    <category lang="it">Sport</category>
+  </programme>
+  <programme start="20260308140000  +0000" stop="20260308140000  +0000" channel="superguidatv:dazn/dazn/459">
+    <title lang="it">Zona Serie BKT</title>
+    <category lang="it">Sport</category>
+  </programme>
+  <programme start="20260308140000  +0000" stop="20260308140000  +0000" channel="superguidatv:dazn/dazn/459">
+    <title lang="it">Zona Serie A Enilive | BOL-VER, FIO-PAR</title>
+    <category lang="it">Sport</category>
+  </programme>
+  <programme start="20260308140000  +0000" stop="20260308140000  +0000" channel="superguidatv:dazn/dazn/459">
     <title lang="it">Fiorentina - Parma</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260308140000  +0000" stop="20260308142000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Zona Serie BKT</title>
+    <title lang="it">Mantova - Juve Stabia</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260308142000  +0000" stop="20260308143000  +0000" channel="superguidatv:dazn/dazn/459">
@@ -14776,11 +14776,11 @@
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260308150000  +0000" stop="20260308150000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Bristol Flyers - Newcastle Eagles</title>
+    <title lang="it">Essence Hotels Fano - Alva Inox 2 Emme Service Porto Viro</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260308150000  +0000" stop="20260308151500  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Essence Hotels Fano - Alva Inox 2 Emme Service Porto Viro</title>
+    <title lang="it">Bristol Flyers - Newcastle Eagles</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260308151500  +0000" stop="20260308154500  +0000" channel="superguidatv:dazn/dazn/459">
@@ -14792,31 +14792,27 @@
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260308160000  +0000" stop="20260308160000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Big South Tournament Final: Winthrop vs. High Point</title>
-    <category lang="it">Sport</category>
-  </programme>
-  <programme start="20260308160000  +0000" stop="20260308160000  +0000" channel="superguidatv:dazn/dazn/459">
     <title lang="it">Caledonia Gladiators - Cheshire Phoenix</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260308160000  +0000" stop="20260308160000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Penn State @ Rutgers</title>
+    <title lang="it">Omag-Mt San Giovanni In M.No - Cuneo Granda Volley</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260308160000  +0000" stop="20260308161100  +0000" channel="superguidatv:dazn/dazn/459">
+  <programme start="20260308160000  +0000" stop="20260308160000  +0000" channel="superguidatv:dazn/dazn/459">
+    <title lang="it">Big South Tournament Final: Winthrop vs. High Point</title>
+    <category lang="it">Sport</category>
+  </programme>
+  <programme start="20260308160000  +0000" stop="20260308160000  +0000" channel="superguidatv:dazn/dazn/459">
     <title lang="it">Itas Trentino - Cucine Lube Civitanova</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260308161100  +0000" stop="20260308161500  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Genoa - Roma</title>
+  <programme start="20260308160000  +0000" stop="20260308161500  +0000" channel="superguidatv:dazn/dazn/459">
+    <title lang="it">Penn State @ Rutgers</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260308161500  +0000" stop="20260308163000  +0000" channel="superguidatv:dazn/dazn/459">
     <title lang="it">Carrarese - Palermo</title>
-    <category lang="it">Sport</category>
-  </programme>
-  <programme start="20260308163000  +0000" stop="20260308163000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Arnold Palmer Invitational presented by Mastercard | Giorno 4</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260308163000  +0000" stop="20260308163000  +0000" channel="superguidatv:dazn/dazn/459">
@@ -14825,6 +14821,10 @@
   </programme>
   <programme start="20260308163000  +0000" stop="20260308163000  +0000" channel="superguidatv:dazn/dazn/459">
     <title lang="it">Tinet Prata di Pordenone - Sviluppo Sud Catania</title>
+    <category lang="it">Sport</category>
+  </programme>
+  <programme start="20260308163000  +0000" stop="20260308163000  +0000" channel="superguidatv:dazn/dazn/459">
+    <title lang="it">Arnold Palmer Invitational presented by Mastercard | Giorno 4</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260308163000  +0000" stop="20260308170000  +0000" channel="superguidatv:dazn/dazn/459">
@@ -14836,11 +14836,19 @@
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260308170000  +0000" stop="20260308170000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Banca Macerata Fisiomed MC - Prisma La Cascina Taranto</title>
+    <title lang="it">Genoa - Roma</title>
+    <category lang="it">Sport</category>
+  </programme>
+  <programme start="20260308170000  +0000" stop="20260308170000  +0000" channel="superguidatv:dazn/dazn/459">
+    <title lang="it">Rana Verona - Allianz Milano</title>
+    <category lang="it">Sport</category>
+  </programme>
+  <programme start="20260308170000  +0000" stop="20260308170000  +0000" channel="superguidatv:dazn/dazn/459">
+    <title lang="it">Rinascita Lagonegro - Abba Pineto</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260308170000  +0000" stop="20260308173000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Rinascita Lagonegro - Abba Pineto</title>
+    <title lang="it">Banca Macerata Fisiomed MC - Prisma La Cascina Taranto</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260308173000  +0000" stop="20260308180000  +0000" channel="superguidatv:dazn/dazn/459">
@@ -14852,15 +14860,15 @@
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260308180000  +0000" stop="20260308180000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Dreamland Gran Canaria - Real Madrid</title>
-    <category lang="it">Sport</category>
-  </programme>
-  <programme start="20260308180000  +0000" stop="20260308180000  +0000" channel="superguidatv:dazn/dazn/459">
     <title lang="it">Atlantic Sun Tournament Final: Queens vs. Central Arkansas</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260308180000  +0000" stop="20260308181500  +0000" channel="superguidatv:dazn/dazn/459">
+  <programme start="20260308180000  +0000" stop="20260308180000  +0000" channel="superguidatv:dazn/dazn/459">
     <title lang="it">Wild vs. Avalanche</title>
+    <category lang="it">Sport</category>
+  </programme>
+  <programme start="20260308180000  +0000" stop="20260308181500  +0000" channel="superguidatv:dazn/dazn/459">
+    <title lang="it">Dreamland Gran Canaria - Real Madrid</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260308181500  +0000" stop="20260308182600  +0000" channel="superguidatv:dazn/dazn/459">
@@ -14888,11 +14896,11 @@
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260308203000  +0000" stop="20260308203000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">After Hours | Ep.12</title>
+    <title lang="it">Michigan State @ Michigan</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260308203000  +0000" stop="20260308203000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Michigan State @ Michigan</title>
+    <title lang="it">After Hours | Ep.12</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260308203000  +0000" stop="20260308210000  +0000" channel="superguidatv:dazn/dazn/459">
@@ -34580,8 +34588,8 @@
     <category lang="it">Notizie</category>
   </programme>
   <programme start="20260308194000  +0000" stop="20260308204500  +0000" channel="RSILa1.ch">
-    <title lang="it">Storie</title>
-    <category lang="it">Documentario</category>
+    <title lang="it">Storie - Preferibilmente silenziose</title>
+    <category lang="it">Altro</category>
   </programme>
   <programme start="20260308204500  +0000" stop="20260308213500  +0000" channel="RSILa1.ch">
     <title lang="it">La vita sull&apos;alpe - 3. Mini maiali in preda alla paura e pensieri di rinuncia</title>
@@ -37349,7 +37357,7 @@
   </programme>
   <programme start="20260309125000  +0000" stop="20260309133500  +0000" channel="MTV.it">
     <title lang="it">Spegneteli (St. 16 - Ep. 6)</title>
-    <category lang="it">Altro</category>
+    <category lang="it">Mondo e Tendenze</category>
   </programme>
   <programme start="20260309133500  +0000" stop="20260309142000  +0000" channel="MTV.it">
     <title lang="it">Caught In The Act (St. 3 - Ep. 2)</title>
@@ -42860,7 +42868,7 @@
     <category lang="it">Attualità</category>
   </programme>
   <programme start="20260309195000  +0000" stop="20260309202000  +0000" channel="Rai3.it@HD">
-    <title lang="it">Un posto al sole (St. 30)</title>
+    <title lang="it">Un posto al sole (St. 30 - Ep. 6901)</title>
     <category lang="it">Soap Opera</category>
   </programme>
   <programme start="20260309202000  +0000" stop="20260309223000  +0000" channel="Rai3.it@HD">
@@ -43020,7 +43028,7 @@
     <category lang="it">Attualità</category>
   </programme>
   <programme start="20260310195000  +0000" stop="20260310202000  +0000" channel="Rai3.it@HD">
-    <title lang="it">Un posto al sole (St. 30)</title>
+    <title lang="it">Un posto al sole (St. 30 - Ep. 6902)</title>
     <category lang="it">Soap Opera</category>
   </programme>
   <programme start="20260310202000  +0000" stop="20260310223000  +0000" channel="Rai3.it@HD">
@@ -57031,15 +57039,15 @@
     <title lang="it">Sport Dataroom (St. 2025 - Ep. 17)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260309132000  +0000" stop="20260309170000  +0000" channel="SkySportArena.it">
+  <programme start="20260309132000  +0000" stop="20260309174000  +0000" channel="SkySportArena.it">
     <title lang="it">Coppa del Mondo T20 maschile di cricket (St. 2026 - Ep. 7)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260309170000  +0000" stop="20260309173000  +0000" channel="SkySportArena.it">
-    <title lang="it">The Boat Show (St. 2026 - Ep. 4)</title>
+  <programme start="20260309174000  +0000" stop="20260309175000  +0000" channel="SkySportArena.it">
+    <title lang="it">Intervista A Cecilia Zandalasini (Ep. 22)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260309173000  +0000" stop="20260309180000  +0000" channel="SkySportArena.it">
+  <programme start="20260309175000  +0000" stop="20260309180000  +0000" channel="SkySportArena.it">
     <title lang="it">This is padel (St. 2026 - Ep. 1)</title>
     <category lang="it">Sport</category>
   </programme>
@@ -57191,11 +57199,11 @@
     <title lang="it">Sky Sunday Football Prepartita</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260308165500  +0000" stop="20260308190000  +0000" channel="SkySportCalcio.it">
+  <programme start="20260308165500  +0000" stop="20260308191000  +0000" channel="SkySportCalcio.it">
     <title lang="it">Genoa - Roma (St. 2025 - Ep. 278)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260308190000  +0000" stop="20260308192500  +0000" channel="SkySportCalcio.it">
+  <programme start="20260308191000  +0000" stop="20260308192500  +0000" channel="SkySportCalcio.it">
     <title lang="it">Anteprima Sky Calcio Club</title>
     <category lang="it">Sport</category>
   </programme>
@@ -58571,8 +58579,12 @@
     <title lang="it">Lega Basket Serie A (St. 2025 - Ep. 41)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260308170000  +0000" stop="20260308200000  +0000" channel="superguidatv:sky-sport-nba/sky-sport/40">
+  <programme start="20260308170000  +0000" stop="20260308193500  +0000" channel="superguidatv:sky-sport-nba/sky-sport/40">
     <title lang="it">NBA (St. 2025 - Ep. 79)</title>
+    <category lang="it">Sport</category>
+  </programme>
+  <programme start="20260308193500  +0000" stop="20260308200000  +0000" channel="superguidatv:sky-sport-nba/sky-sport/40">
+    <title lang="it">Amadori Protein Talk (St. 2025 - Ep. 6)</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260308200000  +0000" stop="20260308201500  +0000" channel="superguidatv:sky-sport-nba/sky-sport/40">
@@ -58584,7 +58596,7 @@
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260308204500  +0000" stop="20260308210000  +0000" channel="superguidatv:sky-sport-nba/sky-sport/40">
-    <title lang="it">Eurolega Mixtape (St. 2025 - Ep. 18)</title>
+    <title lang="it">Intervista A Cecilia Zandalasini (Ep. 22)</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260308210000  +0000" stop="20260308230000  +0000" channel="superguidatv:sky-sport-nba/sky-sport/40">
@@ -58975,15 +58987,15 @@
     <title lang="it">L&apos;uomo della domenica (St. 3 - Ep. 6)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260308163000  +0000" stop="20260308183000  +0000" channel="SkySportUno.it">
+  <programme start="20260308163000  +0000" stop="20260308183500  +0000" channel="SkySportUno.it">
     <title lang="it">Serie C (St. 2025 - Ep. 319)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260308183000  +0000" stop="20260308192500  +0000" channel="SkySportUno.it">
+  <programme start="20260308183500  +0000" stop="20260308193000  +0000" channel="SkySportUno.it">
     <title lang="it">L&apos;uomo della domenica (St. 3 - Ep. 6)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260308192500  +0000" stop="20260308194000  +0000" channel="SkySportUno.it">
+  <programme start="20260308193000  +0000" stop="20260308194000  +0000" channel="SkySportUno.it">
     <title lang="it">Programmazione non disponibile (Ep. 7)</title>
     <category lang="it">Sport</category>
   </programme>
@@ -63723,31 +63735,47 @@
     <title lang="it">WTA 1000 Indian Wells 2026 - Ep. 37 - Jessica Pegula vs Donna Vekic WTA 1000 Indian Wells # 1 (Ep. 37)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260308145000  +0000" stop="20260308155000  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
+  <programme start="20260308145000  +0000" stop="20260308151000  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
     <title lang="it">Young Talent 2026 - Ep. 4 - Young Talent - Sofia Ferraris (Ep. 4)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260308155000  +0000" stop="20260308174500  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
-    <title lang="it">WTA 1000 Indian Wells 2026 (Ep. 40)</title>
-    <category lang="it">Altro</category>
+  <programme start="20260308151000  +0000" stop="20260308174500  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
+    <title lang="it">WTA 1000 Indian Wells 2026 - Ep. 40 - Laura Siegemund vs Elina Svitolina WTA 1000 Indian Wells # 1 (Ep. 40)</title>
+    <category lang="it">Sport</category>
   </programme>
-  <programme start="20260308174500  +0000" stop="20260308180000  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
+  <programme start="20260308174500  +0000" stop="20260308195000  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
     <title lang="it">Stag. 2023 - Supertennis TG</title>
     <category lang="it">Notizie</category>
   </programme>
-  <programme start="20260308180000  +0000" stop="20260308194500  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
+  <programme start="20260308195000  +0000" stop="20260308201000  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
     <title lang="it">LIVE WTA 1000 Indian Wells</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260308194500  +0000" stop="20260308200000  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
+  <programme start="20260308201000  +0000" stop="20260308202500  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
+    <title lang="it">LIVE WTA 1000 Indian Wells</title>
+    <category lang="it">Sport</category>
+  </programme>
+  <programme start="20260308202500  +0000" stop="20260308204000  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
     <title lang="it">Race to Foro 2026 - Ep. 2 - RACE TO FORO PUNTATA 2 DEL 4 MARZO 2026 (Ep. 2)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260308200000  +0000" stop="20260308215000  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
+  <programme start="20260308204000  +0000" stop="20260308205500  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
     <title lang="it">LIVE WTA 1000 Indian Wells</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260308215000  +0000" stop="20260308230000  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
+  <programme start="20260308205500  +0000" stop="20260308211000  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
+    <title lang="it">LIVE WTA 1000 Indian Wells</title>
+    <category lang="it">Sport</category>
+  </programme>
+  <programme start="20260308211000  +0000" stop="20260308212500  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
+    <title lang="it">LIVE WTA 1000 Indian Wells</title>
+    <category lang="it">Sport</category>
+  </programme>
+  <programme start="20260308212500  +0000" stop="20260308214000  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
+    <title lang="it">LIVE WTA 1000 Indian Wells</title>
+    <category lang="it">Sport</category>
+  </programme>
+  <programme start="20260308214000  +0000" stop="20260308230000  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
     <title lang="it">LIVE WTA 1000 Indian Wells</title>
     <category lang="it">Sport</category>
   </programme>
@@ -63951,31 +63979,47 @@
     <title lang="it">WTA 1000 Indian Wells 2026 - Ep. 37 - Jessica Pegula vs Donna Vekic WTA 1000 Indian Wells # 1 (Ep. 37)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260308145000  +0000" stop="20260308155000  +0000" channel="SuperTennis.it">
+  <programme start="20260308145000  +0000" stop="20260308151000  +0000" channel="SuperTennis.it">
     <title lang="it">Young Talent 2026 - Ep. 4 - Young Talent - Sofia Ferraris (Ep. 4)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260308155000  +0000" stop="20260308174500  +0000" channel="SuperTennis.it">
-    <title lang="it">WTA 1000 Indian Wells 2026 (Ep. 40)</title>
-    <category lang="it">Altro</category>
+  <programme start="20260308151000  +0000" stop="20260308174500  +0000" channel="SuperTennis.it">
+    <title lang="it">WTA 1000 Indian Wells 2026 - Ep. 40 - Laura Siegemund vs Elina Svitolina WTA 1000 Indian Wells # 1 (Ep. 40)</title>
+    <category lang="it">Sport</category>
   </programme>
-  <programme start="20260308174500  +0000" stop="20260308180000  +0000" channel="SuperTennis.it">
+  <programme start="20260308174500  +0000" stop="20260308195000  +0000" channel="SuperTennis.it">
     <title lang="it">Stag. 2023 - Supertennis TG</title>
     <category lang="it">Notizie</category>
   </programme>
-  <programme start="20260308180000  +0000" stop="20260308194500  +0000" channel="SuperTennis.it">
+  <programme start="20260308195000  +0000" stop="20260308201000  +0000" channel="SuperTennis.it">
     <title lang="it">LIVE WTA 1000 Indian Wells</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260308194500  +0000" stop="20260308200000  +0000" channel="SuperTennis.it">
+  <programme start="20260308201000  +0000" stop="20260308202500  +0000" channel="SuperTennis.it">
+    <title lang="it">LIVE WTA 1000 Indian Wells</title>
+    <category lang="it">Sport</category>
+  </programme>
+  <programme start="20260308202500  +0000" stop="20260308204000  +0000" channel="SuperTennis.it">
     <title lang="it">Race to Foro 2026 - Ep. 2 - RACE TO FORO PUNTATA 2 DEL 4 MARZO 2026 (Ep. 2)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260308200000  +0000" stop="20260308215000  +0000" channel="SuperTennis.it">
+  <programme start="20260308204000  +0000" stop="20260308205500  +0000" channel="SuperTennis.it">
     <title lang="it">LIVE WTA 1000 Indian Wells</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260308215000  +0000" stop="20260308230000  +0000" channel="SuperTennis.it">
+  <programme start="20260308205500  +0000" stop="20260308211000  +0000" channel="SuperTennis.it">
+    <title lang="it">LIVE WTA 1000 Indian Wells</title>
+    <category lang="it">Sport</category>
+  </programme>
+  <programme start="20260308211000  +0000" stop="20260308212500  +0000" channel="SuperTennis.it">
+    <title lang="it">LIVE WTA 1000 Indian Wells</title>
+    <category lang="it">Sport</category>
+  </programme>
+  <programme start="20260308212500  +0000" stop="20260308214000  +0000" channel="SuperTennis.it">
+    <title lang="it">LIVE WTA 1000 Indian Wells</title>
+    <category lang="it">Sport</category>
+  </programme>
+  <programme start="20260308214000  +0000" stop="20260308230000  +0000" channel="SuperTennis.it">
     <title lang="it">LIVE WTA 1000 Indian Wells</title>
     <category lang="it">Sport</category>
   </programme>
