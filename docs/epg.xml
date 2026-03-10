@@ -11089,7 +11089,7 @@
   </programme>
   <programme start="20260310165000  +0000" stop="20260310165500  +0000" channel="Cielo.it">
     <title lang="it">Celebrity Chef - Anteprima</title>
-    <category lang="it">Altro</category>
+    <category lang="it">LifeStyle</category>
   </programme>
   <programme start="20260310165500  +0000" stop="20260310181000  +0000" channel="Cielo.it">
     <title lang="it">Alessandro Borghese - Celebrity Chef (St. 4 - Ep. 14)</title>
@@ -11117,7 +11117,7 @@
   </programme>
   <programme start="20260310223000  +0000" stop="20260310233000  +0000" channel="Cielo.it">
     <title lang="it">Sky Sport 24 Night (Diretta)</title>
-    <category lang="it">Altro</category>
+    <category lang="it">Sport</category>
   </programme>
   <programme start="20260310233000  +0000" stop="20260311011500  +0000" channel="Cielo.it">
     <title lang="it">Beyond the Law - L&apos;infiltrato (2019)</title>
@@ -11376,8 +11376,8 @@
     <category lang="it">Film</category>
   </programme>
   <programme start="20260313024500  +0000" stop="20260313043500  +0000" channel="Cielo.it">
-    <title lang="it">Lightning Strikes</title>
-    <category lang="it">Altro</category>
+    <title lang="it">Lightning Strikes (2009)</title>
+    <category lang="it">Film</category>
   </programme>
   <programme start="20260313043500  +0000" stop="20260313050000  +0000" channel="Cielo.it">
     <title lang="it">Affari di famiglia (St. 6 - Ep. 24)</title>
@@ -20425,7 +20425,7 @@
   </programme>
   <programme start="20260312165300  +0000" stop="20260312180500  +0000" channel="Focus.it">
     <title lang="it">Untamed Vietnam (St. 1 - Ep. 1)</title>
-    <category lang="it">Altro</category>
+    <category lang="it">Documentario</category>
   </programme>
   <programme start="20260312180500  +0000" stop="20260312192900  +0000" channel="Focus.it">
     <title lang="it">Untamed Vietnam (St. 1 - Ep. 2)</title>
@@ -28140,7 +28140,7 @@
     <category lang="it">Serie TV</category>
   </programme>
   <programme start="20260311073000  +0000" stop="20260311093000  +0000" channel="Giallo.it">
-    <title lang="it">L&apos;ispettore Barnaby</title>
+    <title lang="it">L&apos;ispettore Barnaby (St. 8 - Ep. 6)</title>
     <category lang="it">Serie TV</category>
   </programme>
   <programme start="20260311093000  +0000" stop="20260311113000  +0000" channel="Giallo.it">
@@ -28160,7 +28160,7 @@
     <category lang="it">Serie TV</category>
   </programme>
   <programme start="20260311175000  +0000" stop="20260311190000  +0000" channel="Giallo.it">
-    <title lang="it">Cherif</title>
+    <title lang="it">Cherif (St. 1 - Ep. 5)</title>
     <category lang="it">Serie TV</category>
   </programme>
   <programme start="20260311190000  +0000" stop="20260311201000  +0000" channel="Giallo.it">
@@ -28168,7 +28168,7 @@
     <category lang="it">Serie TV</category>
   </programme>
   <programme start="20260311201000  +0000" stop="20260311221000  +0000" channel="Giallo.it">
-    <title lang="it">L&apos;ispettore Barnaby -Prato di morte</title>
+    <title lang="it">L&apos;ispettore Barnaby (St. 4 - Ep. 1)</title>
     <category lang="it">Serie TV</category>
   </programme>
   <programme start="20260311221000  +0000" stop="20260312001000  +0000" channel="Giallo.it">
@@ -28360,7 +28360,7 @@
     <category lang="it">Serie TV</category>
   </programme>
   <programme start="20260311073000  +0000" stop="20260311093000  +0000" channel="superguidatv:giallo/sky-intrattenimento/244">
-    <title lang="it">L&apos;ispettore Barnaby</title>
+    <title lang="it">L&apos;ispettore Barnaby (St. 8 - Ep. 6)</title>
     <category lang="it">Serie TV</category>
   </programme>
   <programme start="20260311093000  +0000" stop="20260311113000  +0000" channel="superguidatv:giallo/sky-intrattenimento/244">
@@ -28380,7 +28380,7 @@
     <category lang="it">Serie TV</category>
   </programme>
   <programme start="20260311175000  +0000" stop="20260311190000  +0000" channel="superguidatv:giallo/sky-intrattenimento/244">
-    <title lang="it">Cherif</title>
+    <title lang="it">Cherif (St. 1 - Ep. 5)</title>
     <category lang="it">Serie TV</category>
   </programme>
   <programme start="20260311190000  +0000" stop="20260311201000  +0000" channel="superguidatv:giallo/sky-intrattenimento/244">
@@ -28388,7 +28388,7 @@
     <category lang="it">Serie TV</category>
   </programme>
   <programme start="20260311201000  +0000" stop="20260311221000  +0000" channel="superguidatv:giallo/sky-intrattenimento/244">
-    <title lang="it">L&apos;ispettore Barnaby -Prato di morte</title>
+    <title lang="it">L&apos;ispettore Barnaby (St. 4 - Ep. 1)</title>
     <category lang="it">Serie TV</category>
   </programme>
   <programme start="20260311221000  +0000" stop="20260312001000  +0000" channel="superguidatv:giallo/sky-intrattenimento/244">
@@ -30976,8 +30976,8 @@
     <category lang="it">Film</category>
   </programme>
   <programme start="20260311215300  +0000" stop="20260311234000  +0000" channel="Italia2.it">
-    <title lang="it">Cattivi vicini 2</title>
-    <category lang="it">Altro</category>
+    <title lang="it">Cattivi vicini 2 (2016)</title>
+    <category lang="it">Film</category>
   </programme>
   <programme start="20260311234000  +0000" stop="20260312000900  +0000" channel="Italia2.it">
     <title lang="it">What&apos;s my destiny Dragon Ball (St. 1 - Ep. 96)</title>
@@ -31552,8 +31552,8 @@
     <category lang="it">Film</category>
   </programme>
   <programme start="20260311215300  +0000" stop="20260311234000  +0000" channel="superguidatv:italia-2/sky-intrattenimento/191">
-    <title lang="it">Cattivi vicini 2</title>
-    <category lang="it">Altro</category>
+    <title lang="it">Cattivi vicini 2 (2016)</title>
+    <category lang="it">Film</category>
   </programme>
   <programme start="20260311234000  +0000" stop="20260312000900  +0000" channel="superguidatv:italia-2/sky-intrattenimento/191">
     <title lang="it">What&apos;s my destiny Dragon Ball (St. 1 - Ep. 96)</title>
@@ -34353,7 +34353,7 @@
   </programme>
   <programme start="20260310084000  +0000" stop="20260310093500  +0000" channel="RSILa1.ch">
     <title lang="it">I popoli autoctoni - Popoli autoctoni - Siberia</title>
-    <category lang="it">Altro</category>
+    <category lang="it">Documentario</category>
   </programme>
   <programme start="20260310093500  +0000" stop="20260310102500  +0000" channel="RSILa1.ch">
     <title lang="it">Grandi progetti (St. 11 - Ep. 4)</title>
@@ -34809,7 +34809,7 @@
   </programme>
   <programme start="20260310073000  +0000" stop="20260310080000  +0000" channel="RSILa2.ch">
     <title lang="it">Modem - Riflettori su Israele</title>
-    <category lang="it">Altro</category>
+    <category lang="it">Attualità</category>
   </programme>
   <programme start="20260310080000  +0000" stop="20260310081000  +0000" channel="RSILa2.ch">
     <title lang="it">Radiogiornale</title>
@@ -34817,7 +34817,7 @@
   </programme>
   <programme start="20260310081000  +0000" stop="20260310090000  +0000" channel="RSILa2.ch">
     <title lang="it">Casa Svizzera - Da Seattle alla Vallemaggia: tra pioggia e alpeggi</title>
-    <category lang="it">Altro</category>
+    <category lang="it">Documentario</category>
   </programme>
   <programme start="20260310090000  +0000" stop="20260310104500  +0000" channel="RSILa2.ch">
     <title lang="it">Millevoci in TV</title>
@@ -36989,7 +36989,7 @@
   </programme>
   <programme start="20260310110500  +0000" stop="20260310115500  +0000" channel="MTV.it">
     <title lang="it">Il gruppo prescelto (St. 16 - Ep. 7)</title>
-    <category lang="it">Altro</category>
+    <category lang="it">Mondo e Tendenze</category>
   </programme>
   <programme start="20260310115500  +0000" stop="20260310124000  +0000" channel="MTV.it">
     <title lang="it">Catfish: False Identita&apos; (St. 8 - Ep. 96)</title>
@@ -36997,7 +36997,7 @@
   </programme>
   <programme start="20260310124000  +0000" stop="20260310132500  +0000" channel="MTV.it">
     <title lang="it">Ho sentito delle voci… (St. 16 - Ep. 8)</title>
-    <category lang="it">Altro</category>
+    <category lang="it">Mondo e Tendenze</category>
   </programme>
   <programme start="20260310132500  +0000" stop="20260310141500  +0000" channel="MTV.it">
     <title lang="it">Caught In The Act (St. 3 - Ep. 4)</title>
@@ -43288,12 +43288,12 @@
     <category lang="it">Documentario</category>
   </programme>
   <programme start="20260312080100  +0000" stop="20260312085400  +0000" channel="Rai5.it">
-    <title lang="it">I segreti delle rocce</title>
-    <category lang="it">Serie TV</category>
+    <title lang="it">I segreti delle rocce (St. 1 - Ep. 3)</title>
+    <category lang="it">Documentario</category>
   </programme>
   <programme start="20260312085400  +0000" stop="20260312094500  +0000" channel="Rai5.it">
-    <title lang="it">Le meraviglie della Francia</title>
-    <category lang="it">Serie TV</category>
+    <title lang="it">Le meraviglie della Francia (St. 1 - Ep. 1)</title>
+    <category lang="it">Documentario</category>
   </programme>
   <programme start="20260312094500  +0000" stop="20260312094900  +0000" channel="Rai5.it">
     <title lang="it">Appuntamento al cinema</title>
@@ -49396,8 +49396,8 @@
     <category lang="it">Rubrica</category>
   </programme>
   <programme start="20260311153900  +0000" stop="20260311175800  +0000" channel="Rete4.it">
-    <title lang="it">Giugno: sbarcheremo in Normandia</title>
-    <category lang="it">Altro</category>
+    <title lang="it">Giugno &apos;44 - Sbarcheremo in Normandia (1968)</title>
+    <category lang="it">Film</category>
   </programme>
   <programme start="20260311175800  +0000" stop="20260311183200  +0000" channel="Rete4.it">
     <title lang="it">Tg4</title>
@@ -50553,11 +50553,11 @@
   </programme>
   <programme start="20260311135500  +0000" stop="20260311145000  +0000" channel="SkyAtlantic.it">
     <title lang="it">Quantico (St. 1 - Ep. 5)</title>
-    <category lang="it">Altro</category>
+    <category lang="it">Serie TV</category>
   </programme>
   <programme start="20260311145000  +0000" stop="20260311154000  +0000" channel="SkyAtlantic.it">
     <title lang="it">Quantico (St. 1 - Ep. 6)</title>
-    <category lang="it">Altro</category>
+    <category lang="it">Serie TV</category>
   </programme>
   <programme start="20260311154000  +0000" stop="20260311163500  +0000" channel="SkyAtlantic.it">
     <title lang="it">The Walking Dead (St. 5 - Ep. 10)</title>
@@ -50840,8 +50840,8 @@
     <category lang="it">Film</category>
   </programme>
   <programme start="20260312033500  +0000" stop="20260312035000  +0000" channel="SkyCinemaAction.it">
-    <title lang="it">Questo o quello - Speciale</title>
-    <category lang="it">Film</category>
+    <title lang="it">Questo o quello - Speciale (St. 1 - Ep. 237)</title>
+    <category lang="it">Rubrica</category>
   </programme>
   <programme start="20260312035000  +0000" stop="20260312035000  +0000" channel="SkyCinemaAction.it">
     <title lang="it">The Gunman (2015)</title>
@@ -51168,7 +51168,7 @@
     <category lang="it">Film</category>
   </programme>
   <programme start="20260311070500  +0000" stop="20260311085500  +0000" channel="SkyCinemaComedy.it">
-    <title lang="it">I delitti del BarLume</title>
+    <title lang="it">I delitti del BarLume (St. 6 - Ep. 1)</title>
     <category lang="it">Serie TV</category>
   </programme>
   <programme start="20260311085500  +0000" stop="20260311091000  +0000" channel="SkyCinemaComedy.it">
@@ -51236,7 +51236,7 @@
     <category lang="it">Film</category>
   </programme>
   <programme start="20260312071500  +0000" stop="20260312090500  +0000" channel="SkyCinemaComedy.it">
-    <title lang="it">I delitti del BarLume</title>
+    <title lang="it">I delitti del BarLume (St. 6 - Ep. 2)</title>
     <category lang="it">Serie TV</category>
   </programme>
   <programme start="20260312090500  +0000" stop="20260312111500  +0000" channel="SkyCinemaComedy.it">
@@ -53253,7 +53253,7 @@
   </programme>
   <programme start="20260311104000  +0000" stop="20260311110500  +0000" channel="SkyDocumentaries.it">
     <title lang="it">Echo: Quello che rimane (St. 1 - Ep. 7)</title>
-    <category lang="it">Altro</category>
+    <category lang="it">Documentario</category>
   </programme>
   <programme start="20260311110500  +0000" stop="20260311120500  +0000" channel="SkyDocumentaries.it">
     <title lang="it">Food Markets. Profumi e sapori a km zero (St. 3 - Ep. 3)</title>
@@ -53265,7 +53265,7 @@
   </programme>
   <programme start="20260311131000  +0000" stop="20260311141000  +0000" channel="SkyDocumentaries.it">
     <title lang="it">I Persiani - La storia dell&apos;Iran (St. 1 - Ep. 3)</title>
-    <category lang="it">Altro</category>
+    <category lang="it">Documentario</category>
   </programme>
   <programme start="20260311141000  +0000" stop="20260311150500  +0000" channel="SkyDocumentaries.it">
     <title lang="it">One Strange Rock: Pianeta Terra (St. 1 - Ep. 8)</title>
@@ -53273,7 +53273,7 @@
   </programme>
   <programme start="20260311150500  +0000" stop="20260311163500  +0000" channel="SkyDocumentaries.it">
     <title lang="it">Uomini e Dei: Le meraviglie del Museo Egizio</title>
-    <category lang="it">Altro</category>
+    <category lang="it">Documentario</category>
   </programme>
   <programme start="20260311163500  +0000" stop="20260311173000  +0000" channel="SkyDocumentaries.it">
     <title lang="it">I tesori dell&apos;antico Egitto (St. 1 - Ep. 1)</title>
@@ -53565,7 +53565,7 @@
   </programme>
   <programme start="20260311104000  +0000" stop="20260311110500  +0000" channel="superguidatv:sky-documentaries-hd/sky-intrattenimento/595">
     <title lang="it">Echo: Quello che rimane (St. 1 - Ep. 7)</title>
-    <category lang="it">Altro</category>
+    <category lang="it">Documentario</category>
   </programme>
   <programme start="20260311110500  +0000" stop="20260311120500  +0000" channel="superguidatv:sky-documentaries-hd/sky-intrattenimento/595">
     <title lang="it">Food Markets. Profumi e sapori a km zero (St. 3 - Ep. 3)</title>
@@ -53577,7 +53577,7 @@
   </programme>
   <programme start="20260311131000  +0000" stop="20260311141000  +0000" channel="superguidatv:sky-documentaries-hd/sky-intrattenimento/595">
     <title lang="it">I Persiani - La storia dell&apos;Iran (St. 1 - Ep. 3)</title>
-    <category lang="it">Altro</category>
+    <category lang="it">Documentario</category>
   </programme>
   <programme start="20260311141000  +0000" stop="20260311150500  +0000" channel="superguidatv:sky-documentaries-hd/sky-intrattenimento/595">
     <title lang="it">One Strange Rock: Pianeta Terra (St. 1 - Ep. 8)</title>
@@ -53585,7 +53585,7 @@
   </programme>
   <programme start="20260311150500  +0000" stop="20260311163500  +0000" channel="superguidatv:sky-documentaries-hd/sky-intrattenimento/595">
     <title lang="it">Uomini e Dei: Le meraviglie del Museo Egizio</title>
-    <category lang="it">Altro</category>
+    <category lang="it">Documentario</category>
   </programme>
   <programme start="20260311163500  +0000" stop="20260311173000  +0000" channel="superguidatv:sky-documentaries-hd/sky-intrattenimento/595">
     <title lang="it">I tesori dell&apos;antico Egitto (St. 1 - Ep. 1)</title>
@@ -53893,11 +53893,11 @@
   </programme>
   <programme start="20260311092500  +0000" stop="20260311101500  +0000" channel="SkyInvestigation.it">
     <title lang="it">Sheriff Country (St. 1 - Ep. 8)</title>
-    <category lang="it">Altro</category>
+    <category lang="it">Serie TV</category>
   </programme>
   <programme start="20260311101500  +0000" stop="20260311110500  +0000" channel="SkyInvestigation.it">
     <title lang="it">Sheriff Country (St. 1 - Ep. 9)</title>
-    <category lang="it">Altro</category>
+    <category lang="it">Serie TV</category>
   </programme>
   <programme start="20260311110500  +0000" stop="20260311120500  +0000" channel="SkyInvestigation.it">
     <title lang="it">Delitti in Paradiso (St. 2 - Ep. 7)</title>
@@ -55516,7 +55516,7 @@
     <category lang="it">Serie TV</category>
   </programme>
   <programme start="20260311145500  +0000" stop="20260311151500  +0000" channel="SkySerie.it">
-    <title lang="it">The Office</title>
+    <title lang="it">The Office (US) (St. 3 - Ep. 10)</title>
     <category lang="it">Serie TV</category>
   </programme>
   <programme start="20260311151500  +0000" stop="20260311154000  +0000" channel="SkySerie.it">
@@ -57281,7 +57281,7 @@
   </programme>
   <programme start="20260312084500  +0000" stop="20260312090000  +0000" channel="SkySportF1.it">
     <title lang="it">Un giorno da pilota</title>
-    <category lang="it">Altro</category>
+    <category lang="it">Rubrica</category>
   </programme>
   <programme start="20260312090000  +0000" stop="20260312100000  +0000" channel="SkySportF1.it">
     <title lang="it">Australia Race Anatomy F1 (St. 2026 - Ep. 1)</title>
@@ -57329,7 +57329,7 @@
   </programme>
   <programme start="20260312144500  +0000" stop="20260312150000  +0000" channel="SkySportF1.it">
     <title lang="it">Un giorno da pilota</title>
-    <category lang="it">Altro</category>
+    <category lang="it">Rubrica</category>
   </programme>
   <programme start="20260312150000  +0000" stop="20260312160000  +0000" channel="SkySportF1.it">
     <title lang="it">Australia Race Anatomy F1 (St. 2026 - Ep. 1)</title>
@@ -59141,7 +59141,7 @@
   </programme>
   <programme start="20260311134000  +0000" stop="20260311140000  +0000" channel="SkyTG24.it">
     <title lang="it">Flash (St. 3 - Ep. 2)</title>
-    <category lang="it">Altro</category>
+    <category lang="it">Notizie</category>
   </programme>
   <programme start="20260311140000  +0000" stop="20260311143000  +0000" channel="SkyTG24.it">
     <title lang="it">Timeline</title>
@@ -59869,7 +59869,7 @@
   </programme>
   <programme start="20260311134000  +0000" stop="20260311140000  +0000" channel="superguidatv:sky-tg24/sky-news/240">
     <title lang="it">Flash (St. 3 - Ep. 2)</title>
-    <category lang="it">Altro</category>
+    <category lang="it">Notizie</category>
   </programme>
   <programme start="20260311140000  +0000" stop="20260311143000  +0000" channel="superguidatv:sky-tg24/sky-news/240">
     <title lang="it">Timeline</title>
@@ -63321,7 +63321,7 @@
   </programme>
   <programme start="20260310081000  +0000" stop="20260310082000  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
     <title lang="it">Stag. 2024 - Young Talent.</title>
-    <category lang="it">Altro</category>
+    <category lang="it">Rubrica</category>
   </programme>
   <programme start="20260310082000  +0000" stop="20260310124000  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
     <title lang="it">WTA 1000 Indian Wells 2026</title>
@@ -63509,7 +63509,7 @@
   </programme>
   <programme start="20260310081000  +0000" stop="20260310082000  +0000" channel="SuperTennis.it">
     <title lang="it">Stag. 2024 - Young Talent.</title>
-    <category lang="it">Altro</category>
+    <category lang="it">Rubrica</category>
   </programme>
   <programme start="20260310082000  +0000" stop="20260310124000  +0000" channel="SuperTennis.it">
     <title lang="it">WTA 1000 Indian Wells 2026</title>
@@ -65936,8 +65936,8 @@
     <category lang="it">Film</category>
   </programme>
   <programme start="20260312162500  +0000" stop="20260312181000  +0000" channel="TV8.it">
-    <title lang="it">La via del cuore</title>
-    <category lang="it">Altro</category>
+    <title lang="it">La via del cuore (2022)</title>
+    <category lang="it">Film</category>
   </programme>
   <programme start="20260312181000  +0000" stop="20260312193000  +0000" channel="TV8.it">
     <title lang="it">Alessandro Borghese - 4 ristoranti (St. 9 - Ep. 2)</title>
@@ -66272,8 +66272,8 @@
     <category lang="it">Film</category>
   </programme>
   <programme start="20260312162500  +0000" stop="20260312181000  +0000" channel="superguidatv:tv8/sky-intrattenimento/237">
-    <title lang="it">La via del cuore</title>
-    <category lang="it">Altro</category>
+    <title lang="it">La via del cuore (2022)</title>
+    <category lang="it">Film</category>
   </programme>
   <programme start="20260312181000  +0000" stop="20260312193000  +0000" channel="superguidatv:tv8/sky-intrattenimento/237">
     <title lang="it">Alessandro Borghese - 4 ristoranti (St. 9 - Ep. 2)</title>
