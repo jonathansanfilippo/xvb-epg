@@ -14584,8 +14584,8 @@
     <category lang="it">Sit Com</category>
   </programme>
   <programme start="20260317184500  +0000" stop="20260317190000  +0000" channel="ComedyCentral.it">
-    <title lang="it">Corporate</title>
-    <category lang="it">Serie TV</category>
+    <title lang="it">Corporate (St. 1 - Ep. 2)</title>
+    <category lang="it">Sit Com</category>
   </programme>
   <programme start="20260317190000  +0000" stop="20260317195500  +0000" channel="ComedyCentral.it">
     <title lang="it">Most Ridiculous</title>
@@ -14716,11 +14716,11 @@
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260315113000  +0000" stop="20260315113000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Czechia - China PR</title>
+    <title lang="it">Philippines - Korea Republic</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260315113000  +0000" stop="20260315113000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Philippines - Korea Republic</title>
+    <title lang="it">Czechia - China PR</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260315113000  +0000" stop="20260315113000  +0000" channel="superguidatv:dazn/dazn/459">
@@ -14736,7 +14736,7 @@
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260315130000  +0000" stop="20260315130000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Maiorca - Espanyol</title>
+    <title lang="it">Le Castellet - Coppa Shell Race 2</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260315130000  +0000" stop="20260315130000  +0000" channel="superguidatv:dazn/dazn/459">
@@ -14744,7 +14744,7 @@
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260315130000  +0000" stop="20260315132500  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Le Castellet - Coppa Shell Race 2</title>
+    <title lang="it">Maiorca - Espanyol</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260315132500  +0000" stop="20260315134100  +0000" channel="superguidatv:dazn/dazn/459">
@@ -14760,11 +14760,11 @@
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260315140000  +0000" stop="20260315140000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Virtus Entella - Avellino</title>
+    <title lang="it">Zona Serie A Enilive | PIS-CAG, SAS-BOL</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260315140000  +0000" stop="20260315141500  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Zona Serie A Enilive | PIS-CAG, SAS-BOL</title>
+    <title lang="it">Virtus Entella - Avellino</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260315141500  +0000" stop="20260315143000  +0000" channel="superguidatv:dazn/dazn/459">
@@ -14800,7 +14800,7 @@
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260315160000  +0000" stop="20260315160000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Emma Villas Codyeco Lupi Siena - Rinascita Lagonegro</title>
+    <title lang="it">Vero Volley Monza - Sir Susa Scai Perugia</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260315160000  +0000" stop="20260315160000  +0000" channel="superguidatv:dazn/dazn/459">
@@ -14808,19 +14808,19 @@
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260315160000  +0000" stop="20260315160000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Vero Volley Monza - Sir Susa Scai Perugia</title>
+    <title lang="it">Emma Villas Codyeco Lupi Siena - Rinascita Lagonegro</title>
+    <category lang="it">Sport</category>
+  </programme>
+  <programme start="20260315160000  +0000" stop="20260315160000  +0000" channel="superguidatv:dazn/dazn/459">
+    <title lang="it">Colonia - Bayern Monaco</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260315160000  +0000" stop="20260315160000  +0000" channel="superguidatv:dazn/dazn/459">
     <title lang="it">Ivy League Championship Game: Yale vs. Penn</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260315160000  +0000" stop="20260315160000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">London Lions - Newcastle Eagles</title>
-    <category lang="it">Sport</category>
-  </programme>
   <programme start="20260315160000  +0000" stop="20260315161100  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Colonia - Bayern Monaco</title>
+    <title lang="it">London Lions - Newcastle Eagles</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260315161100  +0000" stop="20260315161500  +0000" channel="superguidatv:dazn/dazn/459">
@@ -14836,11 +14836,11 @@
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260315170000  +0000" stop="20260315170000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Banca Macerata Fisiomed MC - Virtus Aversa</title>
+    <title lang="it">Romeo Sorrento - Essence Hotels Fano</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260315170000  +0000" stop="20260315170000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Romeo Sorrento - Essence Hotels Fano</title>
+    <title lang="it">Banca Macerata Fisiomed MC - Virtus Aversa</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260315170000  +0000" stop="20260315170000  +0000" channel="superguidatv:dazn/dazn/459">
@@ -14848,7 +14848,7 @@
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260315170000  +0000" stop="20260315170000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Roma - Fiorentina</title>
+    <title lang="it">Sviluppo Sud Catania - Consar Ravenna</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260315170000  +0000" stop="20260315170000  +0000" channel="superguidatv:dazn/dazn/459">
@@ -14856,7 +14856,7 @@
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260315170000  +0000" stop="20260315173000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Sviluppo Sud Catania - Consar Ravenna</title>
+    <title lang="it">Roma - Fiorentina</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260315173000  +0000" stop="20260315173000  +0000" channel="superguidatv:dazn/dazn/459">
@@ -14872,19 +14872,19 @@
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260315180000  +0000" stop="20260315180000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">New Zealand - United States</title>
-    <category lang="it">Sport</category>
-  </programme>
-  <programme start="20260315180000  +0000" stop="20260315180000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Allianz Milano - Rana Verona</title>
+    <title lang="it">Asisa Joventut - Barcellona</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260315180000  +0000" stop="20260315180000  +0000" channel="superguidatv:dazn/dazn/459">
     <title lang="it">France - Nigeria</title>
     <category lang="it">Sport</category>
   </programme>
+  <programme start="20260315180000  +0000" stop="20260315180000  +0000" channel="superguidatv:dazn/dazn/459">
+    <title lang="it">Allianz Milano - Rana Verona</title>
+    <category lang="it">Sport</category>
+  </programme>
   <programme start="20260315180000  +0000" stop="20260315182600  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Asisa Joventut - Barcellona</title>
+    <title lang="it">New Zealand - United States</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260315182600  +0000" stop="20260315190000  +0000" channel="superguidatv:dazn/dazn/459">
@@ -14892,11 +14892,11 @@
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260315190000  +0000" stop="20260315190000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Blues vs. Jets</title>
+    <title lang="it">Arizona Tennis Classic | Giorno 6</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260315190000  +0000" stop="20260315191500  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Arizona Tennis Classic | Giorno 6</title>
+    <title lang="it">Blues vs. Jets</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260315191500  +0000" stop="20260315193000  +0000" channel="superguidatv:dazn/dazn/459">
@@ -14920,7 +14920,7 @@
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260315210000  +0000" stop="20260315210000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Italy - Spain</title>
+    <title lang="it">Italia - Spagna</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260315210000  +0000" stop="20260315210000  +0000" channel="superguidatv:dazn/dazn/459">
@@ -14928,7 +14928,7 @@
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260315210000  +0000" stop="20260315212500  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Italia - Spagna</title>
+    <title lang="it">Italy - Spain</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260315212500  +0000" stop="20260315214800  +0000" channel="superguidatv:dazn/dazn/459">
@@ -14940,11 +14940,11 @@
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260315230000  +0000" stop="20260315230000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Ducks vs. Canadiens</title>
+    <title lang="it">AEW: Revolution - Zero Hour</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260315230000  +0000" stop="20260315233000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">AEW: Revolution - Zero Hour</title>
+    <title lang="it">Ducks vs. Canadiens</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260315233000  +0000" stop="20260316000000  +0000" channel="superguidatv:dazn/dazn/459">
@@ -14956,7 +14956,7 @@
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260316000000  +0000" stop="20260316000000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">AEW: Revolution 2026</title>
+    <title lang="it">Panthers vs. Kraken</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260316000000  +0000" stop="20260316000000  +0000" channel="superguidatv:dazn/dazn/459">
@@ -14964,7 +14964,7 @@
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260316000000  +0000" stop="20260316070000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Panthers vs. Kraken</title>
+    <title lang="it">AEW: Revolution 2026</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260316070000  +0000" stop="20260316110000  +0000" channel="superguidatv:dazn/dazn/459">
@@ -15164,11 +15164,11 @@
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260317194500  +0000" stop="20260317194500  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Maidenhead - Ebbsfleet</title>
+    <title lang="it">AFC Telford - Macclesfield</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260317194500  +0000" stop="20260317194500  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">AFC Telford - Macclesfield</title>
+    <title lang="it">Maidenhead - Ebbsfleet</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260317194500  +0000" stop="20260317194500  +0000" channel="superguidatv:dazn/dazn/459">
@@ -15208,15 +15208,15 @@
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260317230000  +0000" stop="20260317230000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Islanders vs. Maple Leafs</title>
-    <category lang="it">Sport</category>
-  </programme>
-  <programme start="20260317230000  +0000" stop="20260317230000  +0000" channel="superguidatv:dazn/dazn/459">
     <title lang="it">Hurricanes vs. Blue Jackets</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260317230000  +0000" stop="20260317233000  +0000" channel="superguidatv:dazn/dazn/459">
+  <programme start="20260317230000  +0000" stop="20260317230000  +0000" channel="superguidatv:dazn/dazn/459">
     <title lang="it">Bruins vs. Canadiens</title>
+    <category lang="it">Sport</category>
+  </programme>
+  <programme start="20260317230000  +0000" stop="20260317233000  +0000" channel="superguidatv:dazn/dazn/459">
+    <title lang="it">Islanders vs. Maple Leafs</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260317233000  +0000" stop="20260318000000  +0000" channel="superguidatv:dazn/dazn/459">
@@ -15224,31 +15224,31 @@
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260318000000  +0000" stop="20260318000000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Predators vs. Jets</title>
-    <category lang="it">Sport</category>
-  </programme>
-  <programme start="20260318000000  +0000" stop="20260318010000  +0000" channel="superguidatv:dazn/dazn/459">
     <title lang="it">Puerto Rico נג New Zealand</title>
     <category lang="it">Sport</category>
   </programme>
+  <programme start="20260318000000  +0000" stop="20260318010000  +0000" channel="superguidatv:dazn/dazn/459">
+    <title lang="it">Predators vs. Jets</title>
+    <category lang="it">Sport</category>
+  </programme>
   <programme start="20260318010000  +0000" stop="20260318010000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Sharks vs. Oilers</title>
+    <title lang="it">Men&apos;s First Four: Game 2</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260318010000  +0000" stop="20260318020000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Men&apos;s First Four: Game 2</title>
+    <title lang="it">Sharks vs. Oilers</title>
+    <category lang="it">Sport</category>
+  </programme>
+  <programme start="20260318020000  +0000" stop="20260318020000  +0000" channel="superguidatv:dazn/dazn/459">
+    <title lang="it">Sabres vs. Golden Knights</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260318020000  +0000" stop="20260318020000  +0000" channel="superguidatv:dazn/dazn/459">
     <title lang="it">Lightning vs. Kraken</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260318020000  +0000" stop="20260318020000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Panthers vs. Canucks</title>
-    <category lang="it">Sport</category>
-  </programme>
   <programme start="20260318020000  +0000" stop="20260318023000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Sabres vs. Golden Knights</title>
+    <title lang="it">Panthers vs. Canucks</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260315043000  +0000" stop="20260315050000  +0000" channel="DeAJunior.it">
@@ -18669,7 +18669,7 @@
   </programme>
   <programme start="20260315050000  +0000" stop="20260315052500  +0000" channel="DMAX.it">
     <title lang="it">I re del contante</title>
-    <category lang="it">Altro</category>
+    <category lang="it">Mondo e Tendenze</category>
   </programme>
   <programme start="20260315052500  +0000" stop="20260315055000  +0000" channel="DMAX.it">
     <title lang="it">Affare fatto!</title>
@@ -19056,7 +19056,7 @@
     <category lang="it">LifeStyle</category>
   </programme>
   <programme start="20260317083000  +0000" stop="20260317103000  +0000" channel="DonnaTV.it">
-    <title lang="it">Film</title>
+    <title lang="it">Film (1965)</title>
     <category lang="it">Film</category>
   </programme>
   <programme start="20260317103000  +0000" stop="20260317110000  +0000" channel="DonnaTV.it">
@@ -19084,7 +19084,7 @@
     <category lang="it">LifeStyle</category>
   </programme>
   <programme start="20260317140000  +0000" stop="20260317160000  +0000" channel="DonnaTV.it">
-    <title lang="it">Film</title>
+    <title lang="it">Film (1965)</title>
     <category lang="it">Film</category>
   </programme>
   <programme start="20260317160000  +0000" stop="20260317163000  +0000" channel="DonnaTV.it">
@@ -27848,7 +27848,7 @@
     <category lang="it">Serie TV</category>
   </programme>
   <programme start="20260315181000  +0000" stop="20260315201000  +0000" channel="Giallo.it">
-    <title lang="it">L&apos;ispettore Barnaby</title>
+    <title lang="it">L&apos;ispettore Barnaby (St. 8 - Ep. 6)</title>
     <category lang="it">Serie TV</category>
   </programme>
   <programme start="20260315201000  +0000" stop="20260315221000  +0000" channel="Giallo.it">
@@ -27900,7 +27900,7 @@
     <category lang="it">Serie TV</category>
   </programme>
   <programme start="20260316113000  +0000" stop="20260316135000  +0000" channel="Giallo.it">
-    <title lang="it">Shetland-Acqua sporca - 1a parte</title>
+    <title lang="it">Shetland (St. 2 - Ep. 3)</title>
     <category lang="it">Serie TV</category>
   </programme>
   <programme start="20260316135000  +0000" stop="20260316155000  +0000" channel="Giallo.it">
@@ -27928,7 +27928,7 @@
     <category lang="it">Serie TV</category>
   </programme>
   <programme start="20260317001000  +0000" stop="20260317023000  +0000" channel="Giallo.it">
-    <title lang="it">Shetland-Acqua sporca - 1a parte</title>
+    <title lang="it">Shetland (St. 2 - Ep. 3)</title>
     <category lang="it">Serie TV</category>
   </programme>
   <programme start="20260317023000  +0000" stop="20260317033000  +0000" channel="Giallo.it">
@@ -27972,7 +27972,7 @@
     <category lang="it">Serie TV</category>
   </programme>
   <programme start="20260317113000  +0000" stop="20260317135000  +0000" channel="Giallo.it">
-    <title lang="it">Shetland-Acqua sporca - 2a parte</title>
+    <title lang="it">Shetland (St. 2 - Ep. 4)</title>
     <category lang="it">Serie TV</category>
   </programme>
   <programme start="20260317135000  +0000" stop="20260317155000  +0000" channel="Giallo.it">
@@ -27980,7 +27980,7 @@
     <category lang="it">Serie TV</category>
   </programme>
   <programme start="20260317155000  +0000" stop="20260317175000  +0000" channel="Giallo.it">
-    <title lang="it">I misteri di Brokenwood</title>
+    <title lang="it">I misteri di Brokenwood (St. 11 - Ep. 4)</title>
     <category lang="it">Serie TV</category>
   </programme>
   <programme start="20260317175000  +0000" stop="20260317190000  +0000" channel="Giallo.it">
@@ -27988,7 +27988,7 @@
     <category lang="it">Serie TV</category>
   </programme>
   <programme start="20260317190000  +0000" stop="20260317201000  +0000" channel="Giallo.it">
-    <title lang="it">Cherif</title>
+    <title lang="it">Cherif (St. 2 - Ep. 6)</title>
     <category lang="it">Serie TV</category>
   </programme>
   <programme start="20260317201000  +0000" stop="20260317211500  +0000" channel="Giallo.it">
@@ -28060,7 +28060,7 @@
     <category lang="it">Serie TV</category>
   </programme>
   <programme start="20260315181000  +0000" stop="20260315201000  +0000" channel="superguidatv:giallo/sky-intrattenimento/244">
-    <title lang="it">L&apos;ispettore Barnaby</title>
+    <title lang="it">L&apos;ispettore Barnaby (St. 8 - Ep. 6)</title>
     <category lang="it">Serie TV</category>
   </programme>
   <programme start="20260315201000  +0000" stop="20260315221000  +0000" channel="superguidatv:giallo/sky-intrattenimento/244">
@@ -28112,7 +28112,7 @@
     <category lang="it">Serie TV</category>
   </programme>
   <programme start="20260316113000  +0000" stop="20260316135000  +0000" channel="superguidatv:giallo/sky-intrattenimento/244">
-    <title lang="it">Shetland-Acqua sporca - 1a parte</title>
+    <title lang="it">Shetland (St. 2 - Ep. 3)</title>
     <category lang="it">Serie TV</category>
   </programme>
   <programme start="20260316135000  +0000" stop="20260316155000  +0000" channel="superguidatv:giallo/sky-intrattenimento/244">
@@ -28140,7 +28140,7 @@
     <category lang="it">Serie TV</category>
   </programme>
   <programme start="20260317001000  +0000" stop="20260317023000  +0000" channel="superguidatv:giallo/sky-intrattenimento/244">
-    <title lang="it">Shetland-Acqua sporca - 1a parte</title>
+    <title lang="it">Shetland (St. 2 - Ep. 3)</title>
     <category lang="it">Serie TV</category>
   </programme>
   <programme start="20260317023000  +0000" stop="20260317033000  +0000" channel="superguidatv:giallo/sky-intrattenimento/244">
@@ -28184,7 +28184,7 @@
     <category lang="it">Serie TV</category>
   </programme>
   <programme start="20260317113000  +0000" stop="20260317135000  +0000" channel="superguidatv:giallo/sky-intrattenimento/244">
-    <title lang="it">Shetland-Acqua sporca - 2a parte</title>
+    <title lang="it">Shetland (St. 2 - Ep. 4)</title>
     <category lang="it">Serie TV</category>
   </programme>
   <programme start="20260317135000  +0000" stop="20260317155000  +0000" channel="superguidatv:giallo/sky-intrattenimento/244">
@@ -28192,7 +28192,7 @@
     <category lang="it">Serie TV</category>
   </programme>
   <programme start="20260317155000  +0000" stop="20260317175000  +0000" channel="superguidatv:giallo/sky-intrattenimento/244">
-    <title lang="it">I misteri di Brokenwood</title>
+    <title lang="it">I misteri di Brokenwood (St. 11 - Ep. 4)</title>
     <category lang="it">Serie TV</category>
   </programme>
   <programme start="20260317175000  +0000" stop="20260317190000  +0000" channel="superguidatv:giallo/sky-intrattenimento/244">
@@ -28200,7 +28200,7 @@
     <category lang="it">Serie TV</category>
   </programme>
   <programme start="20260317190000  +0000" stop="20260317201000  +0000" channel="superguidatv:giallo/sky-intrattenimento/244">
-    <title lang="it">Cherif</title>
+    <title lang="it">Cherif (St. 2 - Ep. 6)</title>
     <category lang="it">Serie TV</category>
   </programme>
   <programme start="20260317201000  +0000" stop="20260317211500  +0000" channel="superguidatv:giallo/sky-intrattenimento/244">
@@ -34259,9 +34259,17 @@
     <title lang="it">Telegiornale</title>
     <category lang="it">Notizie</category>
   </programme>
-  <programme start="20260316040000  +0000" stop="20260316042000  +0000" channel="RSILa1.ch">
+  <programme start="20260316040000  +0000" stop="20260316040500  +0000" channel="RSILa1.ch">
     <title lang="it">In volo sulla Svizzera italiana</title>
     <category lang="it">Documentario</category>
+  </programme>
+  <programme start="20260316040500  +0000" stop="20260316041500  +0000" channel="RSILa1.ch">
+    <title lang="it">TG Notte (R)</title>
+    <category lang="it">Notizie</category>
+  </programme>
+  <programme start="20260316041500  +0000" stop="20260316042000  +0000" channel="RSILa1.ch">
+    <title lang="it">Meteo</title>
+    <category lang="it">Notizie</category>
   </programme>
   <programme start="20260316042000  +0000" stop="20260316042000  +0000" channel="RSILa1.ch">
     <title lang="it">La domenica sportiva (R)</title>
@@ -34383,19 +34391,19 @@
     <title lang="it">TG Notte (R)</title>
     <category lang="it">Notizie</category>
   </programme>
-  <programme start="20260317005500  +0000" stop="20260317015500  +0000" channel="RSILa1.ch">
+  <programme start="20260317005500  +0000" stop="20260317015000  +0000" channel="RSILa1.ch">
     <title lang="it">Prima Ora (R)</title>
     <category lang="it">Notizie</category>
   </programme>
-  <programme start="20260317015500  +0000" stop="20260317023000  +0000" channel="RSILa1.ch">
+  <programme start="20260317015000  +0000" stop="20260317022000  +0000" channel="RSILa1.ch">
     <title lang="it">Il Quotidiano (R)</title>
     <category lang="it">Notizie</category>
   </programme>
-  <programme start="20260317023000  +0000" stop="20260317031000  +0000" channel="RSILa1.ch">
+  <programme start="20260317022000  +0000" stop="20260317025000  +0000" channel="RSILa1.ch">
     <title lang="it">Telegiornale</title>
     <category lang="it">Notizie</category>
   </programme>
-  <programme start="20260317031000  +0000" stop="20260317040000  +0000" channel="RSILa1.ch">
+  <programme start="20260317025000  +0000" stop="20260317040000  +0000" channel="RSILa1.ch">
     <title lang="it">Meteo</title>
     <category lang="it">Notizie</category>
   </programme>
@@ -34444,7 +34452,7 @@
     <category lang="it">Documentario</category>
   </programme>
   <programme start="20260317102500  +0000" stop="20260317110500  +0000" channel="RSILa1.ch">
-    <title lang="it">Il mistero delle lettere perdute - Miracolo a Natale</title>
+    <title lang="it">Il mistero delle lettere perdute (St. 1 - Ep. 14)</title>
     <category lang="it">Serie TV</category>
   </programme>
   <programme start="20260317110500  +0000" stop="20260317113000  +0000" channel="RSILa1.ch">
@@ -34619,9 +34627,17 @@
     <title lang="it">Ciclismo: Classiche 2026 - Parigi - Nizza (R)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260316040000  +0000" stop="20260316042000  +0000" channel="RSILa2.ch">
+  <programme start="20260316040000  +0000" stop="20260316040500  +0000" channel="RSILa2.ch">
     <title lang="it">In volo sulla Svizzera italiana</title>
     <category lang="it">Documentario</category>
+  </programme>
+  <programme start="20260316040500  +0000" stop="20260316041500  +0000" channel="RSILa2.ch">
+    <title lang="it">TG Notte (R)</title>
+    <category lang="it">Notizie</category>
+  </programme>
+  <programme start="20260316041500  +0000" stop="20260316042000  +0000" channel="RSILa2.ch">
+    <title lang="it">Il Quotidiano (R)</title>
+    <category lang="it">Attualità</category>
   </programme>
   <programme start="20260316042000  +0000" stop="20260316042500  +0000" channel="RSILa2.ch">
     <title lang="it">TG Notte (R)</title>
@@ -34704,7 +34720,7 @@
     <category lang="it">Documentario</category>
   </programme>
   <programme start="20260316172000  +0000" stop="20260316180500  +0000" channel="RSILa2.ch">
-    <title lang="it">Il mistero delle lettere perdute - Miracolo di Natale</title>
+    <title lang="it">Il mistero delle lettere perdute (St. 1 - Ep. 13)</title>
     <category lang="it">Serie TV</category>
   </programme>
   <programme start="20260316180500  +0000" stop="20260316190000  +0000" channel="RSILa2.ch">
@@ -34739,24 +34755,24 @@
     <title lang="it">Telesguard</title>
     <category lang="it">Attualità</category>
   </programme>
-  <programme start="20260317011500  +0000" stop="20260317014500  +0000" channel="RSILa2.ch">
+  <programme start="20260317011500  +0000" stop="20260317013500  +0000" channel="RSILa2.ch">
     <title lang="it">TG Notte (R)</title>
     <category lang="it">Notizie</category>
   </programme>
-  <programme start="20260317014500  +0000" stop="20260317024000  +0000" channel="RSILa2.ch">
+  <programme start="20260317013500  +0000" stop="20260317014000  +0000" channel="RSILa2.ch">
+    <title lang="it">Meteo</title>
+    <category lang="it">Notizie</category>
+  </programme>
+  <programme start="20260317014000  +0000" stop="20260317023000  +0000" channel="RSILa2.ch">
     <title lang="it">Prima Ora (R)</title>
     <category lang="it">Rubrica</category>
   </programme>
-  <programme start="20260317024000  +0000" stop="20260317031500  +0000" channel="RSILa2.ch">
+  <programme start="20260317023000  +0000" stop="20260317030500  +0000" channel="RSILa2.ch">
     <title lang="it">Il Quotidiano (R)</title>
     <category lang="it">Attualità</category>
   </programme>
-  <programme start="20260317031500  +0000" stop="20260317034500  +0000" channel="RSILa2.ch">
+  <programme start="20260317030500  +0000" stop="20260317040000  +0000" channel="RSILa2.ch">
     <title lang="it">Telegiornale</title>
-    <category lang="it">Notizie</category>
-  </programme>
-  <programme start="20260317034500  +0000" stop="20260317040000  +0000" channel="RSILa2.ch">
-    <title lang="it">Meteo</title>
     <category lang="it">Notizie</category>
   </programme>
   <programme start="20260317040000  +0000" stop="20260317040500  +0000" channel="RSILa2.ch">
@@ -34840,7 +34856,7 @@
     <category lang="it">Documentario</category>
   </programme>
   <programme start="20260317172500  +0000" stop="20260317180500  +0000" channel="RSILa2.ch">
-    <title lang="it">Il mistero delle lettere perdute - Miracolo a Natale</title>
+    <title lang="it">Il mistero delle lettere perdute (St. 1 - Ep. 14)</title>
     <category lang="it">Serie TV</category>
   </programme>
   <programme start="20260317180500  +0000" stop="20260317185500  +0000" channel="RSILa2.ch">
@@ -40377,63 +40393,187 @@
   </programme>
   <programme start="20260316070000  +0000" stop="20260316090000  +0000" channel="QVC.it">
     <title lang="it">Colpropur, Lo specialista del Collagene</title>
-    <category lang="it">Altro</category>
+    <category lang="it">Mondo e Tendenze</category>
   </programme>
   <programme start="20260316090000  +0000" stop="20260316100000  +0000" channel="QVC.it">
     <title lang="it">Sottomarino, la moda italiana total look</title>
-    <category lang="it">Altro</category>
+    <category lang="it">LifeStyle</category>
   </programme>
   <programme start="20260316100000  +0000" stop="20260316110000  +0000" channel="QVC.it">
     <title lang="it">Pikolinos, la felicita&apos; ai tuoi piedi</title>
-    <category lang="it">Altro</category>
+    <category lang="it">Mondo e Tendenze</category>
   </programme>
   <programme start="20260316110000  +0000" stop="20260316120000  +0000" channel="QVC.it">
     <title lang="it">Colpropur, Lo specialista del Collagene</title>
-    <category lang="it">Altro</category>
+    <category lang="it">Mondo e Tendenze</category>
   </programme>
   <programme start="20260316120000  +0000" stop="20260316130000  +0000" channel="QVC.it">
     <title lang="it">StylPro, beauty tool facili ed efficaci</title>
-    <category lang="it">Altro</category>
+    <category lang="it">Mondo e Tendenze</category>
   </programme>
   <programme start="20260316130000  +0000" stop="20260316140000  +0000" channel="QVC.it">
     <title lang="it">Lord &amp; Berry Beauty to wear</title>
-    <category lang="it">Altro</category>
+    <category lang="it">Mondo e Tendenze</category>
   </programme>
   <programme start="20260316140000  +0000" stop="20260316150000  +0000" channel="QVC.it">
     <title lang="it">Sottomarino, la moda italiana total look</title>
-    <category lang="it">Altro</category>
+    <category lang="it">LifeStyle</category>
   </programme>
   <programme start="20260316150000  +0000" stop="20260316160000  +0000" channel="QVC.it">
     <title lang="it">Pikolinos, la felicita&apos; ai tuoi piedi</title>
-    <category lang="it">Altro</category>
+    <category lang="it">Mondo e Tendenze</category>
   </programme>
   <programme start="20260316160000  +0000" stop="20260316170000  +0000" channel="QVC.it">
     <title lang="it">Colpropur, Lo specialista del Collagene</title>
-    <category lang="it">Altro</category>
+    <category lang="it">Mondo e Tendenze</category>
   </programme>
   <programme start="20260316170000  +0000" stop="20260316180000  +0000" channel="QVC.it">
     <title lang="it">Dyson, tecnologia ed innovazione</title>
-    <category lang="it">Altro</category>
+    <category lang="it">Mondo e Tendenze</category>
   </programme>
   <programme start="20260316180000  +0000" stop="20260316190000  +0000" channel="QVC.it">
     <title lang="it">Sottomarino, la moda italiana total look</title>
-    <category lang="it">Altro</category>
+    <category lang="it">LifeStyle</category>
   </programme>
   <programme start="20260316190000  +0000" stop="20260316200000  +0000" channel="QVC.it">
     <title lang="it">SmoothSkin Luce pulsata, pelle come seta</title>
-    <category lang="it">Altro</category>
+    <category lang="it">Mondo e Tendenze</category>
   </programme>
   <programme start="20260316200000  +0000" stop="20260316210000  +0000" channel="QVC.it">
     <title lang="it">Colpropur, Lo specialista del Collagene</title>
-    <category lang="it">Altro</category>
+    <category lang="it">Mondo e Tendenze</category>
   </programme>
   <programme start="20260316210000  +0000" stop="20260316220000  +0000" channel="QVC.it">
     <title lang="it">SBC: la tua naturale bellezza</title>
+    <category lang="it">Mondo e Tendenze</category>
+  </programme>
+  <programme start="20260316220000  +0000" stop="20260316230000  +0000" channel="QVC.it">
+    <title lang="it">Best of the day</title>
+    <category lang="it">Mondo e Tendenze</category>
+  </programme>
+  <programme start="20260316230000  +0000" stop="20260317000000  +0000" channel="QVC.it">
+    <title lang="it">Replica</title>
+    <category lang="it">Mondo e Tendenze</category>
+  </programme>
+  <programme start="20260317000000  +0000" stop="20260317010000  +0000" channel="QVC.it">
+    <title lang="it">Replica</title>
+    <category lang="it">Mondo e Tendenze</category>
+  </programme>
+  <programme start="20260317010000  +0000" stop="20260317020000  +0000" channel="QVC.it">
+    <title lang="it">Replica</title>
+    <category lang="it">Mondo e Tendenze</category>
+  </programme>
+  <programme start="20260317020000  +0000" stop="20260317030000  +0000" channel="QVC.it">
+    <title lang="it">Replica</title>
+    <category lang="it">Mondo e Tendenze</category>
+  </programme>
+  <programme start="20260317030000  +0000" stop="20260317040000  +0000" channel="QVC.it">
+    <title lang="it">Replica</title>
+    <category lang="it">Mondo e Tendenze</category>
+  </programme>
+  <programme start="20260317040000  +0000" stop="20260317040000  +0000" channel="QVC.it">
+    <title lang="it">Replica</title>
+    <category lang="it">Mondo e Tendenze</category>
+  </programme>
+  <programme start="20260317040000  +0000" stop="20260317050000  +0000" channel="QVC.it">
+    <title lang="it">Replica</title>
+    <category lang="it">Mondo e Tendenze</category>
+  </programme>
+  <programme start="20260317050000  +0000" stop="20260317050000  +0000" channel="QVC.it">
+    <title lang="it">Replica</title>
+    <category lang="it">Mondo e Tendenze</category>
+  </programme>
+  <programme start="20260317050000  +0000" stop="20260317060000  +0000" channel="QVC.it">
+    <title lang="it">Replica</title>
+    <category lang="it">Mondo e Tendenze</category>
+  </programme>
+  <programme start="20260317060000  +0000" stop="20260317070000  +0000" channel="QVC.it">
+    <title lang="it">Replica</title>
+    <category lang="it">Mondo e Tendenze</category>
+  </programme>
+  <programme start="20260317070000  +0000" stop="20260317090000  +0000" channel="QVC.it">
+    <title lang="it">SBC: la tua naturale bellezza</title>
+    <category lang="it">Mondo e Tendenze</category>
+  </programme>
+  <programme start="20260317090000  +0000" stop="20260317100000  +0000" channel="QVC.it">
+    <title lang="it">Le Serpentini, dove osano le scarpe</title>
+    <category lang="it">Mondo e Tendenze</category>
+  </programme>
+  <programme start="20260317100000  +0000" stop="20260317110000  +0000" channel="QVC.it">
+    <title lang="it">Risskio, creativita&apos; di moda</title>
+    <category lang="it">Mondo e Tendenze</category>
+  </programme>
+  <programme start="20260317110000  +0000" stop="20260317120000  +0000" channel="QVC.it">
+    <title lang="it">SBC: la tua naturale bellezza</title>
+    <category lang="it">Mondo e Tendenze</category>
+  </programme>
+  <programme start="20260317120000  +0000" stop="20260317130000  +0000" channel="QVC.it">
+    <title lang="it">Angela Mele Milano, per la donna di oggi</title>
+    <category lang="it">Mondo e Tendenze</category>
+  </programme>
+  <programme start="20260317130000  +0000" stop="20260317140000  +0000" channel="QVC.it">
+    <title lang="it">KeBakery La tua colazione sana e gustosa</title>
+    <category lang="it">Mondo e Tendenze</category>
+  </programme>
+  <programme start="20260317140000  +0000" stop="20260317150000  +0000" channel="QVC.it">
+    <title lang="it">Le Serpentini, dove osano le scarpe</title>
+    <category lang="it">Mondo e Tendenze</category>
+  </programme>
+  <programme start="20260317150000  +0000" stop="20260317160000  +0000" channel="QVC.it">
+    <title lang="it">Risskio, creativita&apos; di moda</title>
+    <category lang="it">Mondo e Tendenze</category>
+  </programme>
+  <programme start="20260317160000  +0000" stop="20260317170000  +0000" channel="QVC.it">
+    <title lang="it">SBC: la tua naturale bellezza</title>
+    <category lang="it">Mondo e Tendenze</category>
+  </programme>
+  <programme start="20260317170000  +0000" stop="20260317180000  +0000" channel="QVC.it">
+    <title lang="it">Angela Mele Milano, per la donna di oggi</title>
+    <category lang="it">Mondo e Tendenze</category>
+  </programme>
+  <programme start="20260317180000  +0000" stop="20260317190000  +0000" channel="QVC.it">
+    <title lang="it">Le Serpentini, dove osano le scarpe</title>
     <category lang="it">Altro</category>
   </programme>
-  <programme start="20260316220000  +0000" stop="20260316223000  +0000" channel="QVC.it">
+  <programme start="20260317190000  +0000" stop="20260317210000  +0000" channel="QVC.it">
+    <title lang="it">Buonasera bellezza!</title>
+    <category lang="it">Altro</category>
+  </programme>
+  <programme start="20260317210000  +0000" stop="20260317220000  +0000" channel="QVC.it">
+    <title lang="it">Bianca della Torre,personalita&apos; elegante</title>
+    <category lang="it">Altro</category>
+  </programme>
+  <programme start="20260317220000  +0000" stop="20260317230000  +0000" channel="QVC.it">
     <title lang="it">Best of the day</title>
     <category lang="it">Altro</category>
+  </programme>
+  <programme start="20260317230000  +0000" stop="20260318000000  +0000" channel="QVC.it">
+    <title lang="it">Bianca della Torre,personalita&apos; elegante</title>
+    <category lang="it">Mondo e Tendenze</category>
+  </programme>
+  <programme start="20260318000000  +0000" stop="20260318010000  +0000" channel="QVC.it">
+    <title lang="it">Replica</title>
+    <category lang="it">Mondo e Tendenze</category>
+  </programme>
+  <programme start="20260318010000  +0000" stop="20260318020000  +0000" channel="QVC.it">
+    <title lang="it">Replica</title>
+    <category lang="it">Mondo e Tendenze</category>
+  </programme>
+  <programme start="20260318020000  +0000" stop="20260318030000  +0000" channel="QVC.it">
+    <title lang="it">Replica</title>
+    <category lang="it">Mondo e Tendenze</category>
+  </programme>
+  <programme start="20260318030000  +0000" stop="20260318040000  +0000" channel="QVC.it">
+    <title lang="it">Replica</title>
+    <category lang="it">Mondo e Tendenze</category>
+  </programme>
+  <programme start="20260318040000  +0000" stop="20260318050000  +0000" channel="QVC.it">
+    <title lang="it">Replica</title>
+    <category lang="it">Mondo e Tendenze</category>
+  </programme>
+  <programme start="20260318050000  +0000" stop="20260318053000  +0000" channel="QVC.it">
+    <title lang="it">Replica</title>
+    <category lang="it">Mondo e Tendenze</category>
   </programme>
   <programme start="20260315040000  +0000" stop="20260315050000  +0000" channel="superguidatv:qvc/sky-doc-e-lifestyle/242">
     <title lang="it">Replica</title>
@@ -40537,63 +40677,187 @@
   </programme>
   <programme start="20260316070000  +0000" stop="20260316090000  +0000" channel="superguidatv:qvc/sky-doc-e-lifestyle/242">
     <title lang="it">Colpropur, Lo specialista del Collagene</title>
-    <category lang="it">Altro</category>
+    <category lang="it">Mondo e Tendenze</category>
   </programme>
   <programme start="20260316090000  +0000" stop="20260316100000  +0000" channel="superguidatv:qvc/sky-doc-e-lifestyle/242">
     <title lang="it">Sottomarino, la moda italiana total look</title>
-    <category lang="it">Altro</category>
+    <category lang="it">LifeStyle</category>
   </programme>
   <programme start="20260316100000  +0000" stop="20260316110000  +0000" channel="superguidatv:qvc/sky-doc-e-lifestyle/242">
     <title lang="it">Pikolinos, la felicita&apos; ai tuoi piedi</title>
-    <category lang="it">Altro</category>
+    <category lang="it">Mondo e Tendenze</category>
   </programme>
   <programme start="20260316110000  +0000" stop="20260316120000  +0000" channel="superguidatv:qvc/sky-doc-e-lifestyle/242">
     <title lang="it">Colpropur, Lo specialista del Collagene</title>
-    <category lang="it">Altro</category>
+    <category lang="it">Mondo e Tendenze</category>
   </programme>
   <programme start="20260316120000  +0000" stop="20260316130000  +0000" channel="superguidatv:qvc/sky-doc-e-lifestyle/242">
     <title lang="it">StylPro, beauty tool facili ed efficaci</title>
-    <category lang="it">Altro</category>
+    <category lang="it">Mondo e Tendenze</category>
   </programme>
   <programme start="20260316130000  +0000" stop="20260316140000  +0000" channel="superguidatv:qvc/sky-doc-e-lifestyle/242">
     <title lang="it">Lord &amp; Berry Beauty to wear</title>
-    <category lang="it">Altro</category>
+    <category lang="it">Mondo e Tendenze</category>
   </programme>
   <programme start="20260316140000  +0000" stop="20260316150000  +0000" channel="superguidatv:qvc/sky-doc-e-lifestyle/242">
     <title lang="it">Sottomarino, la moda italiana total look</title>
-    <category lang="it">Altro</category>
+    <category lang="it">LifeStyle</category>
   </programme>
   <programme start="20260316150000  +0000" stop="20260316160000  +0000" channel="superguidatv:qvc/sky-doc-e-lifestyle/242">
     <title lang="it">Pikolinos, la felicita&apos; ai tuoi piedi</title>
-    <category lang="it">Altro</category>
+    <category lang="it">Mondo e Tendenze</category>
   </programme>
   <programme start="20260316160000  +0000" stop="20260316170000  +0000" channel="superguidatv:qvc/sky-doc-e-lifestyle/242">
     <title lang="it">Colpropur, Lo specialista del Collagene</title>
-    <category lang="it">Altro</category>
+    <category lang="it">Mondo e Tendenze</category>
   </programme>
   <programme start="20260316170000  +0000" stop="20260316180000  +0000" channel="superguidatv:qvc/sky-doc-e-lifestyle/242">
     <title lang="it">Dyson, tecnologia ed innovazione</title>
-    <category lang="it">Altro</category>
+    <category lang="it">Mondo e Tendenze</category>
   </programme>
   <programme start="20260316180000  +0000" stop="20260316190000  +0000" channel="superguidatv:qvc/sky-doc-e-lifestyle/242">
     <title lang="it">Sottomarino, la moda italiana total look</title>
-    <category lang="it">Altro</category>
+    <category lang="it">LifeStyle</category>
   </programme>
   <programme start="20260316190000  +0000" stop="20260316200000  +0000" channel="superguidatv:qvc/sky-doc-e-lifestyle/242">
     <title lang="it">SmoothSkin Luce pulsata, pelle come seta</title>
-    <category lang="it">Altro</category>
+    <category lang="it">Mondo e Tendenze</category>
   </programme>
   <programme start="20260316200000  +0000" stop="20260316210000  +0000" channel="superguidatv:qvc/sky-doc-e-lifestyle/242">
     <title lang="it">Colpropur, Lo specialista del Collagene</title>
-    <category lang="it">Altro</category>
+    <category lang="it">Mondo e Tendenze</category>
   </programme>
   <programme start="20260316210000  +0000" stop="20260316220000  +0000" channel="superguidatv:qvc/sky-doc-e-lifestyle/242">
     <title lang="it">SBC: la tua naturale bellezza</title>
+    <category lang="it">Mondo e Tendenze</category>
+  </programme>
+  <programme start="20260316220000  +0000" stop="20260316230000  +0000" channel="superguidatv:qvc/sky-doc-e-lifestyle/242">
+    <title lang="it">Best of the day</title>
+    <category lang="it">Mondo e Tendenze</category>
+  </programme>
+  <programme start="20260316230000  +0000" stop="20260317000000  +0000" channel="superguidatv:qvc/sky-doc-e-lifestyle/242">
+    <title lang="it">Replica</title>
+    <category lang="it">Mondo e Tendenze</category>
+  </programme>
+  <programme start="20260317000000  +0000" stop="20260317010000  +0000" channel="superguidatv:qvc/sky-doc-e-lifestyle/242">
+    <title lang="it">Replica</title>
+    <category lang="it">Mondo e Tendenze</category>
+  </programme>
+  <programme start="20260317010000  +0000" stop="20260317020000  +0000" channel="superguidatv:qvc/sky-doc-e-lifestyle/242">
+    <title lang="it">Replica</title>
+    <category lang="it">Mondo e Tendenze</category>
+  </programme>
+  <programme start="20260317020000  +0000" stop="20260317030000  +0000" channel="superguidatv:qvc/sky-doc-e-lifestyle/242">
+    <title lang="it">Replica</title>
+    <category lang="it">Mondo e Tendenze</category>
+  </programme>
+  <programme start="20260317030000  +0000" stop="20260317040000  +0000" channel="superguidatv:qvc/sky-doc-e-lifestyle/242">
+    <title lang="it">Replica</title>
+    <category lang="it">Mondo e Tendenze</category>
+  </programme>
+  <programme start="20260317040000  +0000" stop="20260317040000  +0000" channel="superguidatv:qvc/sky-doc-e-lifestyle/242">
+    <title lang="it">Replica</title>
+    <category lang="it">Mondo e Tendenze</category>
+  </programme>
+  <programme start="20260317040000  +0000" stop="20260317050000  +0000" channel="superguidatv:qvc/sky-doc-e-lifestyle/242">
+    <title lang="it">Replica</title>
+    <category lang="it">Mondo e Tendenze</category>
+  </programme>
+  <programme start="20260317050000  +0000" stop="20260317050000  +0000" channel="superguidatv:qvc/sky-doc-e-lifestyle/242">
+    <title lang="it">Replica</title>
+    <category lang="it">Mondo e Tendenze</category>
+  </programme>
+  <programme start="20260317050000  +0000" stop="20260317060000  +0000" channel="superguidatv:qvc/sky-doc-e-lifestyle/242">
+    <title lang="it">Replica</title>
+    <category lang="it">Mondo e Tendenze</category>
+  </programme>
+  <programme start="20260317060000  +0000" stop="20260317070000  +0000" channel="superguidatv:qvc/sky-doc-e-lifestyle/242">
+    <title lang="it">Replica</title>
+    <category lang="it">Mondo e Tendenze</category>
+  </programme>
+  <programme start="20260317070000  +0000" stop="20260317090000  +0000" channel="superguidatv:qvc/sky-doc-e-lifestyle/242">
+    <title lang="it">SBC: la tua naturale bellezza</title>
+    <category lang="it">Mondo e Tendenze</category>
+  </programme>
+  <programme start="20260317090000  +0000" stop="20260317100000  +0000" channel="superguidatv:qvc/sky-doc-e-lifestyle/242">
+    <title lang="it">Le Serpentini, dove osano le scarpe</title>
+    <category lang="it">Mondo e Tendenze</category>
+  </programme>
+  <programme start="20260317100000  +0000" stop="20260317110000  +0000" channel="superguidatv:qvc/sky-doc-e-lifestyle/242">
+    <title lang="it">Risskio, creativita&apos; di moda</title>
+    <category lang="it">Mondo e Tendenze</category>
+  </programme>
+  <programme start="20260317110000  +0000" stop="20260317120000  +0000" channel="superguidatv:qvc/sky-doc-e-lifestyle/242">
+    <title lang="it">SBC: la tua naturale bellezza</title>
+    <category lang="it">Mondo e Tendenze</category>
+  </programme>
+  <programme start="20260317120000  +0000" stop="20260317130000  +0000" channel="superguidatv:qvc/sky-doc-e-lifestyle/242">
+    <title lang="it">Angela Mele Milano, per la donna di oggi</title>
+    <category lang="it">Mondo e Tendenze</category>
+  </programme>
+  <programme start="20260317130000  +0000" stop="20260317140000  +0000" channel="superguidatv:qvc/sky-doc-e-lifestyle/242">
+    <title lang="it">KeBakery La tua colazione sana e gustosa</title>
+    <category lang="it">Mondo e Tendenze</category>
+  </programme>
+  <programme start="20260317140000  +0000" stop="20260317150000  +0000" channel="superguidatv:qvc/sky-doc-e-lifestyle/242">
+    <title lang="it">Le Serpentini, dove osano le scarpe</title>
+    <category lang="it">Mondo e Tendenze</category>
+  </programme>
+  <programme start="20260317150000  +0000" stop="20260317160000  +0000" channel="superguidatv:qvc/sky-doc-e-lifestyle/242">
+    <title lang="it">Risskio, creativita&apos; di moda</title>
+    <category lang="it">Mondo e Tendenze</category>
+  </programme>
+  <programme start="20260317160000  +0000" stop="20260317170000  +0000" channel="superguidatv:qvc/sky-doc-e-lifestyle/242">
+    <title lang="it">SBC: la tua naturale bellezza</title>
+    <category lang="it">Mondo e Tendenze</category>
+  </programme>
+  <programme start="20260317170000  +0000" stop="20260317180000  +0000" channel="superguidatv:qvc/sky-doc-e-lifestyle/242">
+    <title lang="it">Angela Mele Milano, per la donna di oggi</title>
+    <category lang="it">Mondo e Tendenze</category>
+  </programme>
+  <programme start="20260317180000  +0000" stop="20260317190000  +0000" channel="superguidatv:qvc/sky-doc-e-lifestyle/242">
+    <title lang="it">Le Serpentini, dove osano le scarpe</title>
     <category lang="it">Altro</category>
   </programme>
-  <programme start="20260316220000  +0000" stop="20260316223000  +0000" channel="superguidatv:qvc/sky-doc-e-lifestyle/242">
+  <programme start="20260317190000  +0000" stop="20260317210000  +0000" channel="superguidatv:qvc/sky-doc-e-lifestyle/242">
+    <title lang="it">Buonasera bellezza!</title>
+    <category lang="it">Altro</category>
+  </programme>
+  <programme start="20260317210000  +0000" stop="20260317220000  +0000" channel="superguidatv:qvc/sky-doc-e-lifestyle/242">
+    <title lang="it">Bianca della Torre,personalita&apos; elegante</title>
+    <category lang="it">Altro</category>
+  </programme>
+  <programme start="20260317220000  +0000" stop="20260317230000  +0000" channel="superguidatv:qvc/sky-doc-e-lifestyle/242">
     <title lang="it">Best of the day</title>
     <category lang="it">Altro</category>
+  </programme>
+  <programme start="20260317230000  +0000" stop="20260318000000  +0000" channel="superguidatv:qvc/sky-doc-e-lifestyle/242">
+    <title lang="it">Bianca della Torre,personalita&apos; elegante</title>
+    <category lang="it">Mondo e Tendenze</category>
+  </programme>
+  <programme start="20260318000000  +0000" stop="20260318010000  +0000" channel="superguidatv:qvc/sky-doc-e-lifestyle/242">
+    <title lang="it">Replica</title>
+    <category lang="it">Mondo e Tendenze</category>
+  </programme>
+  <programme start="20260318010000  +0000" stop="20260318020000  +0000" channel="superguidatv:qvc/sky-doc-e-lifestyle/242">
+    <title lang="it">Replica</title>
+    <category lang="it">Mondo e Tendenze</category>
+  </programme>
+  <programme start="20260318020000  +0000" stop="20260318030000  +0000" channel="superguidatv:qvc/sky-doc-e-lifestyle/242">
+    <title lang="it">Replica</title>
+    <category lang="it">Mondo e Tendenze</category>
+  </programme>
+  <programme start="20260318030000  +0000" stop="20260318040000  +0000" channel="superguidatv:qvc/sky-doc-e-lifestyle/242">
+    <title lang="it">Replica</title>
+    <category lang="it">Mondo e Tendenze</category>
+  </programme>
+  <programme start="20260318040000  +0000" stop="20260318050000  +0000" channel="superguidatv:qvc/sky-doc-e-lifestyle/242">
+    <title lang="it">Replica</title>
+    <category lang="it">Mondo e Tendenze</category>
+  </programme>
+  <programme start="20260318050000  +0000" stop="20260318053000  +0000" channel="superguidatv:qvc/sky-doc-e-lifestyle/242">
+    <title lang="it">Replica</title>
+    <category lang="it">Mondo e Tendenze</category>
   </programme>
   <programme start="20260315010000  +0000" stop="20260315050000  +0000" channel="R101TV.it">
     <title lang="it">R101 Enjoy The Music</title>
@@ -43612,12 +43876,12 @@
     <category lang="it">Documentario</category>
   </programme>
   <programme start="20260317074700  +0000" stop="20260317084000  +0000" channel="Rai5.it">
-    <title lang="it">La verità sui gatti</title>
-    <category lang="it">Serie TV</category>
+    <title lang="it">La verità sui gatti (St. 2 - Ep. 2)</title>
+    <category lang="it">Documentario</category>
   </programme>
   <programme start="20260317084000  +0000" stop="20260317092800  +0000" channel="Rai5.it">
     <title lang="it">Sri Lanka L&apos;isola dei monsoni (Ep. 1)</title>
-    <category lang="it">Altro</category>
+    <category lang="it">Documentario</category>
   </programme>
   <programme start="20260317092800  +0000" stop="20260317093800  +0000" channel="Rai5.it">
     <title lang="it">Poke Stories (Ep. 5)</title>
@@ -58827,11 +59091,11 @@
     <title lang="it">Tennis: ATP 1000 Indian Wells (St. 2026 - Ep. 7)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260315083000  +0000" stop="20260315101500  +0000" channel="SkySportTennis.it">
+  <programme start="20260315083000  +0000" stop="20260315102000  +0000" channel="SkySportTennis.it">
     <title lang="it">Tennis: ATP 1000 Indian Wells (St. 2026 - Ep. 8)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260315101500  +0000" stop="20260315120000  +0000" channel="SkySportTennis.it">
+  <programme start="20260315102000  +0000" stop="20260315120000  +0000" channel="SkySportTennis.it">
     <title lang="it">Tennis: ATP 1000 Indian Wells (St. 2026 - Ep. 7)</title>
     <category lang="it">Sport</category>
   </programme>
@@ -58839,11 +59103,11 @@
     <title lang="it">ATP: 2a Semifinale Singolare (St. 2026 - Ep. 8)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260315140000  +0000" stop="20260315160000  +0000" channel="SkySportTennis.it">
+  <programme start="20260315140000  +0000" stop="20260315161000  +0000" channel="SkySportTennis.it">
     <title lang="it">ATP: 1a Semifinale Singolare (St. 2026 - Ep. 7)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260315160000  +0000" stop="20260315180000  +0000" channel="SkySportTennis.it">
+  <programme start="20260315161000  +0000" stop="20260315180000  +0000" channel="SkySportTennis.it">
     <title lang="it">ATP: 2a Semifinale Singolare (St. 2026 - Ep. 8)</title>
     <category lang="it">Sport</category>
   </programme>
@@ -59397,7 +59661,7 @@
   </programme>
   <programme start="20260315203000  +0000" stop="20260315210000  +0000" channel="SkyTG24.it">
     <title lang="it">Sky Cube: Cosa c&apos;e&apos; da sapere (St. 1 - Ep. 10)</title>
-    <category lang="it">Altro</category>
+    <category lang="it">Attualità</category>
   </programme>
   <programme start="20260315210000  +0000" stop="20260315213000  +0000" channel="SkyTG24.it">
     <title lang="it">TG24 mezz&apos;ora</title>
@@ -60113,7 +60377,7 @@
   </programme>
   <programme start="20260315203000  +0000" stop="20260315210000  +0000" channel="superguidatv:sky-tg24/sky-news/240">
     <title lang="it">Sky Cube: Cosa c&apos;e&apos; da sapere (St. 1 - Ep. 10)</title>
-    <category lang="it">Altro</category>
+    <category lang="it">Attualità</category>
   </programme>
   <programme start="20260315210000  +0000" stop="20260315213000  +0000" channel="superguidatv:sky-tg24/sky-news/240">
     <title lang="it">TG24 mezz&apos;ora</title>
@@ -63491,20 +63755,20 @@
     <title lang="it">Ghostforce (St. 1 - Ep. 1)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260315034500  +0000" stop="20260315060000  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
-    <title lang="it">WTA 1000 Indian Wells 2026 (Ep. 25)</title>
-    <category lang="it">Altro</category>
+  <programme start="20260315030500  +0000" stop="20260315055500  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
+    <title lang="it">TIE-BREAK 2025 (St. 2023 - Ep. 26)</title>
+    <category lang="it">Sport</category>
   </programme>
-  <programme start="20260315060000  +0000" stop="20260315061500  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
+  <programme start="20260315055500  +0000" stop="20260315060000  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
+    <title lang="it">WTA 1000 Indian Wells 2026 - Ep. 25 - Anastasia Potapova vs Jasmine Paolini WTA 1000 Indian Wells # 10 (Ep. 25)</title>
+    <category lang="it">Sport</category>
+  </programme>
+  <programme start="20260315060000  +0000" stop="20260315062500  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
     <title lang="it">Colpo da campione - Stagione 2026 - Ep. 5 - Colpo da campione - Il rovescio di Mboko (Ep. 5)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260315061500  +0000" stop="20260315083500  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
-    <title lang="it">ATP 500 Halle 2025 - Ep. 1 - Flavio Cobolli vs Joao Fonseca Atp 500 Halle 2025 PRIMA PARTE # 5 (Ep. 1)</title>
-    <category lang="it">Sport</category>
-  </programme>
-  <programme start="20260315083500  +0000" stop="20260315085500  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
-    <title lang="it">ATP 500 Halle 2025 - Ep. 2 - Flavio Cobolli vs Joao Fonseca Atp 500 Halle 2025 PARTE FINALE (Ep. 2)</title>
+  <programme start="20260315062500  +0000" stop="20260315085500  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
+    <title lang="it">ATP 500 Halle 2025 - Ep. 1 - Flavio Cobolli vs Joao Fonseca Atp 500 Halle 2025 PRIMA PARTE # 2 (Ep. 1)</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260315085500  +0000" stop="20260315090500  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
@@ -63513,7 +63777,7 @@
   </programme>
   <programme start="20260315090500  +0000" stop="20260315113000  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
     <title lang="it">WTA 1000 Indian Wells 2026 - Ep. 44 - Jasmine Paolini vs Ajla Tomljanovic WTA 1000 Indian Wells # 1 (Ep. 44)</title>
-    <category lang="it">Altro</category>
+    <category lang="it">Sport</category>
   </programme>
   <programme start="20260315113000  +0000" stop="20260315114500  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
     <title lang="it">Tie Movie 2026 - Ep. 5 - Tie Movie - Untold Fish vs Federer (Ep. 5)</title>
@@ -63529,7 +63793,7 @@
   </programme>
   <programme start="20260315140500  +0000" stop="20260315154000  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
     <title lang="it">WTA 1000 Indian Wells 2026 - Ep. 67 - Aryna Sabalenka vs Linda Noskova WTA 1000 Indian Wells SF # 1 (Ep. 67)</title>
-    <category lang="it">Altro</category>
+    <category lang="it">Sport</category>
   </programme>
   <programme start="20260315154000  +0000" stop="20260315155500  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
     <title lang="it">Young Talent 2026 - Ep. 5 - Young Talent - Giulio Bozzanga (Ep. 5)</title>
@@ -63537,22 +63801,18 @@
   </programme>
   <programme start="20260315155500  +0000" stop="20260315165000  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
     <title lang="it">WTA 1000 Indian Wells 2026 - Ep. 68 - Elina Svitolina vs Elena Rybakina WTA 1000 Indian Wells SF 1P # 1 (Ep. 68)</title>
-    <category lang="it">Altro</category>
+    <category lang="it">Sport</category>
   </programme>
   <programme start="20260315165000  +0000" stop="20260315174500  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
     <title lang="it">WTA 1000 Indian Wells 2026 - Ep. 69 - Elina Svitolina vs Elena Rybakina WTA 1000 Indian Wells SF 2P # 1 (Ep. 69)</title>
-    <category lang="it">Altro</category>
+    <category lang="it">Sport</category>
   </programme>
   <programme start="20260315174500  +0000" stop="20260315180000  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
     <title lang="it">Supertennis Today</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260315180000  +0000" stop="20260315195500  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
+  <programme start="20260315180000  +0000" stop="20260315201000  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
     <title lang="it">LIVE WTA 1000 Indian Wells</title>
-    <category lang="it">Sport</category>
-  </programme>
-  <programme start="20260315195500  +0000" stop="20260315201000  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
-    <title lang="it">Supertennis Today</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260315201000  +0000" stop="20260315224000  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
@@ -63571,35 +63831,31 @@
     <title lang="it">Colpo da campione - Stagione 2026 - Ep. 5 - Colpo da campione - Il rovescio di Mboko (Ep. 5)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260316011500  +0000" stop="20260316031000  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
-    <title lang="it">ATP 500 Halle 2025 - Ep. 4 - Jannik Sinner vs Alexander Bublik Atp 500 Halle 2025 # 1 (Ep. 4)</title>
+  <programme start="20260316011500  +0000" stop="20260316030000  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
+    <title lang="it">ATP 500 Halle 2025 - Ep. 4 - Jannik Sinner vs Alexander Bublik Atp 500 Halle 2025 # 2 (Ep. 4)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260316031000  +0000" stop="20260316031000  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
-    <title lang="it">WTA 1000 Indian Wells 2026</title>
+  <programme start="20260316030000  +0000" stop="20260316030000  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
+    <title lang="it">WTA 1000 Indian Wells 2026 - Ep. 44 - Jasmine Paolini vs Ajla Tomljanovic WTA 1000 Indian Wells # 2 (Ep. 44)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260316031000  +0000" stop="20260316050000  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
-    <title lang="it">WTA 1000 Indian Wells 2026</title>
+  <programme start="20260316030000  +0000" stop="20260316050500  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
+    <title lang="it">WTA 1000 Indian Wells 2026 - Ep. 44 - Jasmine Paolini vs Ajla Tomljanovic WTA 1000 Indian Wells # 2 (Ep. 44)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260316050000  +0000" stop="20260316050000  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
+  <programme start="20260316050500  +0000" stop="20260316051500  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
     <title lang="it">Tie Movie 2026 - Ep. 5 - Tie Movie - Untold Fish vs Federer (Ep. 5)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260316050000  +0000" stop="20260316051500  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
-    <title lang="it">Tie Movie 2026 - Ep. 5 - Tie Movie - Untold Fish vs Federer (Ep. 5)</title>
-    <category lang="it">Sport</category>
-  </programme>
-  <programme start="20260316051500  +0000" stop="20260316074500  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
+  <programme start="20260316051500  +0000" stop="20260316075000  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
     <title lang="it">ATP 500 Halle 2025 - Ep. 3 - Flavio Cobolli vs Denis Shapovalov Atp 500 Halle 2025 # 1 (Ep. 3)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260316074500  +0000" stop="20260316080000  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
+  <programme start="20260316075000  +0000" stop="20260316080500  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
     <title lang="it">Young Talent 2026 - Ep. 5 - Young Talent - Giulio Bozzanga (Ep. 5)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260316080000  +0000" stop="20260316100000  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
+  <programme start="20260316080500  +0000" stop="20260316100000  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
     <title lang="it">WTA 1000 Indian Wells 2026</title>
     <category lang="it">Sport</category>
   </programme>
@@ -63611,55 +63867,59 @@
     <title lang="it">Stag. 2023 - Supertennis TG</title>
     <category lang="it">Notizie</category>
   </programme>
-  <programme start="20260316124500  +0000" stop="20260316142500  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
+  <programme start="20260316124500  +0000" stop="20260316144500  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
     <title lang="it">WTA 1000 Indian Wells 2026</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260316142500  +0000" stop="20260316160500  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
-    <title lang="it">ATP 1000 Miami 2025 - Ep. 5 - Matteo Berrettini vs Alex Deminaur Atp Miami 2025 # 3 (Ep. 5)</title>
+  <programme start="20260316144500  +0000" stop="20260316161000  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
+    <title lang="it">ATP 1000 Miami 2025 - Ep. 5 - Matteo Berrettini vs Alex Deminaur Atp Miami 2025 # 4 (Ep. 5)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260316160500  +0000" stop="20260316174500  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
-    <title lang="it">WTA 1000 Indian Wells 2026</title>
+  <programme start="20260316161000  +0000" stop="20260316170500  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
+    <title lang="it">AUSTRALIAN OPEN 2024 - Ep. 4 - Jannik Sinner vs Daniil Medvedev Australian Open 2024 Finale P2 # 4 (Ep. 4)</title>
+    <category lang="it">Sport</category>
+  </programme>
+  <programme start="20260316170500  +0000" stop="20260316174500  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
+    <title lang="it">AUSTRALIAN OPEN 2024 - Ep. 5 - Jannik Sinner vs Daniil Medvedev Australian Open 2024 Finale P3 # 1 (Ep. 5)</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260316174500  +0000" stop="20260316180000  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
     <title lang="it">Stag. 2023 - Supertennis TG</title>
     <category lang="it">Notizie</category>
   </programme>
-  <programme start="20260316180000  +0000" stop="20260316200000  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
-    <title lang="it">WTA 1000 Indian Wells 2026</title>
+  <programme start="20260316180000  +0000" stop="20260316192500  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
+    <title lang="it">ATP 1000 Miami 2025 - Ep. 4 - Lorenzo Musetti vs Felix Auger-Aliassime Atp 1000 Miami 2025 # 6 (Ep. 4)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260316200000  +0000" stop="20260316213000  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
-    <title lang="it">ATP 1000 Miami 2025 - Ep. 4 - Lorenzo Musetti vs Felix Auger-Aliassime Atp 1000 Miami 2025 # 6 (Ep. 4)</title>
+  <programme start="20260316192500  +0000" stop="20260316213000  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
+    <title lang="it">WTA 1000 Indian Wells 2026</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260316213000  +0000" stop="20260316223000  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
     <title lang="it">TENNIS TALK - Ep. 1 (Ep. 1)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260316223000  +0000" stop="20260316230500  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
+  <programme start="20260316223000  +0000" stop="20260316231000  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
     <title lang="it">ATP 1000 Miami 2025 - Ep. 2 - Taylor Fritz vs Matteo Berrettini Atp Miami 2025 # 1 (Ep. 2)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260316230500  +0000" stop="20260317011000  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
+  <programme start="20260316231000  +0000" stop="20260317011000  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
     <title lang="it">ATP 1000 Miami 2025 - Ep. 2 - Taylor Fritz vs Matteo Berrettini Atp Miami 2025 # 5 (Ep. 2)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260317011000  +0000" stop="20260317025500  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
+  <programme start="20260317011000  +0000" stop="20260317030000  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
     <title lang="it">WTA 1000 Indian Wells 2026</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260317025500  +0000" stop="20260317031000  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
+  <programme start="20260317030000  +0000" stop="20260317031500  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
     <title lang="it">Tie Movie 2026 - Ep. 5 - Tie Movie - Untold Fish vs Federer (Ep. 5)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260317031000  +0000" stop="20260317031000  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
+  <programme start="20260317031500  +0000" stop="20260317031500  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
     <title lang="it">ATP 1000 Miami 2025 - Ep. 3 - Lorenzo Musetti vs Quentin Halys ATP 1000 Miami 2025 # 4 (Ep. 3)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260317031000  +0000" stop="20260317050500  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
+  <programme start="20260317031500  +0000" stop="20260317050500  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
     <title lang="it">ATP 1000 Miami 2025 - Ep. 3 - Lorenzo Musetti vs Quentin Halys ATP 1000 Miami 2025 # 4 (Ep. 3)</title>
     <category lang="it">Sport</category>
   </programme>
@@ -63675,11 +63935,11 @@
     <title lang="it">ATP 1000 Miami 2025 - Ep. 2 - Taylor Fritz vs Matteo Berrettini Atp Miami 2025 # 3 (Ep. 2)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260317093500  +0000" stop="20260317103000  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
+  <programme start="20260317093500  +0000" stop="20260317103500  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
     <title lang="it">TENNIS TALK - Ep. 1 (Ep. 1)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260317103000  +0000" stop="20260317123000  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
+  <programme start="20260317103500  +0000" stop="20260317123000  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
     <title lang="it">WTA 1000 Indian Wells 2026</title>
     <category lang="it">Sport</category>
   </programme>
@@ -63699,15 +63959,15 @@
     <title lang="it">LIVE WTA 1000 Miami</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260317165000  +0000" stop="20260317170000  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
+  <programme start="20260317165000  +0000" stop="20260317170500  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
     <title lang="it">Stag. 2023 - Supertennis TG</title>
     <category lang="it">Notizie</category>
   </programme>
-  <programme start="20260317170000  +0000" stop="20260317185000  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
+  <programme start="20260317170500  +0000" stop="20260317185500  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
     <title lang="it">LIVE WTA 1000 Miami</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260317185000  +0000" stop="20260317190500  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
+  <programme start="20260317185500  +0000" stop="20260317190500  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
     <title lang="it">Tie Movie 2026 - Ep. 5 - Tie Movie - Untold Fish vs Federer (Ep. 5)</title>
     <category lang="it">Sport</category>
   </programme>
@@ -63731,20 +63991,20 @@
     <title lang="it">News</title>
     <category lang="it">Notizie</category>
   </programme>
-  <programme start="20260315034500  +0000" stop="20260315060000  +0000" channel="SuperTennis.it">
-    <title lang="it">WTA 1000 Indian Wells 2026 (Ep. 25)</title>
-    <category lang="it">Altro</category>
+  <programme start="20260315030500  +0000" stop="20260315055500  +0000" channel="SuperTennis.it">
+    <title lang="it">TIE-BREAK 2025 (St. 2023 - Ep. 26)</title>
+    <category lang="it">Sport</category>
   </programme>
-  <programme start="20260315060000  +0000" stop="20260315061500  +0000" channel="SuperTennis.it">
+  <programme start="20260315055500  +0000" stop="20260315060000  +0000" channel="SuperTennis.it">
+    <title lang="it">WTA 1000 Indian Wells 2026 - Ep. 25 - Anastasia Potapova vs Jasmine Paolini WTA 1000 Indian Wells # 10 (Ep. 25)</title>
+    <category lang="it">Sport</category>
+  </programme>
+  <programme start="20260315060000  +0000" stop="20260315062500  +0000" channel="SuperTennis.it">
     <title lang="it">Colpo da campione - Stagione 2026 - Ep. 5 - Colpo da campione - Il rovescio di Mboko (Ep. 5)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260315061500  +0000" stop="20260315083500  +0000" channel="SuperTennis.it">
-    <title lang="it">ATP 500 Halle 2025 - Ep. 1 - Flavio Cobolli vs Joao Fonseca Atp 500 Halle 2025 PRIMA PARTE # 5 (Ep. 1)</title>
-    <category lang="it">Sport</category>
-  </programme>
-  <programme start="20260315083500  +0000" stop="20260315085500  +0000" channel="SuperTennis.it">
-    <title lang="it">ATP 500 Halle 2025 - Ep. 2 - Flavio Cobolli vs Joao Fonseca Atp 500 Halle 2025 PARTE FINALE (Ep. 2)</title>
+  <programme start="20260315062500  +0000" stop="20260315085500  +0000" channel="SuperTennis.it">
+    <title lang="it">ATP 500 Halle 2025 - Ep. 1 - Flavio Cobolli vs Joao Fonseca Atp 500 Halle 2025 PRIMA PARTE # 2 (Ep. 1)</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260315085500  +0000" stop="20260315090500  +0000" channel="SuperTennis.it">
@@ -63753,7 +64013,7 @@
   </programme>
   <programme start="20260315090500  +0000" stop="20260315113000  +0000" channel="SuperTennis.it">
     <title lang="it">WTA 1000 Indian Wells 2026 - Ep. 44 - Jasmine Paolini vs Ajla Tomljanovic WTA 1000 Indian Wells # 1 (Ep. 44)</title>
-    <category lang="it">Altro</category>
+    <category lang="it">Sport</category>
   </programme>
   <programme start="20260315113000  +0000" stop="20260315114500  +0000" channel="SuperTennis.it">
     <title lang="it">Tie Movie 2026 - Ep. 5 - Tie Movie - Untold Fish vs Federer (Ep. 5)</title>
@@ -63769,7 +64029,7 @@
   </programme>
   <programme start="20260315140500  +0000" stop="20260315154000  +0000" channel="SuperTennis.it">
     <title lang="it">WTA 1000 Indian Wells 2026 - Ep. 67 - Aryna Sabalenka vs Linda Noskova WTA 1000 Indian Wells SF # 1 (Ep. 67)</title>
-    <category lang="it">Altro</category>
+    <category lang="it">Sport</category>
   </programme>
   <programme start="20260315154000  +0000" stop="20260315155500  +0000" channel="SuperTennis.it">
     <title lang="it">Young Talent 2026 - Ep. 5 - Young Talent - Giulio Bozzanga (Ep. 5)</title>
@@ -63777,22 +64037,18 @@
   </programme>
   <programme start="20260315155500  +0000" stop="20260315165000  +0000" channel="SuperTennis.it">
     <title lang="it">WTA 1000 Indian Wells 2026 - Ep. 68 - Elina Svitolina vs Elena Rybakina WTA 1000 Indian Wells SF 1P # 1 (Ep. 68)</title>
-    <category lang="it">Altro</category>
+    <category lang="it">Sport</category>
   </programme>
   <programme start="20260315165000  +0000" stop="20260315174500  +0000" channel="SuperTennis.it">
     <title lang="it">WTA 1000 Indian Wells 2026 - Ep. 69 - Elina Svitolina vs Elena Rybakina WTA 1000 Indian Wells SF 2P # 1 (Ep. 69)</title>
-    <category lang="it">Altro</category>
+    <category lang="it">Sport</category>
   </programme>
   <programme start="20260315174500  +0000" stop="20260315180000  +0000" channel="SuperTennis.it">
     <title lang="it">Supertennis Today</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260315180000  +0000" stop="20260315195500  +0000" channel="SuperTennis.it">
+  <programme start="20260315180000  +0000" stop="20260315201000  +0000" channel="SuperTennis.it">
     <title lang="it">LIVE WTA 1000 Indian Wells</title>
-    <category lang="it">Sport</category>
-  </programme>
-  <programme start="20260315195500  +0000" stop="20260315201000  +0000" channel="SuperTennis.it">
-    <title lang="it">Supertennis Today</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260315201000  +0000" stop="20260315224000  +0000" channel="SuperTennis.it">
@@ -63811,35 +64067,31 @@
     <title lang="it">Colpo da campione - Stagione 2026 - Ep. 5 - Colpo da campione - Il rovescio di Mboko (Ep. 5)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260316011500  +0000" stop="20260316031000  +0000" channel="SuperTennis.it">
-    <title lang="it">ATP 500 Halle 2025 - Ep. 4 - Jannik Sinner vs Alexander Bublik Atp 500 Halle 2025 # 1 (Ep. 4)</title>
+  <programme start="20260316011500  +0000" stop="20260316030000  +0000" channel="SuperTennis.it">
+    <title lang="it">ATP 500 Halle 2025 - Ep. 4 - Jannik Sinner vs Alexander Bublik Atp 500 Halle 2025 # 2 (Ep. 4)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260316031000  +0000" stop="20260316031000  +0000" channel="SuperTennis.it">
-    <title lang="it">WTA 1000 Indian Wells 2026</title>
+  <programme start="20260316030000  +0000" stop="20260316030000  +0000" channel="SuperTennis.it">
+    <title lang="it">WTA 1000 Indian Wells 2026 - Ep. 44 - Jasmine Paolini vs Ajla Tomljanovic WTA 1000 Indian Wells # 2 (Ep. 44)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260316031000  +0000" stop="20260316050000  +0000" channel="SuperTennis.it">
-    <title lang="it">WTA 1000 Indian Wells 2026</title>
+  <programme start="20260316030000  +0000" stop="20260316050500  +0000" channel="SuperTennis.it">
+    <title lang="it">WTA 1000 Indian Wells 2026 - Ep. 44 - Jasmine Paolini vs Ajla Tomljanovic WTA 1000 Indian Wells # 2 (Ep. 44)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260316050000  +0000" stop="20260316050000  +0000" channel="SuperTennis.it">
+  <programme start="20260316050500  +0000" stop="20260316051500  +0000" channel="SuperTennis.it">
     <title lang="it">Tie Movie 2026 - Ep. 5 - Tie Movie - Untold Fish vs Federer (Ep. 5)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260316050000  +0000" stop="20260316051500  +0000" channel="SuperTennis.it">
-    <title lang="it">Tie Movie 2026 - Ep. 5 - Tie Movie - Untold Fish vs Federer (Ep. 5)</title>
-    <category lang="it">Sport</category>
-  </programme>
-  <programme start="20260316051500  +0000" stop="20260316074500  +0000" channel="SuperTennis.it">
+  <programme start="20260316051500  +0000" stop="20260316075000  +0000" channel="SuperTennis.it">
     <title lang="it">ATP 500 Halle 2025 - Ep. 3 - Flavio Cobolli vs Denis Shapovalov Atp 500 Halle 2025 # 1 (Ep. 3)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260316074500  +0000" stop="20260316080000  +0000" channel="SuperTennis.it">
+  <programme start="20260316075000  +0000" stop="20260316080500  +0000" channel="SuperTennis.it">
     <title lang="it">Young Talent 2026 - Ep. 5 - Young Talent - Giulio Bozzanga (Ep. 5)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260316080000  +0000" stop="20260316100000  +0000" channel="SuperTennis.it">
+  <programme start="20260316080500  +0000" stop="20260316100000  +0000" channel="SuperTennis.it">
     <title lang="it">WTA 1000 Indian Wells 2026</title>
     <category lang="it">Sport</category>
   </programme>
@@ -63851,55 +64103,59 @@
     <title lang="it">Stag. 2023 - Supertennis TG</title>
     <category lang="it">Notizie</category>
   </programme>
-  <programme start="20260316124500  +0000" stop="20260316142500  +0000" channel="SuperTennis.it">
+  <programme start="20260316124500  +0000" stop="20260316144500  +0000" channel="SuperTennis.it">
     <title lang="it">WTA 1000 Indian Wells 2026</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260316142500  +0000" stop="20260316160500  +0000" channel="SuperTennis.it">
-    <title lang="it">ATP 1000 Miami 2025 - Ep. 5 - Matteo Berrettini vs Alex Deminaur Atp Miami 2025 # 3 (Ep. 5)</title>
+  <programme start="20260316144500  +0000" stop="20260316161000  +0000" channel="SuperTennis.it">
+    <title lang="it">ATP 1000 Miami 2025 - Ep. 5 - Matteo Berrettini vs Alex Deminaur Atp Miami 2025 # 4 (Ep. 5)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260316160500  +0000" stop="20260316174500  +0000" channel="SuperTennis.it">
-    <title lang="it">WTA 1000 Indian Wells 2026</title>
+  <programme start="20260316161000  +0000" stop="20260316170500  +0000" channel="SuperTennis.it">
+    <title lang="it">AUSTRALIAN OPEN 2024 - Ep. 4 - Jannik Sinner vs Daniil Medvedev Australian Open 2024 Finale P2 # 4 (Ep. 4)</title>
+    <category lang="it">Sport</category>
+  </programme>
+  <programme start="20260316170500  +0000" stop="20260316174500  +0000" channel="SuperTennis.it">
+    <title lang="it">AUSTRALIAN OPEN 2024 - Ep. 5 - Jannik Sinner vs Daniil Medvedev Australian Open 2024 Finale P3 # 1 (Ep. 5)</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260316174500  +0000" stop="20260316180000  +0000" channel="SuperTennis.it">
     <title lang="it">Stag. 2023 - Supertennis TG</title>
     <category lang="it">Notizie</category>
   </programme>
-  <programme start="20260316180000  +0000" stop="20260316200000  +0000" channel="SuperTennis.it">
-    <title lang="it">WTA 1000 Indian Wells 2026</title>
+  <programme start="20260316180000  +0000" stop="20260316192500  +0000" channel="SuperTennis.it">
+    <title lang="it">ATP 1000 Miami 2025 - Ep. 4 - Lorenzo Musetti vs Felix Auger-Aliassime Atp 1000 Miami 2025 # 6 (Ep. 4)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260316200000  +0000" stop="20260316213000  +0000" channel="SuperTennis.it">
-    <title lang="it">ATP 1000 Miami 2025 - Ep. 4 - Lorenzo Musetti vs Felix Auger-Aliassime Atp 1000 Miami 2025 # 6 (Ep. 4)</title>
+  <programme start="20260316192500  +0000" stop="20260316213000  +0000" channel="SuperTennis.it">
+    <title lang="it">WTA 1000 Indian Wells 2026</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260316213000  +0000" stop="20260316223000  +0000" channel="SuperTennis.it">
     <title lang="it">TENNIS TALK - Ep. 1 (Ep. 1)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260316223000  +0000" stop="20260316230500  +0000" channel="SuperTennis.it">
+  <programme start="20260316223000  +0000" stop="20260316231000  +0000" channel="SuperTennis.it">
     <title lang="it">ATP 1000 Miami 2025 - Ep. 2 - Taylor Fritz vs Matteo Berrettini Atp Miami 2025 # 1 (Ep. 2)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260316230500  +0000" stop="20260317011000  +0000" channel="SuperTennis.it">
+  <programme start="20260316231000  +0000" stop="20260317011000  +0000" channel="SuperTennis.it">
     <title lang="it">ATP 1000 Miami 2025 - Ep. 2 - Taylor Fritz vs Matteo Berrettini Atp Miami 2025 # 5 (Ep. 2)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260317011000  +0000" stop="20260317025500  +0000" channel="SuperTennis.it">
+  <programme start="20260317011000  +0000" stop="20260317030000  +0000" channel="SuperTennis.it">
     <title lang="it">WTA 1000 Indian Wells 2026</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260317025500  +0000" stop="20260317031000  +0000" channel="SuperTennis.it">
+  <programme start="20260317030000  +0000" stop="20260317031500  +0000" channel="SuperTennis.it">
     <title lang="it">Tie Movie 2026 - Ep. 5 - Tie Movie - Untold Fish vs Federer (Ep. 5)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260317031000  +0000" stop="20260317031000  +0000" channel="SuperTennis.it">
+  <programme start="20260317031500  +0000" stop="20260317031500  +0000" channel="SuperTennis.it">
     <title lang="it">ATP 1000 Miami 2025 - Ep. 3 - Lorenzo Musetti vs Quentin Halys ATP 1000 Miami 2025 # 4 (Ep. 3)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260317031000  +0000" stop="20260317050500  +0000" channel="SuperTennis.it">
+  <programme start="20260317031500  +0000" stop="20260317050500  +0000" channel="SuperTennis.it">
     <title lang="it">ATP 1000 Miami 2025 - Ep. 3 - Lorenzo Musetti vs Quentin Halys ATP 1000 Miami 2025 # 4 (Ep. 3)</title>
     <category lang="it">Sport</category>
   </programme>
@@ -63915,11 +64171,11 @@
     <title lang="it">ATP 1000 Miami 2025 - Ep. 2 - Taylor Fritz vs Matteo Berrettini Atp Miami 2025 # 3 (Ep. 2)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260317093500  +0000" stop="20260317103000  +0000" channel="SuperTennis.it">
+  <programme start="20260317093500  +0000" stop="20260317103500  +0000" channel="SuperTennis.it">
     <title lang="it">TENNIS TALK - Ep. 1 (Ep. 1)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260317103000  +0000" stop="20260317123000  +0000" channel="SuperTennis.it">
+  <programme start="20260317103500  +0000" stop="20260317123000  +0000" channel="SuperTennis.it">
     <title lang="it">WTA 1000 Indian Wells 2026</title>
     <category lang="it">Sport</category>
   </programme>
@@ -63939,15 +64195,15 @@
     <title lang="it">LIVE WTA 1000 Miami</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260317165000  +0000" stop="20260317170000  +0000" channel="SuperTennis.it">
+  <programme start="20260317165000  +0000" stop="20260317170500  +0000" channel="SuperTennis.it">
     <title lang="it">Stag. 2023 - Supertennis TG</title>
     <category lang="it">Notizie</category>
   </programme>
-  <programme start="20260317170000  +0000" stop="20260317185000  +0000" channel="SuperTennis.it">
+  <programme start="20260317170500  +0000" stop="20260317185500  +0000" channel="SuperTennis.it">
     <title lang="it">LIVE WTA 1000 Miami</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260317185000  +0000" stop="20260317190500  +0000" channel="SuperTennis.it">
+  <programme start="20260317185500  +0000" stop="20260317190500  +0000" channel="SuperTennis.it">
     <title lang="it">Tie Movie 2026 - Ep. 5 - Tie Movie - Untold Fish vs Federer (Ep. 5)</title>
     <category lang="it">Sport</category>
   </programme>
@@ -67552,11 +67808,11 @@
     <category lang="it">Serie TV</category>
   </programme>
   <programme start="20260316175700  +0000" stop="20260316190600  +0000" channel="Twentyseven.it">
-    <title lang="it">Colombo</title>
+    <title lang="it">Colombo (St. 1 - Ep. 6)</title>
     <category lang="it">Serie TV</category>
   </programme>
   <programme start="20260316190600  +0000" stop="20260316201000  +0000" channel="Twentyseven.it">
-    <title lang="it">Colombo</title>
+    <title lang="it">Colombo (St. 1 - Ep. 7)</title>
     <category lang="it">Serie TV</category>
   </programme>
   <programme start="20260316201000  +0000" stop="20260316221500  +0000" channel="Twentyseven.it">
@@ -67668,7 +67924,7 @@
     <category lang="it">Sit Com</category>
   </programme>
   <programme start="20260318032700  +0000" stop="20260318035700  +0000" channel="Twentyseven.it">
-    <title lang="it">Caro Maestro</title>
+    <title lang="it">Caro Maestro (St. 1 - Ep. 2)</title>
     <category lang="it">Serie TV</category>
   </programme>
   <programme start="20260315010000  +0000" stop="20260315050000  +0000" channel="VirginRadioTV.it">
