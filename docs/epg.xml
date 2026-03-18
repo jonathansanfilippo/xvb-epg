@@ -11147,9 +11147,9 @@
     <title lang="it">TG24 mezz&apos;ora</title>
     <category lang="it">Notizie</category>
   </programme>
-  <programme start="20260318040500  +0000" stop="20260318050000  +0000" channel="Cielo.it">
-    <title lang="it">Top 20 Countdown (St. 4 - Ep. 2)</title>
-    <category lang="it">Show</category>
+  <programme start="20260318043500  +0000" stop="20260318050000  +0000" channel="Cielo.it">
+    <title lang="it">Affari di famiglia (St. 8 - Ep. 14)</title>
+    <category lang="it">Mondo e Tendenze</category>
   </programme>
   <programme start="20260318050000  +0000" stop="20260318052500  +0000" channel="Cielo.it">
     <title lang="it">TG24 Pagine (Diretta)</title>
@@ -15000,11 +15000,11 @@
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260318140000  +0000" stop="20260318140000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Girone B, secondo turno</title>
+    <title lang="it">Social Corner</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260318140000  +0000" stop="20260318150000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Social Corner</title>
+    <title lang="it">Girone B, secondo turno</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260318150000  +0000" stop="20260318160000  +0000" channel="superguidatv:dazn/dazn/459">
@@ -15024,7 +15024,7 @@
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260318170000  +0000" stop="20260318170000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Eintracht Francoforte - Hoffenheim</title>
+    <title lang="it">Galatasaray - Vilnius Rytas</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260318170000  +0000" stop="20260318170000  +0000" channel="superguidatv:dazn/dazn/459">
@@ -15032,11 +15032,11 @@
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260318170000  +0000" stop="20260318170000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Tofaş - Karditsas</title>
+    <title lang="it">Eintracht Francoforte - Hoffenheim</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260318170000  +0000" stop="20260318170000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Galatasaray - Vilnius Rytas</title>
+    <title lang="it">Finale ritorno | Panathinaikos - Megabox Ond. Savio Vallefoglia</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260318170000  +0000" stop="20260318170000  +0000" channel="superguidatv:dazn/dazn/459">
@@ -15044,15 +15044,11 @@
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260318170000  +0000" stop="20260318170000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Finale ritorno | Panathinaikos - Megabox Ond. Savio Vallefoglia</title>
-    <category lang="it">Sport</category>
-  </programme>
-  <programme start="20260318170000  +0000" stop="20260318180000  +0000" channel="superguidatv:dazn/dazn/459">
     <title lang="it">Galatasaray MT Technic - Rytas Vilnius</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260318180000  +0000" stop="20260318180000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Berlin - AEK</title>
+  <programme start="20260318170000  +0000" stop="20260318180000  +0000" channel="superguidatv:dazn/dazn/459">
+    <title lang="it">Tofaş - Karditsas</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260318180000  +0000" stop="20260318180000  +0000" channel="superguidatv:dazn/dazn/459">
@@ -15061,6 +15057,10 @@
   </programme>
   <programme start="20260318180000  +0000" stop="20260318180000  +0000" channel="superguidatv:dazn/dazn/459">
     <title lang="it">Conlan vs. Walsh: Conferenza stampa</title>
+    <category lang="it">Sport</category>
+  </programme>
+  <programme start="20260318180000  +0000" stop="20260318180000  +0000" channel="superguidatv:dazn/dazn/459">
+    <title lang="it">Berlin - AEK</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260318180000  +0000" stop="20260318183000  +0000" channel="superguidatv:dazn/dazn/459">
@@ -15072,15 +15072,7 @@
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260318190000  +0000" stop="20260318190000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Avellino - Südtirol</title>
-    <category lang="it">Sport</category>
-  </programme>
-  <programme start="20260318190000  +0000" stop="20260318190000  +0000" channel="superguidatv:dazn/dazn/459">
     <title lang="it">Pescara - Virtus Entella</title>
-    <category lang="it">Sport</category>
-  </programme>
-  <programme start="20260318190000  +0000" stop="20260318190000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Carrarese - Sampdoria</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260318190000  +0000" stop="20260318190000  +0000" channel="superguidatv:dazn/dazn/459">
@@ -15088,11 +15080,19 @@
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260318190000  +0000" stop="20260318190000  +0000" channel="superguidatv:dazn/dazn/459">
+    <title lang="it">Reale Mutua Fenera Chieri &apos;76 - Dresdner SC</title>
+    <category lang="it">Sport</category>
+  </programme>
+  <programme start="20260318190000  +0000" stop="20260318190000  +0000" channel="superguidatv:dazn/dazn/459">
+    <title lang="it">Carrarese - Sampdoria</title>
+    <category lang="it">Sport</category>
+  </programme>
+  <programme start="20260318190000  +0000" stop="20260318190000  +0000" channel="superguidatv:dazn/dazn/459">
     <title lang="it">Zona Serie BKT</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260318190000  +0000" stop="20260318193000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Reale Mutua Fenera Chieri &apos;76 - Dresdner SC</title>
+    <title lang="it">Avellino - Südtirol</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260318193000  +0000" stop="20260318193000  +0000" channel="superguidatv:dazn/dazn/459">
@@ -15104,11 +15104,7 @@
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260318193000  +0000" stop="20260318193000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Prisma La Cascina Taranto - Abba Pineto</title>
-    <category lang="it">Sport</category>
-  </programme>
-  <programme start="20260318193000  +0000" stop="20260318193000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Campi Reali Cantù - Gruppo Consoli Sferc Brescia</title>
+    <title lang="it">A tutta A</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260318193000  +0000" stop="20260318193000  +0000" channel="superguidatv:dazn/dazn/459">
@@ -15116,7 +15112,7 @@
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260318193000  +0000" stop="20260318193000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Alva Inox 2 Emme Service Porto Viro - Emma Villas Codyeco Lupi Siena</title>
+    <title lang="it">A. Carraro Imoco Conegliano - Zeren Spor Kulübü</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260318193000  +0000" stop="20260318193000  +0000" channel="superguidatv:dazn/dazn/459">
@@ -15128,11 +15124,15 @@
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260318193000  +0000" stop="20260318193000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">A tutta A</title>
+    <title lang="it">Campi Reali Cantù - Gruppo Consoli Sferc Brescia</title>
+    <category lang="it">Sport</category>
+  </programme>
+  <programme start="20260318193000  +0000" stop="20260318193000  +0000" channel="superguidatv:dazn/dazn/459">
+    <title lang="it">Prisma La Cascina Taranto - Abba Pineto</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260318193000  +0000" stop="20260318200000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">A. Carraro Imoco Conegliano - Zeren Spor Kulübü</title>
+    <title lang="it">Alva Inox 2 Emme Service Porto Viro - Emma Villas Codyeco Lupi Siena</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260318200000  +0000" stop="20260318224000  +0000" channel="superguidatv:dazn/dazn/459">
@@ -34179,86 +34179,6 @@
     <title lang="it">Zig &amp; Sharko</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260318030500  +0000" stop="20260318060000  +0000" channel="LA7.it">
-    <title lang="it">L&apos;Aria Che Tira (r)</title>
-    <category lang="it">Rubrica</category>
-  </programme>
-  <programme start="20260318060000  +0000" stop="20260318064000  +0000" channel="LA7.it">
-    <title lang="it">Edicola</title>
-    <category lang="it">Rubrica</category>
-  </programme>
-  <programme start="20260318064000  +0000" stop="20260318070000  +0000" channel="LA7.it">
-    <title lang="it">TG LA7</title>
-    <category lang="it">Notizie</category>
-  </programme>
-  <programme start="20260318070000  +0000" stop="20260318084000  +0000" channel="LA7.it">
-    <title lang="it">Omnibus Dibattito</title>
-    <category lang="it">Notizie</category>
-  </programme>
-  <programme start="20260318084000  +0000" stop="20260318100000  +0000" channel="LA7.it">
-    <title lang="it">Coffee Break</title>
-    <category lang="it">Mondo e Tendenze</category>
-  </programme>
-  <programme start="20260318100000  +0000" stop="20260318123000  +0000" channel="LA7.it">
-    <title lang="it">L&apos;Aria Che Tira</title>
-    <category lang="it">Rubrica</category>
-  </programme>
-  <programme start="20260318123000  +0000" stop="20260318131500  +0000" channel="LA7.it">
-    <title lang="it">TG LA7</title>
-    <category lang="it">Notizie</category>
-  </programme>
-  <programme start="20260318131500  +0000" stop="20260318154000  +0000" channel="LA7.it">
-    <title lang="it">Tagadà</title>
-    <category lang="it">Attualità</category>
-  </programme>
-  <programme start="20260318154000  +0000" stop="20260318163000  +0000" channel="LA7.it">
-    <title lang="it">Taga Focus</title>
-    <category lang="it">Attualità</category>
-  </programme>
-  <programme start="20260318163000  +0000" stop="20260318173000  +0000" channel="LA7.it">
-    <title lang="it">La Torre di Babele doc</title>
-    <category lang="it">Documentario</category>
-  </programme>
-  <programme start="20260318173000  +0000" stop="20260318190000  +0000" channel="LA7.it">
-    <title lang="it">Ignoto X - Dentro e oltre le storie di cronaca</title>
-    <category lang="it">Crime e Mistero</category>
-  </programme>
-  <programme start="20260318190000  +0000" stop="20260318193500  +0000" channel="LA7.it">
-    <title lang="it">TG LA7</title>
-    <category lang="it">Notizie</category>
-  </programme>
-  <programme start="20260318193500  +0000" stop="20260318201500  +0000" channel="LA7.it">
-    <title lang="it">Otto e Mezzo</title>
-    <category lang="it">Intrattenimento</category>
-  </programme>
-  <programme start="20260318201500  +0000" stop="20260318223000  +0000" channel="LA7.it">
-    <title lang="it">La giusta distanza- Peci - Buscetta</title>
-    <category lang="it">Attualità</category>
-  </programme>
-  <programme start="20260318223000  +0000" stop="20260319000000  +0000" channel="LA7.it">
-    <title lang="it">Black Rain - Pioggia sporca (1989)</title>
-    <category lang="it">Film</category>
-  </programme>
-  <programme start="20260319000000  +0000" stop="20260319002000  +0000" channel="LA7.it">
-    <title lang="it">TG LA7 Notte</title>
-    <category lang="it">Notizie</category>
-  </programme>
-  <programme start="20260319002000  +0000" stop="20260319005500  +0000" channel="LA7.it">
-    <title lang="it">Otto e Mezzo (r)</title>
-    <category lang="it">Intrattenimento</category>
-  </programme>
-  <programme start="20260319005500  +0000" stop="20260319011500  +0000" channel="LA7.it">
-    <title lang="it">LIKE Tutto ciò che piace</title>
-    <category lang="it">Intrattenimento</category>
-  </programme>
-  <programme start="20260319011500  +0000" stop="20260319020000  +0000" channel="LA7.it">
-    <title lang="it">La Torre di Babele doc (r)</title>
-    <category lang="it">Documentario</category>
-  </programme>
-  <programme start="20260319020000  +0000" stop="20260319020000  +0000" channel="LA7.it">
-    <title lang="it">L&apos;Aria Che Tira (r)</title>
-    <category lang="it">Rubrica</category>
-  </programme>
   <programme start="20260319020000  +0000" stop="20260319060000  +0000" channel="LA7.it">
     <title lang="it">L&apos;Aria Che Tira (r)</title>
     <category lang="it">Rubrica</category>
@@ -34927,15 +34847,15 @@
     <title lang="it">Meteo</title>
     <category lang="it">Notizie</category>
   </programme>
-  <programme start="20260320013000  +0000" stop="20260320022500  +0000" channel="RSILa1.ch">
+  <programme start="20260320013000  +0000" stop="20260320022000  +0000" channel="RSILa1.ch">
     <title lang="it">Prima Ora (R)</title>
     <category lang="it">Notizie</category>
   </programme>
-  <programme start="20260320022500  +0000" stop="20260320025500  +0000" channel="RSILa1.ch">
+  <programme start="20260320022000  +0000" stop="20260320025000  +0000" channel="RSILa1.ch">
     <title lang="it">Il Quotidiano (R)</title>
     <category lang="it">Notizie</category>
   </programme>
-  <programme start="20260320025500  +0000" stop="20260320040000  +0000" channel="RSILa1.ch">
+  <programme start="20260320025000  +0000" stop="20260320040000  +0000" channel="RSILa1.ch">
     <title lang="it">Telegiornale</title>
     <category lang="it">Notizie</category>
   </programme>
@@ -35124,8 +35044,8 @@
     <category lang="it">Attualità</category>
   </programme>
   <programme start="20260318073000  +0000" stop="20260318080000  +0000" channel="RSILa2.ch">
-    <title lang="it">Modem</title>
-    <category lang="it">Attualità</category>
+    <title lang="it">Modem - Il conto alla rovescia per l’Armageddon è cominciato</title>
+    <category lang="it">Altro</category>
   </programme>
   <programme start="20260318080000  +0000" stop="20260318081000  +0000" channel="RSILa2.ch">
     <title lang="it">Radiogiornale</title>
@@ -35155,13 +35075,9 @@
     <title lang="it">Papà a tempo pieno (St. 1 - Ep. 9)</title>
     <category lang="it">Sit Com</category>
   </programme>
-  <programme start="20260318131000  +0000" stop="20260318133500  +0000" channel="RSILa2.ch">
+  <programme start="20260318131000  +0000" stop="20260318144000  +0000" channel="RSILa2.ch">
     <title lang="it">Papà a tempo pieno (St. 1 - Ep. 10)</title>
     <category lang="it">Sit Com</category>
-  </programme>
-  <programme start="20260318133500  +0000" stop="20260318144000  +0000" channel="RSILa2.ch">
-    <title lang="it">Falò (R)</title>
-    <category lang="it">Rubrica</category>
   </programme>
   <programme start="20260318144000  +0000" stop="20260318153500  +0000" channel="RSILa2.ch">
     <title lang="it">Homicide Hills - Un Commissario in campagna (Ep. 2)</title>
@@ -35227,8 +35143,12 @@
     <title lang="it">In volo sulla Svizzera italiana</title>
     <category lang="it">Documentario</category>
   </programme>
-  <programme start="20260319040500  +0000" stop="20260319043000  +0000" channel="RSILa2.ch">
+  <programme start="20260319040500  +0000" stop="20260319042500  +0000" channel="RSILa2.ch">
     <title lang="it">TG Notte (R)</title>
+    <category lang="it">Notizie</category>
+  </programme>
+  <programme start="20260319042500  +0000" stop="20260319043000  +0000" channel="RSILa2.ch">
+    <title lang="it">Meteo</title>
     <category lang="it">Notizie</category>
   </programme>
   <programme start="20260319043000  +0000" stop="20260319043000  +0000" channel="RSILa2.ch">
@@ -35323,9 +35243,21 @@
     <title lang="it">Biathlon: Coppa del Mondo 2025/2026 - Sprint femminile 7.5 km (R)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260320020500  +0000" stop="20260320040000  +0000" channel="RSILa2.ch">
+  <programme start="20260320020500  +0000" stop="20260320031000  +0000" channel="RSILa2.ch">
     <title lang="it">Calcio: Europa League 2025/2026 - Aston Villa - Lille (R)</title>
     <category lang="it">Sport</category>
+  </programme>
+  <programme start="20260320031000  +0000" stop="20260320031500  +0000" channel="RSILa2.ch">
+    <title lang="it">TG Notte (R)</title>
+    <category lang="it">Notizie</category>
+  </programme>
+  <programme start="20260320031500  +0000" stop="20260320032000  +0000" channel="RSILa2.ch">
+    <title lang="it">Prima Ora (R)</title>
+    <category lang="it">Rubrica</category>
+  </programme>
+  <programme start="20260320032000  +0000" stop="20260320040000  +0000" channel="RSILa2.ch">
+    <title lang="it">Telegiornale</title>
+    <category lang="it">Notizie</category>
   </programme>
   <programme start="20260320040000  +0000" stop="20260320040500  +0000" channel="RSILa2.ch">
     <title lang="it">In volo sulla Svizzera italiana</title>
