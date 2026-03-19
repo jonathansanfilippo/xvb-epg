@@ -1119,11 +1119,11 @@
     <title lang="it">Show reel</title>
     <category lang="it">Attualità</category>
   </programme>
-  <programme start="20260320052600  +0000" stop="20260320060600  +0000" channel="superguidatv:20/sky-intrattenimento/443">
+  <programme start="20260320052600  +0000" stop="20260320060700  +0000" channel="superguidatv:20/sky-intrattenimento/443">
     <title lang="it">Batwoman (St. 3 - Ep. 2)</title>
     <category lang="it">Serie TV</category>
   </programme>
-  <programme start="20260320060600  +0000" stop="20260320064700  +0000" channel="superguidatv:20/sky-intrattenimento/443">
+  <programme start="20260320060700  +0000" stop="20260320064700  +0000" channel="superguidatv:20/sky-intrattenimento/443">
     <title lang="it">All American (St. 5 - Ep. 9)</title>
     <category lang="it">Serie TV</category>
   </programme>
@@ -1211,28 +1211,32 @@
     <title lang="it">Batwoman (St. 3 - Ep. 4)</title>
     <category lang="it">Serie TV</category>
   </programme>
-  <programme start="20260321015400  +0000" stop="20260321024500  +0000" channel="superguidatv:20/sky-intrattenimento/443">
+  <programme start="20260321015400  +0000" stop="20260321020600  +0000" channel="superguidatv:20/sky-intrattenimento/443">
     <title lang="it">Show reel</title>
     <category lang="it">Attualità</category>
   </programme>
-  <programme start="20260321024500  +0000" stop="20260321030600  +0000" channel="superguidatv:20/sky-intrattenimento/443">
-    <title lang="it">grown-ish (St. 3 - Ep. 5)</title>
-    <category lang="it">Serie TV</category>
+  <programme start="20260321020600  +0000" stop="20260321022600  +0000" channel="superguidatv:20/sky-intrattenimento/443">
+    <title lang="it">Grown-ish (St. 3 - Ep. 5)</title>
+    <category lang="it">Sit Com</category>
   </programme>
-  <programme start="20260321030600  +0000" stop="20260321032600  +0000" channel="superguidatv:20/sky-intrattenimento/443">
-    <title lang="it">grown-ish (St. 3 - Ep. 6)</title>
-    <category lang="it">Serie TV</category>
+  <programme start="20260321022600  +0000" stop="20260321024600  +0000" channel="superguidatv:20/sky-intrattenimento/443">
+    <title lang="it">Grown-ish (St. 3 - Ep. 6)</title>
+    <category lang="it">Sit Com</category>
   </programme>
-  <programme start="20260321032600  +0000" stop="20260321034600  +0000" channel="superguidatv:20/sky-intrattenimento/443">
+  <programme start="20260321024600  +0000" stop="20260321030700  +0000" channel="superguidatv:20/sky-intrattenimento/443">
     <title lang="it">grown-ish (St. 3 - Ep. 7)</title>
     <category lang="it">Serie TV</category>
   </programme>
-  <programme start="20260321034600  +0000" stop="20260321040600  +0000" channel="superguidatv:20/sky-intrattenimento/443">
+  <programme start="20260321030700  +0000" stop="20260321032700  +0000" channel="superguidatv:20/sky-intrattenimento/443">
     <title lang="it">grown-ish (St. 3 - Ep. 8)</title>
     <category lang="it">Serie TV</category>
   </programme>
-  <programme start="20260321040600  +0000" stop="20260321045900  +0000" channel="superguidatv:20/sky-intrattenimento/443">
-    <title lang="it">R.I.S. - Delitti Imperfetti (St. 5 - Ep. 16)</title>
+  <programme start="20260321032700  +0000" stop="20260321042000  +0000" channel="superguidatv:20/sky-intrattenimento/443">
+    <title lang="it">R.I.S. - Delitti Imperfetti (St. 5 - Ep. 17)</title>
+    <category lang="it">Serie TV</category>
+  </programme>
+  <programme start="20260321042000  +0000" stop="20260321045900  +0000" channel="superguidatv:20/sky-intrattenimento/443">
+    <title lang="it">Batwoman (St. 3 - Ep. 3)</title>
     <category lang="it">Serie TV</category>
   </programme>
   <programme start="20260321045900  +0000" stop="20260321045900  +0000" channel="superguidatv:20/sky-intrattenimento/443">
@@ -2176,7 +2180,7 @@
     <category lang="it">Notizie</category>
   </programme>
   <programme start="20260321020000  +0000" stop="20260321023000  +0000" channel="BloombergTV.us@Europe">
-    <title lang="it">The David Rubenstein Show</title>
+    <title lang="it">Bloomberg Wall Street Week</title>
     <category lang="it">Notizie</category>
   </programme>
   <programme start="20260321023000  +0000" stop="20260321030000  +0000" channel="BloombergTV.us@Europe">
@@ -2427,11 +2431,11 @@
     <title lang="it">Lo strano e meraviglioso mondo di Gumball</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260319065000  +0000" stop="20260319070000  +0000" channel="Boing.it">
+  <programme start="20260319065000  +0000" stop="20260319071000  +0000" channel="Boing.it">
     <title lang="it">Teen Titans Go!</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260319070000  +0000" stop="20260319072500  +0000" channel="Boing.it">
+  <programme start="20260319071000  +0000" stop="20260319072500  +0000" channel="Boing.it">
     <title lang="it">Teen Titans Go!</title>
     <category lang="it">Ragazzi</category>
   </programme>
@@ -2439,11 +2443,11 @@
     <title lang="it">Teen Titans Go!</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260319073000  +0000" stop="20260319074500  +0000" channel="Boing.it">
+  <programme start="20260319073000  +0000" stop="20260319073500  +0000" channel="Boing.it">
     <title lang="it">Teen Titans Go!</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260319074500  +0000" stop="20260319075500  +0000" channel="Boing.it">
+  <programme start="20260319073500  +0000" stop="20260319075500  +0000" channel="Boing.it">
     <title lang="it">Teen Titans Go!</title>
     <category lang="it">Ragazzi</category>
   </programme>
@@ -2451,19 +2455,19 @@
     <title lang="it">Teen Titans Go!</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260319080500  +0000" stop="20260319082000  +0000" channel="Boing.it">
+  <programme start="20260319080500  +0000" stop="20260319083000  +0000" channel="Boing.it">
     <title lang="it">Teen Titans Go!</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260319082000  +0000" stop="20260319083500  +0000" channel="Boing.it">
+  <programme start="20260319083000  +0000" stop="20260319083500  +0000" channel="Boing.it">
     <title lang="it">Teen Titans Go!</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260319083500  +0000" stop="20260319084500  +0000" channel="Boing.it">
+  <programme start="20260319083500  +0000" stop="20260319085500  +0000" channel="Boing.it">
     <title lang="it">Teen Titans Go!</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260319084500  +0000" stop="20260319090000  +0000" channel="Boing.it">
+  <programme start="20260319085500  +0000" stop="20260319090000  +0000" channel="Boing.it">
     <title lang="it">Teen Titans Go!</title>
     <category lang="it">Ragazzi</category>
   </programme>
@@ -2471,11 +2475,11 @@
     <title lang="it">Teen Titans Go!</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260319090500  +0000" stop="20260319092500  +0000" channel="Boing.it">
+  <programme start="20260319090500  +0000" stop="20260319091500  +0000" channel="Boing.it">
     <title lang="it">Teen Titans Go!</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260319092500  +0000" stop="20260319094000  +0000" channel="Boing.it">
+  <programme start="20260319091500  +0000" stop="20260319094000  +0000" channel="Boing.it">
     <title lang="it">Teen Titans Go!</title>
     <category lang="it">Ragazzi</category>
   </programme>
@@ -2567,11 +2571,11 @@
     <title lang="it">Doraemon</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260319143000  +0000" stop="20260319151000  +0000" channel="Boing.it">
+  <programme start="20260319143000  +0000" stop="20260319150000  +0000" channel="Boing.it">
     <title lang="it">Doraemon</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260319151000  +0000" stop="20260319152500  +0000" channel="Boing.it">
+  <programme start="20260319150000  +0000" stop="20260319152500  +0000" channel="Boing.it">
     <title lang="it">Craig</title>
     <category lang="it">Ragazzi</category>
   </programme>
@@ -2587,11 +2591,11 @@
     <title lang="it">Craig</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260319154500  +0000" stop="20260319161500  +0000" channel="Boing.it">
+  <programme start="20260319154500  +0000" stop="20260319160500  +0000" channel="Boing.it">
     <title lang="it">Craig</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260319161500  +0000" stop="20260319162000  +0000" channel="Boing.it">
+  <programme start="20260319160500  +0000" stop="20260319162000  +0000" channel="Boing.it">
     <title lang="it">Craig</title>
     <category lang="it">Ragazzi</category>
   </programme>
@@ -2603,11 +2607,11 @@
     <title lang="it">Teen Titans Go!</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260319164000  +0000" stop="20260319170000  +0000" channel="Boing.it">
+  <programme start="20260319164000  +0000" stop="20260319171000  +0000" channel="Boing.it">
     <title lang="it">Teen Titans Go!</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260319170000  +0000" stop="20260319171500  +0000" channel="Boing.it">
+  <programme start="20260319171000  +0000" stop="20260319171500  +0000" channel="Boing.it">
     <title lang="it">Teen Titans Go!</title>
     <category lang="it">Ragazzi</category>
   </programme>
@@ -2639,11 +2643,11 @@
     <title lang="it">Lo straordinario mondo di Gumball</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260319183500  +0000" stop="20260319190000  +0000" channel="Boing.it">
+  <programme start="20260319183500  +0000" stop="20260319185000  +0000" channel="Boing.it">
     <title lang="it">Lo straordinario mondo di Gumball</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260319190000  +0000" stop="20260319190500  +0000" channel="Boing.it">
+  <programme start="20260319185000  +0000" stop="20260319190500  +0000" channel="Boing.it">
     <title lang="it">Lo straordinario mondo di Gumball</title>
     <category lang="it">Ragazzi</category>
   </programme>
@@ -2655,19 +2659,19 @@
     <title lang="it">Lo straordinario mondo di Gumball</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260319193000  +0000" stop="20260319194500  +0000" channel="Boing.it">
+  <programme start="20260319193000  +0000" stop="20260319195500  +0000" channel="Boing.it">
     <title lang="it">Lo straordinario mondo di Gumball</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260319194500  +0000" stop="20260319200000  +0000" channel="Boing.it">
+  <programme start="20260319195500  +0000" stop="20260319200000  +0000" channel="Boing.it">
     <title lang="it">Lo straordinario mondo di Gumball</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260319200000  +0000" stop="20260319201500  +0000" channel="Boing.it">
+  <programme start="20260319200000  +0000" stop="20260319202500  +0000" channel="Boing.it">
     <title lang="it">Lo straordinario mondo di Gumball</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260319201500  +0000" stop="20260319203000  +0000" channel="Boing.it">
+  <programme start="20260319202500  +0000" stop="20260319203000  +0000" channel="Boing.it">
     <title lang="it">Lo straordinario mondo di Gumball</title>
     <category lang="it">Ragazzi</category>
   </programme>
@@ -2703,11 +2707,11 @@
     <title lang="it">Lo straordinario mondo di Gumball</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260319230500  +0000" stop="20260319232500  +0000" channel="Boing.it">
+  <programme start="20260319230500  +0000" stop="20260319231500  +0000" channel="Boing.it">
     <title lang="it">Lo straordinario mondo di Gumball</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260319232500  +0000" stop="20260319233500  +0000" channel="Boing.it">
+  <programme start="20260319231500  +0000" stop="20260319233500  +0000" channel="Boing.it">
     <title lang="it">Lo straordinario mondo di Gumball</title>
     <category lang="it">Ragazzi</category>
   </programme>
@@ -2731,15 +2735,15 @@
     <title lang="it">Spank tenero rubacuore</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260320004000  +0000" stop="20260320005500  +0000" channel="Boing.it">
+  <programme start="20260320004000  +0000" stop="20260320010000  +0000" channel="Boing.it">
     <title lang="it">Lo straordinario mondo di Gumball</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260320005500  +0000" stop="20260320010000  +0000" channel="Boing.it">
+  <programme start="20260320010000  +0000" stop="20260320010500  +0000" channel="Boing.it">
     <title lang="it">Lo straordinario mondo di Gumball</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260320010000  +0000" stop="20260320011500  +0000" channel="Boing.it">
+  <programme start="20260320010500  +0000" stop="20260320011500  +0000" channel="Boing.it">
     <title lang="it">Lo straordinario mondo di Gumball</title>
     <category lang="it">Ragazzi</category>
   </programme>
@@ -2747,11 +2751,11 @@
     <title lang="it">Lo straordinario mondo di Gumball</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260320012000  +0000" stop="20260320012500  +0000" channel="Boing.it">
+  <programme start="20260320012000  +0000" stop="20260320013500  +0000" channel="Boing.it">
     <title lang="it">Lo straordinario mondo di Gumball</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260320012500  +0000" stop="20260320014000  +0000" channel="Boing.it">
+  <programme start="20260320013500  +0000" stop="20260320014000  +0000" channel="Boing.it">
     <title lang="it">Lo straordinario mondo di Gumball</title>
     <category lang="it">Ragazzi</category>
   </programme>
@@ -2803,11 +2807,11 @@
     <title lang="it">Lo straordinario mondo di Gumball</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260320034000  +0000" stop="20260320034500  +0000" channel="Boing.it">
+  <programme start="20260320034000  +0000" stop="20260320035500  +0000" channel="Boing.it">
     <title lang="it">Lo straordinario mondo di Gumball</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260320034500  +0000" stop="20260320040000  +0000" channel="Boing.it">
+  <programme start="20260320035500  +0000" stop="20260320040000  +0000" channel="Boing.it">
     <title lang="it">Lo straordinario mondo di Gumball</title>
     <category lang="it">Ragazzi</category>
   </programme>
@@ -2823,11 +2827,15 @@
     <title lang="it">Lo straordinario mondo di Gumball</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260320042500  +0000" stop="20260320043500  +0000" channel="Boing.it">
+  <programme start="20260320042500  +0000" stop="20260320044500  +0000" channel="Boing.it">
     <title lang="it">Lo straordinario mondo di Gumball</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260320043500  +0000" stop="20260320045000  +0000" channel="Boing.it">
+  <programme start="20260320044500  +0000" stop="20260320044500  +0000" channel="Boing.it">
+    <title lang="it">Lo straordinario mondo di Gumball</title>
+    <category lang="it">Ragazzi</category>
+  </programme>
+  <programme start="20260320044500  +0000" stop="20260320045000  +0000" channel="Boing.it">
     <title lang="it">Lo straordinario mondo di Gumball</title>
     <category lang="it">Ragazzi</category>
   </programme>
@@ -2883,31 +2891,31 @@
     <title lang="it">Lo strano e meraviglioso mondo di Gumball</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260320065000  +0000" stop="20260320070000  +0000" channel="Boing.it">
+  <programme start="20260320065000  +0000" stop="20260320071000  +0000" channel="Boing.it">
     <title lang="it">Teen Titans Go!</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260320070000  +0000" stop="20260320071500  +0000" channel="Boing.it">
+  <programme start="20260320071000  +0000" stop="20260320071500  +0000" channel="Boing.it">
     <title lang="it">Teen Titans Go!</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260320071500  +0000" stop="20260320072500  +0000" channel="Boing.it">
+  <programme start="20260320071500  +0000" stop="20260320073500  +0000" channel="Boing.it">
     <title lang="it">Teen Titans Go!</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260320072500  +0000" stop="20260320075000  +0000" channel="Boing.it">
+  <programme start="20260320073500  +0000" stop="20260320075500  +0000" channel="Boing.it">
     <title lang="it">Teen Titans Go!</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260320075000  +0000" stop="20260320075500  +0000" channel="Boing.it">
+  <programme start="20260320075500  +0000" stop="20260320080000  +0000" channel="Boing.it">
     <title lang="it">Teen Titans Go!</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260320075500  +0000" stop="20260320082000  +0000" channel="Boing.it">
+  <programme start="20260320080000  +0000" stop="20260320081000  +0000" channel="Boing.it">
     <title lang="it">Teen Titans Go!</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260320082000  +0000" stop="20260320083000  +0000" channel="Boing.it">
+  <programme start="20260320081000  +0000" stop="20260320083000  +0000" channel="Boing.it">
     <title lang="it">Teen Titans Go!</title>
     <category lang="it">Ragazzi</category>
   </programme>
@@ -2923,11 +2931,11 @@
     <title lang="it">Teen Titans Go!</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260320090000  +0000" stop="20260320091000  +0000" channel="Boing.it">
+  <programme start="20260320090000  +0000" stop="20260320092000  +0000" channel="Boing.it">
     <title lang="it">Teen Titans Go!</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260320091000  +0000" stop="20260320092500  +0000" channel="Boing.it">
+  <programme start="20260320092000  +0000" stop="20260320092500  +0000" channel="Boing.it">
     <title lang="it">Teen Titans Go!</title>
     <category lang="it">Ragazzi</category>
   </programme>
@@ -2935,11 +2943,11 @@
     <title lang="it">Teen Titans Go!</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260320093000  +0000" stop="20260320094000  +0000" channel="Boing.it">
+  <programme start="20260320093000  +0000" stop="20260320095000  +0000" channel="Boing.it">
     <title lang="it">Teen Titans Go!</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260320094000  +0000" stop="20260320100500  +0000" channel="Boing.it">
+  <programme start="20260320095000  +0000" stop="20260320100500  +0000" channel="Boing.it">
     <title lang="it">Teen Titans Go!</title>
     <category lang="it">Ragazzi</category>
   </programme>
@@ -2959,11 +2967,11 @@
     <title lang="it">Teen Titans Go!</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260320110000  +0000" stop="20260320110500  +0000" channel="Boing.it">
+  <programme start="20260320110000  +0000" stop="20260320111500  +0000" channel="Boing.it">
     <title lang="it">Teen Titans Go!</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260320110500  +0000" stop="20260320113000  +0000" channel="Boing.it">
+  <programme start="20260320111500  +0000" stop="20260320113000  +0000" channel="Boing.it">
     <title lang="it">Teen Titans Go!</title>
     <category lang="it">Ragazzi</category>
   </programme>
@@ -2987,11 +2995,11 @@
     <title lang="it">Clarence</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260320122500  +0000" stop="20260320124500  +0000" channel="Boing.it">
+  <programme start="20260320122500  +0000" stop="20260320123500  +0000" channel="Boing.it">
     <title lang="it">Clarence</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260320124500  +0000" stop="20260320130000  +0000" channel="Boing.it">
+  <programme start="20260320123500  +0000" stop="20260320130000  +0000" channel="Boing.it">
     <title lang="it">Clarence</title>
     <category lang="it">Ragazzi</category>
   </programme>
@@ -3003,19 +3011,19 @@
     <title lang="it">Clarence</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260320131500  +0000" stop="20260320133500  +0000" channel="Boing.it">
+  <programme start="20260320131500  +0000" stop="20260320132500  +0000" channel="Boing.it">
     <title lang="it">Clarence</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260320133500  +0000" stop="20260320134000  +0000" channel="Boing.it">
+  <programme start="20260320132500  +0000" stop="20260320134000  +0000" channel="Boing.it">
     <title lang="it">Clarence</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260320134000  +0000" stop="20260320140000  +0000" channel="Boing.it">
+  <programme start="20260320134000  +0000" stop="20260320135000  +0000" channel="Boing.it">
     <title lang="it">Clarence</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260320140000  +0000" stop="20260320141000  +0000" channel="Boing.it">
+  <programme start="20260320135000  +0000" stop="20260320141000  +0000" channel="Boing.it">
     <title lang="it">Clarence</title>
     <category lang="it">Ragazzi</category>
   </programme>
@@ -3059,11 +3067,11 @@
     <title lang="it">Teen Titans Go!</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260320164000  +0000" stop="20260320171000  +0000" channel="Boing.it">
+  <programme start="20260320164000  +0000" stop="20260320170000  +0000" channel="Boing.it">
     <title lang="it">Teen Titans Go!</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260320171000  +0000" stop="20260320171500  +0000" channel="Boing.it">
+  <programme start="20260320170000  +0000" stop="20260320171500  +0000" channel="Boing.it">
     <title lang="it">Teen Titans Go!</title>
     <category lang="it">Ragazzi</category>
   </programme>
@@ -3091,11 +3099,11 @@
     <title lang="it">Lo strano e meraviglioso mondo di Gumball</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260320183000  +0000" stop="20260320202500  +0000" channel="Boing.it">
+  <programme start="20260320183000  +0000" stop="20260320201500  +0000" channel="Boing.it">
     <title lang="it">Il film Pokemon - Scelgo te!</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260320202500  +0000" stop="20260320203000  +0000" channel="Boing.it">
+  <programme start="20260320201500  +0000" stop="20260320203000  +0000" channel="Boing.it">
     <title lang="it">Teen Titans Go!</title>
     <category lang="it">Ragazzi</category>
   </programme>
@@ -3131,19 +3139,19 @@
     <title lang="it">Lo straordinario mondo di Gumball</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260320230500  +0000" stop="20260320231500  +0000" channel="Boing.it">
+  <programme start="20260320230500  +0000" stop="20260320232500  +0000" channel="Boing.it">
     <title lang="it">Lo straordinario mondo di Gumball</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260320231500  +0000" stop="20260320233000  +0000" channel="Boing.it">
+  <programme start="20260320232500  +0000" stop="20260320233000  +0000" channel="Boing.it">
     <title lang="it">Lo straordinario mondo di Gumball</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260320233000  +0000" stop="20260320234500  +0000" channel="Boing.it">
+  <programme start="20260320233000  +0000" stop="20260320233500  +0000" channel="Boing.it">
     <title lang="it">Lo straordinario mondo di Gumball</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260320234500  +0000" stop="20260320235000  +0000" channel="Boing.it">
+  <programme start="20260320233500  +0000" stop="20260320235000  +0000" channel="Boing.it">
     <title lang="it">Lo straordinario mondo di Gumball</title>
     <category lang="it">Ragazzi</category>
   </programme>
@@ -3191,11 +3199,11 @@
     <title lang="it">Lo straordinario mondo di Gumball</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260321020000  +0000" stop="20260321020500  +0000" channel="Boing.it">
+  <programme start="20260321020000  +0000" stop="20260321021500  +0000" channel="Boing.it">
     <title lang="it">Lo straordinario mondo di Gumball</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260321020500  +0000" stop="20260321022000  +0000" channel="Boing.it">
+  <programme start="20260321021500  +0000" stop="20260321022000  +0000" channel="Boing.it">
     <title lang="it">Lo straordinario mondo di Gumball</title>
     <category lang="it">Ragazzi</category>
   </programme>
@@ -3203,11 +3211,11 @@
     <title lang="it">Lo straordinario mondo di Gumball</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260321022500  +0000" stop="20260321024500  +0000" channel="Boing.it">
+  <programme start="20260321022500  +0000" stop="20260321023500  +0000" channel="Boing.it">
     <title lang="it">Lo straordinario mondo di Gumball</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260321024500  +0000" stop="20260321025500  +0000" channel="Boing.it">
+  <programme start="20260321023500  +0000" stop="20260321025500  +0000" channel="Boing.it">
     <title lang="it">Lo straordinario mondo di Gumball</title>
     <category lang="it">Ragazzi</category>
   </programme>
@@ -3215,11 +3223,11 @@
     <title lang="it">Lo straordinario mondo di Gumball</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260321030000  +0000" stop="20260321031500  +0000" channel="Boing.it">
+  <programme start="20260321030000  +0000" stop="20260321030500  +0000" channel="Boing.it">
     <title lang="it">Lo straordinario mondo di Gumball</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260321031500  +0000" stop="20260321032000  +0000" channel="Boing.it">
+  <programme start="20260321030500  +0000" stop="20260321032000  +0000" channel="Boing.it">
     <title lang="it">Lo straordinario mondo di Gumball</title>
     <category lang="it">Ragazzi</category>
   </programme>
@@ -13859,8 +13867,12 @@
     <title lang="it">CNN News Central - 1^TV</title>
     <category lang="it">Notizie</category>
   </programme>
-  <programme start="20260319120000  +0000" stop="20260319130000  +0000" channel="CNNInternational.us@MENA">
+  <programme start="20260319120000  +0000" stop="20260319123000  +0000" channel="CNNInternational.us@MENA">
     <title lang="it">CNN News Central - 1^TV</title>
+    <category lang="it">Notizie</category>
+  </programme>
+  <programme start="20260319123000  +0000" stop="20260319130000  +0000" channel="CNNInternational.us@MENA">
+    <title lang="it">World Sport - 1^TV</title>
     <category lang="it">Notizie</category>
   </programme>
   <programme start="20260319130000  +0000" stop="20260319134500  +0000" channel="CNNInternational.us@MENA">
@@ -13895,8 +13907,12 @@
     <title lang="it">Quest Means Business - 1^TV</title>
     <category lang="it">Notizie</category>
   </programme>
-  <programme start="20260319210000  +0000" stop="20260319220000  +0000" channel="CNNInternational.us@MENA">
+  <programme start="20260319210000  +0000" stop="20260319213000  +0000" channel="CNNInternational.us@MENA">
     <title lang="it">The Lead with Jake Tapper - 1^TV</title>
+    <category lang="it">Notizie</category>
+  </programme>
+  <programme start="20260319213000  +0000" stop="20260319220000  +0000" channel="CNNInternational.us@MENA">
+    <title lang="it">World Sport - 1^TV</title>
     <category lang="it">Notizie</category>
   </programme>
   <programme start="20260319220000  +0000" stop="20260319230000  +0000" channel="CNNInternational.us@MENA">
@@ -14768,19 +14784,19 @@
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260319080000  +0000" stop="20260319080000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">LIV Golf South Africa - Giorno 1 - Group 4</title>
-    <category lang="it">Sport</category>
-  </programme>
-  <programme start="20260319080000  +0000" stop="20260319080000  +0000" channel="superguidatv:dazn/dazn/459">
     <title lang="it">LIV Golf South Africa - Giorno 1 Featured Group 1</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260319080000  +0000" stop="20260319080000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">LIV Golf South Africa - Giorno 1</title>
+    <title lang="it">LIV Golf South Africa - Giorno 1 - Group 4</title>
+    <category lang="it">Sport</category>
+  </programme>
+  <programme start="20260319080000  +0000" stop="20260319080000  +0000" channel="superguidatv:dazn/dazn/459">
+    <title lang="it">LIV Golf South Africa - Giorno 1 Featured Group 3</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260319080000  +0000" stop="20260319120000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">LIV Golf South Africa - Giorno 1 Featured Group 3</title>
+    <title lang="it">LIV Golf South Africa - Giorno 1</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260319120000  +0000" stop="20260319130000  +0000" channel="superguidatv:dazn/dazn/459">
@@ -14788,23 +14804,23 @@
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260319130000  +0000" stop="20260319130000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">GP Denain</title>
-    <category lang="it">Sport</category>
-  </programme>
-  <programme start="20260319130000  +0000" stop="20260319140000  +0000" channel="superguidatv:dazn/dazn/459">
     <title lang="it">Conlan vs. Walsh: Cerimonia del peso</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260319140000  +0000" stop="20260319140000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Liddard vs. Denny: Conferenza stampa</title>
+  <programme start="20260319130000  +0000" stop="20260319140000  +0000" channel="superguidatv:dazn/dazn/459">
+    <title lang="it">GP Denain</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260319140000  +0000" stop="20260319140000  +0000" channel="superguidatv:dazn/dazn/459">
     <title lang="it">Social Corner</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260319140000  +0000" stop="20260319150000  +0000" channel="superguidatv:dazn/dazn/459">
+  <programme start="20260319140000  +0000" stop="20260319140000  +0000" channel="superguidatv:dazn/dazn/459">
     <title lang="it">Quarti ritorno | Fenerbahçe Opet Istanbul - Savino Del Bene Scandicci</title>
+    <category lang="it">Sport</category>
+  </programme>
+  <programme start="20260319140000  +0000" stop="20260319150000  +0000" channel="superguidatv:dazn/dazn/459">
+    <title lang="it">Liddard vs. Denny: Conferenza stampa</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260319150000  +0000" stop="20260319161500  +0000" channel="superguidatv:dazn/dazn/459">
@@ -14872,7 +14888,11 @@
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260319230000  +0000" stop="20260319230000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">UFC Highlights | Episodio 7</title>
+    <title lang="it">Islanders vs. Senators</title>
+    <category lang="it">Sport</category>
+  </programme>
+  <programme start="20260319230000  +0000" stop="20260319230000  +0000" channel="superguidatv:dazn/dazn/459">
+    <title lang="it">Stewart vs.Gaffie: Weigh-In</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260319230000  +0000" stop="20260319230000  +0000" channel="superguidatv:dazn/dazn/459">
@@ -14880,23 +14900,19 @@
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260319230000  +0000" stop="20260319230000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Rangers vs. Blue Jackets</title>
-    <category lang="it">Sport</category>
-  </programme>
-  <programme start="20260319230000  +0000" stop="20260319230000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Islanders vs. Senators</title>
-    <category lang="it">Sport</category>
-  </programme>
-  <programme start="20260319230000  +0000" stop="20260319230000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Jets vs. Bruins</title>
+    <title lang="it">UFC Highlights | Episodio 7</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260319230000  +0000" stop="20260319230000  +0000" channel="superguidatv:dazn/dazn/459">
     <title lang="it">Canadiens vs. Red Wings</title>
     <category lang="it">Sport</category>
   </programme>
+  <programme start="20260319230000  +0000" stop="20260319230000  +0000" channel="superguidatv:dazn/dazn/459">
+    <title lang="it">Rangers vs. Blue Jackets</title>
+    <category lang="it">Sport</category>
+  </programme>
   <programme start="20260319230000  +0000" stop="20260319231000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Stewart vs.Gaffie: Weigh-In</title>
+    <title lang="it">Jets vs. Bruins</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260319231000  +0000" stop="20260319232500  +0000" channel="superguidatv:dazn/dazn/459">
@@ -14916,11 +14932,11 @@
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260320000000  +0000" stop="20260320000000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Kraken vs. Predators</title>
+    <title lang="it">Parrilla vs. Velasquez</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260320000000  +0000" stop="20260320010000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Parrilla vs. Velasquez</title>
+    <title lang="it">Kraken vs. Predators</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260320010000  +0000" stop="20260320010000  +0000" channel="superguidatv:dazn/dazn/459">
@@ -14944,7 +14960,7 @@
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260320020000  +0000" stop="20260320020000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Round of 64: (3) Gonzaga vs. (14) Kennesaw State</title>
+    <title lang="it">Sabres vs. Sharks</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260320020000  +0000" stop="20260320020000  +0000" channel="superguidatv:dazn/dazn/459">
@@ -14952,7 +14968,7 @@
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260320020000  +0000" stop="20260320021000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Sabres vs. Sharks</title>
+    <title lang="it">Round of 64: (3) Gonzaga vs. (14) Kennesaw State</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260320021000  +0000" stop="20260320023000  +0000" channel="superguidatv:dazn/dazn/459">
@@ -14972,14 +14988,6 @@
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260320100000  +0000" stop="20260320100000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">LIV Golf South Africa - Giorno 2</title>
-    <category lang="it">Sport</category>
-  </programme>
-  <programme start="20260320100000  +0000" stop="20260320100000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">LIV Golf South Africa - Giorno 2 Featured Group 4</title>
-    <category lang="it">Sport</category>
-  </programme>
-  <programme start="20260320100000  +0000" stop="20260320100000  +0000" channel="superguidatv:dazn/dazn/459">
     <title lang="it">LIV Golf South Africa - Giorno 2 Featured Group 1</title>
     <category lang="it">Sport</category>
   </programme>
@@ -14987,8 +14995,16 @@
     <title lang="it">LIV Golf South Africa - Giorno 2 Featured Group 3</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260320100000  +0000" stop="20260320120000  +0000" channel="superguidatv:dazn/dazn/459">
+  <programme start="20260320100000  +0000" stop="20260320100000  +0000" channel="superguidatv:dazn/dazn/459">
     <title lang="it">LIV Golf South Africa - Giorno 2 Featured Group 2</title>
+    <category lang="it">Sport</category>
+  </programme>
+  <programme start="20260320100000  +0000" stop="20260320100000  +0000" channel="superguidatv:dazn/dazn/459">
+    <title lang="it">LIV Golf South Africa - Giorno 2</title>
+    <category lang="it">Sport</category>
+  </programme>
+  <programme start="20260320100000  +0000" stop="20260320120000  +0000" channel="superguidatv:dazn/dazn/459">
+    <title lang="it">LIV Golf South Africa - Giorno 2 Featured Group 4</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260320120000  +0000" stop="20260320130000  +0000" channel="superguidatv:dazn/dazn/459">
@@ -15156,19 +15172,19 @@
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260321100000  +0000" stop="20260321100000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">LIV Golf South Africa - Giorno 3</title>
-    <category lang="it">Sport</category>
-  </programme>
-  <programme start="20260321100000  +0000" stop="20260321100000  +0000" channel="superguidatv:dazn/dazn/459">
     <title lang="it">LIV Golf South Africa - Giorno 3 Featured Group 2</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260321100000  +0000" stop="20260321100000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">LIV Golf South Africa - Giorno 3 Featured Group 1</title>
+    <title lang="it">LIV Golf South Africa - Giorno 3 Featured Group 4</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260321100000  +0000" stop="20260321100000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">LIV Golf South Africa - Giorno 3 Featured Group 4</title>
+    <title lang="it">LIV Golf South Africa - Giorno 3</title>
+    <category lang="it">Sport</category>
+  </programme>
+  <programme start="20260321100000  +0000" stop="20260321100000  +0000" channel="superguidatv:dazn/dazn/459">
+    <title lang="it">LIV Golf South Africa - Giorno 3 Featured Group 1</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260321100000  +0000" stop="20260321103000  +0000" channel="superguidatv:dazn/dazn/459">
@@ -15208,11 +15224,11 @@
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260321133000  +0000" stop="20260321133000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Milano-Sanremo, 2ª parte</title>
+    <title lang="it">Serie A Live</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260321133000  +0000" stop="20260321134100  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Serie A Live</title>
+    <title lang="it">Milano-Sanremo, 2ª parte</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260321134100  +0000" stop="20260321140000  +0000" channel="superguidatv:dazn/dazn/459">
@@ -15223,12 +15239,20 @@
     <title lang="it">Juve Stabia - Spezia</title>
     <category lang="it">Sport</category>
   </programme>
+  <programme start="20260321140000  +0000" stop="20260321140000  +0000" channel="superguidatv:dazn/dazn/459">
+    <title lang="it">Padova - Palermo</title>
+    <category lang="it">Sport</category>
+  </programme>
   <programme start="20260321140000  +0000" stop="20260321150000  +0000" channel="superguidatv:dazn/dazn/459">
     <title lang="it">Cesena - Catanzaro</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260321150000  +0000" stop="20260321150000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Forest Green Rovers vs. Wealdstone</title>
+    <title lang="it">Carlisle - Boston</title>
+    <category lang="it">Sport</category>
+  </programme>
+  <programme start="20260321150000  +0000" stop="20260321150000  +0000" channel="superguidatv:dazn/dazn/459">
+    <title lang="it">Oslo | Inseguimento maschile</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260321150000  +0000" stop="20260321150000  +0000" channel="superguidatv:dazn/dazn/459">
@@ -15244,10 +15268,6 @@
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260321150000  +0000" stop="20260321150000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Dagenham &amp; Redbridge - Torquay</title>
-    <category lang="it">Sport</category>
-  </programme>
-  <programme start="20260321150000  +0000" stop="20260321150000  +0000" channel="superguidatv:dazn/dazn/459">
     <title lang="it">Braintree - Scunthorpe</title>
     <category lang="it">Sport</category>
   </programme>
@@ -15256,11 +15276,7 @@
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260321150000  +0000" stop="20260321150000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Oslo | Inseguimento maschile</title>
-    <category lang="it">Sport</category>
-  </programme>
-  <programme start="20260321150000  +0000" stop="20260321150000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">York City - Brackley Town</title>
+    <title lang="it">Dagenham &amp; Redbridge - Torquay</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260321150000  +0000" stop="20260321150000  +0000" channel="superguidatv:dazn/dazn/459">
@@ -15268,7 +15284,11 @@
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260321150000  +0000" stop="20260321150000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Carlisle - Boston</title>
+    <title lang="it">Forest Green Rovers vs. Wealdstone</title>
+    <category lang="it">Sport</category>
+  </programme>
+  <programme start="20260321150000  +0000" stop="20260321150000  +0000" channel="superguidatv:dazn/dazn/459">
+    <title lang="it">York City - Brackley Town</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260321150000  +0000" stop="20260321151500  +0000" channel="superguidatv:dazn/dazn/459">
@@ -15295,8 +15315,12 @@
     <title lang="it">Milan - Torino</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260321160000  +0000" stop="20260321165000  +0000" channel="superguidatv:dazn/dazn/459">
+  <programme start="20260321160000  +0000" stop="20260321161500  +0000" channel="superguidatv:dazn/dazn/459">
     <title lang="it">Round of 64: (14) Vermont vs. (3) Louisville</title>
+    <category lang="it">Sport</category>
+  </programme>
+  <programme start="20260321161500  +0000" stop="20260321165000  +0000" channel="superguidatv:dazn/dazn/459">
+    <title lang="it">Monza - Venezia</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260321165000  +0000" stop="20260321170000  +0000" channel="superguidatv:dazn/dazn/459">
@@ -15304,15 +15328,15 @@
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260321170000  +0000" stop="20260321170000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Lazio - Roma</title>
-    <category lang="it">Sport</category>
-  </programme>
-  <programme start="20260321170000  +0000" stop="20260321170000  +0000" channel="superguidatv:dazn/dazn/459">
     <title lang="it">Jets vs. Penguins</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260321170000  +0000" stop="20260321173000  +0000" channel="superguidatv:dazn/dazn/459">
+  <programme start="20260321170000  +0000" stop="20260321170000  +0000" channel="superguidatv:dazn/dazn/459">
     <title lang="it">Valspar Championship | Giorno 3</title>
+    <category lang="it">Sport</category>
+  </programme>
+  <programme start="20260321170000  +0000" stop="20260321173000  +0000" channel="superguidatv:dazn/dazn/459">
+    <title lang="it">Lazio - Roma</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260321173000  +0000" stop="20260321180000  +0000" channel="superguidatv:dazn/dazn/459">
@@ -15320,15 +15344,19 @@
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260321180000  +0000" stop="20260321180000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Round of 64: (11) Fairfield vs. (6) Notre Dame</title>
-    <category lang="it">Sport</category>
-  </programme>
-  <programme start="20260321180000  +0000" stop="20260321180000  +0000" channel="superguidatv:dazn/dazn/459">
     <title lang="it">Benfica - Vitória Guimarães</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260321180000  +0000" stop="20260321183000  +0000" channel="superguidatv:dazn/dazn/459">
+  <programme start="20260321180000  +0000" stop="20260321180000  +0000" channel="superguidatv:dazn/dazn/459">
     <title lang="it">Golden Knights vs. Predators</title>
+    <category lang="it">Sport</category>
+  </programme>
+  <programme start="20260321180000  +0000" stop="20260321183000  +0000" channel="superguidatv:dazn/dazn/459">
+    <title lang="it">Round of 64: (11) Fairfield vs. (6) Notre Dame</title>
+    <category lang="it">Sport</category>
+  </programme>
+  <programme start="20260321183000  +0000" stop="20260321183000  +0000" channel="superguidatv:dazn/dazn/459">
+    <title lang="it">Modena - Mantova</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260321183000  +0000" stop="20260321185600  +0000" channel="superguidatv:dazn/dazn/459">
@@ -15340,15 +15368,11 @@
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260321190000  +0000" stop="20260321190000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Málaga - La Laguna Tenerife</title>
-    <category lang="it">Sport</category>
-  </programme>
-  <programme start="20260321190000  +0000" stop="20260321200000  +0000" channel="superguidatv:dazn/dazn/459">
     <title lang="it">Liddard vs. Denny</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260321200000  +0000" stop="20260321200000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Flyers vs. Sharks</title>
+  <programme start="20260321190000  +0000" stop="20260321200000  +0000" channel="superguidatv:dazn/dazn/459">
+    <title lang="it">Málaga - La Laguna Tenerife</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260321200000  +0000" stop="20260321200000  +0000" channel="superguidatv:dazn/dazn/459">
@@ -15357,6 +15381,10 @@
   </programme>
   <programme start="20260321200000  +0000" stop="20260321200000  +0000" channel="superguidatv:dazn/dazn/459">
     <title lang="it">Sabres vs. Kings</title>
+    <category lang="it">Sport</category>
+  </programme>
+  <programme start="20260321200000  +0000" stop="20260321200000  +0000" channel="superguidatv:dazn/dazn/459">
+    <title lang="it">Flyers vs. Sharks</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260321200000  +0000" stop="20260321201500  +0000" channel="superguidatv:dazn/dazn/459">
@@ -15376,15 +15404,15 @@
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260321230000  +0000" stop="20260321230000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Blues vs. Canucks</title>
+    <title lang="it">Maple Leafs vs. Senators</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260321230000  +0000" stop="20260321230000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Islanders vs. Canadiens</title>
+    <title lang="it">Blues vs. Canucks</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260321230000  +0000" stop="20260322000000  +0000" channel="superguidatv:dazn/dazn/459">
-    <title lang="it">Maple Leafs vs. Senators</title>
+    <title lang="it">Islanders vs. Canadiens</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260322000000  +0000" stop="20260322000000  +0000" channel="superguidatv:dazn/dazn/459">
@@ -21312,7 +21340,7 @@
     <category lang="it">Mondo e Tendenze</category>
   </programme>
   <programme start="20260321013000  +0000" stop="20260321020000  +0000" channel="FoxBusinessNetwork.us">
-    <title lang="it">Cops (St. 1 - Ep. 24)</title>
+    <title lang="it">Cops (St. 1)</title>
     <category lang="it">Mondo e Tendenze</category>
   </programme>
   <programme start="20260321020000  +0000" stop="20260321023000  +0000" channel="FoxBusinessNetwork.us">
@@ -31311,199 +31339,183 @@
     <title lang="it">E&apos; un po&apos; magia per Terry e Maggie (St. 1 - Ep. 24)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260320060000  +0000" stop="20260320062000  +0000" channel="superguidatv:italia-2/sky-intrattenimento/191">
+  <programme start="20260320060000  +0000" stop="20260320062200  +0000" channel="superguidatv:italia-2/sky-intrattenimento/191">
     <title lang="it">E&apos; un po&apos; magia per Terry e Maggie (St. 1 - Ep. 25)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260320062000  +0000" stop="20260320064100  +0000" channel="superguidatv:italia-2/sky-intrattenimento/191">
+  <programme start="20260320062200  +0000" stop="20260320064400  +0000" channel="superguidatv:italia-2/sky-intrattenimento/191">
     <title lang="it">E&apos; un po&apos; magia per Terry e Maggie (St. 1 - Ep. 26)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260320064100  +0000" stop="20260320070800  +0000" channel="superguidatv:italia-2/sky-intrattenimento/191">
+  <programme start="20260320064400  +0000" stop="20260320071400  +0000" channel="superguidatv:italia-2/sky-intrattenimento/191">
     <title lang="it">E&apos; un po&apos; magia per Terry e Maggie (St. 1 - Ep. 27)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260320070800  +0000" stop="20260320073500  +0000" channel="superguidatv:italia-2/sky-intrattenimento/191">
+  <programme start="20260320071400  +0000" stop="20260320074300  +0000" channel="superguidatv:italia-2/sky-intrattenimento/191">
     <title lang="it">Le nuove avventure di Lupin III (St. 2 - Ep. 52)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260320073500  +0000" stop="20260320080200  +0000" channel="superguidatv:italia-2/sky-intrattenimento/191">
+  <programme start="20260320074300  +0000" stop="20260320081300  +0000" channel="superguidatv:italia-2/sky-intrattenimento/191">
     <title lang="it">Le nuove avventure di Lupin III (St. 2 - Ep. 53)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260320080200  +0000" stop="20260320082900  +0000" channel="superguidatv:italia-2/sky-intrattenimento/191">
+  <programme start="20260320081300  +0000" stop="20260320084200  +0000" channel="superguidatv:italia-2/sky-intrattenimento/191">
     <title lang="it">Le nuove avventure di Lupin III (St. 2 - Ep. 54)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260320082900  +0000" stop="20260320085600  +0000" channel="superguidatv:italia-2/sky-intrattenimento/191">
-    <title lang="it">What&apos;s my destiny Dragon Ball (St. 1 - Ep. 114)</title>
-    <category lang="it">Ragazzi</category>
-  </programme>
-  <programme start="20260320085600  +0000" stop="20260320092300  +0000" channel="superguidatv:italia-2/sky-intrattenimento/191">
+  <programme start="20260320084200  +0000" stop="20260320091100  +0000" channel="superguidatv:italia-2/sky-intrattenimento/191">
     <title lang="it">What&apos;s my destiny Dragon Ball (St. 1 - Ep. 115)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260320092300  +0000" stop="20260320095000  +0000" channel="superguidatv:italia-2/sky-intrattenimento/191">
+  <programme start="20260320091100  +0000" stop="20260320093500  +0000" channel="superguidatv:italia-2/sky-intrattenimento/191">
     <title lang="it">What&apos;s my destiny Dragon Ball (St. 1 - Ep. 116)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260320095000  +0000" stop="20260320102400  +0000" channel="superguidatv:italia-2/sky-intrattenimento/191">
-    <title lang="it">Young Sheldon (St. 2 - Ep. 13)</title>
-    <category lang="it">Serie TV</category>
-  </programme>
-  <programme start="20260320102400  +0000" stop="20260320105100  +0000" channel="superguidatv:italia-2/sky-intrattenimento/191">
+  <programme start="20260320093500  +0000" stop="20260320100000  +0000" channel="superguidatv:italia-2/sky-intrattenimento/191">
     <title lang="it">Young Sheldon (St. 2 - Ep. 14)</title>
     <category lang="it">Serie TV</category>
   </programme>
-  <programme start="20260320105100  +0000" stop="20260320111800  +0000" channel="superguidatv:italia-2/sky-intrattenimento/191">
+  <programme start="20260320100000  +0000" stop="20260320103200  +0000" channel="superguidatv:italia-2/sky-intrattenimento/191">
     <title lang="it">Young Sheldon (St. 2 - Ep. 15)</title>
     <category lang="it">Serie TV</category>
   </programme>
-  <programme start="20260320111800  +0000" stop="20260320115200  +0000" channel="superguidatv:italia-2/sky-intrattenimento/191">
+  <programme start="20260320103200  +0000" stop="20260320105700  +0000" channel="superguidatv:italia-2/sky-intrattenimento/191">
     <title lang="it">Young Sheldon (St. 2 - Ep. 16)</title>
     <category lang="it">Serie TV</category>
   </programme>
-  <programme start="20260320115200  +0000" stop="20260320121900  +0000" channel="superguidatv:italia-2/sky-intrattenimento/191">
+  <programme start="20260320105700  +0000" stop="20260320112900  +0000" channel="superguidatv:italia-2/sky-intrattenimento/191">
     <title lang="it">Young Sheldon (St. 2 - Ep. 17)</title>
     <category lang="it">Serie TV</category>
   </programme>
-  <programme start="20260320121900  +0000" stop="20260320124500  +0000" channel="superguidatv:italia-2/sky-intrattenimento/191">
-    <title lang="it">I Goldbergs (St. 10 - Ep. 2)</title>
-    <category lang="it">Serie TV</category>
+  <programme start="20260320112900  +0000" stop="20260320115600  +0000" channel="superguidatv:italia-2/sky-intrattenimento/191">
+    <title lang="it">The Goldbergs (St. 10 - Ep. 2)</title>
+    <category lang="it">Sit Com</category>
   </programme>
-  <programme start="20260320124500  +0000" stop="20260320131100  +0000" channel="superguidatv:italia-2/sky-intrattenimento/191">
-    <title lang="it">I Goldbergs (St. 10 - Ep. 3)</title>
-    <category lang="it">Serie TV</category>
+  <programme start="20260320115600  +0000" stop="20260320123000  +0000" channel="superguidatv:italia-2/sky-intrattenimento/191">
+    <title lang="it">The Goldbergs (St. 10 - Ep. 3)</title>
+    <category lang="it">Sit Com</category>
   </programme>
-  <programme start="20260320131100  +0000" stop="20260320134400  +0000" channel="superguidatv:italia-2/sky-intrattenimento/191">
+  <programme start="20260320123000  +0000" stop="20260320125900  +0000" channel="superguidatv:italia-2/sky-intrattenimento/191">
     <title lang="it">Due uomini e 1/2 (St. 6 - Ep. 23)</title>
     <category lang="it">Sit Com</category>
   </programme>
-  <programme start="20260320134400  +0000" stop="20260320141000  +0000" channel="superguidatv:italia-2/sky-intrattenimento/191">
+  <programme start="20260320125900  +0000" stop="20260320133200  +0000" channel="superguidatv:italia-2/sky-intrattenimento/191">
     <title lang="it">Due uomini e 1/2 (St. 6 - Ep. 24)</title>
     <category lang="it">Sit Com</category>
   </programme>
-  <programme start="20260320141000  +0000" stop="20260320143700  +0000" channel="superguidatv:italia-2/sky-intrattenimento/191">
+  <programme start="20260320133200  +0000" stop="20260320135900  +0000" channel="superguidatv:italia-2/sky-intrattenimento/191">
     <title lang="it">What&apos;s my destiny Dragon Ball (St. 1 - Ep. 117)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260320143700  +0000" stop="20260320150400  +0000" channel="superguidatv:italia-2/sky-intrattenimento/191">
+  <programme start="20260320135900  +0000" stop="20260320142800  +0000" channel="superguidatv:italia-2/sky-intrattenimento/191">
     <title lang="it">What&apos;s my destiny Dragon Ball (St. 1 - Ep. 118)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260320150400  +0000" stop="20260320153100  +0000" channel="superguidatv:italia-2/sky-intrattenimento/191">
+  <programme start="20260320142800  +0000" stop="20260320145700  +0000" channel="superguidatv:italia-2/sky-intrattenimento/191">
     <title lang="it">What&apos;s my destiny Dragon Ball (St. 1 - Ep. 119)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260320153100  +0000" stop="20260320155800  +0000" channel="superguidatv:italia-2/sky-intrattenimento/191">
+  <programme start="20260320145700  +0000" stop="20260320152500  +0000" channel="superguidatv:italia-2/sky-intrattenimento/191">
     <title lang="it">Le nuove avventure di Lupin III (St. 2 - Ep. 55)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260320155800  +0000" stop="20260320162500  +0000" channel="superguidatv:italia-2/sky-intrattenimento/191">
+  <programme start="20260320152500  +0000" stop="20260320155400  +0000" channel="superguidatv:italia-2/sky-intrattenimento/191">
     <title lang="it">Le nuove avventure di Lupin III (St. 2 - Ep. 56)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260320162500  +0000" stop="20260320165200  +0000" channel="superguidatv:italia-2/sky-intrattenimento/191">
+  <programme start="20260320155400  +0000" stop="20260320162400  +0000" channel="superguidatv:italia-2/sky-intrattenimento/191">
     <title lang="it">Le nuove avventure di Lupin III (St. 2 - Ep. 57)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260320165200  +0000" stop="20260320171900  +0000" channel="superguidatv:italia-2/sky-intrattenimento/191">
+  <programme start="20260320162400  +0000" stop="20260320165400  +0000" channel="superguidatv:italia-2/sky-intrattenimento/191">
     <title lang="it">One Piece (St. 15 - Ep. 54)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260320171900  +0000" stop="20260320174600  +0000" channel="superguidatv:italia-2/sky-intrattenimento/191">
+  <programme start="20260320165400  +0000" stop="20260320172500  +0000" channel="superguidatv:italia-2/sky-intrattenimento/191">
     <title lang="it">One Piece (St. 15 - Ep. 55)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260320174600  +0000" stop="20260320181300  +0000" channel="superguidatv:italia-2/sky-intrattenimento/191">
+  <programme start="20260320172500  +0000" stop="20260320175600  +0000" channel="superguidatv:italia-2/sky-intrattenimento/191">
     <title lang="it">One Piece (St. 15 - Ep. 56)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260320181300  +0000" stop="20260320184000  +0000" channel="superguidatv:italia-2/sky-intrattenimento/191">
-    <title lang="it">I Goldbergs (St. 10 - Ep. 4)</title>
-    <category lang="it">Serie TV</category>
+  <programme start="20260320175600  +0000" stop="20260320182900  +0000" channel="superguidatv:italia-2/sky-intrattenimento/191">
+    <title lang="it">The Goldbergs (St. 10 - Ep. 4)</title>
+    <category lang="it">Sit Com</category>
   </programme>
-  <programme start="20260320184000  +0000" stop="20260320190700  +0000" channel="superguidatv:italia-2/sky-intrattenimento/191">
-    <title lang="it">I Goldbergs (St. 10 - Ep. 5)</title>
-    <category lang="it">Serie TV</category>
+  <programme start="20260320182900  +0000" stop="20260320185600  +0000" channel="superguidatv:italia-2/sky-intrattenimento/191">
+    <title lang="it">The Goldbergs (St. 10 - Ep. 5)</title>
+    <category lang="it">Sit Com</category>
   </programme>
-  <programme start="20260320190700  +0000" stop="20260320193400  +0000" channel="superguidatv:italia-2/sky-intrattenimento/191">
+  <programme start="20260320185600  +0000" stop="20260320192600  +0000" channel="superguidatv:italia-2/sky-intrattenimento/191">
     <title lang="it">Due uomini e 1/2 (St. 7 - Ep. 1)</title>
     <category lang="it">Sit Com</category>
   </programme>
-  <programme start="20260320193400  +0000" stop="20260320200100  +0000" channel="superguidatv:italia-2/sky-intrattenimento/191">
+  <programme start="20260320192600  +0000" stop="20260320200000  +0000" channel="superguidatv:italia-2/sky-intrattenimento/191">
     <title lang="it">Due uomini e 1/2 (St. 7 - Ep. 2)</title>
     <category lang="it">Sit Com</category>
   </programme>
-  <programme start="20260320200100  +0000" stop="20260320220600  +0000" channel="superguidatv:italia-2/sky-intrattenimento/191">
+  <programme start="20260320200000  +0000" stop="20260320220300  +0000" channel="superguidatv:italia-2/sky-intrattenimento/191">
     <title lang="it">La madre (2013)</title>
     <category lang="it">Film</category>
   </programme>
-  <programme start="20260320220600  +0000" stop="20260320235600  +0000" channel="superguidatv:italia-2/sky-intrattenimento/191">
+  <programme start="20260320220300  +0000" stop="20260321010200  +0000" channel="superguidatv:italia-2/sky-intrattenimento/191">
     <title lang="it">Doctor Sleep (2019)</title>
     <category lang="it">Film</category>
   </programme>
-  <programme start="20260320235600  +0000" stop="20260321002000  +0000" channel="superguidatv:italia-2/sky-intrattenimento/191">
+  <programme start="20260321010200  +0000" stop="20260321012400  +0000" channel="superguidatv:italia-2/sky-intrattenimento/191">
     <title lang="it">What&apos;s my destiny Dragon Ball (St. 1 - Ep. 117)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260321002000  +0000" stop="20260321004400  +0000" channel="superguidatv:italia-2/sky-intrattenimento/191">
+  <programme start="20260321012400  +0000" stop="20260321014500  +0000" channel="superguidatv:italia-2/sky-intrattenimento/191">
     <title lang="it">What&apos;s my destiny Dragon Ball (St. 1 - Ep. 118)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260321004400  +0000" stop="20260321010800  +0000" channel="superguidatv:italia-2/sky-intrattenimento/191">
+  <programme start="20260321014500  +0000" stop="20260321020700  +0000" channel="superguidatv:italia-2/sky-intrattenimento/191">
     <title lang="it">What&apos;s my destiny Dragon Ball (St. 1 - Ep. 119)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260321010800  +0000" stop="20260321013200  +0000" channel="superguidatv:italia-2/sky-intrattenimento/191">
+  <programme start="20260321020700  +0000" stop="20260321023100  +0000" channel="superguidatv:italia-2/sky-intrattenimento/191">
     <title lang="it">One Piece (St. 15 - Ep. 54)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260321013200  +0000" stop="20260321015600  +0000" channel="superguidatv:italia-2/sky-intrattenimento/191">
+  <programme start="20260321023100  +0000" stop="20260321025500  +0000" channel="superguidatv:italia-2/sky-intrattenimento/191">
     <title lang="it">One Piece (St. 15 - Ep. 55)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260321015600  +0000" stop="20260321022000  +0000" channel="superguidatv:italia-2/sky-intrattenimento/191">
+  <programme start="20260321025500  +0000" stop="20260321031800  +0000" channel="superguidatv:italia-2/sky-intrattenimento/191">
     <title lang="it">One Piece (St. 15 - Ep. 56)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260321022000  +0000" stop="20260321024400  +0000" channel="superguidatv:italia-2/sky-intrattenimento/191">
+  <programme start="20260321031800  +0000" stop="20260321034100  +0000" channel="superguidatv:italia-2/sky-intrattenimento/191">
     <title lang="it">Le nuove avventure di Lupin III (St. 2 - Ep. 55)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260321024400  +0000" stop="20260321030800  +0000" channel="superguidatv:italia-2/sky-intrattenimento/191">
+  <programme start="20260321034100  +0000" stop="20260321040300  +0000" channel="superguidatv:italia-2/sky-intrattenimento/191">
     <title lang="it">Le nuove avventure di Lupin III (St. 2 - Ep. 56)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260321030800  +0000" stop="20260321033200  +0000" channel="superguidatv:italia-2/sky-intrattenimento/191">
+  <programme start="20260321040300  +0000" stop="20260321042500  +0000" channel="superguidatv:italia-2/sky-intrattenimento/191">
     <title lang="it">Le nuove avventure di Lupin III (St. 2 - Ep. 57)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260321033200  +0000" stop="20260321035600  +0000" channel="superguidatv:italia-2/sky-intrattenimento/191">
-    <title lang="it">Camera Cafe&apos; (St. 5 - Ep. 3)</title>
+  <programme start="20260321042500  +0000" stop="20260321045000  +0000" channel="superguidatv:italia-2/sky-intrattenimento/191">
+    <title lang="it">Camera Cafe&apos; (St. 1 - Ep. 45)</title>
     <category lang="it">Sit Com</category>
   </programme>
-  <programme start="20260321035600  +0000" stop="20260321042000  +0000" channel="superguidatv:italia-2/sky-intrattenimento/191">
-    <title lang="it">Camera Cafe&apos; (St. 5 - Ep. 4)</title>
-    <category lang="it">Sit Com</category>
-  </programme>
-  <programme start="20260321042000  +0000" stop="20260321044400  +0000" channel="superguidatv:italia-2/sky-intrattenimento/191">
-    <title lang="it">Camera Cafe&apos; (St. 5 - Ep. 5)</title>
-    <category lang="it">Sit Com</category>
-  </programme>
-  <programme start="20260321044400  +0000" stop="20260321044400  +0000" channel="superguidatv:italia-2/sky-intrattenimento/191">
+  <programme start="20260321045000  +0000" stop="20260321045000  +0000" channel="superguidatv:italia-2/sky-intrattenimento/191">
     <title lang="it">E&apos; un po&apos; magia per Terry e Maggie (St. 1 - Ep. 25)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260321044400  +0000" stop="20260321050800  +0000" channel="superguidatv:italia-2/sky-intrattenimento/191">
+  <programme start="20260321045000  +0000" stop="20260321051200  +0000" channel="superguidatv:italia-2/sky-intrattenimento/191">
     <title lang="it">E&apos; un po&apos; magia per Terry e Maggie (St. 1 - Ep. 25)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260321050800  +0000" stop="20260321053200  +0000" channel="superguidatv:italia-2/sky-intrattenimento/191">
+  <programme start="20260321051200  +0000" stop="20260321053400  +0000" channel="superguidatv:italia-2/sky-intrattenimento/191">
     <title lang="it">E&apos; un po&apos; magia per Terry e Maggie (St. 1 - Ep. 26)</title>
     <category lang="it">Ragazzi</category>
   </programme>
-  <programme start="20260321053200  +0000" stop="20260321060000  +0000" channel="superguidatv:italia-2/sky-intrattenimento/191">
+  <programme start="20260321053400  +0000" stop="20260321060000  +0000" channel="superguidatv:italia-2/sky-intrattenimento/191">
     <title lang="it">E&apos; un po&apos; magia per Terry e Maggie (St. 1 - Ep. 27)</title>
     <category lang="it">Ragazzi</category>
   </programme>
@@ -34248,8 +34260,8 @@
     <category lang="it">Serie TV</category>
   </programme>
   <programme start="20260319084500  +0000" stop="20260319093500  +0000" channel="RSILa1.ch">
-    <title lang="it">Guide di viaggio Putiphar - Venezia</title>
-    <category lang="it">Documentario</category>
+    <title lang="it">Guide di viaggio Putiphar - I viaggi di Putiphar - Venezia</title>
+    <category lang="it">Altro</category>
   </programme>
   <programme start="20260319093500  +0000" stop="20260319102500  +0000" channel="RSILa1.ch">
     <title lang="it">Grandi progetti (St. 12 - Ep. 2)</title>
@@ -35571,35 +35583,35 @@
     <title lang="it">Il bacio che aspettavo (2007)</title>
     <category lang="it">Film</category>
   </programme>
-  <programme start="20260321000700  +0000" stop="20260321004100  +0000" channel="superguidatv:la-5/sky-intrattenimento/190">
+  <programme start="20260321000700  +0000" stop="20260321004500  +0000" channel="superguidatv:la-5/sky-intrattenimento/190">
     <title lang="it">X- Style</title>
     <category lang="it">LifeStyle</category>
   </programme>
-  <programme start="20260321004100  +0000" stop="20260321013900  +0000" channel="superguidatv:la-5/sky-intrattenimento/190">
+  <programme start="20260321004500  +0000" stop="20260321013800  +0000" channel="superguidatv:la-5/sky-intrattenimento/190">
     <title lang="it">Grande Fratello Vip Live</title>
     <category lang="it">Reality</category>
   </programme>
-  <programme start="20260321013900  +0000" stop="20260321015900  +0000" channel="superguidatv:la-5/sky-intrattenimento/190">
+  <programme start="20260321013800  +0000" stop="20260321015800  +0000" channel="superguidatv:la-5/sky-intrattenimento/190">
     <title lang="it">Grande fratello vip daily - la5</title>
     <category lang="it">Reality</category>
   </programme>
-  <programme start="20260321015900  +0000" stop="20260321024100  +0000" channel="superguidatv:la-5/sky-intrattenimento/190">
+  <programme start="20260321015800  +0000" stop="20260321023900  +0000" channel="superguidatv:la-5/sky-intrattenimento/190">
     <title lang="it">Daydreamer - Le ali del sogno (St. 1 - Ep. 64)</title>
     <category lang="it">Soap Opera</category>
   </programme>
-  <programme start="20260321024100  +0000" stop="20260321032500  +0000" channel="superguidatv:la-5/sky-intrattenimento/190">
+  <programme start="20260321023900  +0000" stop="20260321032300  +0000" channel="superguidatv:la-5/sky-intrattenimento/190">
     <title lang="it">Daydreamer - Le ali del sogno (St. 1 - Ep. 65)</title>
     <category lang="it">Soap Opera</category>
   </programme>
-  <programme start="20260321032500  +0000" stop="20260321040900  +0000" channel="superguidatv:la-5/sky-intrattenimento/190">
+  <programme start="20260321032300  +0000" stop="20260321041000  +0000" channel="superguidatv:la-5/sky-intrattenimento/190">
     <title lang="it">Daydreamer - Le ali del sogno (St. 1 - Ep. 66)</title>
     <category lang="it">Soap Opera</category>
   </programme>
-  <programme start="20260321040900  +0000" stop="20260321040900  +0000" channel="superguidatv:la-5/sky-intrattenimento/190">
+  <programme start="20260321041000  +0000" stop="20260321041000  +0000" channel="superguidatv:la-5/sky-intrattenimento/190">
     <title lang="it">Tempesta d&apos;amore (St. 18 - Ep. 9)</title>
     <category lang="it">Soap Opera</category>
   </programme>
-  <programme start="20260321040900  +0000" stop="20260321050000  +0000" channel="superguidatv:la-5/sky-intrattenimento/190">
+  <programme start="20260321041000  +0000" stop="20260321050000  +0000" channel="superguidatv:la-5/sky-intrattenimento/190">
     <title lang="it">Tempesta d&apos;amore (St. 18 - Ep. 9)</title>
     <category lang="it">Soap Opera</category>
   </programme>
@@ -35607,11 +35619,11 @@
     <title lang="it">Tempesta d&apos;amore (St. 18 - Ep. 10)</title>
     <category lang="it">Soap Opera</category>
   </programme>
-  <programme start="20260321050000  +0000" stop="20260321055500  +0000" channel="superguidatv:la-5/sky-intrattenimento/190">
+  <programme start="20260321050000  +0000" stop="20260321055400  +0000" channel="superguidatv:la-5/sky-intrattenimento/190">
     <title lang="it">Tempesta d&apos;amore (St. 18 - Ep. 10)</title>
     <category lang="it">Soap Opera</category>
   </programme>
-  <programme start="20260321055500  +0000" stop="20260321062400  +0000" channel="superguidatv:la-5/sky-intrattenimento/190">
+  <programme start="20260321055400  +0000" stop="20260321062400  +0000" channel="superguidatv:la-5/sky-intrattenimento/190">
     <title lang="it">Vivere (St. 3 - Ep. 61)</title>
     <category lang="it">Soap Opera</category>
   </programme>
@@ -35663,19 +35675,19 @@
     <title lang="it">Forbidden Fruit (St. 3 - Ep. 21)</title>
     <category lang="it">Soap Opera</category>
   </programme>
-  <programme start="20260321201000  +0000" stop="20260321215800  +0000" channel="superguidatv:la-5/sky-intrattenimento/190">
+  <programme start="20260321201000  +0000" stop="20260321215900  +0000" channel="superguidatv:la-5/sky-intrattenimento/190">
     <title lang="it">Inga Lindstrom - Segreti inconfessabili (2022)</title>
     <category lang="it">Film</category>
   </programme>
-  <programme start="20260321215800  +0000" stop="20260322004900  +0000" channel="superguidatv:la-5/sky-intrattenimento/190">
+  <programme start="20260321215900  +0000" stop="20260322005000  +0000" channel="superguidatv:la-5/sky-intrattenimento/190">
     <title lang="it">Grande Fratello Vip</title>
     <category lang="it">Reality</category>
   </programme>
-  <programme start="20260322004900  +0000" stop="20260322014100  +0000" channel="superguidatv:la-5/sky-intrattenimento/190">
+  <programme start="20260322005000  +0000" stop="20260322014200  +0000" channel="superguidatv:la-5/sky-intrattenimento/190">
     <title lang="it">Grande Fratello Vip Live</title>
     <category lang="it">Reality</category>
   </programme>
-  <programme start="20260322014100  +0000" stop="20260322020600  +0000" channel="superguidatv:la-5/sky-intrattenimento/190">
+  <programme start="20260322014200  +0000" stop="20260322020600  +0000" channel="superguidatv:la-5/sky-intrattenimento/190">
     <title lang="it">Centovetrine (St. 1 - Ep. 127)</title>
     <category lang="it">Soap Opera</category>
   </programme>
@@ -35683,23 +35695,23 @@
     <title lang="it">Centovetrine (St. 1 - Ep. 128)</title>
     <category lang="it">Soap Opera</category>
   </programme>
-  <programme start="20260322023200  +0000" stop="20260322025500  +0000" channel="superguidatv:la-5/sky-intrattenimento/190">
+  <programme start="20260322023200  +0000" stop="20260322025600  +0000" channel="superguidatv:la-5/sky-intrattenimento/190">
     <title lang="it">Centovetrine (St. 1 - Ep. 129)</title>
     <category lang="it">Soap Opera</category>
   </programme>
-  <programme start="20260322025500  +0000" stop="20260322032000  +0000" channel="superguidatv:la-5/sky-intrattenimento/190">
+  <programme start="20260322025600  +0000" stop="20260322032100  +0000" channel="superguidatv:la-5/sky-intrattenimento/190">
     <title lang="it">Centovetrine (St. 1 - Ep. 130)</title>
     <category lang="it">Soap Opera</category>
   </programme>
-  <programme start="20260322032000  +0000" stop="20260322034300  +0000" channel="superguidatv:la-5/sky-intrattenimento/190">
+  <programme start="20260322032100  +0000" stop="20260322034400  +0000" channel="superguidatv:la-5/sky-intrattenimento/190">
     <title lang="it">Centovetrine (St. 1 - Ep. 131)</title>
     <category lang="it">Soap Opera</category>
   </programme>
-  <programme start="20260322034300  +0000" stop="20260322041000  +0000" channel="superguidatv:la-5/sky-intrattenimento/190">
+  <programme start="20260322034400  +0000" stop="20260322041100  +0000" channel="superguidatv:la-5/sky-intrattenimento/190">
     <title lang="it">Centovetrine (St. 1 - Ep. 132)</title>
     <category lang="it">Soap Opera</category>
   </programme>
-  <programme start="20260322041000  +0000" stop="20260322044000  +0000" channel="superguidatv:la-5/sky-intrattenimento/190">
+  <programme start="20260322041100  +0000" stop="20260322044100  +0000" channel="superguidatv:la-5/sky-intrattenimento/190">
     <title lang="it">Tempesta d&apos;amore (St. 18 - Ep. 10)</title>
     <category lang="it">Soap Opera</category>
   </programme>
@@ -45924,7 +45936,7 @@
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260319050000  +0000" stop="20260319060000  +0000" channel="RaiSport.it@HD">
-    <title lang="it">Memory - Rai Sport</title>
+    <title lang="it">Memory Rai Sport</title>
     <category lang="it">Sport</category>
   </programme>
   <programme start="20260319060000  +0000" stop="20260319063000  +0000" channel="RaiSport.it@HD">
@@ -47796,7 +47808,7 @@
     <category lang="it">Ragazzi</category>
   </programme>
   <programme start="20260321000000  +0000" stop="20260321001000  +0000" channel="RaiYoyo.it">
-    <title lang="it">PJ Masks (Ep. 4)</title>
+    <title lang="it">PJ Masks (St. 1 - Ep. 4)</title>
     <category lang="it">Ragazzi</category>
   </programme>
   <programme start="20260321001000  +0000" stop="20260321002500  +0000" channel="RaiYoyo.it">
@@ -47804,7 +47816,7 @@
     <category lang="it">Ragazzi</category>
   </programme>
   <programme start="20260321002500  +0000" stop="20260321003500  +0000" channel="RaiYoyo.it">
-    <title lang="it">PJ Masks (Ep. 6)</title>
+    <title lang="it">PJ Masks (St. 1 - Ep. 6)</title>
     <category lang="it">Ragazzi</category>
   </programme>
   <programme start="20260321003500  +0000" stop="20260321004500  +0000" channel="RaiYoyo.it">
@@ -47868,7 +47880,7 @@
     <category lang="it">Ragazzi</category>
   </programme>
   <programme start="20260321025000  +0000" stop="20260321030500  +0000" channel="RaiYoyo.it">
-    <title lang="it">PJ Masks (Ep. 4)</title>
+    <title lang="it">PJ Masks (St. 1 - Ep. 4)</title>
     <category lang="it">Ragazzi</category>
   </programme>
   <programme start="20260321030500  +0000" stop="20260321031500  +0000" channel="RaiYoyo.it">
@@ -47876,7 +47888,7 @@
     <category lang="it">Ragazzi</category>
   </programme>
   <programme start="20260321031500  +0000" stop="20260321033000  +0000" channel="RaiYoyo.it">
-    <title lang="it">PJ Masks (Ep. 6)</title>
+    <title lang="it">PJ Masks (St. 1 - Ep. 6)</title>
     <category lang="it">Ragazzi</category>
   </programme>
   <programme start="20260321033000  +0000" stop="20260321034000  +0000" channel="RaiYoyo.it">
@@ -58107,11 +58119,11 @@
     <title lang="it">Icarus Ultra (St. 2025 - Ep. 24)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260319135500  +0000" stop="20260319155000  +0000" channel="SkySportFootball.it">
+  <programme start="20260319135500  +0000" stop="20260319160000  +0000" channel="SkySportFootball.it">
     <title lang="it">CEV Champions League Femminile (St. 2025 - Ep. 51)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260319155000  +0000" stop="20260319161000  +0000" channel="SkySportFootball.it">
+  <programme start="20260319160000  +0000" stop="20260319161000  +0000" channel="SkySportFootball.it">
     <title lang="it">Rugby Six Nations Highlights (St. 2026 - Ep. 5)</title>
     <category lang="it">Sport</category>
   </programme>
@@ -63979,19 +63991,19 @@
     <title lang="it">WTA 1000 Miami 2026 - Ep. 10 - Katie Boulter vs Jessica Bouzas Maneiro WTA 1000 Miami # 1 (Ep. 10)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260319084000  +0000" stop="20260319085500  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
+  <programme start="20260319084000  +0000" stop="20260319101000  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
     <title lang="it">Race to Foro 2026 - Ep. 3 - Race to Foro Puntata 3 del 18 marzo 2026 (Ep. 3)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260319085500  +0000" stop="20260319102500  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
-    <title lang="it">WTA 1000 Miami 2026 - Ep. 11 - Zeynep Sonmez vs Beatriz Haddad Maia WTA 1000 Miami # 1 (Ep. 11)</title>
-    <category lang="it">Sport</category>
+  <programme start="20260319101000  +0000" stop="20260319102000  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
+    <title lang="it">WTA 1000 Miami 2026 (Ep. 11)</title>
+    <category lang="it">Altro</category>
   </programme>
-  <programme start="20260319102500  +0000" stop="20260319104000  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
+  <programme start="20260319102000  +0000" stop="20260319103500  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
     <title lang="it">Tie Movie 2026 - Ep. 5 - Tie Movie - Untold Fish vs Federer (Ep. 5)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260319104000  +0000" stop="20260319123000  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
+  <programme start="20260319103500  +0000" stop="20260319123000  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
     <title lang="it">WTA 1000 Miami 2026 - Ep. 12 - Sofia Kenin vs Anna Blinkova WTA 1000 Miami # 1 (Ep. 12)</title>
     <category lang="it">Sport</category>
   </programme>
@@ -63999,35 +64011,39 @@
     <title lang="it">Stag. 2023 - Supertennis TG</title>
     <category lang="it">Notizie</category>
   </programme>
-  <programme start="20260319124500  +0000" stop="20260319150500  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
-    <title lang="it">US Open 2025 - Singolare maschile - Ep. 53 - Jannik Sinner vs Denis Shapovalov US OPEN 2025 # 7 (Ep. 53)</title>
+  <programme start="20260319124500  +0000" stop="20260319140500  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
+    <title lang="it">US Open 2025 - Singolare maschile - Ep. 53 - Jannik Sinner vs Denis Shapovalov US OPEN 2025 # 13 (Ep. 53)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260319150500  +0000" stop="20260319165000  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
+  <programme start="20260319140500  +0000" stop="20260319155500  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
     <title lang="it">LIVE WTA 1000 Miami</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260319165000  +0000" stop="20260319170000  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
+  <programme start="20260319155500  +0000" stop="20260319160000  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
     <title lang="it">Stag. 2023 - Supertennis TG</title>
     <category lang="it">Notizie</category>
   </programme>
-  <programme start="20260319170000  +0000" stop="20260319185000  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
+  <programme start="20260319160000  +0000" stop="20260319175000  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
     <title lang="it">LIVE WTA 1000 Miami</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260319185000  +0000" stop="20260319190500  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
+  <programme start="20260319175000  +0000" stop="20260319180500  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
     <title lang="it">Race to Foro 2026 - Ep. 3 - Race to Foro Puntata 3 del 18 marzo 2026 (Ep. 3)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260319190500  +0000" stop="20260319205500  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
+  <programme start="20260319180500  +0000" stop="20260319195500  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
     <title lang="it">LIVE WTA 1000 Miami</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260319205500  +0000" stop="20260319210000  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
+  <programme start="20260319195500  +0000" stop="20260319200500  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
     <title lang="it">TennisTrophy FITP Kinder Joy of Moving - Ep. 1 - TennisTrophy FITP Kinder Joy of Moving - Catania (Ep. 1)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260319210000  +0000" stop="20260319230000  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
+  <programme start="20260319200500  +0000" stop="20260319215500  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
+    <title lang="it">LIVE WTA 1000 Miami</title>
+    <category lang="it">Sport</category>
+  </programme>
+  <programme start="20260319215500  +0000" stop="20260319230000  +0000" channel="superguidatv:supertennis-hd/sky-sport/53">
     <title lang="it">LIVE WTA 1000 Miami</title>
     <category lang="it">Sport</category>
   </programme>
@@ -64191,15 +64207,19 @@
     <title lang="it">News</title>
     <category lang="it">Notizie</category>
   </programme>
-  <programme start="20260319043500  +0000" stop="20260319063500  +0000" channel="SuperTennis.it">
-    <title lang="it">ATP 500 Halle 2025 - Ep. 4 - Jannik Sinner vs Alexander Bublik Atp 500 Halle 2025 # 1 (Ep. 4)</title>
+  <programme start="20260319043000  +0000" stop="20260319060000  +0000" channel="SuperTennis.it">
+    <title lang="it">TennisTrophy FITP Kinder Joy of Moving - Ep. 1 - TennisTrophy FITP Kinder Joy of Moving - Catania (Ep. 1)</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260319063500  +0000" stop="20260319065000  +0000" channel="SuperTennis.it">
+  <programme start="20260319060000  +0000" stop="20260319063000  +0000" channel="SuperTennis.it">
+    <title lang="it">ATP 500 Halle 2025</title>
+    <category lang="it">Sport</category>
+  </programme>
+  <programme start="20260319063000  +0000" stop="20260319064500  +0000" channel="SuperTennis.it">
     <title lang="it">Cronache Italiane 2026 - Ep. 6 - Cronache Italiane del 17 marzo 2026</title>
     <category lang="it">Sport</category>
   </programme>
-  <programme start="20260319065000  +0000" stop="20260319084000  +0000" channel="SuperTennis.it">
+  <programme start="20260319064500  +0000" stop="20260319084000  +0000" channel="SuperTennis.it">
     <title lang="it">WTA 1000 Miami 2026 - Ep. 10 - Katie Boulter vs Jessica Bouzas Maneiro WTA 1000 Miami # 1 (Ep. 10)</title>
     <category lang="it">Sport</category>
   </programme>
