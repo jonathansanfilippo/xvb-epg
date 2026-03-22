@@ -9,7 +9,7 @@ const site = require('../sites/superguidatv.it')
 
 // ---- config ----
 const CHANNELS_XML_PATH = path.join(__dirname, '..', 'channels', 'superguidatv.channels.xml')
-const GENERATOR_NAME = 'xvb-epg'
+const GENERATOR_NAME = 'xvb-epg-it'
 
 // ---- utils ----
 function xmlEscape(s) {
