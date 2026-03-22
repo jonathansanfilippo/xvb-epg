@@ -1,9 +1,9 @@
-name: Generate EPG (daily)
+name: EPG IT
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 */3 * * *"  
+    - cron: "0 6 * * *"  
 
 permissions:
   contents: write
@@ -27,10 +27,10 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Generate docs/epg.xml
+      - name: Generate docs/epg-it.xml
         run: |
           mkdir -p docs
-          node ./scripts/build-epg.js > docs/epg.xml
+          node ./scripts/build-epg.js > docs/epg-it.xml
 
       - name: Create log file
         run: |
