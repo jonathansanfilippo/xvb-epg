@@ -2,11 +2,13 @@ name: Aggiorna EPG UK
 
 on:
   schedule:
-    # Esegue lo script ogni giorno alle 06:00 UTC. 
-    # Puoi cambiare l'orario modificando il cron.
     - cron: '0 6 * * *'
   workflow_dispatch: 
-    # Questo ti permette di avviare lo script anche manualmente con un pulsante
+
+# --- AGGIUNGI QUESTO BLOCCO ---
+permissions:
+  contents: write
+# ------------------------------
 
 jobs:
   update-epg:
@@ -25,7 +27,6 @@ jobs:
           curl -sL https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz -o epg_ripper_UK1.xml.gz
           
           echo "Decompressione in corso..."
-          # Estrae il file compresso e lo salva come epg-uk.xml nella cartella docs
           gunzip -c epg_ripper_UK1.xml.gz > docs/epg-uk.xml
           
           echo "Pulizia file temporanei..."
@@ -37,7 +38,6 @@ jobs:
           git config --local user.name "github-actions[bot]"
           git add docs/epg-uk.xml
           
-          # Controlla se il file è cambiato rispetto al giorno prima
           if ! git diff --staged --quiet; then
             git commit -m "Aggiornata guida EPG UK"
             git push
