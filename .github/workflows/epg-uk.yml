@@ -1,4 +1,4 @@
-name: Aggiorna EPG UK
+name: EPG UK
 
 on:
   schedule:
