@@ -1,1 +1,47 @@
+name: Aggiorna EPG UK
 
+on:
+  schedule:
+    # Esegue lo script ogni giorno alle 06:00 UTC. 
+    # Puoi cambiare l'orario modificando il cron.
+    - cron: '0 6 * * *'
+  workflow_dispatch: 
+    # Questo ti permette di avviare lo script anche manualmente con un pulsante
+
+jobs:
+  update-epg:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout del repository
+        uses: actions/checkout@v4
+
+      - name: Crea la cartella docs se non esiste
+        run: mkdir -p docs
+
+      - name: Scarica ed estrai la guida EPG
+        run: |
+          echo "Scaricamento del file EPG compresso..."
+          curl -sL https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz -o epg_ripper_UK1.xml.gz
+          
+          echo "Decompressione in corso..."
+          # Estrae il file compresso e lo salva come epg-uk.xml nella cartella docs
+          gunzip -c epg_ripper_UK1.xml.gz > docs/epg-uk.xml
+          
+          echo "Pulizia file temporanei..."
+          rm epg_ripper_UK1.xml.gz
+
+      - name: Salva e carica (Commit & Push)
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add docs/epg-uk.xml
+          
+          # Controlla se il file è cambiato rispetto al giorno prima
+          if ! git diff --staged --quiet; then
+            git commit -m "Aggiornata guida EPG UK"
+            git push
+            echo "Nuovo EPG caricato con successo!"
+          else
+            echo "Nessuna novità nell'EPG, nessun commit necessario."
+          fi
